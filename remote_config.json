@@ -1,4 +1,4 @@
-{
+²{
   "min_supported_version": 0,
   "force_update": false,
   "update_url": "",
@@ -18,7 +18,7 @@
   "music_tab_enabled": true,
   "downloads_tab_enabled": true,
   "shorts_enabled": true,
-  "search_enabled": true,
+  "search_enabled": false,
   "comments_enabled": true,
   "debug_menu_enabled": true,
 
