@@ -9,7 +9,7 @@
 
   "downloads_enabled": true,
   "subtitles_enabled": true,
-  "background_playback_enabled": true,
+  "background_playback_enabled": false,
   "pip_enabled": true,
   "cast_enabled": true,
   "disabled_qualities": [],
