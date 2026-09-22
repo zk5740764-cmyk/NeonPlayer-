@@ -26,9 +26,10 @@
 
   "home_feed_sync_enabled": true,
   "home_feed_sync_interval_hours": 2,
+  "home_feed_notifications_enabled": true,
 
   "new_upload_notifications_enabled": true,
-  "new_upload_check_interval_hours": 1,
+  "new_upload_check_interval_minutes": 60,
 
   "trending_playlists_enabled": true,
   "language_playlists_enabled": true,
