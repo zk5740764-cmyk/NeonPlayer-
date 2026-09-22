@@ -7,7 +7,7 @@
   "maintenance_message": "",
   "banner_message": "",
 
-  "downloads_enabled": false,
+  "downloads_enabled": true,
   "subtitles_enabled": true,
   "background_playback_enabled": false,
   "pip_enabled": true,
@@ -26,10 +26,23 @@
 
   "home_feed_sync_enabled": true,
   "home_feed_sync_interval_hours": 2,
-  "home_feed_notifications_enabled": true,
 
   "new_upload_notifications_enabled": true,
-  "new_upload_check_interval_minutes": 60,
+  "new_upload_check_interval_hours": 1,
+
+  "home_categories": [
+    "Home",
+    "Recently uploaded",
+    "Indian pop music",
+    "Haryanvi",
+    "Punjabi",
+    "Storytelling",
+    "Music",
+    "kashmir",
+    "News",
+    "Sports",
+    "Fashion"
+  ],
 
   "trending_playlists_enabled": true,
   "language_playlists_enabled": true,
