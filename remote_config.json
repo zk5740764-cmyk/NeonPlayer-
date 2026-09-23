@@ -71,7 +71,6 @@
   "write_timeout_sec": 25,
   "stall_watchdog_timeout_ms": 15000,
   "loadable_retry_count": 6,
-  "user_agent_webview": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-  "user_agent_exoplayer": "com.google.android.apps.youtube.vr.oculus/1.60.19 (Linux; U; Android 12; en_US; Quest 3) gzip",
+  "user_agent_playback": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
   "user_agent_download": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0"
 }
