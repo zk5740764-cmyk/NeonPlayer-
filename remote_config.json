@@ -5,7 +5,7 @@
   "telegram_update_url": "",
   "maintenance_mode": false,
   "maintenance_message": "",
-  "banner_message": "",
+  "banner_message": "🌟 Every moment has a story",
 
   "downloads_enabled": true,
   "subtitles_enabled": true,
@@ -22,7 +22,7 @@
   "comments_enabled": true,
   "debug_menu_enabled": true,
 
-  "iframe_fallback_enabled": true,
+  "iframe_fallback_enabled": false,
 
   "home_feed_sync_enabled": true,
   "home_feed_sync_interval_hours": 2,
@@ -31,19 +31,28 @@
   "new_upload_check_interval_hours": 1,
 
   "home_categories": [
-    "Home",
-    "Web series review",
-    "Drama movie",
-    "Recently uploaded",
-    "Indian pop music",
-    "Haryanvi",
-    "Punjabi",
-    "Vocal House",
-    "Music",
-    "India today News",
-    "Sports",
-    "Fashion"
-  ],
+
+  "Home",
+  "Latest Videos",
+  "Recently Uploaded",
+  "New Music",
+  "New Movies",
+  "Web Series",
+  "Entertainment",
+  "Comedy",
+  "Bollywood",
+  "Punjabi",
+  "Haryanvi",
+  "Gaming",
+  "Sports",
+  "News",
+  "Technology",
+  "Fashion",
+  "Live",
+  "Travel",
+  "Documentary",
+  "Education"
+  ]
 
   "trending_playlists_enabled": true,
   "language_playlists_enabled": true,
@@ -52,18 +61,17 @@
   "hot_videos_gojri_every_n": 6,
 
   "thumbnail_preload_enabled": true,
-  "thumbnail_preload_count": 20,
-
-  "chunk_size_kb": 128,
-  "buffer_min_ms": 30000,
-  "buffer_max_ms": 60000,
-  "buffer_for_playback_ms": 2500,
-  "buffer_for_playback_after_rebuffer_ms": 2500,
-  "connect_timeout_sec": 25,
-  "read_timeout_sec": 30,
-  "write_timeout_sec": 25,
-  "stall_watchdog_timeout_ms": 15000,
-  "loadable_retry_count": 6,
+"thumbnail_preload_count": 15,
+"chunk_size_kb": 512,
+"buffer_min_ms": 30000,
+"buffer_max_ms": 300000,
+"buffer_for_playback_ms": 2500,
+"buffer_for_playback_after_rebuffer_ms": 2500,
+"connect_timeout_sec": 25,
+"read_timeout_sec": 30,
+"write_timeout_sec": 25,
+"stall_watchdog_timeout_ms": 15000,
+"loadable_retry_count": 6,
   "user_agent_playback": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
   "user_agent_download": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0"
 }
