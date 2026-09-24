@@ -27,7 +27,7 @@
   "home_feed_sync_enabled": true,
   "home_feed_sync_interval_hours": 2,
 
-  "new_upload_notifications_enabled": true,
+  "new_upload_notifications_enabled": false,
   "new_upload_check_interval_hours": 1,
 
   "home_categories": [
