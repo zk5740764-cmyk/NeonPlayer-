@@ -1,7 +1,7 @@
 {
-  "min_supported_version": 0,
+  "min_supported_version": 1.12,
   "force_update": false,
-  "update_url": "",
+  "update_url": "https://t.me/StreamXAp",
   "telegram_update_url": "",
   "maintenance_mode": false,
   "maintenance_message": "",
@@ -32,14 +32,11 @@
 
   "home_categories": [
     "Home",
-    "Latest Videos",
     "Recently Uploaded",
     "New Music",
     "New Movies",
-    "Web Series",
     "Entertainment",
-    "Comedy",
-    "Bollywood",
+    "Shreya Ghoshal",
     "Punjabi",
     "Haryanvi",
     "Gaming",
