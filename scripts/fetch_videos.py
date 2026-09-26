@@ -1,121 +1,172 @@
-// Add these pieces into StreamX. Package names assumed — adjust to match
-// your actual module structure (data/remote, data/local, data/repository).
+#!/usr/bin/env python3
+"""
+fetch_videos.py
+Scrapes YouTube via yt-dlp and writes TWO separate JSON files at repo root:
+  - videos.json  -> Home + all song/language categories
+  - movies.json  -> movie categories only
+Both are flat arrays, each item carrying its own "category" field (matches
+RemoteFeedRepository.kt / RemoteMoviesRepository.kt on the Kotlin side).
+"""
 
-// ─────────────────────────────────────────────────────────────
-// 1. Retrofit API
-// ─────────────────────────────────────────────────────────────
-package com.streamx.data.remote
+import json
+import subprocess
+import sys
 
-import retrofit2.http.GET
+# ---- CONFIG -----------------------------------------------------------
+# Bumped counts significantly for real volume per category — each ytsearchN
+# query costs more CI time but the Action just runs on a schedule, not on
+# any user-facing critical path.
 
-data class RemoteVideoDto(
-    val id: String,
-    val title: String,
-    val channel: String,
-    val thumbnail: String,
-    val duration: Int,
-    val category: String
-)
-
-interface JsDelivrApi {
-    // Pin to a tag/commit in production instead of @main so an app in the
-    // wild never gets a schema change mid-flight without an update.
-    @GET("gh/USERNAME/REPO@main/videos.json")
-    suspend fun getVideos(): List<RemoteVideoDto>
+SONG_CATEGORIES = {
+    "home": [
+        "ytsearch40:entertainment videos 2026",
+        "ytsearch30:lifestyle vlog",
+        "ytsearch30:travel vlog",
+        "ytsearch30:tech review 2026",
+        "ytsearch30:cooking recipe",
+        "ytsearch20:motivational video",
+        "ytsearch20:documentary",
+        "ytsearch20:podcast interview",
+    ],
+    "bollywood": [
+        "ytsearch50:new bollywood songs 2026",
+        "ytsearch50:bollywood romantic songs",
+        "ytsearch40:bollywood item songs",
+        "ytsearch40:bollywood sad songs",
+        "ytsearch30:bollywood old songs",
+        "ytsearch30:bollywood party songs",
+    ],
+    "punjabi": [
+        "ytsearch50:new punjabi songs 2026",
+        "ytsearch40:punjabi bhangra songs",
+        "ytsearch30:punjabi sad songs",
+        "ytsearch30:punjabi romantic songs",
+    ],
+    "kashmiri_gojri": [
+        "ytsearch30:new kashmiri songs",
+        "ytsearch30:gojri songs",
+        "ytsearch20:kashmiri old songs",
+    ],
+    "urdu_hindi": [
+        "ytsearch30:hindi sad songs",
+        "ytsearch30:urdu ghazal songs",
+        "ytsearch20:hindi romantic songs",
+        "ytsearch20:urdu sad poetry songs",
+    ],
+    "english": [
+        "ytsearch40:new english songs 2026",
+        "ytsearch30:english pop hits",
+        "ytsearch20:english romantic songs",
+    ],
+    "lofi_chill": [
+        "ytsearch30:lofi songs mix",
+        "ytsearch20:chill relaxing music",
+    ],
 }
 
-// ─────────────────────────────────────────────────────────────
-// 2. Room entity + DAO
-// ─────────────────────────────────────────────────────────────
-package com.streamx.data.local
-
-import androidx.room.Dao
-import androidx.room.Entity
-import androidx.room.PrimaryKey
-import androidx.room.Query
-import androidx.room.Insert
-import androidx.room.OnConflictStrategy
-
-@Entity(tableName = "remote_videos")
-data class RemoteVideoEntity(
-    @PrimaryKey val id: String,
-    val title: String,
-    val channel: String,
-    val thumbnail: String,
-    val duration: Int,
-    val category: String,
-    val fetchedAt: Long
-)
-
-@Dao
-interface RemoteVideoDao {
-    @Query("SELECT * FROM remote_videos WHERE category = :category ORDER BY fetchedAt DESC")
-    suspend fun getByCategory(category: String): List<RemoteVideoEntity>
-
-    @Query("SELECT * FROM remote_videos")
-    suspend fun getAll(): List<RemoteVideoEntity>
-
-    @Insert(onConflict = OnConflictStrategy.REPLACE)
-    suspend fun insertAll(videos: List<RemoteVideoEntity>)
-
-    @Query("DELETE FROM remote_videos")
-    suspend fun clearAll()
-
-    @Query("SELECT MAX(fetchedAt) FROM remote_videos")
-    suspend fun lastFetchedAt(): Long?
+MOVIE_CATEGORIES = {
+    "bollywood_movies": [
+        "ytsearch30:bollywood full movie 2026",
+        "ytsearch30:bollywood movie trailer 2026",
+        "ytsearch20:bollywood full movie hindi",
+    ],
+    "hollywood_movies": [
+        "ytsearch30:hollywood movie trailer 2026",
+        "ytsearch20:hollywood full movie english",
+        "ytsearch20:hollywood movie hindi dubbed",
+    ],
+    "south_indian_movies": [
+        "ytsearch30:south indian movie hindi dubbed",
+        "ytsearch20:south indian movie trailer",
+    ],
+    "punjabi_movies": [
+        "ytsearch20:punjabi full movie",
+        "ytsearch15:punjabi movie trailer",
+    ],
 }
-// Register RemoteVideoEntity + RemoteVideoDao in your existing AppDatabase
-// (bump the Room version number and add a Migration, or fallbackToDestructiveMigration
-// if you don't care about losing this cache table specifically).
 
-// ─────────────────────────────────────────────────────────────
-// 3. Repository — fetch-or-cache with a staleness window
-// ─────────────────────────────────────────────────────────────
-package com.streamx.data.repository
+YTDLP_BASE_ARGS = [
+    "yt-dlp",
+    "--flat-playlist",
+    "--dump-json",
+    "--no-warnings",
+    "--ignore-errors",
+]
 
-import com.streamx.data.local.RemoteVideoDao
-import com.streamx.data.local.RemoteVideoEntity
-import com.streamx.data.remote.JsDelivrApi
-import java.util.concurrent.TimeUnit
 
-class RemoteVideosRepository(
-    private val api: JsDelivrApi,
-    private val dao: RemoteVideoDao
-) {
-    private val staleAfterMs = TimeUnit.HOURS.toMillis(12) // matches jsDelivr CDN cache window
+def fetch_query(query: str, category: str):
+    try:
+        proc = subprocess.run(
+            YTDLP_BASE_ARGS + [query],
+            capture_output=True,
+            text=True,
+            timeout=240,
+        )
+    except subprocess.TimeoutExpired:
+        print(f"[WARN] timeout: {query}", file=sys.stderr)
+        return []
 
-    /** Returns cached data instantly if fresh; otherwise fetches, caches, returns. */
-    suspend fun getVideos(forceRefresh: Boolean = false): List<RemoteVideoEntity> {
-        val lastFetch = dao.lastFetchedAt() ?: 0L
-        val isStale = System.currentTimeMillis() - lastFetch > staleAfterMs
+    videos = []
+    for line in proc.stdout.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            data = json.loads(line)
+        except json.JSONDecodeError:
+            continue
 
-        if (!forceRefresh && !isStale && lastFetch != 0L) {
-            val cached = dao.getAll()
-            if (cached.isNotEmpty()) return cached
-        }
+        vid = data.get("id")
+        if not vid:
+            continue
 
-        return try {
-            val remote = api.getVideos()
-            val now = System.currentTimeMillis()
-            val entities = remote.map {
-                RemoteVideoEntity(
-                    id = it.id,
-                    title = it.title,
-                    channel = it.channel,
-                    thumbnail = it.thumbnail,
-                    duration = it.duration,
-                    category = it.category,
-                    fetchedAt = now
-                )
-            }
-            dao.clearAll()
-            dao.insertAll(entities)
-            entities
-        } catch (e: Exception) {
-            // Network/CDN failed — fall back to whatever's cached, even if stale
-            dao.getAll()
-        }
-    }
+        videos.append({
+            "id": vid,
+            "title": data.get("title", ""),
+            "channel": data.get("channel") or data.get("uploader") or "",
+            "thumbnail": data.get("thumbnail") or f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
+            "duration": data.get("duration") or 0,
+            "category": category,
+        })
+    return videos
 
-    suspend fun getByCategory(category: String) = dao.getByCategory(category)
-}
+
+def dedupe(videos):
+    seen = set()
+    out = []
+    for v in videos:
+        key = (v["id"], v["category"])
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(v)
+    return out
+
+
+def fetch_all(categories: dict) -> list:
+    all_videos = []
+    for category, queries in categories.items():
+        print(f"[INFO] fetching category: {category}")
+        collected = []
+        for q in queries:
+            collected.extend(fetch_query(q, category))
+        print(f"[INFO]   -> {len(collected)} videos")
+        all_videos.extend(collected)
+    return dedupe(all_videos)
+
+
+def main():
+    songs = fetch_all(SONG_CATEGORIES)
+    with open("videos.json", "w", encoding="utf-8") as f:
+        json.dump(songs, f, ensure_ascii=False, indent=2)
+    print(f"[DONE] wrote videos.json — {len(songs)} total videos")
+
+    movies = fetch_all(MOVIE_CATEGORIES)
+    with open("movies.json", "w", encoding="utf-8") as f:
+        json.dump(movies, f, ensure_ascii=False, indent=2)
+    print(f"[DONE] wrote movies.json — {len(movies)} total videos")
+
+
+if __name__ == "__main__":
+    main()
+    
