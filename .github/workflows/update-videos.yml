@@ -30,15 +30,22 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add videos.json movies.json
+          git add categories/
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Auto-update videos.json + movies.json [skip ci]"
+            git commit -m "Auto-update category JSON files [skip ci]"
             git push
           fi
 
       - name: Purge jsDelivr CDN cache
         run: |
-          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/videos.json" || true
-          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/movies.json" || true
+          # One file per category now instead of just videos.json/movies.json —
+          # loop over whatever fetch_videos.py actually wrote (via manifest.json)
+          # instead of hardcoding filenames here, so adding/removing a category
+          # in the script doesn't also require editing this workflow.
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/categories/manifest.json" || true
+          for name in $(python3 -c "import json; print('\n'.join(c['file'] for c in json.load(open('categories/manifest.json'))['categories']))"); do
+            curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/categories/$name" || true
+          done
+          
