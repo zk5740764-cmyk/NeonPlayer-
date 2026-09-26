@@ -1,3 +1,7 @@
+
+
+
+
 #!/usr/bin/env python3
 """
 fetch_videos.py
@@ -31,13 +35,6 @@ SONG_CATEGORIES = {
         "ytsearch20:motivational videos 2026",
         "ytsearch20:documentary videos 2026",
         "ytsearch20:podcast interview 2026",
-    ],
-
-    "shreya_ghoshal": [
-        "ytsearch50:Shreya Ghoshal new songs 2026",
-        "ytsearch40:Shreya Ghoshal songs",
-        "ytsearch30:Shreya Ghoshal live performance",
-        "ytsearch20:Shreya Ghoshal romantic songs",
     ],
 
     "recently_uploaded": [
@@ -425,21 +422,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-Isme ye 12 categories hain:
-
-1. Home
-2. Shreya Ghoshal
-3. Recently uploaded
-4. Indian pop music
-5. Haryanvi
-6. Punjabi
-7. Storytelling
-8. Music
-9. Gaming
-10. News
-11. Sports
-12. Fashion
-
-Aur movie categories alag rahengi: Bollywood, Hollywood, South Indian, Punjabi Movies.
-
-Ek cheez: tumhara diya hua bada config ("force_update", "downloads_enabled", "buffer_min_ms", etc.) is Python scraper file mein daalne ki zarurat nahi hai. Woh app ke remote-config JSON ke liye hai; scraper mein sirf categories/queries relevant hain.
