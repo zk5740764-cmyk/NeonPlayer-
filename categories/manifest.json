@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-09-26T13:36:47.005999+00:00",
+  "categories": [
+    {
+      "name": "home",
+      "type": "song",
+      "file": "home.json",
+      "count": 220
+    },
+    {
+      "name": "bollywood",
+      "type": "song",
+      "file": "bollywood.json",
+      "count": 226
+    },
+    {
+      "name": "punjabi",
+      "type": "song",
+      "file": "punjabi.json",
+      "count": 149
+    },
+    {
+      "name": "kashmiri_gojri",
+      "type": "song",
+      "file": "kashmiri_gojri.json",
+      "count": 80
+    },
+    {
+      "name": "urdu_hindi",
+      "type": "song",
+      "file": "urdu_hindi.json",
+      "count": 100
+    },
+    {
+      "name": "english",
+      "type": "song",
+      "file": "english.json",
+      "count": 79
+    },
+    {
+      "name": "lofi_chill",
+      "type": "song",
+      "file": "lofi_chill.json",
+      "count": 49
+    },
+    {
+      "name": "bollywood_movies",
+      "type": "movie",
+      "file": "bollywood_movies.json",
+      "count": 73
+    },
+    {
+      "name": "hollywood_movies",
+      "type": "movie",
+      "file": "hollywood_movies.json",
+      "count": 69
+    },
+    {
+      "name": "south_indian_movies",
+      "type": "movie",
+      "file": "south_indian_movies.json",
+      "count": 50
+    },
+    {
+      "name": "punjabi_movies",
+      "type": "movie",
+      "file": "punjabi_movies.json",
+      "count": 34
+    }
+  ]
+}
