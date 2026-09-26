@@ -1,16 +1,25 @@
 #!/usr/bin/env python3
 """
 fetch_videos.py
-Scrapes YouTube via yt-dlp and writes TWO separate JSON files at repo root:
-  - videos.json  -> Home + all song/language categories
-  - movies.json  -> movie categories only
-Both are flat arrays, each item carrying its own "category" field (matches
-RemoteFeedRepository.kt / RemoteMoviesRepository.kt on the Kotlin side).
+Scrapes YouTube via yt-dlp and writes ONE JSON file PER CATEGORY under
+categories/, e.g. categories/home.json, categories/bollywood.json,
+categories/bollywood_movies.json, etc. — instead of the old two combined
+videos.json / movies.json files.
+
+Also writes categories/manifest.json: a small index of every category name,
+whether it's a "song" or "movie" category, and its file path — so the app
+side can list/loop over categories without hardcoding each filename.
+
+Each category file is a flat JSON array, same item shape as before (each
+item still carries its own "category" field, kept for backward
+compatibility with any code still checking it).
 """
 
 import json
+import os
 import subprocess
 import sys
+from datetime import datetime, timezone
 
 # ---- CONFIG -----------------------------------------------------------
 # Bumped counts significantly for real volume per category — each ytsearchN
@@ -85,6 +94,8 @@ MOVIE_CATEGORIES = {
     ],
 }
 
+OUTPUT_DIR = "categories"
+
 YTDLP_BASE_ARGS = [
     "yt-dlp",
     "--flat-playlist",
@@ -132,41 +143,70 @@ def fetch_query(query: str, category: str):
 
 
 def dedupe(videos):
+    # One category per call now (see fetch_category below), so the id alone
+    # is a unique-enough key — no need to also key on category anymore.
     seen = set()
     out = []
     for v in videos:
-        key = (v["id"], v["category"])
-        if key in seen:
+        if v["id"] in seen:
             continue
-        seen.add(key)
+        seen.add(v["id"])
         out.append(v)
     return out
 
 
-def fetch_all(categories: dict) -> list:
-    all_videos = []
-    for category, queries in categories.items():
-        print(f"[INFO] fetching category: {category}")
-        collected = []
-        for q in queries:
-            collected.extend(fetch_query(q, category))
-        print(f"[INFO]   -> {len(collected)} videos")
-        all_videos.extend(collected)
-    return dedupe(all_videos)
+def fetch_category(category: str, queries: list) -> list:
+    print(f"[INFO] fetching category: {category}")
+    collected = []
+    for q in queries:
+        collected.extend(fetch_query(q, category))
+    deduped = dedupe(collected)
+    print(f"[INFO]   -> {len(deduped)} videos")
+    return deduped
+
+
+def write_category_file(category: str, videos: list):
+    path = os.path.join(OUTPUT_DIR, f"{category}.json")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(videos, f, ensure_ascii=False, indent=2)
+    print(f"[DONE] wrote {path} — {len(videos)} videos")
 
 
 def main():
-    songs = fetch_all(SONG_CATEGORIES)
-    with open("videos.json", "w", encoding="utf-8") as f:
-        json.dump(songs, f, ensure_ascii=False, indent=2)
-    print(f"[DONE] wrote videos.json — {len(songs)} total videos")
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    movies = fetch_all(MOVIE_CATEGORIES)
-    with open("movies.json", "w", encoding="utf-8") as f:
-        json.dump(movies, f, ensure_ascii=False, indent=2)
-    print(f"[DONE] wrote movies.json — {len(movies)} total videos")
+    manifest_categories = []
+
+    for category, queries in SONG_CATEGORIES.items():
+        videos = fetch_category(category, queries)
+        write_category_file(category, videos)
+        manifest_categories.append({
+            "name": category,
+            "type": "song",
+            "file": f"{category}.json",
+            "count": len(videos),
+        })
+
+    for category, queries in MOVIE_CATEGORIES.items():
+        videos = fetch_category(category, queries)
+        write_category_file(category, videos)
+        manifest_categories.append({
+            "name": category,
+            "type": "movie",
+            "file": f"{category}.json",
+            "count": len(videos),
+        })
+
+    manifest = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "categories": manifest_categories,
+    }
+    manifest_path = os.path.join(OUTPUT_DIR, "manifest.json")
+    with open(manifest_path, "w", encoding="utf-8") as f:
+        json.dump(manifest, f, ensure_ascii=False, indent=2)
+    print(f"[DONE] wrote {manifest_path} — {len(manifest_categories)} categories")
 
 
 if __name__ == "__main__":
     main()
-    
+  
