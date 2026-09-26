@@ -1,132 +1,121 @@
-#!/usr/bin/env python3
-"""
-fetch_videos.py
-Scrapes YouTube via yt-dlp for all song categories + movies, writes videos.json
-at repo root as a FLAT array (matches RemoteVideosSync.kt's List<RemoteVideoDto>,
-each item carrying its own "category" field).
-"""
+// Add these pieces into StreamX. Package names assumed — adjust to match
+// your actual module structure (data/remote, data/local, data/repository).
 
-import json
-import subprocess
-import sys
+// ─────────────────────────────────────────────────────────────
+// 1. Retrofit API
+// ─────────────────────────────────────────────────────────────
+package com.streamx.data.remote
 
-CATEGORIES = {
-    "bollywood": [
-        "ytsearch20:new bollywood songs 2026",
-        "ytsearch20:bollywood romantic songs",
-        "ytsearch15:bollywood item songs",
-    ],
-    "punjabi": [
-        "ytsearch20:new punjabi songs 2026",
-        "ytsearch15:punjabi bhangra songs",
-    ],
-    "kashmiri_gojri": [
-        "ytsearch15:new kashmiri songs",
-        "ytsearch15:gojri songs",
-    ],
-    "urdu_hindi": [
-        "ytsearch15:hindi sad songs",
-        "ytsearch15:urdu ghazal songs",
-    ],
-    "english": [
-        "ytsearch20:new english songs 2026",
-        "ytsearch15:english pop hits",
-    ],
-    "lofi_chill": [
-        "ytsearch15:lofi songs mix",
-    ],
-    "bollywood_movies": [
-        "ytsearch15:bollywood full movie 2026",
-        "ytsearch15:bollywood movie trailer 2026",
-    ],
-    "hollywood_movies": [
-        "ytsearch15:hollywood movie trailer 2026",
-        "ytsearch10:hollywood full movie english",
-    ],
-    "south_indian_movies": [
-        "ytsearch15:south indian movie hindi dubbed",
-    ],
-    "punjabi_movies": [
-        "ytsearch10:punjabi full movie",
-    ],
+import retrofit2.http.GET
+
+data class RemoteVideoDto(
+    val id: String,
+    val title: String,
+    val channel: String,
+    val thumbnail: String,
+    val duration: Int,
+    val category: String
+)
+
+interface JsDelivrApi {
+    // Pin to a tag/commit in production instead of @main so an app in the
+    // wild never gets a schema change mid-flight without an update.
+    @GET("gh/USERNAME/REPO@main/videos.json")
+    suspend fun getVideos(): List<RemoteVideoDto>
 }
 
-YTDLP_BASE_ARGS = [
-    "yt-dlp",
-    "--flat-playlist",
-    "--dump-json",
-    "--no-warnings",
-    "--ignore-errors",
-]
+// ─────────────────────────────────────────────────────────────
+// 2. Room entity + DAO
+// ─────────────────────────────────────────────────────────────
+package com.streamx.data.local
 
+import androidx.room.Dao
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+import androidx.room.Query
+import androidx.room.Insert
+import androidx.room.OnConflictStrategy
 
-def fetch_query(query: str, category: str):
-    try:
-        proc = subprocess.run(
-            YTDLP_BASE_ARGS + [query],
-            capture_output=True,
-            text=True,
-            timeout=180,
-        )
-    except subprocess.TimeoutExpired:
-        print(f"[WARN] timeout: {query}", file=sys.stderr)
-        return []
+@Entity(tableName = "remote_videos")
+data class RemoteVideoEntity(
+    @PrimaryKey val id: String,
+    val title: String,
+    val channel: String,
+    val thumbnail: String,
+    val duration: Int,
+    val category: String,
+    val fetchedAt: Long
+)
 
-    videos = []
-    for line in proc.stdout.splitlines():
-        line = line.strip()
-        if not line:
-            continue
-        try:
-            data = json.loads(line)
-        except json.JSONDecodeError:
-            continue
+@Dao
+interface RemoteVideoDao {
+    @Query("SELECT * FROM remote_videos WHERE category = :category ORDER BY fetchedAt DESC")
+    suspend fun getByCategory(category: String): List<RemoteVideoEntity>
 
-        vid = data.get("id")
-        if not vid:
-            continue
+    @Query("SELECT * FROM remote_videos")
+    suspend fun getAll(): List<RemoteVideoEntity>
 
-        videos.append({
-            "id": vid,
-            "title": data.get("title", ""),
-            "channel": data.get("channel") or data.get("uploader") or "",
-            "thumbnail": data.get("thumbnail") or f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
-            "duration": data.get("duration") or 0,
-            "category": category,
-        })
-    return videos
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertAll(videos: List<RemoteVideoEntity>)
 
+    @Query("DELETE FROM remote_videos")
+    suspend fun clearAll()
 
-def dedupe(videos):
-    seen = set()
-    out = []
-    for v in videos:
-        key = (v["id"], v["category"])
-        if key in seen:
-            continue
-        seen.add(key)
-        out.append(v)
-    return out
+    @Query("SELECT MAX(fetchedAt) FROM remote_videos")
+    suspend fun lastFetchedAt(): Long?
+}
+// Register RemoteVideoEntity + RemoteVideoDao in your existing AppDatabase
+// (bump the Room version number and add a Migration, or fallbackToDestructiveMigration
+// if you don't care about losing this cache table specifically).
 
+// ─────────────────────────────────────────────────────────────
+// 3. Repository — fetch-or-cache with a staleness window
+// ─────────────────────────────────────────────────────────────
+package com.streamx.data.repository
 
-def main():
-    all_videos = []
+import com.streamx.data.local.RemoteVideoDao
+import com.streamx.data.local.RemoteVideoEntity
+import com.streamx.data.remote.JsDelivrApi
+import java.util.concurrent.TimeUnit
 
-    for category, queries in CATEGORIES.items():
-        print(f"[INFO] fetching category: {category}")
-        collected = []
-        for q in queries:
-            collected.extend(fetch_query(q, category))
-        print(f"[INFO]   -> {len(collected)} videos")
-        all_videos.extend(collected)
+class RemoteVideosRepository(
+    private val api: JsDelivrApi,
+    private val dao: RemoteVideoDao
+) {
+    private val staleAfterMs = TimeUnit.HOURS.toMillis(12) // matches jsDelivr CDN cache window
 
-    all_videos = dedupe(all_videos)
+    /** Returns cached data instantly if fresh; otherwise fetches, caches, returns. */
+    suspend fun getVideos(forceRefresh: Boolean = false): List<RemoteVideoEntity> {
+        val lastFetch = dao.lastFetchedAt() ?: 0L
+        val isStale = System.currentTimeMillis() - lastFetch > staleAfterMs
 
-    with open("videos.json", "w", encoding="utf-8") as f:
-        json.dump(all_videos, f, ensure_ascii=False, indent=2)
+        if (!forceRefresh && !isStale && lastFetch != 0L) {
+            val cached = dao.getAll()
+            if (cached.isNotEmpty()) return cached
+        }
 
-    print(f"[DONE] wrote videos.json — {len(all_videos)} total videos")
+        return try {
+            val remote = api.getVideos()
+            val now = System.currentTimeMillis()
+            val entities = remote.map {
+                RemoteVideoEntity(
+                    id = it.id,
+                    title = it.title,
+                    channel = it.channel,
+                    thumbnail = it.thumbnail,
+                    duration = it.duration,
+                    category = it.category,
+                    fetchedAt = now
+                )
+            }
+            dao.clearAll()
+            dao.insertAll(entities)
+            entities
+        } catch (e: Exception) {
+            // Network/CDN failed — fall back to whatever's cached, even if stale
+            dao.getAll()
+        }
+    }
 
-
-if __name__ == "__main__":
-    main()
+    suspend fun getByCategory(category: String) = dao.getByCategory(category)
+}
