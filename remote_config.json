@@ -1,11 +1,11 @@
 {
-  "min_supported_version": 1.12,
-  "force_update": false,
+  "min_supported_version": 0,
+  "force_update": true,
   "update_url": "https://t.me/StreamXAp",
   "telegram_update_url": "",
   "maintenance_mode": false,
   "maintenance_message": "",
-  "banner_message": "🌟 Every moment has a story",
+  "banner_message": "",
 
   "downloads_enabled": true,
   "subtitles_enabled": true,
@@ -18,7 +18,7 @@
   "music_tab_enabled": true,
   "downloads_tab_enabled": true,
   "shorts_enabled": true,
-  "search_enabled": true,
+  "search_enabled": false,
   "comments_enabled": true,
   "debug_menu_enabled": true,
 
@@ -27,47 +27,44 @@
   "home_feed_sync_enabled": true,
   "home_feed_sync_interval_hours": 2,
 
-  "new_upload_notifications_enabled": false,
+  "new_upload_notifications_enabled": true,
   "new_upload_check_interval_hours": 1,
 
   "home_categories": [
     "Home",
-    "Recently Uploaded",
-    "New Music",
-    "New Movies",
-    "Entertainment",
     "Shreya Ghoshal",
-    "Punjabi",
+    "Recently uploaded",
+    "Indian pop music",
     "Haryanvi",
+    "Punjabi",
+    "Storytelling",
+    "Music",
     "Gaming",
-    "Sports",
     "News",
-    "Technology",
-    "Fashion",
-    "Live",
-    "Travel",
-    "Documentary",
-    "Education"
+    "Sports",
+    "Fashion"
   ],
 
   "trending_playlists_enabled": true,
   "language_playlists_enabled": true,
   "recommended_for_you_enabled": true,
   "playlist_hero_cards_enabled": true,
-  "hot_videos_priority_every_n": 6,
+  "hot_videos_gojri_every_n": 6,
 
   "thumbnail_preload_enabled": true,
-  "thumbnail_preload_count": 15,
-  "chunk_size_kb": 512,
+  "thumbnail_preload_count": 20,
+
+  "chunk_size_kb": 128,
   "buffer_min_ms": 30000,
-  "buffer_max_ms": 300000,
-  "buffer_for_playback_ms": 2500,
-  "buffer_for_playback_after_rebuffer_ms": 2500,
+  "buffer_max_ms": 60000,
+  "buffer_for_playback_ms": 1200,
+  "buffer_for_playback_after_rebuffer_ms": 1500,
   "connect_timeout_sec": 25,
   "read_timeout_sec": 30,
   "write_timeout_sec": 25,
   "stall_watchdog_timeout_ms": 15000,
   "loadable_retry_count": 6,
   "user_agent_playback": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
-  "user_agent_download": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0"
+  "user_agent_download": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
+  "user_agent_mobile": "Mozilla/5.0 (Linux; Android 14; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"
 }
