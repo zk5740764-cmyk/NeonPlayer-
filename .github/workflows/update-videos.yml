@@ -30,14 +30,15 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add videos.json
+          git add videos.json movies.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Auto-update videos.json [skip ci]"
+            git commit -m "Auto-update videos.json + movies.json [skip ci]"
             git push
           fi
 
       - name: Purge jsDelivr CDN cache
         run: |
           curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/videos.json" || true
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/movies.json" || true
