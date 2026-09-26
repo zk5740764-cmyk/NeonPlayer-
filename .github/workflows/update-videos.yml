@@ -48,4 +48,5 @@ jobs:
           for name in $(python3 -c "import json; print('\n'.join(c['file'] for c in json.load(open('categories/manifest.json'))['categories']))"); do
             curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/categories/$name" || true
           done
+
           
