@@ -1,15 +1,15 @@
 {
   "min_supported_version": 0,
-  "force_update": false,
+  "force_update": true,
   "update_url": "",
-  "telegram_update_url": "",
+  "telegram_update_url": "https://t.me/StreamXAp",
   "maintenance_mode": false,
   "maintenance_message": "",
   "banner_message": "Welcome! Enjoy your favorite videos, music, and more",
 
   "downloads_enabled": true,
   "subtitles_enabled": true,
-  "background_playback_enabled": false,
+  "background_playback_enabled": true,
   "pip_enabled": true,
   "cast_enabled": true,
   "disabled_qualities": [],
