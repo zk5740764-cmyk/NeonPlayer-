@@ -1,0 +1,58 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/NP.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Nepal Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Pramod Kharel",
+    "Anju Panta"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Nepal Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Pramod Kharel",
+    "Anju Panta",
+    "Sugam Pokhrel",
+    "Rajesh Payal Rai",
+    "Bipul Chettri",
+    "Yabesh Thapa",
+    "Swoopna Suman",
+    "Melina Rai",
+    "Narayan Gopal"
+  ],
+  "category_queries": {
+    "Nepal Hits": [
+      "nepali songs 2026",
+      "nepali music 2026"
+    ],
+    "Pramod Kharel": [
+      "Pramod Kharel songs",
+      "Pramod Kharel new song 2026"
+    ],
+    "Anju Panta": [
+      "Anju Panta songs",
+      "Anju Panta new song 2026"
+    ],
+    "New Releases": [
+      "new Nepal songs 2026",
+      "Nepal new music 2026"
+    ],
+    "Romantic": [
+      "Nepal romantic songs",
+      "Nepal love songs 2026"
+    ],
+    "Old Classics": [
+      "Nepal old classic songs",
+      "Nepal evergreen hits"
+    ]
+  }
+}

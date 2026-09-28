@@ -1,0 +1,58 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/LK.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Sri Lanka Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Yohani",
+    "Bathiya and Santhush"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Sri Lanka Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Yohani",
+    "Bathiya and Santhush",
+    "Iraj",
+    "Kasun Kalhara",
+    "Chamara Ranawaka",
+    "Nanda Malini",
+    "Victor Ratnayake",
+    "Sanuka Wickramasinghe",
+    "Umaria Sinhawansa"
+  ],
+  "category_queries": {
+    "Sri Lanka Hits": [
+      "sinhala songs 2026",
+      "sri lankan music 2026"
+    ],
+    "Yohani": [
+      "Yohani songs",
+      "Yohani new song 2026"
+    ],
+    "Bathiya and Santhush": [
+      "Bathiya and Santhush songs",
+      "Bathiya and Santhush new song 2026"
+    ],
+    "New Releases": [
+      "new Sri Lanka songs 2026",
+      "Sri Lanka new music 2026"
+    ],
+    "Romantic": [
+      "Sri Lanka romantic songs",
+      "Sri Lanka love songs 2026"
+    ],
+    "Old Classics": [
+      "Sri Lanka old classic songs",
+      "Sri Lanka evergreen hits"
+    ]
+  }
+}

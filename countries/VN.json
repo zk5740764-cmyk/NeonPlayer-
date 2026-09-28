@@ -1,0 +1,63 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/VN.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Vietnam Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Sơn Tùng M-TP",
+    "Đen Vâu",
+    "Hòa Minzy"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Vietnam Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Sơn Tùng M-TP",
+    "Đen Vâu",
+    "Hòa Minzy",
+    "Mỹ Tâm",
+    "Hoàng Thùy Linh",
+    "Soobin Hoàng Sơn",
+    "Erik",
+    "Jack",
+    "MIN"
+  ],
+  "category_queries": {
+    "Vietnam Hits": [
+      "nhạc việt 2026",
+      "vpop 2026"
+    ],
+    "Sơn Tùng M-TP": [
+      "Sơn Tùng M-TP songs",
+      "Sơn Tùng M-TP new song 2026"
+    ],
+    "Đen Vâu": [
+      "Đen Vâu songs",
+      "Đen Vâu new song 2026"
+    ],
+    "Hòa Minzy": [
+      "Hòa Minzy songs",
+      "Hòa Minzy new song 2026"
+    ],
+    "New Releases": [
+      "new Vietnam songs 2026",
+      "Vietnam new music 2026"
+    ],
+    "Romantic": [
+      "Vietnam romantic songs",
+      "Vietnam love songs 2026"
+    ],
+    "Old Classics": [
+      "Vietnam old classic songs",
+      "Vietnam evergreen hits"
+    ]
+  }
+}

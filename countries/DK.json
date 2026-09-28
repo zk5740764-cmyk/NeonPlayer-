@@ -1,0 +1,57 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/DK.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Denmark Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "MØ",
+    "Lukas Graham"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Denmark Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "MØ",
+    "Lukas Graham",
+    "Aqua",
+    "Medina",
+    "Christopher",
+    "Gilli",
+    "Kim Larsen",
+    "Volbeat"
+  ],
+  "category_queries": {
+    "Denmark Hits": [
+      "danske hits 2026",
+      "danish pop 2026"
+    ],
+    "MØ": [
+      "MØ songs",
+      "MØ new song 2026"
+    ],
+    "Lukas Graham": [
+      "Lukas Graham songs",
+      "Lukas Graham new song 2026"
+    ],
+    "New Releases": [
+      "new Denmark songs 2026",
+      "Denmark new music 2026"
+    ],
+    "Romantic": [
+      "Denmark romantic songs",
+      "Denmark love songs 2026"
+    ],
+    "Old Classics": [
+      "Denmark old classic songs",
+      "Denmark evergreen hits"
+    ]
+  }
+}

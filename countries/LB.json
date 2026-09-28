@@ -1,0 +1,63 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/LB.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Lebanon Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Fairuz",
+    "Nancy Ajram",
+    "Elissa"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Lebanon Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Fairuz",
+    "Nancy Ajram",
+    "Elissa",
+    "Wael Kfoury",
+    "Najwa Karam",
+    "Haifa Wehbe",
+    "Ragheb Alama",
+    "Melhem Zein",
+    "Assi El Hallani"
+  ],
+  "category_queries": {
+    "Lebanon Hits": [
+      "اغاني لبنانية 2026",
+      "اغاني عربية جديدة 2026"
+    ],
+    "Fairuz": [
+      "Fairuz songs",
+      "Fairuz new song 2026"
+    ],
+    "Nancy Ajram": [
+      "Nancy Ajram songs",
+      "Nancy Ajram new song 2026"
+    ],
+    "Elissa": [
+      "Elissa songs",
+      "Elissa new song 2026"
+    ],
+    "New Releases": [
+      "new Lebanon songs 2026",
+      "Lebanon new music 2026"
+    ],
+    "Romantic": [
+      "Lebanon romantic songs",
+      "Lebanon love songs 2026"
+    ],
+    "Old Classics": [
+      "Lebanon old classic songs",
+      "Lebanon evergreen hits"
+    ]
+  }
+}

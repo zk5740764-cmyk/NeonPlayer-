@@ -1,0 +1,57 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/PE.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Peru Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Grupo 5",
+    "Christian Domínguez"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Peru Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Grupo 5",
+    "Christian Domínguez",
+    "Marisol",
+    "Corazón Serrano",
+    "Armonía 10",
+    "Eva Ayllón",
+    "Daniela Darcourt",
+    "Deyvis Orosco"
+  ],
+  "category_queries": {
+    "Peru Hits": [
+      "música peruana 2026",
+      "cumbia peruana 2026"
+    ],
+    "Grupo 5": [
+      "Grupo 5 songs",
+      "Grupo 5 new song 2026"
+    ],
+    "Christian Domínguez": [
+      "Christian Domínguez songs",
+      "Christian Domínguez new song 2026"
+    ],
+    "New Releases": [
+      "new Peru songs 2026",
+      "Peru new music 2026"
+    ],
+    "Romantic": [
+      "Peru romantic songs",
+      "Peru love songs 2026"
+    ],
+    "Old Classics": [
+      "Peru old classic songs",
+      "Peru evergreen hits"
+    ]
+  }
+}

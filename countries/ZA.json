@@ -1,0 +1,63 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/ZA.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "South Africa Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Tyla",
+    "Black Coffee",
+    "Kabza De Small"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "South Africa Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Tyla",
+    "Black Coffee",
+    "Kabza De Small",
+    "DJ Maphorisa",
+    "Nasty C",
+    "Master KG",
+    "Focalistic",
+    "Musa Keys",
+    "Makhadzi"
+  ],
+  "category_queries": {
+    "South Africa Hits": [
+      "amapiano 2026",
+      "south african songs 2026"
+    ],
+    "Tyla": [
+      "Tyla songs",
+      "Tyla new song 2026"
+    ],
+    "Black Coffee": [
+      "Black Coffee songs",
+      "Black Coffee new song 2026"
+    ],
+    "Kabza De Small": [
+      "Kabza De Small songs",
+      "Kabza De Small new song 2026"
+    ],
+    "New Releases": [
+      "new South Africa songs 2026",
+      "South Africa new music 2026"
+    ],
+    "Romantic": [
+      "South Africa romantic songs",
+      "South Africa love songs 2026"
+    ],
+    "Old Classics": [
+      "South Africa old classic songs",
+      "South Africa evergreen hits"
+    ]
+  }
+}

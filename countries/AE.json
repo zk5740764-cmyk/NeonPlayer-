@@ -1,0 +1,57 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/AE.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "UAE Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Hussain Al Jassmi",
+    "Ahlam"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "UAE Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Hussain Al Jassmi",
+    "Ahlam",
+    "Balqees",
+    "Eida Al Menhali",
+    "Waleed Al Shami",
+    "Ali Bin Mohammed",
+    "Fayez Al Saeed",
+    "Amr Diab"
+  ],
+  "category_queries": {
+    "UAE Hits": [
+      "اغاني اماراتية 2026",
+      "اغاني خليجية 2026"
+    ],
+    "Hussain Al Jassmi": [
+      "Hussain Al Jassmi songs",
+      "Hussain Al Jassmi new song 2026"
+    ],
+    "Ahlam": [
+      "Ahlam songs",
+      "Ahlam new song 2026"
+    ],
+    "New Releases": [
+      "new UAE songs 2026",
+      "UAE new music 2026"
+    ],
+    "Romantic": [
+      "UAE romantic songs",
+      "UAE love songs 2026"
+    ],
+    "Old Classics": [
+      "UAE old classic songs",
+      "UAE evergreen hits"
+    ]
+  }
+}

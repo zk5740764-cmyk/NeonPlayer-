@@ -1,0 +1,58 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/TR.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Turkey Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Tarkan",
+    "Sezen Aksu"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Turkey Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Tarkan",
+    "Sezen Aksu",
+    "Sertab Erener",
+    "Mabel Matiz",
+    "Hadise",
+    "Kenan Doğulu",
+    "Ajda Pekkan",
+    "Murat Boz",
+    "Ezhel"
+  ],
+  "category_queries": {
+    "Turkey Hits": [
+      "türkçe şarkılar 2026",
+      "türkçe pop 2026"
+    ],
+    "Tarkan": [
+      "Tarkan songs",
+      "Tarkan new song 2026"
+    ],
+    "Sezen Aksu": [
+      "Sezen Aksu songs",
+      "Sezen Aksu new song 2026"
+    ],
+    "New Releases": [
+      "new Turkey songs 2026",
+      "Turkey new music 2026"
+    ],
+    "Romantic": [
+      "Turkey romantic songs",
+      "Turkey love songs 2026"
+    ],
+    "Old Classics": [
+      "Turkey old classic songs",
+      "Turkey evergreen hits"
+    ]
+  }
+}

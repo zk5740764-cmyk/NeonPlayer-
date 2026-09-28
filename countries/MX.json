@@ -1,0 +1,64 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/MX.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Mexico Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Peso Pluma",
+    "Christian Nodal",
+    "Natanael Cano"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Mexico Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Peso Pluma",
+    "Christian Nodal",
+    "Natanael Cano",
+    "Grupo Frontera",
+    "Fuerza Regida",
+    "Luis R Conriquez",
+    "Carin León",
+    "Junior H",
+    "Ángela Aguilar",
+    "Vicente Fernández"
+  ],
+  "category_queries": {
+    "Mexico Hits": [
+      "música mexicana 2026",
+      "regional mexicano 2026"
+    ],
+    "Peso Pluma": [
+      "Peso Pluma songs",
+      "Peso Pluma new song 2026"
+    ],
+    "Christian Nodal": [
+      "Christian Nodal songs",
+      "Christian Nodal new song 2026"
+    ],
+    "Natanael Cano": [
+      "Natanael Cano songs",
+      "Natanael Cano new song 2026"
+    ],
+    "New Releases": [
+      "new Mexico songs 2026",
+      "Mexico new music 2026"
+    ],
+    "Romantic": [
+      "Mexico romantic songs",
+      "Mexico love songs 2026"
+    ],
+    "Old Classics": [
+      "Mexico old classic songs",
+      "Mexico evergreen hits"
+    ]
+  }
+}

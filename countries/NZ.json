@@ -1,0 +1,57 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/NZ.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "New Zealand Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Lorde",
+    "Kimbra"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "New Zealand Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Lorde",
+    "Kimbra",
+    "Six60",
+    "Benee",
+    "Crowded House",
+    "Broods",
+    "Stan Walker",
+    "Ladyhawke"
+  ],
+  "category_queries": {
+    "New Zealand Hits": [
+      "top nz songs 2026",
+      "new zealand music 2026"
+    ],
+    "Lorde": [
+      "Lorde songs",
+      "Lorde new song 2026"
+    ],
+    "Kimbra": [
+      "Kimbra songs",
+      "Kimbra new song 2026"
+    ],
+    "New Releases": [
+      "new New Zealand songs 2026",
+      "New Zealand new music 2026"
+    ],
+    "Romantic": [
+      "New Zealand romantic songs",
+      "New Zealand love songs 2026"
+    ],
+    "Old Classics": [
+      "New Zealand old classic songs",
+      "New Zealand evergreen hits"
+    ]
+  }
+}

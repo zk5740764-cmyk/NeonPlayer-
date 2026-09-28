@@ -1,0 +1,62 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/ES.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Spain Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Rosalía",
+    "C. Tangana",
+    "Aitana"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Spain Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Rosalía",
+    "C. Tangana",
+    "Aitana",
+    "Quevedo",
+    "Alejandro Sanz",
+    "Enrique Iglesias",
+    "Bad Gyal",
+    "Estopa"
+  ],
+  "category_queries": {
+    "Spain Hits": [
+      "música española 2026",
+      "éxitos españa 2026"
+    ],
+    "Rosalía": [
+      "Rosalía songs",
+      "Rosalía new song 2026"
+    ],
+    "C. Tangana": [
+      "C. Tangana songs",
+      "C. Tangana new song 2026"
+    ],
+    "Aitana": [
+      "Aitana songs",
+      "Aitana new song 2026"
+    ],
+    "New Releases": [
+      "new Spain songs 2026",
+      "Spain new music 2026"
+    ],
+    "Romantic": [
+      "Spain romantic songs",
+      "Spain love songs 2026"
+    ],
+    "Old Classics": [
+      "Spain old classic songs",
+      "Spain evergreen hits"
+    ]
+  }
+}

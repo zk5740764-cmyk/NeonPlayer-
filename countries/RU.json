@@ -1,0 +1,58 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/RU.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Russia Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Miyagi",
+    "Zivert"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Russia Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Miyagi",
+    "Zivert",
+    "Basta",
+    "Jony",
+    "Polina Gagarina",
+    "Little Big",
+    "Dima Bilan",
+    "Egor Kreed",
+    "Monetochka"
+  ],
+  "category_queries": {
+    "Russia Hits": [
+      "русские хиты 2026",
+      "русский рэп 2026"
+    ],
+    "Miyagi": [
+      "Miyagi songs",
+      "Miyagi new song 2026"
+    ],
+    "Zivert": [
+      "Zivert songs",
+      "Zivert new song 2026"
+    ],
+    "New Releases": [
+      "new Russia songs 2026",
+      "Russia new music 2026"
+    ],
+    "Romantic": [
+      "Russia romantic songs",
+      "Russia love songs 2026"
+    ],
+    "Old Classics": [
+      "Russia old classic songs",
+      "Russia evergreen hits"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/PH.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Philippines Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "SB19",
+    "Moira Dela Torre",
+    "Sarah Geronimo"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Philippines Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "SB19",
+    "Moira Dela Torre",
+    "Sarah Geronimo",
+    "Ben&Ben",
+    "Zack Tabudlo",
+    "Arthur Nery",
+    "Regine Velasquez",
+    "Gary Valenciano",
+    "Juan Karlos"
+  ],
+  "category_queries": {
+    "Philippines Hits": [
+      "OPM songs 2026",
+      "tagalog songs 2026"
+    ],
+    "SB19": [
+      "SB19 songs",
+      "SB19 new song 2026"
+    ],
+    "Moira Dela Torre": [
+      "Moira Dela Torre songs",
+      "Moira Dela Torre new song 2026"
+    ],
+    "Sarah Geronimo": [
+      "Sarah Geronimo songs",
+      "Sarah Geronimo new song 2026"
+    ],
+    "New Releases": [
+      "new Philippines songs 2026",
+      "Philippines new music 2026"
+    ],
+    "Romantic": [
+      "Philippines romantic songs",
+      "Philippines love songs 2026"
+    ],
+    "Old Classics": [
+      "Philippines old classic songs",
+      "Philippines evergreen hits"
+    ]
+  }
+}

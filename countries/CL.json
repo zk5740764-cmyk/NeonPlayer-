@@ -1,0 +1,57 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/CL.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Chile Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Mon Laferte",
+    "Paloma Mami"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Chile Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Mon Laferte",
+    "Paloma Mami",
+    "Los Bunkers",
+    "Ana Tijoux",
+    "Cami",
+    "Los Prisioneros",
+    "Young Cister",
+    "Pablo Chill-E"
+  ],
+  "category_queries": {
+    "Chile Hits": [
+      "música chilena 2026",
+      "chile hits 2026"
+    ],
+    "Mon Laferte": [
+      "Mon Laferte songs",
+      "Mon Laferte new song 2026"
+    ],
+    "Paloma Mami": [
+      "Paloma Mami songs",
+      "Paloma Mami new song 2026"
+    ],
+    "New Releases": [
+      "new Chile songs 2026",
+      "Chile new music 2026"
+    ],
+    "Romantic": [
+      "Chile romantic songs",
+      "Chile love songs 2026"
+    ],
+    "Old Classics": [
+      "Chile old classic songs",
+      "Chile evergreen hits"
+    ]
+  }
+}

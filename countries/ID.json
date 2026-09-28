@@ -1,0 +1,64 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/ID.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Indonesia Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Tulus",
+    "Raisa",
+    "Rizky Febian"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Indonesia Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Tulus",
+    "Raisa",
+    "Rizky Febian",
+    "Tiara Andini",
+    "Isyana Sarasvati",
+    "NOAH",
+    "Sheila on 7",
+    "Afgan",
+    "Denny Caknan",
+    "Lyodra"
+  ],
+  "category_queries": {
+    "Indonesia Hits": [
+      "lagu indonesia terbaru 2026",
+      "lagu pop indonesia 2026"
+    ],
+    "Tulus": [
+      "Tulus songs",
+      "Tulus new song 2026"
+    ],
+    "Raisa": [
+      "Raisa songs",
+      "Raisa new song 2026"
+    ],
+    "Rizky Febian": [
+      "Rizky Febian songs",
+      "Rizky Febian new song 2026"
+    ],
+    "New Releases": [
+      "new Indonesia songs 2026",
+      "Indonesia new music 2026"
+    ],
+    "Romantic": [
+      "Indonesia romantic songs",
+      "Indonesia love songs 2026"
+    ],
+    "Old Classics": [
+      "Indonesia old classic songs",
+      "Indonesia evergreen hits"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/HK.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Hong Kong Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Eason Chan",
+    "Joey Yung"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Hong Kong Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Eason Chan",
+    "Joey Yung",
+    "Jacky Cheung",
+    "Andy Lau",
+    "Leslie Cheung",
+    "Hacken Lee",
+    "Kay Tse",
+    "Mirror"
+  ],
+  "category_queries": {
+    "Hong Kong Hits": [
+      "粵語歌 2026",
+      "cantopop 2026"
+    ],
+    "Eason Chan": [
+      "Eason Chan songs",
+      "Eason Chan new song 2026"
+    ],
+    "Joey Yung": [
+      "Joey Yung songs",
+      "Joey Yung new song 2026"
+    ],
+    "New Releases": [
+      "new Hong Kong songs 2026",
+      "Hong Kong new music 2026"
+    ],
+    "Romantic": [
+      "Hong Kong romantic songs",
+      "Hong Kong love songs 2026"
+    ],
+    "Old Classics": [
+      "Hong Kong old classic songs",
+      "Hong Kong evergreen hits"
+    ]
+  }
+}

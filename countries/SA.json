@@ -1,0 +1,57 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/SA.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Saudi Arabia Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Mohammed Abdu",
+    "Rashed Al-Majed"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Saudi Arabia Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Mohammed Abdu",
+    "Rashed Al-Majed",
+    "Abdulmajeed Abdullah",
+    "Rabeh Saqer",
+    "Abadi Al Johar",
+    "Mohammed Al Shehri",
+    "Talal Maddah",
+    "Khalid Abdulrahman"
+  ],
+  "category_queries": {
+    "Saudi Arabia Hits": [
+      "اغاني سعودية 2026",
+      "اغاني عربية جديدة 2026"
+    ],
+    "Mohammed Abdu": [
+      "Mohammed Abdu songs",
+      "Mohammed Abdu new song 2026"
+    ],
+    "Rashed Al-Majed": [
+      "Rashed Al-Majed songs",
+      "Rashed Al-Majed new song 2026"
+    ],
+    "New Releases": [
+      "new Saudi songs 2026",
+      "Saudi new music 2026"
+    ],
+    "Romantic": [
+      "Saudi romantic songs",
+      "Saudi love songs 2026"
+    ],
+    "Old Classics": [
+      "Saudi old classic songs",
+      "Saudi evergreen hits"
+    ]
+  }
+}

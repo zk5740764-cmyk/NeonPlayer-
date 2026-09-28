@@ -1,0 +1,57 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/DO.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Dominican Republic Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Romeo Santos",
+    "Prince Royce"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Dominican Republic Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Romeo Santos",
+    "Prince Royce",
+    "Juan Luis Guerra",
+    "Natti Natasha",
+    "Rochy RD",
+    "El Alfa",
+    "Aventura",
+    "Amenazzy"
+  ],
+  "category_queries": {
+    "Dominican Republic Hits": [
+      "bachata 2026",
+      "música dominicana 2026"
+    ],
+    "Romeo Santos": [
+      "Romeo Santos songs",
+      "Romeo Santos new song 2026"
+    ],
+    "Prince Royce": [
+      "Prince Royce songs",
+      "Prince Royce new song 2026"
+    ],
+    "New Releases": [
+      "new Dominican Republic songs 2026",
+      "Dominican Republic new music 2026"
+    ],
+    "Romantic": [
+      "Dominican Republic romantic songs",
+      "Dominican Republic love songs 2026"
+    ],
+    "Old Classics": [
+      "Dominican Republic old classic songs",
+      "Dominican Republic evergreen hits"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_categories\" = category chips on the Music (song) tab - songs only, NO movie chips; \"music_singers\" = singers shown on the Music tab. Just add a name to any list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/AR.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Argentina Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Duki",
+    "Bizarrap",
+    "Tini"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Argentina Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Duki",
+    "Bizarrap",
+    "Tini",
+    "Nicki Nicole",
+    "María Becerra",
+    "Emilia",
+    "Trueno",
+    "Lali",
+    "Fito Páez",
+    "Soda Stereo"
+  ],
+  "category_queries": {
+    "Argentina Hits": [
+      "música argentina 2026",
+      "trap argentino 2026"
+    ],
+    "Duki": [
+      "Duki songs",
+      "Duki new song 2026"
+    ],
+    "Bizarrap": [
+      "Bizarrap songs",
+      "Bizarrap new song 2026"
+    ],
+    "Tini": [
+      "Tini songs",
+      "Tini new song 2026"
+    ],
+    "New Releases": [
+      "new Argentina songs 2026",
+      "Argentina new music 2026"
+    ],
+    "Romantic": [
+      "Argentina romantic songs",
+      "Argentina love songs 2026"
+    ],
+    "Old Classics": [
+      "Argentina old classic songs",
+      "Argentina evergreen hits"
+    ]
+  }
+}
