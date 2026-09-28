@@ -1,0 +1,31 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_singers\" = singers shown on the Music tab. Just add a name to either list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/DO.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Dominican Republic Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Romeo Santos",
+    "Prince Royce"
+  ],
+  "category_queries": {
+    "Dominican Republic Hits": [
+      "bachata 2026",
+      "música dominicana 2026"
+    ],
+    "Romeo Santos": [
+      "Romeo Santos songs",
+      "Romeo Santos new song 2026"
+    ],
+    "Prince Royce": [
+      "Prince Royce songs",
+      "Prince Royce new song 2026"
+    ]
+  },
+  "music_singers": [
+    "Romeo Santos",
+    "Prince Royce"
+  ]
+}

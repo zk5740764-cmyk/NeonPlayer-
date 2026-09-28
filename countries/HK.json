@@ -1,0 +1,31 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_singers\" = singers shown on the Music tab. Just add a name to either list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/HK.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Hong Kong Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Eason Chan",
+    "Joey Yung"
+  ],
+  "category_queries": {
+    "Hong Kong Hits": [
+      "粵語歌 2026",
+      "cantopop 2026"
+    ],
+    "Eason Chan": [
+      "Eason Chan songs",
+      "Eason Chan new song 2026"
+    ],
+    "Joey Yung": [
+      "Joey Yung songs",
+      "Joey Yung new song 2026"
+    ]
+  },
+  "music_singers": [
+    "Eason Chan",
+    "Joey Yung"
+  ]
+}

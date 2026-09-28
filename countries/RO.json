@@ -1,0 +1,31 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_singers\" = singers shown on the Music tab. Just add a name to either list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/RO.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Romania Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Inna",
+    "Alexandra Stan"
+  ],
+  "category_queries": {
+    "Romania Hits": [
+      "muzică românească 2026",
+      "hituri românești 2026"
+    ],
+    "Inna": [
+      "Inna songs",
+      "Inna new song 2026"
+    ],
+    "Alexandra Stan": [
+      "Alexandra Stan songs",
+      "Alexandra Stan new song 2026"
+    ]
+  },
+  "music_singers": [
+    "Inna",
+    "Alexandra Stan"
+  ]
+}

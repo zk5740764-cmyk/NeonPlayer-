@@ -1,0 +1,25 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_singers\" = singers shown on the Music tab. Just add a name to either list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/CH.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Switzerland Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Bligg"
+  ],
+  "category_queries": {
+    "Switzerland Hits": [
+      "schweizer musik 2026",
+      "swiss hits 2026"
+    ],
+    "Bligg": [
+      "Bligg songs",
+      "Bligg new song 2026"
+    ]
+  },
+  "music_singers": [
+    "Bligg"
+  ]
+}

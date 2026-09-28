@@ -1,0 +1,31 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_singers\" = singers shown on the Music tab. Just add a name to either list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/AE.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "UAE Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Hussain Al Jassmi",
+    "Ahlam"
+  ],
+  "category_queries": {
+    "UAE Hits": [
+      "اغاني اماراتية 2026",
+      "اغاني خليجية 2026"
+    ],
+    "Hussain Al Jassmi": [
+      "Hussain Al Jassmi songs",
+      "Hussain Al Jassmi new song 2026"
+    ],
+    "Ahlam": [
+      "Ahlam songs",
+      "Ahlam new song 2026"
+    ]
+  },
+  "music_singers": [
+    "Hussain Al Jassmi",
+    "Ahlam"
+  ]
+}

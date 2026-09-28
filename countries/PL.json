@@ -1,0 +1,31 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_singers\" = singers shown on the Music tab. Just add a name to either list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/PL.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Poland Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Dawid Podsiadło",
+    "Doda"
+  ],
+  "category_queries": {
+    "Poland Hits": [
+      "polskie hity 2026",
+      "polski rap 2026"
+    ],
+    "Dawid Podsiadło": [
+      "Dawid Podsiadło songs",
+      "Dawid Podsiadło new song 2026"
+    ],
+    "Doda": [
+      "Doda songs",
+      "Doda new song 2026"
+    ]
+  },
+  "music_singers": [
+    "Dawid Podsiadło",
+    "Doda"
+  ]
+}

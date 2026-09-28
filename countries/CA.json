@@ -1,0 +1,37 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_singers\" = singers shown on the Music tab. Just add a name to either list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/CA.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Canada Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "The Weeknd",
+    "Drake",
+    "Justin Bieber"
+  ],
+  "category_queries": {
+    "Canada Hits": [
+      "top canadian songs 2026",
+      "new canadian music 2026"
+    ],
+    "The Weeknd": [
+      "The Weeknd songs",
+      "The Weeknd new song 2026"
+    ],
+    "Drake": [
+      "Drake songs",
+      "Drake new song 2026"
+    ],
+    "Justin Bieber": [
+      "Justin Bieber songs",
+      "Justin Bieber new song 2026"
+    ]
+  },
+  "music_singers": [
+    "The Weeknd",
+    "Drake",
+    "Justin Bieber"
+  ]
+}

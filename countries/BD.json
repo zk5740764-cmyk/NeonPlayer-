@@ -1,0 +1,37 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_singers\" = singers shown on the Music tab. Just add a name to either list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/BD.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Bangladesh Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Habib Wahid",
+    "Tahsan",
+    "Arfin Rumey"
+  ],
+  "category_queries": {
+    "Bangladesh Hits": [
+      "bangla gaan 2026",
+      "bangladeshi songs 2026"
+    ],
+    "Habib Wahid": [
+      "Habib Wahid songs",
+      "Habib Wahid new song 2026"
+    ],
+    "Tahsan": [
+      "Tahsan songs",
+      "Tahsan new song 2026"
+    ],
+    "Arfin Rumey": [
+      "Arfin Rumey songs",
+      "Arfin Rumey new song 2026"
+    ]
+  },
+  "music_singers": [
+    "Habib Wahid",
+    "Tahsan",
+    "Arfin Rumey"
+  ]
+}

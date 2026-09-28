@@ -1,0 +1,43 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_singers\" = singers shown on the Music tab. Just add a name to either list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/NG.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Nigeria Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Burna Boy",
+    "Wizkid",
+    "Davido",
+    "Asake"
+  ],
+  "category_queries": {
+    "Nigeria Hits": [
+      "afrobeats 2026",
+      "naija songs 2026"
+    ],
+    "Burna Boy": [
+      "Burna Boy songs",
+      "Burna Boy new song 2026"
+    ],
+    "Wizkid": [
+      "Wizkid songs",
+      "Wizkid new song 2026"
+    ],
+    "Davido": [
+      "Davido songs",
+      "Davido new song 2026"
+    ],
+    "Asake": [
+      "Asake songs",
+      "Asake new song 2026"
+    ]
+  },
+  "music_singers": [
+    "Burna Boy",
+    "Wizkid",
+    "Davido",
+    "Asake"
+  ]
+}

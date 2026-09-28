@@ -1,0 +1,31 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_singers\" = singers shown on the Music tab. Just add a name to either list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/NP.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Nepal Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Pramod Kharel",
+    "Anju Panta"
+  ],
+  "category_queries": {
+    "Nepal Hits": [
+      "nepali songs 2026",
+      "nepali music 2026"
+    ],
+    "Pramod Kharel": [
+      "Pramod Kharel songs",
+      "Pramod Kharel new song 2026"
+    ],
+    "Anju Panta": [
+      "Anju Panta songs",
+      "Anju Panta new song 2026"
+    ]
+  },
+  "music_singers": [
+    "Pramod Kharel",
+    "Anju Panta"
+  ]
+}

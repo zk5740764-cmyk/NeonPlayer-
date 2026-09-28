@@ -1,0 +1,37 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_singers\" = singers shown on the Music tab. Just add a name to either list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/PH.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Philippines Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "SB19",
+    "Moira Dela Torre",
+    "Sarah Geronimo"
+  ],
+  "category_queries": {
+    "Philippines Hits": [
+      "OPM songs 2026",
+      "tagalog songs 2026"
+    ],
+    "SB19": [
+      "SB19 songs",
+      "SB19 new song 2026"
+    ],
+    "Moira Dela Torre": [
+      "Moira Dela Torre songs",
+      "Moira Dela Torre new song 2026"
+    ],
+    "Sarah Geronimo": [
+      "Sarah Geronimo songs",
+      "Sarah Geronimo new song 2026"
+    ]
+  },
+  "music_singers": [
+    "SB19",
+    "Moira Dela Torre",
+    "Sarah Geronimo"
+  ]
+}

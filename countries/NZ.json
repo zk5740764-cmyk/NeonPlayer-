@@ -1,0 +1,31 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_singers\" = singers shown on the Music tab. Just add a name to either list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/NZ.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "New Zealand Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Lorde",
+    "Kimbra"
+  ],
+  "category_queries": {
+    "New Zealand Hits": [
+      "top nz songs 2026",
+      "new zealand music 2026"
+    ],
+    "Lorde": [
+      "Lorde songs",
+      "Lorde new song 2026"
+    ],
+    "Kimbra": [
+      "Kimbra songs",
+      "Kimbra new song 2026"
+    ]
+  },
+  "music_singers": [
+    "Lorde",
+    "Kimbra"
+  ]
+}

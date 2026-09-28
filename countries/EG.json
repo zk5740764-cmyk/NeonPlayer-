@@ -1,0 +1,37 @@
+{
+  "_comment": "Per-country content. \"categories\" = Home screen category chips; \"music_singers\" = singers shown on the Music tab. Just add a name to either list - the app finds its videos/songs by itself (news/sports/trending are auto-localised to this country). Optional: \"category_queries\" lets you set your own search queries for a specific name. Upload as countries/EG.json on GitHub.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Egypt Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Amr Diab",
+    "Tamer Hosny",
+    "Mohamed Ramadan"
+  ],
+  "category_queries": {
+    "Egypt Hits": [
+      "اغاني مصرية 2026",
+      "اغاني عربية جديدة 2026"
+    ],
+    "Amr Diab": [
+      "Amr Diab songs",
+      "Amr Diab new song 2026"
+    ],
+    "Tamer Hosny": [
+      "Tamer Hosny songs",
+      "Tamer Hosny new song 2026"
+    ],
+    "Mohamed Ramadan": [
+      "Mohamed Ramadan songs",
+      "Mohamed Ramadan new song 2026"
+    ]
+  },
+  "music_singers": [
+    "Amr Diab",
+    "Tamer Hosny",
+    "Mohamed Ramadan"
+  ]
+}
