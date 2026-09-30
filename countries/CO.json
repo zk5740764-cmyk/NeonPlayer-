@@ -1,0 +1,113 @@
+{
+  "name": "Colombia",
+  "categories": [
+    "Home",
+    "Trending",
+    "Colombia Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Karol G",
+    "J Balvin",
+    "Shakira",
+    "Maluma"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Colombia Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Karol G",
+    "J Balvin",
+    "Shakira",
+    "Maluma",
+    "Feid",
+    "Camilo",
+    "Juanes",
+    "Carlos Vives"
+  ],
+  "category_queries": {
+    "Home": [
+      "Colombia trending videos today",
+      "Colombia viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Colombia {year}",
+      "trending songs Colombia {year}",
+      "Colombia music {year}"
+    ],
+    "Colombia Hits": [
+      "música colombiana {year}",
+      "reggaeton colombia {year}"
+    ],
+    "News": [
+      "Colombia news today",
+      "Colombia breaking news {year}",
+      "Colombia latest news"
+    ],
+    "Sports": [
+      "Colombia sports highlights",
+      "Colombia sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Colombia gaming {year}"
+    ],
+    "Karol G": [
+      "Karol G songs",
+      "Karol G new song {year}"
+    ],
+    "J Balvin": [
+      "J Balvin songs",
+      "J Balvin new song {year}"
+    ],
+    "Shakira": [
+      "Shakira songs",
+      "Shakira new song {year}"
+    ],
+    "Maluma": [
+      "Maluma songs",
+      "Maluma new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Colombia {year}",
+      "trending songs Colombia {year}",
+      "Colombia music {year}"
+    ],
+    "New Releases": [
+      "new Colombia songs {year}",
+      "Colombia new music {year}"
+    ],
+    "Romantic": [
+      "Colombia romantic songs",
+      "Colombia love songs {year}"
+    ],
+    "Old Classics": [
+      "Colombia old classic songs",
+      "Colombia evergreen hits"
+    ],
+    "Feid": [
+      "Feid songs",
+      "Feid new song {year}"
+    ],
+    "Camilo": [
+      "Camilo songs",
+      "Camilo new song {year}"
+    ],
+    "Juanes": [
+      "Juanes songs",
+      "Juanes new song {year}"
+    ],
+    "Carlos Vives": [
+      "Carlos Vives songs",
+      "Carlos Vives new song {year}"
+    ]
+  }
+}

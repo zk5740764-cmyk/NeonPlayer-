@@ -1,0 +1,128 @@
+{
+  "name": "Nigeria",
+  "categories": [
+    "Home",
+    "Trending",
+    "Nigeria Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Burna Boy",
+    "Wizkid",
+    "Davido",
+    "Asake"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Nigeria Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Burna Boy",
+    "Wizkid",
+    "Davido",
+    "Asake",
+    "Rema",
+    "Tems",
+    "Ayra Starr",
+    "Tiwa Savage",
+    "Fireboy DML",
+    "Omah Lay",
+    "CKay"
+  ],
+  "category_queries": {
+    "Home": [
+      "Nigeria trending videos today",
+      "Nigeria viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Nigeria {year}",
+      "trending songs Nigeria {year}",
+      "Nigeria music {year}"
+    ],
+    "Nigeria Hits": [
+      "afrobeats {year}",
+      "naija songs {year}"
+    ],
+    "News": [
+      "Nigeria news today",
+      "Nigeria breaking news {year}",
+      "Nigeria latest news"
+    ],
+    "Sports": [
+      "Nigeria sports highlights",
+      "Nigeria sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Nigeria gaming {year}"
+    ],
+    "Burna Boy": [
+      "Burna Boy songs",
+      "Burna Boy new song {year}"
+    ],
+    "Wizkid": [
+      "Wizkid songs",
+      "Wizkid new song {year}"
+    ],
+    "Davido": [
+      "Davido songs",
+      "Davido new song {year}"
+    ],
+    "Asake": [
+      "Asake songs",
+      "Asake new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Nigeria {year}",
+      "trending songs Nigeria {year}",
+      "Nigeria music {year}"
+    ],
+    "New Releases": [
+      "new Nigeria songs {year}",
+      "Nigeria new music {year}"
+    ],
+    "Romantic": [
+      "Nigeria romantic songs",
+      "Nigeria love songs {year}"
+    ],
+    "Old Classics": [
+      "Nigeria old classic songs",
+      "Nigeria evergreen hits"
+    ],
+    "Rema": [
+      "Rema songs",
+      "Rema new song {year}"
+    ],
+    "Tems": [
+      "Tems songs",
+      "Tems new song {year}"
+    ],
+    "Ayra Starr": [
+      "Ayra Starr songs",
+      "Ayra Starr new song {year}"
+    ],
+    "Tiwa Savage": [
+      "Tiwa Savage songs",
+      "Tiwa Savage new song {year}"
+    ],
+    "Fireboy DML": [
+      "Fireboy DML songs",
+      "Fireboy DML new song {year}"
+    ],
+    "Omah Lay": [
+      "Omah Lay songs",
+      "Omah Lay new song {year}"
+    ],
+    "CKay": [
+      "CKay songs",
+      "CKay new song {year}"
+    ]
+  }
+}

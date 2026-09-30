@@ -1,0 +1,116 @@
+{
+  "name": "Poland",
+  "categories": [
+    "Home",
+    "Trending",
+    "Poland Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Dawid Podsiadło",
+    "Doda"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Poland Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Dawid Podsiadło",
+    "Doda",
+    "Sanah",
+    "Margaret",
+    "Taco Hemingway",
+    "Mrozu",
+    "Kayah",
+    "Maryla Rodowicz",
+    "Quebonafide"
+  ],
+  "category_queries": {
+    "Home": [
+      "Poland trending videos today",
+      "Poland viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Poland {year}",
+      "trending songs Poland {year}",
+      "Poland music {year}"
+    ],
+    "Poland Hits": [
+      "polskie hity {year}",
+      "polski rap {year}"
+    ],
+    "News": [
+      "Poland news today",
+      "Poland breaking news {year}",
+      "Poland latest news"
+    ],
+    "Sports": [
+      "Poland sports highlights",
+      "Poland sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Poland gaming {year}"
+    ],
+    "Dawid Podsiadło": [
+      "Dawid Podsiadło songs",
+      "Dawid Podsiadło new song {year}"
+    ],
+    "Doda": [
+      "Doda songs",
+      "Doda new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Poland {year}",
+      "trending songs Poland {year}",
+      "Poland music {year}"
+    ],
+    "New Releases": [
+      "new Poland songs {year}",
+      "Poland new music {year}"
+    ],
+    "Romantic": [
+      "Poland romantic songs",
+      "Poland love songs {year}"
+    ],
+    "Old Classics": [
+      "Poland old classic songs",
+      "Poland evergreen hits"
+    ],
+    "Sanah": [
+      "Sanah songs",
+      "Sanah new song {year}"
+    ],
+    "Margaret": [
+      "Margaret songs",
+      "Margaret new song {year}"
+    ],
+    "Taco Hemingway": [
+      "Taco Hemingway songs",
+      "Taco Hemingway new song {year}"
+    ],
+    "Mrozu": [
+      "Mrozu songs",
+      "Mrozu new song {year}"
+    ],
+    "Kayah": [
+      "Kayah songs",
+      "Kayah new song {year}"
+    ],
+    "Maryla Rodowicz": [
+      "Maryla Rodowicz songs",
+      "Maryla Rodowicz new song {year}"
+    ],
+    "Quebonafide": [
+      "Quebonafide songs",
+      "Quebonafide new song {year}"
+    ]
+  }
+}

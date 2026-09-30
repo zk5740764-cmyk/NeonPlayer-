@@ -1,0 +1,122 @@
+{
+  "name": "Japan",
+  "categories": [
+    "Home",
+    "Trending",
+    "Japan Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "YOASOBI",
+    "Kenshi Yonezu",
+    "Ado"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Japan Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "YOASOBI",
+    "Kenshi Yonezu",
+    "Ado",
+    "Fujii Kaze",
+    "Official HIGE DANdism",
+    "Utada Hikaru",
+    "King Gnu",
+    "LiSA",
+    "Aimer",
+    "Mrs. GREEN APPLE"
+  ],
+  "category_queries": {
+    "Home": [
+      "Japan trending videos today",
+      "Japan viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Japan {year}",
+      "trending songs Japan {year}",
+      "Japan music {year}"
+    ],
+    "Japan Hits": [
+      "邦楽 {year}",
+      "j-pop {year}"
+    ],
+    "News": [
+      "Japan news today",
+      "Japan breaking news {year}",
+      "Japan latest news"
+    ],
+    "Sports": [
+      "Japan sports highlights",
+      "Japan sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Japan gaming {year}"
+    ],
+    "YOASOBI": [
+      "YOASOBI songs",
+      "YOASOBI new song {year}"
+    ],
+    "Kenshi Yonezu": [
+      "Kenshi Yonezu songs",
+      "Kenshi Yonezu new song {year}"
+    ],
+    "Ado": [
+      "Ado songs",
+      "Ado new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Japan {year}",
+      "trending songs Japan {year}",
+      "Japan music {year}"
+    ],
+    "New Releases": [
+      "new Japan songs {year}",
+      "Japan new music {year}"
+    ],
+    "Romantic": [
+      "Japan romantic songs",
+      "Japan love songs {year}"
+    ],
+    "Old Classics": [
+      "Japan old classic songs",
+      "Japan evergreen hits"
+    ],
+    "Fujii Kaze": [
+      "Fujii Kaze songs",
+      "Fujii Kaze new song {year}"
+    ],
+    "Official HIGE DANdism": [
+      "Official HIGE DANdism songs",
+      "Official HIGE DANdism new song {year}"
+    ],
+    "Utada Hikaru": [
+      "Utada Hikaru songs",
+      "Utada Hikaru new song {year}"
+    ],
+    "King Gnu": [
+      "King Gnu songs",
+      "King Gnu new song {year}"
+    ],
+    "LiSA": [
+      "LiSA songs",
+      "LiSA new song {year}"
+    ],
+    "Aimer": [
+      "Aimer songs",
+      "Aimer new song {year}"
+    ],
+    "Mrs. GREEN APPLE": [
+      "Mrs. GREEN APPLE songs",
+      "Mrs. GREEN APPLE new song {year}"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "name": "Austria",
+  "categories": [
+    "Home",
+    "Trending",
+    "Austria Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Falco",
+    "Parov Stelar"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Austria Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Falco",
+    "Parov Stelar",
+    "Wolfgang Ambros",
+    "Andreas Gabalier",
+    "Christina Stürmer",
+    "Wanda",
+    "Opus",
+    "Seiler und Speer"
+  ],
+  "category_queries": {
+    "Home": [
+      "Austria trending videos today",
+      "Austria viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Austria {year}",
+      "trending songs Austria {year}",
+      "Austria music {year}"
+    ],
+    "Austria Hits": [
+      "österreichische musik {year}",
+      "austropop"
+    ],
+    "News": [
+      "Austria news today",
+      "Austria breaking news {year}",
+      "Austria latest news"
+    ],
+    "Sports": [
+      "Austria sports highlights",
+      "Austria sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Austria gaming {year}"
+    ],
+    "Falco": [
+      "Falco songs",
+      "Falco new song {year}"
+    ],
+    "Parov Stelar": [
+      "Parov Stelar songs",
+      "Parov Stelar new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Austria {year}",
+      "trending songs Austria {year}",
+      "Austria music {year}"
+    ],
+    "New Releases": [
+      "new Austria songs {year}",
+      "Austria new music {year}"
+    ],
+    "Romantic": [
+      "Austria romantic songs",
+      "Austria love songs {year}"
+    ],
+    "Old Classics": [
+      "Austria old classic songs",
+      "Austria evergreen hits"
+    ],
+    "Wolfgang Ambros": [
+      "Wolfgang Ambros songs",
+      "Wolfgang Ambros new song {year}"
+    ],
+    "Andreas Gabalier": [
+      "Andreas Gabalier songs",
+      "Andreas Gabalier new song {year}"
+    ],
+    "Christina Stürmer": [
+      "Christina Stürmer songs",
+      "Christina Stürmer new song {year}"
+    ],
+    "Wanda": [
+      "Wanda songs",
+      "Wanda new song {year}"
+    ],
+    "Opus": [
+      "Opus songs",
+      "Opus new song {year}"
+    ],
+    "Seiler und Speer": [
+      "Seiler und Speer songs",
+      "Seiler und Speer new song {year}"
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "name": "Ireland",
+  "categories": [
+    "Home",
+    "Trending",
+    "Ireland Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Hozier",
+    "U2",
+    "Dermot Kennedy"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Ireland Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Hozier",
+    "U2",
+    "Dermot Kennedy",
+    "Enya",
+    "The Cranberries",
+    "Sinéad O'Connor",
+    "CMAT",
+    "Fontaines D.C.",
+    "Gavin James"
+  ],
+  "category_queries": {
+    "Home": [
+      "Ireland trending videos today",
+      "Ireland viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Ireland {year}",
+      "trending songs Ireland {year}",
+      "Ireland music {year}"
+    ],
+    "Ireland Hits": [
+      "top irish songs {year}",
+      "irish music {year}"
+    ],
+    "News": [
+      "Ireland news today",
+      "Ireland breaking news {year}",
+      "Ireland latest news"
+    ],
+    "Sports": [
+      "Ireland sports highlights",
+      "Ireland sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Ireland gaming {year}"
+    ],
+    "Hozier": [
+      "Hozier songs",
+      "Hozier new song {year}"
+    ],
+    "U2": [
+      "U2 songs",
+      "U2 new song {year}"
+    ],
+    "Dermot Kennedy": [
+      "Dermot Kennedy songs",
+      "Dermot Kennedy new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Ireland {year}",
+      "trending songs Ireland {year}",
+      "Ireland music {year}"
+    ],
+    "New Releases": [
+      "new Ireland songs {year}",
+      "Ireland new music {year}"
+    ],
+    "Romantic": [
+      "Ireland romantic songs",
+      "Ireland love songs {year}"
+    ],
+    "Old Classics": [
+      "Ireland old classic songs",
+      "Ireland evergreen hits"
+    ],
+    "Enya": [
+      "Enya songs",
+      "Enya new song {year}"
+    ],
+    "The Cranberries": [
+      "The Cranberries songs",
+      "The Cranberries new song {year}"
+    ],
+    "Sinéad O'Connor": [
+      "Sinéad O'Connor songs",
+      "Sinéad O'Connor new song {year}"
+    ],
+    "CMAT": [
+      "CMAT songs",
+      "CMAT new song {year}"
+    ],
+    "Fontaines D.C.": [
+      "Fontaines D.C. songs",
+      "Fontaines D.C. new song {year}"
+    ],
+    "Gavin James": [
+      "Gavin James songs",
+      "Gavin James new song {year}"
+    ]
+  }
+}

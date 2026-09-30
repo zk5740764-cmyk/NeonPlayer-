@@ -1,0 +1,111 @@
+{
+  "name": "Israel",
+  "categories": [
+    "Home",
+    "Trending",
+    "Israel Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Omer Adam",
+    "Noa Kirel"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Israel Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Omer Adam",
+    "Noa Kirel",
+    "Sarit Hadad",
+    "Eden Ben Zaken",
+    "Static & Ben El",
+    "Netta",
+    "Idan Raichel",
+    "Eyal Golan"
+  ],
+  "category_queries": {
+    "Home": [
+      "Israel trending videos today",
+      "Israel viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Israel {year}",
+      "trending songs Israel {year}",
+      "Israel music {year}"
+    ],
+    "Israel Hits": [
+      "שירים ישראליים {year}",
+      "israeli music {year}"
+    ],
+    "News": [
+      "Israel news today",
+      "Israel breaking news {year}",
+      "Israel latest news"
+    ],
+    "Sports": [
+      "Israel sports highlights",
+      "Israel sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Israel gaming {year}"
+    ],
+    "Omer Adam": [
+      "Omer Adam songs",
+      "Omer Adam new song {year}"
+    ],
+    "Noa Kirel": [
+      "Noa Kirel songs",
+      "Noa Kirel new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Israel {year}",
+      "trending songs Israel {year}",
+      "Israel music {year}"
+    ],
+    "New Releases": [
+      "new Israel songs {year}",
+      "Israel new music {year}"
+    ],
+    "Romantic": [
+      "Israel romantic songs",
+      "Israel love songs {year}"
+    ],
+    "Old Classics": [
+      "Israel old classic songs",
+      "Israel evergreen hits"
+    ],
+    "Sarit Hadad": [
+      "Sarit Hadad songs",
+      "Sarit Hadad new song {year}"
+    ],
+    "Eden Ben Zaken": [
+      "Eden Ben Zaken songs",
+      "Eden Ben Zaken new song {year}"
+    ],
+    "Static & Ben El": [
+      "Static & Ben El songs",
+      "Static & Ben El new song {year}"
+    ],
+    "Netta": [
+      "Netta songs",
+      "Netta new song {year}"
+    ],
+    "Idan Raichel": [
+      "Idan Raichel songs",
+      "Idan Raichel new song {year}"
+    ],
+    "Eyal Golan": [
+      "Eyal Golan songs",
+      "Eyal Golan new song {year}"
+    ]
+  }
+}

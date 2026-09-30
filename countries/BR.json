@@ -1,0 +1,117 @@
+{
+  "name": "Brazil",
+  "categories": [
+    "Home",
+    "Trending",
+    "Brazil Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Anitta",
+    "Gusttavo Lima",
+    "Luísa Sonza"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Brazil Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Anitta",
+    "Gusttavo Lima",
+    "Luísa Sonza",
+    "Marília Mendonça",
+    "Jorge & Mateus",
+    "Ivete Sangalo",
+    "Caetano Veloso",
+    "Ludmilla",
+    "Zé Neto & Cristiano"
+  ],
+  "category_queries": {
+    "Home": [
+      "Brazil trending videos today",
+      "Brazil viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Brazil {year}",
+      "trending songs Brazil {year}",
+      "Brazil music {year}"
+    ],
+    "Brazil Hits": [
+      "músicas brasileiras {year}",
+      "sertanejo {year}"
+    ],
+    "News": [
+      "Brazil news today",
+      "Brazil breaking news {year}",
+      "Brazil latest news"
+    ],
+    "Sports": [
+      "Brazil sports highlights",
+      "Brazil sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Brazil gaming {year}"
+    ],
+    "Anitta": [
+      "Anitta songs",
+      "Anitta new song {year}"
+    ],
+    "Gusttavo Lima": [
+      "Gusttavo Lima songs",
+      "Gusttavo Lima new song {year}"
+    ],
+    "Luísa Sonza": [
+      "Luísa Sonza songs",
+      "Luísa Sonza new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Brazil {year}",
+      "trending songs Brazil {year}",
+      "Brazil music {year}"
+    ],
+    "New Releases": [
+      "new Brazil songs {year}",
+      "Brazil new music {year}"
+    ],
+    "Romantic": [
+      "Brazil romantic songs",
+      "Brazil love songs {year}"
+    ],
+    "Old Classics": [
+      "Brazil old classic songs",
+      "Brazil evergreen hits"
+    ],
+    "Marília Mendonça": [
+      "Marília Mendonça songs",
+      "Marília Mendonça new song {year}"
+    ],
+    "Jorge & Mateus": [
+      "Jorge & Mateus songs",
+      "Jorge & Mateus new song {year}"
+    ],
+    "Ivete Sangalo": [
+      "Ivete Sangalo songs",
+      "Ivete Sangalo new song {year}"
+    ],
+    "Caetano Veloso": [
+      "Caetano Veloso songs",
+      "Caetano Veloso new song {year}"
+    ],
+    "Ludmilla": [
+      "Ludmilla songs",
+      "Ludmilla new song {year}"
+    ],
+    "Zé Neto & Cristiano": [
+      "Zé Neto & Cristiano songs",
+      "Zé Neto & Cristiano new song {year}"
+    ]
+  }
+}

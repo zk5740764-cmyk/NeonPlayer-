@@ -1,0 +1,116 @@
+{
+  "name": "Nepal",
+  "categories": [
+    "Home",
+    "Trending",
+    "Nepal Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Pramod Kharel",
+    "Anju Panta"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Nepal Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Pramod Kharel",
+    "Anju Panta",
+    "Sugam Pokhrel",
+    "Rajesh Payal Rai",
+    "Bipul Chettri",
+    "Yabesh Thapa",
+    "Swoopna Suman",
+    "Melina Rai",
+    "Narayan Gopal"
+  ],
+  "category_queries": {
+    "Home": [
+      "Nepal trending videos today",
+      "Nepal viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Nepal {year}",
+      "trending songs Nepal {year}",
+      "Nepal music {year}"
+    ],
+    "Nepal Hits": [
+      "nepali songs {year}",
+      "nepali music {year}"
+    ],
+    "News": [
+      "Nepal news today",
+      "Nepal breaking news {year}",
+      "Nepal latest news"
+    ],
+    "Sports": [
+      "Nepal sports highlights",
+      "Nepal sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Nepal gaming {year}"
+    ],
+    "Pramod Kharel": [
+      "Pramod Kharel songs",
+      "Pramod Kharel new song {year}"
+    ],
+    "Anju Panta": [
+      "Anju Panta songs",
+      "Anju Panta new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Nepal {year}",
+      "trending songs Nepal {year}",
+      "Nepal music {year}"
+    ],
+    "New Releases": [
+      "new Nepal songs {year}",
+      "Nepal new music {year}"
+    ],
+    "Romantic": [
+      "Nepal romantic songs",
+      "Nepal love songs {year}"
+    ],
+    "Old Classics": [
+      "Nepal old classic songs",
+      "Nepal evergreen hits"
+    ],
+    "Sugam Pokhrel": [
+      "Sugam Pokhrel songs",
+      "Sugam Pokhrel new song {year}"
+    ],
+    "Rajesh Payal Rai": [
+      "Rajesh Payal Rai songs",
+      "Rajesh Payal Rai new song {year}"
+    ],
+    "Bipul Chettri": [
+      "Bipul Chettri songs",
+      "Bipul Chettri new song {year}"
+    ],
+    "Yabesh Thapa": [
+      "Yabesh Thapa songs",
+      "Yabesh Thapa new song {year}"
+    ],
+    "Swoopna Suman": [
+      "Swoopna Suman songs",
+      "Swoopna Suman new song {year}"
+    ],
+    "Melina Rai": [
+      "Melina Rai songs",
+      "Melina Rai new song {year}"
+    ],
+    "Narayan Gopal": [
+      "Narayan Gopal songs",
+      "Narayan Gopal new song {year}"
+    ]
+  }
+}

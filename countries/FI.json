@@ -1,0 +1,111 @@
+{
+  "name": "Finland",
+  "categories": [
+    "Home",
+    "Trending",
+    "Finland Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Käärijä",
+    "Lordi"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Finland Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Käärijä",
+    "Lordi",
+    "Nightwish",
+    "HIM",
+    "Alma",
+    "Cheek",
+    "Jenni Vartiainen",
+    "JVG"
+  ],
+  "category_queries": {
+    "Home": [
+      "Finland trending videos today",
+      "Finland viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Finland {year}",
+      "trending songs Finland {year}",
+      "Finland music {year}"
+    ],
+    "Finland Hits": [
+      "suomalaiset hitit {year}",
+      "finnish music {year}"
+    ],
+    "News": [
+      "Finland news today",
+      "Finland breaking news {year}",
+      "Finland latest news"
+    ],
+    "Sports": [
+      "Finland sports highlights",
+      "Finland sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Finland gaming {year}"
+    ],
+    "Käärijä": [
+      "Käärijä songs",
+      "Käärijä new song {year}"
+    ],
+    "Lordi": [
+      "Lordi songs",
+      "Lordi new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Finland {year}",
+      "trending songs Finland {year}",
+      "Finland music {year}"
+    ],
+    "New Releases": [
+      "new Finland songs {year}",
+      "Finland new music {year}"
+    ],
+    "Romantic": [
+      "Finland romantic songs",
+      "Finland love songs {year}"
+    ],
+    "Old Classics": [
+      "Finland old classic songs",
+      "Finland evergreen hits"
+    ],
+    "Nightwish": [
+      "Nightwish songs",
+      "Nightwish new song {year}"
+    ],
+    "HIM": [
+      "HIM songs",
+      "HIM new song {year}"
+    ],
+    "Alma": [
+      "Alma songs",
+      "Alma new song {year}"
+    ],
+    "Cheek": [
+      "Cheek songs",
+      "Cheek new song {year}"
+    ],
+    "Jenni Vartiainen": [
+      "Jenni Vartiainen songs",
+      "Jenni Vartiainen new song {year}"
+    ],
+    "JVG": [
+      "JVG songs",
+      "JVG new song {year}"
+    ]
+  }
+}

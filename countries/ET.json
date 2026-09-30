@@ -1,0 +1,111 @@
+{
+  "name": "Ethiopia",
+  "categories": [
+    "Home",
+    "Trending",
+    "Ethiopia Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Teddy Afro",
+    "Aster Aweke"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Ethiopia Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Teddy Afro",
+    "Aster Aweke",
+    "Tilahun Gessesse",
+    "Mahmoud Ahmed",
+    "Gigi",
+    "Rophnan",
+    "Tsedenia Gebremarkos",
+    "Zeritu Kebede"
+  ],
+  "category_queries": {
+    "Home": [
+      "Ethiopia trending videos today",
+      "Ethiopia viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Ethiopia {year}",
+      "trending songs Ethiopia {year}",
+      "Ethiopia music {year}"
+    ],
+    "Ethiopia Hits": [
+      "ethiopian music {year}",
+      "amharic songs {year}"
+    ],
+    "News": [
+      "Ethiopia news today",
+      "Ethiopia breaking news {year}",
+      "Ethiopia latest news"
+    ],
+    "Sports": [
+      "Ethiopia sports highlights",
+      "Ethiopia sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Ethiopia gaming {year}"
+    ],
+    "Teddy Afro": [
+      "Teddy Afro songs",
+      "Teddy Afro new song {year}"
+    ],
+    "Aster Aweke": [
+      "Aster Aweke songs",
+      "Aster Aweke new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Ethiopia {year}",
+      "trending songs Ethiopia {year}",
+      "Ethiopia music {year}"
+    ],
+    "New Releases": [
+      "new Ethiopia songs {year}",
+      "Ethiopia new music {year}"
+    ],
+    "Romantic": [
+      "Ethiopia romantic songs",
+      "Ethiopia love songs {year}"
+    ],
+    "Old Classics": [
+      "Ethiopia old classic songs",
+      "Ethiopia evergreen hits"
+    ],
+    "Tilahun Gessesse": [
+      "Tilahun Gessesse songs",
+      "Tilahun Gessesse new song {year}"
+    ],
+    "Mahmoud Ahmed": [
+      "Mahmoud Ahmed songs",
+      "Mahmoud Ahmed new song {year}"
+    ],
+    "Gigi": [
+      "Gigi songs",
+      "Gigi new song {year}"
+    ],
+    "Rophnan": [
+      "Rophnan songs",
+      "Rophnan new song {year}"
+    ],
+    "Tsedenia Gebremarkos": [
+      "Tsedenia Gebremarkos songs",
+      "Tsedenia Gebremarkos new song {year}"
+    ],
+    "Zeritu Kebede": [
+      "Zeritu Kebede songs",
+      "Zeritu Kebede new song {year}"
+    ]
+  }
+}

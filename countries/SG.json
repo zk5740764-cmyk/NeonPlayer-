@@ -1,0 +1,111 @@
+{
+  "name": "Singapore",
+  "categories": [
+    "Home",
+    "Trending",
+    "Singapore Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "JJ Lin",
+    "Stefanie Sun"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Singapore Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "JJ Lin",
+    "Stefanie Sun",
+    "Kit Chan",
+    "Taufik Batisah",
+    "Charlie Lim",
+    "Benjamin Kheng",
+    "Joanna Dong",
+    "The Sam Willows"
+  ],
+  "category_queries": {
+    "Home": [
+      "Singapore trending videos today",
+      "Singapore viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Singapore {year}",
+      "trending songs Singapore {year}",
+      "Singapore music {year}"
+    ],
+    "Singapore Hits": [
+      "singapore songs {year}",
+      "mandopop {year}"
+    ],
+    "News": [
+      "Singapore news today",
+      "Singapore breaking news {year}",
+      "Singapore latest news"
+    ],
+    "Sports": [
+      "Singapore sports highlights",
+      "Singapore sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Singapore gaming {year}"
+    ],
+    "JJ Lin": [
+      "JJ Lin songs",
+      "JJ Lin new song {year}"
+    ],
+    "Stefanie Sun": [
+      "Stefanie Sun songs",
+      "Stefanie Sun new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Singapore {year}",
+      "trending songs Singapore {year}",
+      "Singapore music {year}"
+    ],
+    "New Releases": [
+      "new Singapore songs {year}",
+      "Singapore new music {year}"
+    ],
+    "Romantic": [
+      "Singapore romantic songs",
+      "Singapore love songs {year}"
+    ],
+    "Old Classics": [
+      "Singapore old classic songs",
+      "Singapore evergreen hits"
+    ],
+    "Kit Chan": [
+      "Kit Chan songs",
+      "Kit Chan new song {year}"
+    ],
+    "Taufik Batisah": [
+      "Taufik Batisah songs",
+      "Taufik Batisah new song {year}"
+    ],
+    "Charlie Lim": [
+      "Charlie Lim songs",
+      "Charlie Lim new song {year}"
+    ],
+    "Benjamin Kheng": [
+      "Benjamin Kheng songs",
+      "Benjamin Kheng new song {year}"
+    ],
+    "Joanna Dong": [
+      "Joanna Dong songs",
+      "Joanna Dong new song {year}"
+    ],
+    "The Sam Willows": [
+      "The Sam Willows songs",
+      "The Sam Willows new song {year}"
+    ]
+  }
+}

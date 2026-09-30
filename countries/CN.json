@@ -1,0 +1,111 @@
+{
+  "name": "China",
+  "categories": [
+    "Home",
+    "Trending",
+    "China Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Jay Chou",
+    "Eason Chan"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "China Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Jay Chou",
+    "Eason Chan",
+    "Jolin Tsai",
+    "JJ Lin",
+    "Faye Wong",
+    "G.E.M.",
+    "Li Ronghao",
+    "Zhou Shen"
+  ],
+  "category_queries": {
+    "Home": [
+      "China trending videos today",
+      "China viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs China {year}",
+      "trending songs China {year}",
+      "China music {year}"
+    ],
+    "China Hits": [
+      "华语歌曲 {year}",
+      "华语流行 {year}"
+    ],
+    "News": [
+      "China news today",
+      "China breaking news {year}",
+      "China latest news"
+    ],
+    "Sports": [
+      "China sports highlights",
+      "China sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "China gaming {year}"
+    ],
+    "Jay Chou": [
+      "Jay Chou songs",
+      "Jay Chou new song {year}"
+    ],
+    "Eason Chan": [
+      "Eason Chan songs",
+      "Eason Chan new song {year}"
+    ],
+    "Top Charts": [
+      "top songs China {year}",
+      "trending songs China {year}",
+      "China music {year}"
+    ],
+    "New Releases": [
+      "new China songs {year}",
+      "China new music {year}"
+    ],
+    "Romantic": [
+      "China romantic songs",
+      "China love songs {year}"
+    ],
+    "Old Classics": [
+      "China old classic songs",
+      "China evergreen hits"
+    ],
+    "Jolin Tsai": [
+      "Jolin Tsai songs",
+      "Jolin Tsai new song {year}"
+    ],
+    "JJ Lin": [
+      "JJ Lin songs",
+      "JJ Lin new song {year}"
+    ],
+    "Faye Wong": [
+      "Faye Wong songs",
+      "Faye Wong new song {year}"
+    ],
+    "G.E.M.": [
+      "G.E.M. songs",
+      "G.E.M. new song {year}"
+    ],
+    "Li Ronghao": [
+      "Li Ronghao songs",
+      "Li Ronghao new song {year}"
+    ],
+    "Zhou Shen": [
+      "Zhou Shen songs",
+      "Zhou Shen new song {year}"
+    ]
+  }
+}

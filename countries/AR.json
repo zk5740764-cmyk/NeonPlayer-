@@ -1,0 +1,122 @@
+{
+  "name": "Argentina",
+  "categories": [
+    "Home",
+    "Trending",
+    "Argentina Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Duki",
+    "Bizarrap",
+    "Tini"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Argentina Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Duki",
+    "Bizarrap",
+    "Tini",
+    "Nicki Nicole",
+    "María Becerra",
+    "Emilia",
+    "Trueno",
+    "Lali",
+    "Fito Páez",
+    "Soda Stereo"
+  ],
+  "category_queries": {
+    "Home": [
+      "Argentina trending videos today",
+      "Argentina viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Argentina {year}",
+      "trending songs Argentina {year}",
+      "Argentina music {year}"
+    ],
+    "Argentina Hits": [
+      "música argentina {year}",
+      "trap argentino {year}"
+    ],
+    "News": [
+      "Argentina news today",
+      "Argentina breaking news {year}",
+      "Argentina latest news"
+    ],
+    "Sports": [
+      "Argentina sports highlights",
+      "Argentina sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Argentina gaming {year}"
+    ],
+    "Duki": [
+      "Duki songs",
+      "Duki new song {year}"
+    ],
+    "Bizarrap": [
+      "Bizarrap songs",
+      "Bizarrap new song {year}"
+    ],
+    "Tini": [
+      "Tini songs",
+      "Tini new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Argentina {year}",
+      "trending songs Argentina {year}",
+      "Argentina music {year}"
+    ],
+    "New Releases": [
+      "new Argentina songs {year}",
+      "Argentina new music {year}"
+    ],
+    "Romantic": [
+      "Argentina romantic songs",
+      "Argentina love songs {year}"
+    ],
+    "Old Classics": [
+      "Argentina old classic songs",
+      "Argentina evergreen hits"
+    ],
+    "Nicki Nicole": [
+      "Nicki Nicole songs",
+      "Nicki Nicole new song {year}"
+    ],
+    "María Becerra": [
+      "María Becerra songs",
+      "María Becerra new song {year}"
+    ],
+    "Emilia": [
+      "Emilia songs",
+      "Emilia new song {year}"
+    ],
+    "Trueno": [
+      "Trueno songs",
+      "Trueno new song {year}"
+    ],
+    "Lali": [
+      "Lali songs",
+      "Lali new song {year}"
+    ],
+    "Fito Páez": [
+      "Fito Páez songs",
+      "Fito Páez new song {year}"
+    ],
+    "Soda Stereo": [
+      "Soda Stereo songs",
+      "Soda Stereo new song {year}"
+    ]
+  }
+}

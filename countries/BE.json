@@ -1,0 +1,111 @@
+{
+  "name": "Belgium",
+  "categories": [
+    "Home",
+    "Trending",
+    "Belgium Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Stromae",
+    "Angèle"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Belgium Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Stromae",
+    "Angèle",
+    "Lost Frequencies",
+    "Selah Sue",
+    "Dimitri Vegas & Like Mike",
+    "Jacques Brel",
+    "Hooverphonic",
+    "Netsky"
+  ],
+  "category_queries": {
+    "Home": [
+      "Belgium trending videos today",
+      "Belgium viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Belgium {year}",
+      "trending songs Belgium {year}",
+      "Belgium music {year}"
+    ],
+    "Belgium Hits": [
+      "belgian songs {year}",
+      "chansons belges {year}"
+    ],
+    "News": [
+      "Belgium news today",
+      "Belgium breaking news {year}",
+      "Belgium latest news"
+    ],
+    "Sports": [
+      "Belgium sports highlights",
+      "Belgium sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Belgium gaming {year}"
+    ],
+    "Stromae": [
+      "Stromae songs",
+      "Stromae new song {year}"
+    ],
+    "Angèle": [
+      "Angèle songs",
+      "Angèle new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Belgium {year}",
+      "trending songs Belgium {year}",
+      "Belgium music {year}"
+    ],
+    "New Releases": [
+      "new Belgium songs {year}",
+      "Belgium new music {year}"
+    ],
+    "Romantic": [
+      "Belgium romantic songs",
+      "Belgium love songs {year}"
+    ],
+    "Old Classics": [
+      "Belgium old classic songs",
+      "Belgium evergreen hits"
+    ],
+    "Lost Frequencies": [
+      "Lost Frequencies songs",
+      "Lost Frequencies new song {year}"
+    ],
+    "Selah Sue": [
+      "Selah Sue songs",
+      "Selah Sue new song {year}"
+    ],
+    "Dimitri Vegas & Like Mike": [
+      "Dimitri Vegas & Like Mike songs",
+      "Dimitri Vegas & Like Mike new song {year}"
+    ],
+    "Jacques Brel": [
+      "Jacques Brel songs",
+      "Jacques Brel new song {year}"
+    ],
+    "Hooverphonic": [
+      "Hooverphonic songs",
+      "Hooverphonic new song {year}"
+    ],
+    "Netsky": [
+      "Netsky songs",
+      "Netsky new song {year}"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Malaysia",
+  "categories": [
+    "Home",
+    "Trending",
+    "Malaysia Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Siti Nurhaliza",
+    "Yuna"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Malaysia Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Siti Nurhaliza",
+    "Yuna",
+    "Ernie Zakri",
+    "Faizal Tahir",
+    "Hael Husaini",
+    "Aina Abdul",
+    "Shila Amzah"
+  ],
+  "category_queries": {
+    "Home": [
+      "Malaysia trending videos today",
+      "Malaysia viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Malaysia {year}",
+      "trending songs Malaysia {year}",
+      "Malaysia music {year}"
+    ],
+    "Malaysia Hits": [
+      "lagu melayu terbaru {year}",
+      "malaysian songs {year}"
+    ],
+    "News": [
+      "Malaysia news today",
+      "Malaysia breaking news {year}",
+      "Malaysia latest news"
+    ],
+    "Sports": [
+      "Malaysia sports highlights",
+      "Malaysia sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Malaysia gaming {year}"
+    ],
+    "Siti Nurhaliza": [
+      "Siti Nurhaliza songs",
+      "Siti Nurhaliza new song {year}"
+    ],
+    "Yuna": [
+      "Yuna songs",
+      "Yuna new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Malaysia {year}",
+      "trending songs Malaysia {year}",
+      "Malaysia music {year}"
+    ],
+    "New Releases": [
+      "new Malaysia songs {year}",
+      "Malaysia new music {year}"
+    ],
+    "Romantic": [
+      "Malaysia romantic songs",
+      "Malaysia love songs {year}"
+    ],
+    "Old Classics": [
+      "Malaysia old classic songs",
+      "Malaysia evergreen hits"
+    ],
+    "Ernie Zakri": [
+      "Ernie Zakri songs",
+      "Ernie Zakri new song {year}"
+    ],
+    "Faizal Tahir": [
+      "Faizal Tahir songs",
+      "Faizal Tahir new song {year}"
+    ],
+    "Hael Husaini": [
+      "Hael Husaini songs",
+      "Hael Husaini new song {year}"
+    ],
+    "Aina Abdul": [
+      "Aina Abdul songs",
+      "Aina Abdul new song {year}"
+    ],
+    "Shila Amzah": [
+      "Shila Amzah songs",
+      "Shila Amzah new song {year}"
+    ]
+  }
+}

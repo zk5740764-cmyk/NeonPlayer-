@@ -1,0 +1,111 @@
+{
+  "name": "Kenya",
+  "categories": [
+    "Home",
+    "Trending",
+    "Kenya Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Sauti Sol",
+    "Nyashinski"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Kenya Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Sauti Sol",
+    "Nyashinski",
+    "Bien",
+    "Khaligraph Jones",
+    "Otile Brown",
+    "Nadia Mukami",
+    "Bahati",
+    "Willy Paul"
+  ],
+  "category_queries": {
+    "Home": [
+      "Kenya trending videos today",
+      "Kenya viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Kenya {year}",
+      "trending songs Kenya {year}",
+      "Kenya music {year}"
+    ],
+    "Kenya Hits": [
+      "kenyan songs {year}",
+      "genge {year}"
+    ],
+    "News": [
+      "Kenya news today",
+      "Kenya breaking news {year}",
+      "Kenya latest news"
+    ],
+    "Sports": [
+      "Kenya sports highlights",
+      "Kenya sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Kenya gaming {year}"
+    ],
+    "Sauti Sol": [
+      "Sauti Sol songs",
+      "Sauti Sol new song {year}"
+    ],
+    "Nyashinski": [
+      "Nyashinski songs",
+      "Nyashinski new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Kenya {year}",
+      "trending songs Kenya {year}",
+      "Kenya music {year}"
+    ],
+    "New Releases": [
+      "new Kenya songs {year}",
+      "Kenya new music {year}"
+    ],
+    "Romantic": [
+      "Kenya romantic songs",
+      "Kenya love songs {year}"
+    ],
+    "Old Classics": [
+      "Kenya old classic songs",
+      "Kenya evergreen hits"
+    ],
+    "Bien": [
+      "Bien songs",
+      "Bien new song {year}"
+    ],
+    "Khaligraph Jones": [
+      "Khaligraph Jones songs",
+      "Khaligraph Jones new song {year}"
+    ],
+    "Otile Brown": [
+      "Otile Brown songs",
+      "Otile Brown new song {year}"
+    ],
+    "Nadia Mukami": [
+      "Nadia Mukami songs",
+      "Nadia Mukami new song {year}"
+    ],
+    "Bahati": [
+      "Bahati songs",
+      "Bahati new song {year}"
+    ],
+    "Willy Paul": [
+      "Willy Paul songs",
+      "Willy Paul new song {year}"
+    ]
+  }
+}

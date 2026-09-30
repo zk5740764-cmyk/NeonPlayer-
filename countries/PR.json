@@ -1,0 +1,116 @@
+{
+  "name": "Puerto Rico",
+  "categories": [
+    "Home",
+    "Trending",
+    "Puerto Rico Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Bad Bunny",
+    "Daddy Yankee"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Puerto Rico Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Bad Bunny",
+    "Daddy Yankee",
+    "Rauw Alejandro",
+    "Anuel AA",
+    "Ozuna",
+    "Farruko",
+    "Myke Towers",
+    "Jhay Cortez",
+    "Luis Fonsi"
+  ],
+  "category_queries": {
+    "Home": [
+      "Puerto Rico trending videos today",
+      "Puerto Rico viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Puerto Rico {year}",
+      "trending songs Puerto Rico {year}",
+      "Puerto Rico music {year}"
+    ],
+    "Puerto Rico Hits": [
+      "reggaeton {year}",
+      "música puertorriqueña {year}"
+    ],
+    "News": [
+      "Puerto Rico news today",
+      "Puerto Rico breaking news {year}",
+      "Puerto Rico latest news"
+    ],
+    "Sports": [
+      "Puerto Rico sports highlights",
+      "Puerto Rico sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Puerto Rico gaming {year}"
+    ],
+    "Bad Bunny": [
+      "Bad Bunny songs",
+      "Bad Bunny new song {year}"
+    ],
+    "Daddy Yankee": [
+      "Daddy Yankee songs",
+      "Daddy Yankee new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Puerto Rico {year}",
+      "trending songs Puerto Rico {year}",
+      "Puerto Rico music {year}"
+    ],
+    "New Releases": [
+      "new Puerto Rico songs {year}",
+      "Puerto Rico new music {year}"
+    ],
+    "Romantic": [
+      "Puerto Rico romantic songs",
+      "Puerto Rico love songs {year}"
+    ],
+    "Old Classics": [
+      "Puerto Rico old classic songs",
+      "Puerto Rico evergreen hits"
+    ],
+    "Rauw Alejandro": [
+      "Rauw Alejandro songs",
+      "Rauw Alejandro new song {year}"
+    ],
+    "Anuel AA": [
+      "Anuel AA songs",
+      "Anuel AA new song {year}"
+    ],
+    "Ozuna": [
+      "Ozuna songs",
+      "Ozuna new song {year}"
+    ],
+    "Farruko": [
+      "Farruko songs",
+      "Farruko new song {year}"
+    ],
+    "Myke Towers": [
+      "Myke Towers songs",
+      "Myke Towers new song {year}"
+    ],
+    "Jhay Cortez": [
+      "Jhay Cortez songs",
+      "Jhay Cortez new song {year}"
+    ],
+    "Luis Fonsi": [
+      "Luis Fonsi songs",
+      "Luis Fonsi new song {year}"
+    ]
+  }
+}

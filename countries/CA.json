@@ -1,0 +1,117 @@
+{
+  "name": "Canada",
+  "categories": [
+    "Home",
+    "Trending",
+    "Canada Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "The Weeknd",
+    "Drake",
+    "Justin Bieber"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Canada Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "The Weeknd",
+    "Drake",
+    "Justin Bieber",
+    "Shawn Mendes",
+    "Celine Dion",
+    "Avril Lavigne",
+    "Michael Bublé",
+    "Tate McRae",
+    "Bryan Adams"
+  ],
+  "category_queries": {
+    "Home": [
+      "Canada trending videos today",
+      "Canada viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Canada {year}",
+      "trending songs Canada {year}",
+      "Canada music {year}"
+    ],
+    "Canada Hits": [
+      "top canadian songs {year}",
+      "new canadian music {year}"
+    ],
+    "News": [
+      "Canada news today",
+      "Canada breaking news {year}",
+      "Canada latest news"
+    ],
+    "Sports": [
+      "Canada sports highlights",
+      "Canada sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Canada gaming {year}"
+    ],
+    "The Weeknd": [
+      "The Weeknd songs",
+      "The Weeknd new song {year}"
+    ],
+    "Drake": [
+      "Drake songs",
+      "Drake new song {year}"
+    ],
+    "Justin Bieber": [
+      "Justin Bieber songs",
+      "Justin Bieber new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Canada {year}",
+      "trending songs Canada {year}",
+      "Canada music {year}"
+    ],
+    "New Releases": [
+      "new Canada songs {year}",
+      "Canada new music {year}"
+    ],
+    "Romantic": [
+      "Canada romantic songs",
+      "Canada love songs {year}"
+    ],
+    "Old Classics": [
+      "Canada old classic songs",
+      "Canada evergreen hits"
+    ],
+    "Shawn Mendes": [
+      "Shawn Mendes songs",
+      "Shawn Mendes new song {year}"
+    ],
+    "Celine Dion": [
+      "Celine Dion songs",
+      "Celine Dion new song {year}"
+    ],
+    "Avril Lavigne": [
+      "Avril Lavigne songs",
+      "Avril Lavigne new song {year}"
+    ],
+    "Michael Bublé": [
+      "Michael Bublé songs",
+      "Michael Bublé new song {year}"
+    ],
+    "Tate McRae": [
+      "Tate McRae songs",
+      "Tate McRae new song {year}"
+    ],
+    "Bryan Adams": [
+      "Bryan Adams songs",
+      "Bryan Adams new song {year}"
+    ]
+  }
+}

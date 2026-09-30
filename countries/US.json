@@ -1,0 +1,108 @@
+{
+  "name": "United States",
+  "categories": [
+    "Home",
+    "Trending",
+    "Billboard Hits",
+    "News",
+    "Sports",
+    "Gaming"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Billboard Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Taylor Swift",
+    "Drake",
+    "Ariana Grande",
+    "Billie Eilish",
+    "Kendrick Lamar",
+    "Post Malone",
+    "Olivia Rodrigo",
+    "Bruno Mars"
+  ],
+  "category_queries": {
+    "Home": [
+      "United States trending videos today",
+      "United States viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "trending videos usa today",
+      "viral video {year}"
+    ],
+    "Billboard Hits": [
+      "billboard hot 100 {year}",
+      "top us songs {year}"
+    ],
+    "News": [
+      "United States news today",
+      "United States breaking news {year}",
+      "United States latest news"
+    ],
+    "Sports": [
+      "United States sports highlights",
+      "United States sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "United States gaming {year}"
+    ],
+    "Top Charts": [
+      "top songs United States {year}",
+      "trending songs United States {year}",
+      "United States music {year}"
+    ],
+    "New Releases": [
+      "new USA songs {year}",
+      "USA new music {year}"
+    ],
+    "Romantic": [
+      "USA romantic songs",
+      "USA love songs {year}"
+    ],
+    "Old Classics": [
+      "USA old classic songs",
+      "USA evergreen hits"
+    ],
+    "Taylor Swift": [
+      "Taylor Swift songs",
+      "Taylor Swift new song {year}"
+    ],
+    "Drake": [
+      "Drake songs",
+      "Drake new song {year}"
+    ],
+    "Ariana Grande": [
+      "Ariana Grande songs",
+      "Ariana Grande new song {year}"
+    ],
+    "Billie Eilish": [
+      "Billie Eilish songs",
+      "Billie Eilish new song {year}"
+    ],
+    "Kendrick Lamar": [
+      "Kendrick Lamar songs",
+      "Kendrick Lamar new song {year}"
+    ],
+    "Post Malone": [
+      "Post Malone songs",
+      "Post Malone new song {year}"
+    ],
+    "Olivia Rodrigo": [
+      "Olivia Rodrigo songs",
+      "Olivia Rodrigo new song {year}"
+    ],
+    "Bruno Mars": [
+      "Bruno Mars songs",
+      "Bruno Mars new song {year}"
+    ]
+  }
+}

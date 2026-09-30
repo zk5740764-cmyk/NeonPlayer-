@@ -1,0 +1,116 @@
+{
+  "name": "Sri Lanka",
+  "categories": [
+    "Home",
+    "Trending",
+    "Sri Lanka Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Yohani",
+    "Bathiya and Santhush"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Sri Lanka Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Yohani",
+    "Bathiya and Santhush",
+    "Iraj",
+    "Kasun Kalhara",
+    "Chamara Ranawaka",
+    "Nanda Malini",
+    "Victor Ratnayake",
+    "Sanuka Wickramasinghe",
+    "Umaria Sinhawansa"
+  ],
+  "category_queries": {
+    "Home": [
+      "Sri Lanka trending videos today",
+      "Sri Lanka viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Sri Lanka {year}",
+      "trending songs Sri Lanka {year}",
+      "Sri Lanka music {year}"
+    ],
+    "Sri Lanka Hits": [
+      "sinhala songs {year}",
+      "sri lankan music {year}"
+    ],
+    "News": [
+      "Sri Lanka news today",
+      "Sri Lanka breaking news {year}",
+      "Sri Lanka latest news"
+    ],
+    "Sports": [
+      "Sri Lanka sports highlights",
+      "Sri Lanka sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Sri Lanka gaming {year}"
+    ],
+    "Yohani": [
+      "Yohani songs",
+      "Yohani new song {year}"
+    ],
+    "Bathiya and Santhush": [
+      "Bathiya and Santhush songs",
+      "Bathiya and Santhush new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Sri Lanka {year}",
+      "trending songs Sri Lanka {year}",
+      "Sri Lanka music {year}"
+    ],
+    "New Releases": [
+      "new Sri Lanka songs {year}",
+      "Sri Lanka new music {year}"
+    ],
+    "Romantic": [
+      "Sri Lanka romantic songs",
+      "Sri Lanka love songs {year}"
+    ],
+    "Old Classics": [
+      "Sri Lanka old classic songs",
+      "Sri Lanka evergreen hits"
+    ],
+    "Iraj": [
+      "Iraj songs",
+      "Iraj new song {year}"
+    ],
+    "Kasun Kalhara": [
+      "Kasun Kalhara songs",
+      "Kasun Kalhara new song {year}"
+    ],
+    "Chamara Ranawaka": [
+      "Chamara Ranawaka songs",
+      "Chamara Ranawaka new song {year}"
+    ],
+    "Nanda Malini": [
+      "Nanda Malini songs",
+      "Nanda Malini new song {year}"
+    ],
+    "Victor Ratnayake": [
+      "Victor Ratnayake songs",
+      "Victor Ratnayake new song {year}"
+    ],
+    "Sanuka Wickramasinghe": [
+      "Sanuka Wickramasinghe songs",
+      "Sanuka Wickramasinghe new song {year}"
+    ],
+    "Umaria Sinhawansa": [
+      "Umaria Sinhawansa songs",
+      "Umaria Sinhawansa new song {year}"
+    ]
+  }
+}

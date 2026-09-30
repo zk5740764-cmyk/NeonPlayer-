@@ -1,0 +1,117 @@
+{
+  "name": "Egypt",
+  "categories": [
+    "Home",
+    "Trending",
+    "Egypt Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Amr Diab",
+    "Tamer Hosny",
+    "Mohamed Ramadan"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Egypt Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Amr Diab",
+    "Tamer Hosny",
+    "Mohamed Ramadan",
+    "Sherine",
+    "Wegz",
+    "Hamaki",
+    "Angham",
+    "Mohamed Mounir",
+    "Umm Kulthum"
+  ],
+  "category_queries": {
+    "Home": [
+      "Egypt trending videos today",
+      "Egypt viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Egypt {year}",
+      "trending songs Egypt {year}",
+      "Egypt music {year}"
+    ],
+    "Egypt Hits": [
+      "اغاني مصرية {year}",
+      "اغاني عربية جديدة {year}"
+    ],
+    "News": [
+      "Egypt news today",
+      "Egypt breaking news {year}",
+      "Egypt latest news"
+    ],
+    "Sports": [
+      "Egypt sports highlights",
+      "Egypt sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Egypt gaming {year}"
+    ],
+    "Amr Diab": [
+      "Amr Diab songs",
+      "Amr Diab new song {year}"
+    ],
+    "Tamer Hosny": [
+      "Tamer Hosny songs",
+      "Tamer Hosny new song {year}"
+    ],
+    "Mohamed Ramadan": [
+      "Mohamed Ramadan songs",
+      "Mohamed Ramadan new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Egypt {year}",
+      "trending songs Egypt {year}",
+      "Egypt music {year}"
+    ],
+    "New Releases": [
+      "new Egypt songs {year}",
+      "Egypt new music {year}"
+    ],
+    "Romantic": [
+      "Egypt romantic songs",
+      "Egypt love songs {year}"
+    ],
+    "Old Classics": [
+      "Egypt old classic songs",
+      "Egypt evergreen hits"
+    ],
+    "Sherine": [
+      "Sherine songs",
+      "Sherine new song {year}"
+    ],
+    "Wegz": [
+      "Wegz songs",
+      "Wegz new song {year}"
+    ],
+    "Hamaki": [
+      "Hamaki songs",
+      "Hamaki new song {year}"
+    ],
+    "Angham": [
+      "Angham songs",
+      "Angham new song {year}"
+    ],
+    "Mohamed Mounir": [
+      "Mohamed Mounir songs",
+      "Mohamed Mounir new song {year}"
+    ],
+    "Umm Kulthum": [
+      "Umm Kulthum songs",
+      "Umm Kulthum new song {year}"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Czechia",
+  "categories": [
+    "Home",
+    "Trending",
+    "Czechia Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Ewa Farna",
+    "Karel Gott"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Czechia Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Ewa Farna",
+    "Karel Gott",
+    "Lucie Bílá",
+    "Kryštof",
+    "Chinaski",
+    "Marek Ztracený",
+    "Ben Cristovao"
+  ],
+  "category_queries": {
+    "Home": [
+      "Czechia trending videos today",
+      "Czechia viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Czechia {year}",
+      "trending songs Czechia {year}",
+      "Czechia music {year}"
+    ],
+    "Czechia Hits": [
+      "české hity {year}",
+      "czech music {year}"
+    ],
+    "News": [
+      "Czechia news today",
+      "Czechia breaking news {year}",
+      "Czechia latest news"
+    ],
+    "Sports": [
+      "Czechia sports highlights",
+      "Czechia sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Czechia gaming {year}"
+    ],
+    "Ewa Farna": [
+      "Ewa Farna songs",
+      "Ewa Farna new song {year}"
+    ],
+    "Karel Gott": [
+      "Karel Gott songs",
+      "Karel Gott new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Czechia {year}",
+      "trending songs Czechia {year}",
+      "Czechia music {year}"
+    ],
+    "New Releases": [
+      "new Czech songs {year}",
+      "Czech new music {year}"
+    ],
+    "Romantic": [
+      "Czech romantic songs",
+      "Czech love songs {year}"
+    ],
+    "Old Classics": [
+      "Czech old classic songs",
+      "Czech evergreen hits"
+    ],
+    "Lucie Bílá": [
+      "Lucie Bílá songs",
+      "Lucie Bílá new song {year}"
+    ],
+    "Kryštof": [
+      "Kryštof songs",
+      "Kryštof new song {year}"
+    ],
+    "Chinaski": [
+      "Chinaski songs",
+      "Chinaski new song {year}"
+    ],
+    "Marek Ztracený": [
+      "Marek Ztracený songs",
+      "Marek Ztracený new song {year}"
+    ],
+    "Ben Cristovao": [
+      "Ben Cristovao songs",
+      "Ben Cristovao new song {year}"
+    ]
+  }
+}

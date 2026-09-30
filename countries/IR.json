@@ -1,0 +1,111 @@
+{
+  "name": "Iran",
+  "categories": [
+    "Home",
+    "Trending",
+    "Iran Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Googoosh",
+    "Mohsen Yeganeh"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Iran Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Googoosh",
+    "Mohsen Yeganeh",
+    "Shadmehr Aghili",
+    "Ebi",
+    "Mohsen Chavoshi",
+    "Homayoun Shajarian",
+    "Sirvan Khosravi",
+    "Hayedeh"
+  ],
+  "category_queries": {
+    "Home": [
+      "Iran trending videos today",
+      "Iran viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Iran {year}",
+      "trending songs Iran {year}",
+      "Iran music {year}"
+    ],
+    "Iran Hits": [
+      "آهنگ جدید ایرانی {year}",
+      "persian music {year}"
+    ],
+    "News": [
+      "Iran news today",
+      "Iran breaking news {year}",
+      "Iran latest news"
+    ],
+    "Sports": [
+      "Iran sports highlights",
+      "Iran sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Iran gaming {year}"
+    ],
+    "Googoosh": [
+      "Googoosh songs",
+      "Googoosh new song {year}"
+    ],
+    "Mohsen Yeganeh": [
+      "Mohsen Yeganeh songs",
+      "Mohsen Yeganeh new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Iran {year}",
+      "trending songs Iran {year}",
+      "Iran music {year}"
+    ],
+    "New Releases": [
+      "new Iran songs {year}",
+      "Iran new music {year}"
+    ],
+    "Romantic": [
+      "Iran romantic songs",
+      "Iran love songs {year}"
+    ],
+    "Old Classics": [
+      "Iran old classic songs",
+      "Iran evergreen hits"
+    ],
+    "Shadmehr Aghili": [
+      "Shadmehr Aghili songs",
+      "Shadmehr Aghili new song {year}"
+    ],
+    "Ebi": [
+      "Ebi songs",
+      "Ebi new song {year}"
+    ],
+    "Mohsen Chavoshi": [
+      "Mohsen Chavoshi songs",
+      "Mohsen Chavoshi new song {year}"
+    ],
+    "Homayoun Shajarian": [
+      "Homayoun Shajarian songs",
+      "Homayoun Shajarian new song {year}"
+    ],
+    "Sirvan Khosravi": [
+      "Sirvan Khosravi songs",
+      "Sirvan Khosravi new song {year}"
+    ],
+    "Hayedeh": [
+      "Hayedeh songs",
+      "Hayedeh new song {year}"
+    ]
+  }
+}

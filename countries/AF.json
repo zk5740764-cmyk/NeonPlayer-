@@ -1,0 +1,106 @@
+{
+  "name": "Afghanistan",
+  "categories": [
+    "Home",
+    "Trending",
+    "Afghanistan Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Ahmad Zahir",
+    "Aryana Sayeed"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Afghanistan Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Ahmad Zahir",
+    "Aryana Sayeed",
+    "Farhad Darya",
+    "Naghma",
+    "Mangal",
+    "Hangama",
+    "Ustad Sarahang"
+  ],
+  "category_queries": {
+    "Home": [
+      "Afghanistan trending videos today",
+      "Afghanistan viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Afghanistan {year}",
+      "trending songs Afghanistan {year}",
+      "Afghanistan music {year}"
+    ],
+    "Afghanistan Hits": [
+      "afghan songs {year}",
+      "آهنگ افغانی {year}"
+    ],
+    "News": [
+      "Afghanistan news today",
+      "Afghanistan breaking news {year}",
+      "Afghanistan latest news"
+    ],
+    "Sports": [
+      "Afghanistan sports highlights",
+      "Afghanistan sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Afghanistan gaming {year}"
+    ],
+    "Ahmad Zahir": [
+      "Ahmad Zahir songs",
+      "Ahmad Zahir new song {year}"
+    ],
+    "Aryana Sayeed": [
+      "Aryana Sayeed songs",
+      "Aryana Sayeed new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Afghanistan {year}",
+      "trending songs Afghanistan {year}",
+      "Afghanistan music {year}"
+    ],
+    "New Releases": [
+      "new Afghanistan songs {year}",
+      "Afghanistan new music {year}"
+    ],
+    "Romantic": [
+      "Afghanistan romantic songs",
+      "Afghanistan love songs {year}"
+    ],
+    "Old Classics": [
+      "Afghanistan old classic songs",
+      "Afghanistan evergreen hits"
+    ],
+    "Farhad Darya": [
+      "Farhad Darya songs",
+      "Farhad Darya new song {year}"
+    ],
+    "Naghma": [
+      "Naghma songs",
+      "Naghma new song {year}"
+    ],
+    "Mangal": [
+      "Mangal songs",
+      "Mangal new song {year}"
+    ],
+    "Hangama": [
+      "Hangama songs",
+      "Hangama new song {year}"
+    ],
+    "Ustad Sarahang": [
+      "Ustad Sarahang songs",
+      "Ustad Sarahang new song {year}"
+    ]
+  }
+}

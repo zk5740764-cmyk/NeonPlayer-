@@ -1,0 +1,111 @@
+{
+  "name": "New Zealand",
+  "categories": [
+    "Home",
+    "Trending",
+    "New Zealand Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Lorde",
+    "Kimbra"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "New Zealand Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Lorde",
+    "Kimbra",
+    "Six60",
+    "Benee",
+    "Crowded House",
+    "Broods",
+    "Stan Walker",
+    "Ladyhawke"
+  ],
+  "category_queries": {
+    "Home": [
+      "New Zealand trending videos today",
+      "New Zealand viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs New Zealand {year}",
+      "trending songs New Zealand {year}",
+      "New Zealand music {year}"
+    ],
+    "New Zealand Hits": [
+      "top nz songs {year}",
+      "new zealand music {year}"
+    ],
+    "News": [
+      "New Zealand news today",
+      "New Zealand breaking news {year}",
+      "New Zealand latest news"
+    ],
+    "Sports": [
+      "New Zealand sports highlights",
+      "New Zealand sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "New Zealand gaming {year}"
+    ],
+    "Lorde": [
+      "Lorde songs",
+      "Lorde new song {year}"
+    ],
+    "Kimbra": [
+      "Kimbra songs",
+      "Kimbra new song {year}"
+    ],
+    "Top Charts": [
+      "top songs New Zealand {year}",
+      "trending songs New Zealand {year}",
+      "New Zealand music {year}"
+    ],
+    "New Releases": [
+      "new New Zealand songs {year}",
+      "New Zealand new music {year}"
+    ],
+    "Romantic": [
+      "New Zealand romantic songs",
+      "New Zealand love songs {year}"
+    ],
+    "Old Classics": [
+      "New Zealand old classic songs",
+      "New Zealand evergreen hits"
+    ],
+    "Six60": [
+      "Six60 songs",
+      "Six60 new song {year}"
+    ],
+    "Benee": [
+      "Benee songs",
+      "Benee new song {year}"
+    ],
+    "Crowded House": [
+      "Crowded House songs",
+      "Crowded House new song {year}"
+    ],
+    "Broods": [
+      "Broods songs",
+      "Broods new song {year}"
+    ],
+    "Stan Walker": [
+      "Stan Walker songs",
+      "Stan Walker new song {year}"
+    ],
+    "Ladyhawke": [
+      "Ladyhawke songs",
+      "Ladyhawke new song {year}"
+    ]
+  }
+}

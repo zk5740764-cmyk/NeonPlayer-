@@ -1,0 +1,116 @@
+{
+  "name": "Portugal",
+  "categories": [
+    "Home",
+    "Trending",
+    "Portugal Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Ana Moura",
+    "Dino d'Santiago"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Portugal Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Ana Moura",
+    "Dino d'Santiago",
+    "Mariza",
+    "David Carreira",
+    "Nininho Vaz Maia",
+    "Slow J",
+    "Bispo",
+    "Carolina Deslandes",
+    "Salvador Sobral"
+  ],
+  "category_queries": {
+    "Home": [
+      "Portugal trending videos today",
+      "Portugal viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Portugal {year}",
+      "trending songs Portugal {year}",
+      "Portugal music {year}"
+    ],
+    "Portugal Hits": [
+      "música portuguesa {year}",
+      "fado"
+    ],
+    "News": [
+      "Portugal news today",
+      "Portugal breaking news {year}",
+      "Portugal latest news"
+    ],
+    "Sports": [
+      "Portugal sports highlights",
+      "Portugal sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Portugal gaming {year}"
+    ],
+    "Ana Moura": [
+      "Ana Moura songs",
+      "Ana Moura new song {year}"
+    ],
+    "Dino d'Santiago": [
+      "Dino d'Santiago songs",
+      "Dino d'Santiago new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Portugal {year}",
+      "trending songs Portugal {year}",
+      "Portugal music {year}"
+    ],
+    "New Releases": [
+      "new Portugal songs {year}",
+      "Portugal new music {year}"
+    ],
+    "Romantic": [
+      "Portugal romantic songs",
+      "Portugal love songs {year}"
+    ],
+    "Old Classics": [
+      "Portugal old classic songs",
+      "Portugal evergreen hits"
+    ],
+    "Mariza": [
+      "Mariza songs",
+      "Mariza new song {year}"
+    ],
+    "David Carreira": [
+      "David Carreira songs",
+      "David Carreira new song {year}"
+    ],
+    "Nininho Vaz Maia": [
+      "Nininho Vaz Maia songs",
+      "Nininho Vaz Maia new song {year}"
+    ],
+    "Slow J": [
+      "Slow J songs",
+      "Slow J new song {year}"
+    ],
+    "Bispo": [
+      "Bispo songs",
+      "Bispo new song {year}"
+    ],
+    "Carolina Deslandes": [
+      "Carolina Deslandes songs",
+      "Carolina Deslandes new song {year}"
+    ],
+    "Salvador Sobral": [
+      "Salvador Sobral songs",
+      "Salvador Sobral new song {year}"
+    ]
+  }
+}

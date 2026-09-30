@@ -1,0 +1,139 @@
+{
+  "name": "India",
+  "categories": [
+    "Home",
+    "Bollywood Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Arijit Singh",
+    "Trending",
+    "Punjabi Hits"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Bollywood Hits",
+    "Punjabi Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Arijit Singh",
+    "Shreya Ghoshal",
+    "AP Dhillon",
+    "Badshah",
+    "Diljit Dosanjh",
+    "Jubin Nautiyal",
+    "Darshan Raval",
+    "Armaan Malik",
+    "Sidhu Moosewala",
+    "Kumar Sanu",
+    "Alka Yagnik",
+    "Udit Narayan"
+  ],
+  "category_queries": {
+    "Home": [
+      "india trending videos today",
+      "trending videos {year}",
+      "viral video {year}",
+      "new video uploads {year}",
+      "hindi trending video"
+    ],
+    "Bollywood Hits": [
+      "bollywood hit songs {year}",
+      "new hindi songs {year}"
+    ],
+    "News": [
+      "india news today",
+      "breaking news {year}",
+      "latest news today"
+    ],
+    "Sports": [
+      "cricket highlights",
+      "sports highlights {year}",
+      "football highlights"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "free fire gameplay",
+      "pubg gameplay {year}",
+      "gaming video {year}"
+    ],
+    "Arijit Singh": [
+      "arijit singh songs",
+      "arijit singh new song {year}"
+    ],
+    "Trending": [
+      "top hindi songs {year}",
+      "trending songs {year}",
+      "top music {year}"
+    ],
+    "Punjabi Hits": [
+      "punjabi hit songs {year}",
+      "new punjabi songs {year}"
+    ],
+    "Top Charts": [
+      "top hindi songs {year}",
+      "trending songs {year}",
+      "top music {year}"
+    ],
+    "New Releases": [
+      "new hindi songs {year}",
+      "new bollywood songs {year}"
+    ],
+    "Romantic": [
+      "romantic hindi songs {year}",
+      "hindi love songs"
+    ],
+    "Old Classics": [
+      "old hindi songs evergreen",
+      "purane gaane 90s hits"
+    ],
+    "Shreya Ghoshal": [
+      "Shreya Ghoshal songs",
+      "Shreya Ghoshal new song {year}"
+    ],
+    "AP Dhillon": [
+      "AP Dhillon songs",
+      "AP Dhillon new song {year}"
+    ],
+    "Badshah": [
+      "Badshah songs",
+      "Badshah new song {year}"
+    ],
+    "Diljit Dosanjh": [
+      "Diljit Dosanjh songs",
+      "Diljit Dosanjh new song {year}"
+    ],
+    "Jubin Nautiyal": [
+      "Jubin Nautiyal songs",
+      "Jubin Nautiyal new song {year}"
+    ],
+    "Darshan Raval": [
+      "Darshan Raval songs",
+      "Darshan Raval new song {year}"
+    ],
+    "Armaan Malik": [
+      "Armaan Malik songs",
+      "Armaan Malik new song {year}"
+    ],
+    "Sidhu Moosewala": [
+      "Sidhu Moosewala songs",
+      "Sidhu Moosewala new song {year}"
+    ],
+    "Kumar Sanu": [
+      "Kumar Sanu songs",
+      "Kumar Sanu new song {year}"
+    ],
+    "Alka Yagnik": [
+      "Alka Yagnik songs",
+      "Alka Yagnik new song {year}"
+    ],
+    "Udit Narayan": [
+      "Udit Narayan songs",
+      "Udit Narayan new song {year}"
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Switzerland",
+  "categories": [
+    "Home",
+    "Trending",
+    "Switzerland Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Bligg"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Switzerland Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Bligg",
+    "Stress",
+    "Gölä",
+    "Lo & Leduc",
+    "Patent Ochsner",
+    "DJ Antoine",
+    "Sophie Hunger",
+    "Nemo"
+  ],
+  "category_queries": {
+    "Home": [
+      "Switzerland trending videos today",
+      "Switzerland viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Switzerland {year}",
+      "trending songs Switzerland {year}",
+      "Switzerland music {year}"
+    ],
+    "Switzerland Hits": [
+      "schweizer musik {year}",
+      "swiss hits {year}"
+    ],
+    "News": [
+      "Switzerland news today",
+      "Switzerland breaking news {year}",
+      "Switzerland latest news"
+    ],
+    "Sports": [
+      "Switzerland sports highlights",
+      "Switzerland sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Switzerland gaming {year}"
+    ],
+    "Bligg": [
+      "Bligg songs",
+      "Bligg new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Switzerland {year}",
+      "trending songs Switzerland {year}",
+      "Switzerland music {year}"
+    ],
+    "New Releases": [
+      "new Switzerland songs {year}",
+      "Switzerland new music {year}"
+    ],
+    "Romantic": [
+      "Switzerland romantic songs",
+      "Switzerland love songs {year}"
+    ],
+    "Old Classics": [
+      "Switzerland old classic songs",
+      "Switzerland evergreen hits"
+    ],
+    "Stress": [
+      "Stress songs",
+      "Stress new song {year}"
+    ],
+    "Gölä": [
+      "Gölä songs",
+      "Gölä new song {year}"
+    ],
+    "Lo & Leduc": [
+      "Lo & Leduc songs",
+      "Lo & Leduc new song {year}"
+    ],
+    "Patent Ochsner": [
+      "Patent Ochsner songs",
+      "Patent Ochsner new song {year}"
+    ],
+    "DJ Antoine": [
+      "DJ Antoine songs",
+      "DJ Antoine new song {year}"
+    ],
+    "Sophie Hunger": [
+      "Sophie Hunger songs",
+      "Sophie Hunger new song {year}"
+    ],
+    "Nemo": [
+      "Nemo songs",
+      "Nemo new song {year}"
+    ]
+  }
+}

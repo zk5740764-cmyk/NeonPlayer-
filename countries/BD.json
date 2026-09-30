@@ -1,0 +1,112 @@
+{
+  "name": "Bangladesh",
+  "categories": [
+    "Home",
+    "Trending",
+    "Bangladesh Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Habib Wahid",
+    "Tahsan",
+    "Arfin Rumey"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Bangladesh Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Habib Wahid",
+    "Tahsan",
+    "Arfin Rumey",
+    "Minar Rahman",
+    "James",
+    "Ayub Bachchu",
+    "Runa Laila",
+    "Kumar Bishwajit"
+  ],
+  "category_queries": {
+    "Home": [
+      "Bangladesh trending videos today",
+      "Bangladesh viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Bangladesh {year}",
+      "trending songs Bangladesh {year}",
+      "Bangladesh music {year}"
+    ],
+    "Bangladesh Hits": [
+      "bangla gaan {year}",
+      "bangladeshi songs {year}"
+    ],
+    "News": [
+      "Bangladesh news today",
+      "Bangladesh breaking news {year}",
+      "Bangladesh latest news"
+    ],
+    "Sports": [
+      "Bangladesh sports highlights",
+      "Bangladesh sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Bangladesh gaming {year}"
+    ],
+    "Habib Wahid": [
+      "Habib Wahid songs",
+      "Habib Wahid new song {year}"
+    ],
+    "Tahsan": [
+      "Tahsan songs",
+      "Tahsan new song {year}"
+    ],
+    "Arfin Rumey": [
+      "Arfin Rumey songs",
+      "Arfin Rumey new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Bangladesh {year}",
+      "trending songs Bangladesh {year}",
+      "Bangladesh music {year}"
+    ],
+    "New Releases": [
+      "new Bangladesh songs {year}",
+      "Bangladesh new music {year}"
+    ],
+    "Romantic": [
+      "Bangladesh romantic songs",
+      "Bangladesh love songs {year}"
+    ],
+    "Old Classics": [
+      "Bangladesh old classic songs",
+      "Bangladesh evergreen hits"
+    ],
+    "Minar Rahman": [
+      "Minar Rahman songs",
+      "Minar Rahman new song {year}"
+    ],
+    "James": [
+      "James songs",
+      "James new song {year}"
+    ],
+    "Ayub Bachchu": [
+      "Ayub Bachchu songs",
+      "Ayub Bachchu new song {year}"
+    ],
+    "Runa Laila": [
+      "Runa Laila songs",
+      "Runa Laila new song {year}"
+    ],
+    "Kumar Bishwajit": [
+      "Kumar Bishwajit songs",
+      "Kumar Bishwajit new song {year}"
+    ]
+  }
+}

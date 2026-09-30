@@ -1,0 +1,111 @@
+{
+  "name": "United Arab Emirates",
+  "categories": [
+    "Home",
+    "Trending",
+    "UAE Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Hussain Al Jassmi",
+    "Ahlam"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "UAE Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Hussain Al Jassmi",
+    "Ahlam",
+    "Balqees",
+    "Eida Al Menhali",
+    "Waleed Al Shami",
+    "Ali Bin Mohammed",
+    "Fayez Al Saeed",
+    "Amr Diab"
+  ],
+  "category_queries": {
+    "Home": [
+      "United Arab Emirates trending videos today",
+      "United Arab Emirates viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs United Arab Emirates {year}",
+      "trending songs United Arab Emirates {year}",
+      "United Arab Emirates music {year}"
+    ],
+    "UAE Hits": [
+      "اغاني اماراتية {year}",
+      "اغاني خليجية {year}"
+    ],
+    "News": [
+      "United Arab Emirates news today",
+      "United Arab Emirates breaking news {year}",
+      "United Arab Emirates latest news"
+    ],
+    "Sports": [
+      "United Arab Emirates sports highlights",
+      "United Arab Emirates sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "United Arab Emirates gaming {year}"
+    ],
+    "Hussain Al Jassmi": [
+      "Hussain Al Jassmi songs",
+      "Hussain Al Jassmi new song {year}"
+    ],
+    "Ahlam": [
+      "Ahlam songs",
+      "Ahlam new song {year}"
+    ],
+    "Top Charts": [
+      "top songs United Arab Emirates {year}",
+      "trending songs United Arab Emirates {year}",
+      "United Arab Emirates music {year}"
+    ],
+    "New Releases": [
+      "new UAE songs {year}",
+      "UAE new music {year}"
+    ],
+    "Romantic": [
+      "UAE romantic songs",
+      "UAE love songs {year}"
+    ],
+    "Old Classics": [
+      "UAE old classic songs",
+      "UAE evergreen hits"
+    ],
+    "Balqees": [
+      "Balqees songs",
+      "Balqees new song {year}"
+    ],
+    "Eida Al Menhali": [
+      "Eida Al Menhali songs",
+      "Eida Al Menhali new song {year}"
+    ],
+    "Waleed Al Shami": [
+      "Waleed Al Shami songs",
+      "Waleed Al Shami new song {year}"
+    ],
+    "Ali Bin Mohammed": [
+      "Ali Bin Mohammed songs",
+      "Ali Bin Mohammed new song {year}"
+    ],
+    "Fayez Al Saeed": [
+      "Fayez Al Saeed songs",
+      "Fayez Al Saeed new song {year}"
+    ],
+    "Amr Diab": [
+      "Amr Diab songs",
+      "Amr Diab new song {year}"
+    ]
+  }
+}

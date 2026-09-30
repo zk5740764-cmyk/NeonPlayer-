@@ -1,0 +1,117 @@
+{
+  "name": "France",
+  "categories": [
+    "Home",
+    "Trending",
+    "France Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Aya Nakamura",
+    "Indila",
+    "Jul"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "France Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Aya Nakamura",
+    "Indila",
+    "Jul",
+    "Ninho",
+    "Soprano",
+    "Gims",
+    "Zaz",
+    "Édith Piaf",
+    "Christophe Maé"
+  ],
+  "category_queries": {
+    "Home": [
+      "France trending videos today",
+      "France viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs France {year}",
+      "trending songs France {year}",
+      "France music {year}"
+    ],
+    "France Hits": [
+      "chansons françaises {year}",
+      "rap français {year}"
+    ],
+    "News": [
+      "France news today",
+      "France breaking news {year}",
+      "France latest news"
+    ],
+    "Sports": [
+      "France sports highlights",
+      "France sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "France gaming {year}"
+    ],
+    "Aya Nakamura": [
+      "Aya Nakamura songs",
+      "Aya Nakamura new song {year}"
+    ],
+    "Indila": [
+      "Indila songs",
+      "Indila new song {year}"
+    ],
+    "Jul": [
+      "Jul songs",
+      "Jul new song {year}"
+    ],
+    "Top Charts": [
+      "top songs France {year}",
+      "trending songs France {year}",
+      "France music {year}"
+    ],
+    "New Releases": [
+      "new France songs {year}",
+      "France new music {year}"
+    ],
+    "Romantic": [
+      "France romantic songs",
+      "France love songs {year}"
+    ],
+    "Old Classics": [
+      "France old classic songs",
+      "France evergreen hits"
+    ],
+    "Ninho": [
+      "Ninho songs",
+      "Ninho new song {year}"
+    ],
+    "Soprano": [
+      "Soprano songs",
+      "Soprano new song {year}"
+    ],
+    "Gims": [
+      "Gims songs",
+      "Gims new song {year}"
+    ],
+    "Zaz": [
+      "Zaz songs",
+      "Zaz new song {year}"
+    ],
+    "Édith Piaf": [
+      "Édith Piaf songs",
+      "Édith Piaf new song {year}"
+    ],
+    "Christophe Maé": [
+      "Christophe Maé songs",
+      "Christophe Maé new song {year}"
+    ]
+  }
+}

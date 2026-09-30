@@ -1,0 +1,150 @@
+{
+  "name": "Pakistan",
+  "categories": [
+    "Home",
+    "Pakistani Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Coke Studio",
+    "Trending"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Pakistani Hits",
+    "Coke Studio",
+    "Qawwali",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Atif Aslam",
+    "Rahat Fateh Ali Khan",
+    "Nusrat Fateh Ali Khan",
+    "Abida Parveen",
+    "Ali Zafar",
+    "Asim Azhar",
+    "Momina Mustehsan",
+    "Ali Sethi",
+    "Shae Gill",
+    "Sajjad Ali",
+    "Hadiqa Kiani",
+    "Shafqat Amanat Ali",
+    "Farhan Saeed",
+    "Bilal Saeed"
+  ],
+  "category_queries": {
+    "Home": [
+      "Pakistan trending videos today",
+      "Pakistan viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Pakistani Hits": [
+      "pakistani songs {year}",
+      "new pakistani songs {year}"
+    ],
+    "News": [
+      "Pakistan news today",
+      "Pakistan breaking news {year}",
+      "Pakistan latest news"
+    ],
+    "Sports": [
+      "Pakistan sports highlights",
+      "Pakistan sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Pakistan gaming {year}"
+    ],
+    "Coke Studio": [
+      "coke studio pakistan",
+      "coke studio pakistan {year}"
+    ],
+    "Trending": [
+      "top songs Pakistan {year}",
+      "trending songs Pakistan {year}",
+      "Pakistan music {year}"
+    ],
+    "Top Charts": [
+      "top songs Pakistan {year}",
+      "trending songs Pakistan {year}",
+      "Pakistan music {year}"
+    ],
+    "New Releases": [
+      "new pakistani songs {year}",
+      "pakistani new song official video"
+    ],
+    "Qawwali": [
+      "qawwali nusrat rahat sabri best",
+      "new qawwali {year}"
+    ],
+    "Romantic": [
+      "romantic urdu songs {year}",
+      "pakistani love songs"
+    ],
+    "Old Classics": [
+      "old pakistani songs evergreen",
+      "purane pakistani gaane"
+    ],
+    "Atif Aslam": [
+      "Atif Aslam songs",
+      "Atif Aslam new song {year}"
+    ],
+    "Rahat Fateh Ali Khan": [
+      "Rahat Fateh Ali Khan songs",
+      "Rahat Fateh Ali Khan new song {year}"
+    ],
+    "Nusrat Fateh Ali Khan": [
+      "Nusrat Fateh Ali Khan songs",
+      "Nusrat Fateh Ali Khan new song {year}"
+    ],
+    "Abida Parveen": [
+      "Abida Parveen songs",
+      "Abida Parveen new song {year}"
+    ],
+    "Ali Zafar": [
+      "Ali Zafar songs",
+      "Ali Zafar new song {year}"
+    ],
+    "Asim Azhar": [
+      "Asim Azhar songs",
+      "Asim Azhar new song {year}"
+    ],
+    "Momina Mustehsan": [
+      "Momina Mustehsan songs",
+      "Momina Mustehsan new song {year}"
+    ],
+    "Ali Sethi": [
+      "Ali Sethi songs",
+      "Ali Sethi new song {year}"
+    ],
+    "Shae Gill": [
+      "Shae Gill songs",
+      "Shae Gill new song {year}"
+    ],
+    "Sajjad Ali": [
+      "Sajjad Ali songs",
+      "Sajjad Ali new song {year}"
+    ],
+    "Hadiqa Kiani": [
+      "Hadiqa Kiani songs",
+      "Hadiqa Kiani new song {year}"
+    ],
+    "Shafqat Amanat Ali": [
+      "Shafqat Amanat Ali songs",
+      "Shafqat Amanat Ali new song {year}"
+    ],
+    "Farhan Saeed": [
+      "Farhan Saeed songs",
+      "Farhan Saeed new song {year}"
+    ],
+    "Bilal Saeed": [
+      "Bilal Saeed songs",
+      "Bilal Saeed new song {year}"
+    ]
+  }
+}

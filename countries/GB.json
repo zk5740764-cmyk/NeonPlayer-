@@ -1,0 +1,113 @@
+{
+  "name": "United Kingdom",
+  "categories": [
+    "Home",
+    "Trending",
+    "News",
+    "Sports",
+    "Gaming",
+    "UK Charts"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "UK Charts",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Ed Sheeran",
+    "Adele",
+    "Dua Lipa",
+    "Coldplay",
+    "Harry Styles",
+    "Stormzy",
+    "Central Cee",
+    "Sam Smith",
+    "Calvin Harris"
+  ],
+  "category_queries": {
+    "Home": [
+      "United Kingdom trending videos today",
+      "United Kingdom viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "trending videos uk today",
+      "viral video uk {year}"
+    ],
+    "News": [
+      "United Kingdom news today",
+      "United Kingdom breaking news {year}",
+      "United Kingdom latest news"
+    ],
+    "Sports": [
+      "United Kingdom sports highlights",
+      "United Kingdom sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "United Kingdom gaming {year}"
+    ],
+    "UK Charts": [
+      "uk top 40 songs {year}",
+      "uk charts this week"
+    ],
+    "Top Charts": [
+      "top songs United Kingdom {year}",
+      "trending songs United Kingdom {year}",
+      "United Kingdom music {year}"
+    ],
+    "New Releases": [
+      "new UK songs {year}",
+      "UK new music {year}"
+    ],
+    "Romantic": [
+      "UK romantic songs",
+      "UK love songs {year}"
+    ],
+    "Old Classics": [
+      "UK old classic songs",
+      "UK evergreen hits"
+    ],
+    "Ed Sheeran": [
+      "Ed Sheeran songs",
+      "Ed Sheeran new song {year}"
+    ],
+    "Adele": [
+      "Adele songs",
+      "Adele new song {year}"
+    ],
+    "Dua Lipa": [
+      "Dua Lipa songs",
+      "Dua Lipa new song {year}"
+    ],
+    "Coldplay": [
+      "Coldplay songs",
+      "Coldplay new song {year}"
+    ],
+    "Harry Styles": [
+      "Harry Styles songs",
+      "Harry Styles new song {year}"
+    ],
+    "Stormzy": [
+      "Stormzy songs",
+      "Stormzy new song {year}"
+    ],
+    "Central Cee": [
+      "Central Cee songs",
+      "Central Cee new song {year}"
+    ],
+    "Sam Smith": [
+      "Sam Smith songs",
+      "Sam Smith new song {year}"
+    ],
+    "Calvin Harris": [
+      "Calvin Harris songs",
+      "Calvin Harris new song {year}"
+    ]
+  }
+}

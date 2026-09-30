@@ -1,0 +1,116 @@
+{
+  "name": "Netherlands",
+  "categories": [
+    "Home",
+    "Trending",
+    "Netherlands Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Martin Garrix",
+    "Armin van Buuren"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Netherlands Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Martin Garrix",
+    "Armin van Buuren",
+    "Tiësto",
+    "Duncan Laurence",
+    "Snelle",
+    "Froukje",
+    "Nielson",
+    "Kraantje Pappie",
+    "André Hazes"
+  ],
+  "category_queries": {
+    "Home": [
+      "Netherlands trending videos today",
+      "Netherlands viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Netherlands {year}",
+      "trending songs Netherlands {year}",
+      "Netherlands music {year}"
+    ],
+    "Netherlands Hits": [
+      "nederlandse hits {year}",
+      "top nederlandse muziek {year}"
+    ],
+    "News": [
+      "Netherlands news today",
+      "Netherlands breaking news {year}",
+      "Netherlands latest news"
+    ],
+    "Sports": [
+      "Netherlands sports highlights",
+      "Netherlands sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Netherlands gaming {year}"
+    ],
+    "Martin Garrix": [
+      "Martin Garrix songs",
+      "Martin Garrix new song {year}"
+    ],
+    "Armin van Buuren": [
+      "Armin van Buuren songs",
+      "Armin van Buuren new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Netherlands {year}",
+      "trending songs Netherlands {year}",
+      "Netherlands music {year}"
+    ],
+    "New Releases": [
+      "new Netherlands songs {year}",
+      "Netherlands new music {year}"
+    ],
+    "Romantic": [
+      "Netherlands romantic songs",
+      "Netherlands love songs {year}"
+    ],
+    "Old Classics": [
+      "Netherlands old classic songs",
+      "Netherlands evergreen hits"
+    ],
+    "Tiësto": [
+      "Tiësto songs",
+      "Tiësto new song {year}"
+    ],
+    "Duncan Laurence": [
+      "Duncan Laurence songs",
+      "Duncan Laurence new song {year}"
+    ],
+    "Snelle": [
+      "Snelle songs",
+      "Snelle new song {year}"
+    ],
+    "Froukje": [
+      "Froukje songs",
+      "Froukje new song {year}"
+    ],
+    "Nielson": [
+      "Nielson songs",
+      "Nielson new song {year}"
+    ],
+    "Kraantje Pappie": [
+      "Kraantje Pappie songs",
+      "Kraantje Pappie new song {year}"
+    ],
+    "André Hazes": [
+      "André Hazes songs",
+      "André Hazes new song {year}"
+    ]
+  }
+}

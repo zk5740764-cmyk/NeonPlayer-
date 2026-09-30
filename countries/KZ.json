@@ -1,0 +1,111 @@
+{
+  "name": "Kazakhstan",
+  "categories": [
+    "Home",
+    "Trending",
+    "Kazakhstan Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Dimash Kudaibergen",
+    "Ninety One"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Kazakhstan Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Dimash Kudaibergen",
+    "Ninety One",
+    "Jah Khalib",
+    "Ayau",
+    "Miras Zhugunusov",
+    "Zhanar Dugalova",
+    "Batyrkhan Shukenov",
+    "Kairat Nurtas"
+  ],
+  "category_queries": {
+    "Home": [
+      "Kazakhstan trending videos today",
+      "Kazakhstan viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Kazakhstan {year}",
+      "trending songs Kazakhstan {year}",
+      "Kazakhstan music {year}"
+    ],
+    "Kazakhstan Hits": [
+      "қазақша әндер {year}",
+      "kazakh music {year}"
+    ],
+    "News": [
+      "Kazakhstan news today",
+      "Kazakhstan breaking news {year}",
+      "Kazakhstan latest news"
+    ],
+    "Sports": [
+      "Kazakhstan sports highlights",
+      "Kazakhstan sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Kazakhstan gaming {year}"
+    ],
+    "Dimash Kudaibergen": [
+      "Dimash Kudaibergen songs",
+      "Dimash Kudaibergen new song {year}"
+    ],
+    "Ninety One": [
+      "Ninety One songs",
+      "Ninety One new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Kazakhstan {year}",
+      "trending songs Kazakhstan {year}",
+      "Kazakhstan music {year}"
+    ],
+    "New Releases": [
+      "new Kazakhstan songs {year}",
+      "Kazakhstan new music {year}"
+    ],
+    "Romantic": [
+      "Kazakhstan romantic songs",
+      "Kazakhstan love songs {year}"
+    ],
+    "Old Classics": [
+      "Kazakhstan old classic songs",
+      "Kazakhstan evergreen hits"
+    ],
+    "Jah Khalib": [
+      "Jah Khalib songs",
+      "Jah Khalib new song {year}"
+    ],
+    "Ayau": [
+      "Ayau songs",
+      "Ayau new song {year}"
+    ],
+    "Miras Zhugunusov": [
+      "Miras Zhugunusov songs",
+      "Miras Zhugunusov new song {year}"
+    ],
+    "Zhanar Dugalova": [
+      "Zhanar Dugalova songs",
+      "Zhanar Dugalova new song {year}"
+    ],
+    "Batyrkhan Shukenov": [
+      "Batyrkhan Shukenov songs",
+      "Batyrkhan Shukenov new song {year}"
+    ],
+    "Kairat Nurtas": [
+      "Kairat Nurtas songs",
+      "Kairat Nurtas new song {year}"
+    ]
+  }
+}

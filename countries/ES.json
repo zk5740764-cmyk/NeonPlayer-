@@ -1,0 +1,112 @@
+{
+  "name": "Spain",
+  "categories": [
+    "Home",
+    "Trending",
+    "Spain Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Rosalía",
+    "C. Tangana",
+    "Aitana"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Spain Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Rosalía",
+    "C. Tangana",
+    "Aitana",
+    "Quevedo",
+    "Alejandro Sanz",
+    "Enrique Iglesias",
+    "Bad Gyal",
+    "Estopa"
+  ],
+  "category_queries": {
+    "Home": [
+      "Spain trending videos today",
+      "Spain viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Spain {year}",
+      "trending songs Spain {year}",
+      "Spain music {year}"
+    ],
+    "Spain Hits": [
+      "música española {year}",
+      "éxitos españa {year}"
+    ],
+    "News": [
+      "Spain news today",
+      "Spain breaking news {year}",
+      "Spain latest news"
+    ],
+    "Sports": [
+      "Spain sports highlights",
+      "Spain sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Spain gaming {year}"
+    ],
+    "Rosalía": [
+      "Rosalía songs",
+      "Rosalía new song {year}"
+    ],
+    "C. Tangana": [
+      "C. Tangana songs",
+      "C. Tangana new song {year}"
+    ],
+    "Aitana": [
+      "Aitana songs",
+      "Aitana new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Spain {year}",
+      "trending songs Spain {year}",
+      "Spain music {year}"
+    ],
+    "New Releases": [
+      "new Spain songs {year}",
+      "Spain new music {year}"
+    ],
+    "Romantic": [
+      "Spain romantic songs",
+      "Spain love songs {year}"
+    ],
+    "Old Classics": [
+      "Spain old classic songs",
+      "Spain evergreen hits"
+    ],
+    "Quevedo": [
+      "Quevedo songs",
+      "Quevedo new song {year}"
+    ],
+    "Alejandro Sanz": [
+      "Alejandro Sanz songs",
+      "Alejandro Sanz new song {year}"
+    ],
+    "Enrique Iglesias": [
+      "Enrique Iglesias songs",
+      "Enrique Iglesias new song {year}"
+    ],
+    "Bad Gyal": [
+      "Bad Gyal songs",
+      "Bad Gyal new song {year}"
+    ],
+    "Estopa": [
+      "Estopa songs",
+      "Estopa new song {year}"
+    ]
+  }
+}

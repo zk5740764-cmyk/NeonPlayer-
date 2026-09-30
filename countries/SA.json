@@ -1,0 +1,111 @@
+{
+  "name": "Saudi Arabia",
+  "categories": [
+    "Home",
+    "Trending",
+    "Saudi Arabia Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Mohammed Abdu",
+    "Rashed Al-Majed"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Saudi Arabia Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Mohammed Abdu",
+    "Rashed Al-Majed",
+    "Abdulmajeed Abdullah",
+    "Rabeh Saqer",
+    "Abadi Al Johar",
+    "Mohammed Al Shehri",
+    "Talal Maddah",
+    "Khalid Abdulrahman"
+  ],
+  "category_queries": {
+    "Home": [
+      "Saudi Arabia trending videos today",
+      "Saudi Arabia viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Saudi Arabia {year}",
+      "trending songs Saudi Arabia {year}",
+      "Saudi Arabia music {year}"
+    ],
+    "Saudi Arabia Hits": [
+      "اغاني سعودية {year}",
+      "اغاني عربية جديدة {year}"
+    ],
+    "News": [
+      "Saudi Arabia news today",
+      "Saudi Arabia breaking news {year}",
+      "Saudi Arabia latest news"
+    ],
+    "Sports": [
+      "Saudi Arabia sports highlights",
+      "Saudi Arabia sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Saudi Arabia gaming {year}"
+    ],
+    "Mohammed Abdu": [
+      "Mohammed Abdu songs",
+      "Mohammed Abdu new song {year}"
+    ],
+    "Rashed Al-Majed": [
+      "Rashed Al-Majed songs",
+      "Rashed Al-Majed new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Saudi Arabia {year}",
+      "trending songs Saudi Arabia {year}",
+      "Saudi Arabia music {year}"
+    ],
+    "New Releases": [
+      "new Saudi songs {year}",
+      "Saudi new music {year}"
+    ],
+    "Romantic": [
+      "Saudi romantic songs",
+      "Saudi love songs {year}"
+    ],
+    "Old Classics": [
+      "Saudi old classic songs",
+      "Saudi evergreen hits"
+    ],
+    "Abdulmajeed Abdullah": [
+      "Abdulmajeed Abdullah songs",
+      "Abdulmajeed Abdullah new song {year}"
+    ],
+    "Rabeh Saqer": [
+      "Rabeh Saqer songs",
+      "Rabeh Saqer new song {year}"
+    ],
+    "Abadi Al Johar": [
+      "Abadi Al Johar songs",
+      "Abadi Al Johar new song {year}"
+    ],
+    "Mohammed Al Shehri": [
+      "Mohammed Al Shehri songs",
+      "Mohammed Al Shehri new song {year}"
+    ],
+    "Talal Maddah": [
+      "Talal Maddah songs",
+      "Talal Maddah new song {year}"
+    ],
+    "Khalid Abdulrahman": [
+      "Khalid Abdulrahman songs",
+      "Khalid Abdulrahman new song {year}"
+    ]
+  }
+}

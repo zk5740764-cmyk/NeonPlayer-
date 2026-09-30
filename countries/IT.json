@@ -1,0 +1,122 @@
+{
+  "name": "Italy",
+  "categories": [
+    "Home",
+    "Trending",
+    "Italy Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Måneskin",
+    "Laura Pausini",
+    "Eros Ramazzotti"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Italy Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Måneskin",
+    "Laura Pausini",
+    "Eros Ramazzotti",
+    "Mahmood",
+    "Blanco",
+    "Sfera Ebbasta",
+    "Andrea Bocelli",
+    "Tiziano Ferro",
+    "Annalisa",
+    "Lazza"
+  ],
+  "category_queries": {
+    "Home": [
+      "Italy trending videos today",
+      "Italy viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Italy {year}",
+      "trending songs Italy {year}",
+      "Italy music {year}"
+    ],
+    "Italy Hits": [
+      "canzoni italiane {year}",
+      "hit italiane {year}"
+    ],
+    "News": [
+      "Italy news today",
+      "Italy breaking news {year}",
+      "Italy latest news"
+    ],
+    "Sports": [
+      "Italy sports highlights",
+      "Italy sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Italy gaming {year}"
+    ],
+    "Måneskin": [
+      "Måneskin songs",
+      "Måneskin new song {year}"
+    ],
+    "Laura Pausini": [
+      "Laura Pausini songs",
+      "Laura Pausini new song {year}"
+    ],
+    "Eros Ramazzotti": [
+      "Eros Ramazzotti songs",
+      "Eros Ramazzotti new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Italy {year}",
+      "trending songs Italy {year}",
+      "Italy music {year}"
+    ],
+    "New Releases": [
+      "new Italy songs {year}",
+      "Italy new music {year}"
+    ],
+    "Romantic": [
+      "Italy romantic songs",
+      "Italy love songs {year}"
+    ],
+    "Old Classics": [
+      "Italy old classic songs",
+      "Italy evergreen hits"
+    ],
+    "Mahmood": [
+      "Mahmood songs",
+      "Mahmood new song {year}"
+    ],
+    "Blanco": [
+      "Blanco songs",
+      "Blanco new song {year}"
+    ],
+    "Sfera Ebbasta": [
+      "Sfera Ebbasta songs",
+      "Sfera Ebbasta new song {year}"
+    ],
+    "Andrea Bocelli": [
+      "Andrea Bocelli songs",
+      "Andrea Bocelli new song {year}"
+    ],
+    "Tiziano Ferro": [
+      "Tiziano Ferro songs",
+      "Tiziano Ferro new song {year}"
+    ],
+    "Annalisa": [
+      "Annalisa songs",
+      "Annalisa new song {year}"
+    ],
+    "Lazza": [
+      "Lazza songs",
+      "Lazza new song {year}"
+    ]
+  }
+}

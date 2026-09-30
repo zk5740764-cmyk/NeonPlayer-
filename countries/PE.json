@@ -1,0 +1,111 @@
+{
+  "name": "Peru",
+  "categories": [
+    "Home",
+    "Trending",
+    "Peru Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Grupo 5",
+    "Christian Domínguez"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Peru Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Grupo 5",
+    "Christian Domínguez",
+    "Marisol",
+    "Corazón Serrano",
+    "Armonía 10",
+    "Eva Ayllón",
+    "Daniela Darcourt",
+    "Deyvis Orosco"
+  ],
+  "category_queries": {
+    "Home": [
+      "Peru trending videos today",
+      "Peru viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Peru {year}",
+      "trending songs Peru {year}",
+      "Peru music {year}"
+    ],
+    "Peru Hits": [
+      "música peruana {year}",
+      "cumbia peruana {year}"
+    ],
+    "News": [
+      "Peru news today",
+      "Peru breaking news {year}",
+      "Peru latest news"
+    ],
+    "Sports": [
+      "Peru sports highlights",
+      "Peru sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Peru gaming {year}"
+    ],
+    "Grupo 5": [
+      "Grupo 5 songs",
+      "Grupo 5 new song {year}"
+    ],
+    "Christian Domínguez": [
+      "Christian Domínguez songs",
+      "Christian Domínguez new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Peru {year}",
+      "trending songs Peru {year}",
+      "Peru music {year}"
+    ],
+    "New Releases": [
+      "new Peru songs {year}",
+      "Peru new music {year}"
+    ],
+    "Romantic": [
+      "Peru romantic songs",
+      "Peru love songs {year}"
+    ],
+    "Old Classics": [
+      "Peru old classic songs",
+      "Peru evergreen hits"
+    ],
+    "Marisol": [
+      "Marisol songs",
+      "Marisol new song {year}"
+    ],
+    "Corazón Serrano": [
+      "Corazón Serrano songs",
+      "Corazón Serrano new song {year}"
+    ],
+    "Armonía 10": [
+      "Armonía 10 songs",
+      "Armonía 10 new song {year}"
+    ],
+    "Eva Ayllón": [
+      "Eva Ayllón songs",
+      "Eva Ayllón new song {year}"
+    ],
+    "Daniela Darcourt": [
+      "Daniela Darcourt songs",
+      "Daniela Darcourt new song {year}"
+    ],
+    "Deyvis Orosco": [
+      "Deyvis Orosco songs",
+      "Deyvis Orosco new song {year}"
+    ]
+  }
+}

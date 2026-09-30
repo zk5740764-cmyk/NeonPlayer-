@@ -1,0 +1,117 @@
+{
+  "name": "Lebanon",
+  "categories": [
+    "Home",
+    "Trending",
+    "Lebanon Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Fairuz",
+    "Nancy Ajram",
+    "Elissa"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Lebanon Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Fairuz",
+    "Nancy Ajram",
+    "Elissa",
+    "Wael Kfoury",
+    "Najwa Karam",
+    "Haifa Wehbe",
+    "Ragheb Alama",
+    "Melhem Zein",
+    "Assi El Hallani"
+  ],
+  "category_queries": {
+    "Home": [
+      "Lebanon trending videos today",
+      "Lebanon viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Lebanon {year}",
+      "trending songs Lebanon {year}",
+      "Lebanon music {year}"
+    ],
+    "Lebanon Hits": [
+      "اغاني لبنانية {year}",
+      "اغاني عربية جديدة {year}"
+    ],
+    "News": [
+      "Lebanon news today",
+      "Lebanon breaking news {year}",
+      "Lebanon latest news"
+    ],
+    "Sports": [
+      "Lebanon sports highlights",
+      "Lebanon sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Lebanon gaming {year}"
+    ],
+    "Fairuz": [
+      "Fairuz songs",
+      "Fairuz new song {year}"
+    ],
+    "Nancy Ajram": [
+      "Nancy Ajram songs",
+      "Nancy Ajram new song {year}"
+    ],
+    "Elissa": [
+      "Elissa songs",
+      "Elissa new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Lebanon {year}",
+      "trending songs Lebanon {year}",
+      "Lebanon music {year}"
+    ],
+    "New Releases": [
+      "new Lebanon songs {year}",
+      "Lebanon new music {year}"
+    ],
+    "Romantic": [
+      "Lebanon romantic songs",
+      "Lebanon love songs {year}"
+    ],
+    "Old Classics": [
+      "Lebanon old classic songs",
+      "Lebanon evergreen hits"
+    ],
+    "Wael Kfoury": [
+      "Wael Kfoury songs",
+      "Wael Kfoury new song {year}"
+    ],
+    "Najwa Karam": [
+      "Najwa Karam songs",
+      "Najwa Karam new song {year}"
+    ],
+    "Haifa Wehbe": [
+      "Haifa Wehbe songs",
+      "Haifa Wehbe new song {year}"
+    ],
+    "Ragheb Alama": [
+      "Ragheb Alama songs",
+      "Ragheb Alama new song {year}"
+    ],
+    "Melhem Zein": [
+      "Melhem Zein songs",
+      "Melhem Zein new song {year}"
+    ],
+    "Assi El Hallani": [
+      "Assi El Hallani songs",
+      "Assi El Hallani new song {year}"
+    ]
+  }
+}

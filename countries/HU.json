@@ -1,0 +1,105 @@
+{
+  "name": "Hungary",
+  "categories": [
+    "Home",
+    "Trending",
+    "Hungary Hits",
+    "News",
+    "Sports",
+    "Gaming",
+    "Azahriah"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Hungary Hits",
+    "Romantic",
+    "Old Classics"
+  ],
+  "music_singers": [
+    "Azahriah",
+    "Follow the Flow",
+    "Curtis",
+    "Wellhello",
+    "Omega",
+    "Halott Pénz",
+    "Bëlga"
+  ],
+  "category_queries": {
+    "Home": [
+      "Hungary trending videos today",
+      "Hungary viral videos {year}",
+      "trending videos {year}",
+      "new video uploads {year}"
+    ],
+    "Trending": [
+      "top songs Hungary {year}",
+      "trending songs Hungary {year}",
+      "Hungary music {year}"
+    ],
+    "Hungary Hits": [
+      "magyar zene {year}",
+      "magyar slágerek {year}"
+    ],
+    "News": [
+      "Hungary news today",
+      "Hungary breaking news {year}",
+      "Hungary latest news"
+    ],
+    "Sports": [
+      "Hungary sports highlights",
+      "Hungary sports news {year}"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "Hungary gaming {year}"
+    ],
+    "Azahriah": [
+      "Azahriah songs",
+      "Azahriah new song {year}"
+    ],
+    "Top Charts": [
+      "top songs Hungary {year}",
+      "trending songs Hungary {year}",
+      "Hungary music {year}"
+    ],
+    "New Releases": [
+      "new Hungary songs {year}",
+      "Hungary new music {year}"
+    ],
+    "Romantic": [
+      "Hungary romantic songs",
+      "Hungary love songs {year}"
+    ],
+    "Old Classics": [
+      "Hungary old classic songs",
+      "Hungary evergreen hits"
+    ],
+    "Follow the Flow": [
+      "Follow the Flow songs",
+      "Follow the Flow new song {year}"
+    ],
+    "Curtis": [
+      "Curtis songs",
+      "Curtis new song {year}"
+    ],
+    "Wellhello": [
+      "Wellhello songs",
+      "Wellhello new song {year}"
+    ],
+    "Omega": [
+      "Omega songs",
+      "Omega new song {year}"
+    ],
+    "Halott Pénz": [
+      "Halott Pénz songs",
+      "Halott Pénz new song {year}"
+    ],
+    "Bëlga": [
+      "Bëlga songs",
+      "Bëlga new song {year}"
+    ]
+  }
+}
