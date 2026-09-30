@@ -1,0 +1,13 @@
+{
+  "_help": "Yahan naye websites add karo. Har category ke andar sites list mein {name, url} daalo. Category ka naam pehle se ho to sites usi mein judti hain, naya naam ho to nayi category ban jati hai. Duplicate url apne aap skip ho jata hai.",
+  "categories": [
+    {
+      "emoji": "⭐",
+      "name": "My Sites",
+      "sites": [
+        { "name": "Instagram (Rafiqat)", "url": "https://www.instagram.com/rafiqat.khatana" },
+        { "name": "Facebook Group", "url": "https://www.facebook.com/share/g/1Gi1L6VVbb/" }
+      ]
+    }
+  ]
+}
