@@ -20,7 +20,7 @@
   "shorts_enabled": true,
   "search_enabled": true,
   "comments_enabled": true,
-  "debug_menu_enabled": false,
+  "debug_menu_enabled": true,
 
   "iframe_fallback_enabled": false,
 
