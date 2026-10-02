@@ -22,7 +22,7 @@
   "comments_enabled": true,
   "debug_menu_enabled": true,
 
-  "iframe_fallback_enabled": false,
+  "iframe_fallback_enabled": true,
 
   "home_feed_sync_enabled": true,
   "home_feed_sync_interval_hours": 2,
