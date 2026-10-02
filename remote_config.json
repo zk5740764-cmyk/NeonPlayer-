@@ -5,7 +5,7 @@
   "telegram_update_url": "https://t.me/StreamXAp",
   "maintenance_mode": false,
   "maintenance_message": "",
-  "banner_message": "try this movie .https://youtu.be/marROpX7-3Y?si=3t2HdHXYHOTYJ6Bf",
+  "banner_message": "try this movie She Raised a Dragon... But a Black Dragon Came to Destroy Them | Full Fantasy Movie",
 
   "downloads_enabled": true,
   "subtitles_enabled": true,
@@ -20,9 +20,9 @@
   "shorts_enabled": true,
   "search_enabled": true,
   "comments_enabled": true,
-  "debug_menu_enabled": true,
+  "debug_menu_enabled": false,
 
-  "iframe_fallback_enabled": true,
+  "iframe_fallback_enabled": false,
 
   "home_feed_sync_enabled": true,
   "home_feed_sync_interval_hours": 2,
