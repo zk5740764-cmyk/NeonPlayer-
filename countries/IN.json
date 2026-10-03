@@ -2,17 +2,26 @@
   "name": "India",
   "categories": [
     "Home",
-    "Background music",
+    "Background Music",
     "Soul Music",
-    "Shakira",
+    "Recently Uploaded",
     "Bollywood Hits",
-    "Recently uploaded",
     "News",
     "Sports",
     "Gaming",
-    "Arijit Singh",
     "Trending",
-    "Punjabi Hits"
+    "Punjabi Hits",
+    "Devotional",
+    "Education",
+    "Movies",
+    "Travel",
+    "Technology",
+    "Arijit Singh",
+    "Shreya Ghoshal",
+    "Shakira",
+    "AP Dhillon",
+    "Badshah",
+    "Diljit Dosanjh"
   ],
   "music_categories": [
     "Top Charts",
@@ -21,7 +30,9 @@
     "Bollywood Hits",
     "Punjabi Hits",
     "Romantic",
-    "Old Classics"
+    "Old Classics",
+    "Background Music",
+    "Soul Music"
   ],
   "music_singers": [
     "Arijit Singh",
@@ -43,164 +54,240 @@
   ],
   "category_queries": {
     "Home": [
-      "CID new episode 2026",
-"CID season 2 latest episode",
-"crime patrol new episode 2026",
-"savdhan india full episode",
-"class 12 board exam roadmap 2027",
-"class 11 physics complete chapter",
-"units and measurements physics",
-"ncert class 12 complete syllabus",
-"jee mains preparation 2026",
-"neet biology one shot",
-"board exam time table 2027",
-"english grammar full course",
-"new hindi song 2026",
-"kalyani shreya ghoshal",
-"top trending love songs",
-"latest romantic songs hindi",
-"punjabi songs 2026",
-"karan aujla new song",
-"hindi old songs 90s",
-"lofi hindi songs",
-"arijit singh new song",
-"shreya ghoshal new song",
-"diljit dosanjh new song",
-"badshah new song",
-"bhajan new 2026",
-"aarti live",
-"hanuman chalisa",
-"shiv bhajan",
-"krishna bhajan",
-"hindi dj song 2026",
-"party songs hindi",
-"punjabi dj remix",
-"trending tiktok remix",
-"bgmi highlights",
-"free fire gameplay",
-"gta 5 funny moments",
-"minecraft hindi",
-"gaming setup tour",
-"india news today hindi",
-"breaking news live",
-"world news today",
-"kashmir travel vlog",
-"manali trip 2026",
-"kerala tourism vlog",
-"village life vlog india",
-"street food india",
-"motivational video hindi",
-"apna aura banao",
-"reverse psychology video",
-"study motivation 2026",
-"life lesson hindi",
-"tech review hindi 2026",
-"iphone 18 pro review",
-"upi new rules 2026",
-"stock market today",
-"gold rate today",
-"cartoon video hindi",
-"nursery rhymes",
-"kids learning video",
-"chhota bheem new episode",
-"movie trailer 2026 hindi",
-"south movie hindi dubbed",
-"netflix new movie",
-"movie explained hindi",
+      "CID latest episode",
+      "Crime Patrol latest episode",
+      "Savdhan India full episode",
+      "JEE preparation",
+      "NEET biology",
+      "New Hindi songs",
+      "Punjabi songs",
+      "Arijit Singh songs",
+      "Shreya Ghoshal songs",
+      "Hanuman Chalisa",
+      "BGMI gameplay",
+      "Free Fire gameplay",
+      "India news today",
+      "Movie trailer Hindi",
+      "Tech review Hindi",
+      "Travel vlog India"
     ],
+
+    "Background Music": [
+      "background music india",
+      "cinematic background music india",
+      "study music India",
+      "relaxing instrumental indian",
+      "piano instrumental india",
+      "gaming background music india",
+      "ambient music",
+      "lofi instrumental india",
+      "meditation music india"
+    ],
+
+    "Soul Music": [
+      "soul music india",
+      "best soul songs indian",
+      "soul playlist india",
+      "romantic soul music india",
+      "emotional songs indian",
+      "relaxing soul music india",
+      "modern soul music india",
+      "classic soul music India",
+      "soul vocals indian",
+      "top soul hits indian"
+    ],
+
+    "Recently Uploaded": [
+      "recently uploaded videos india",
+      "latest uploads india",
+      "new videos today Indian",
+      "new music videos indian",
+      "latest gaming uploads india",
+      "new movie trailers india",
+      "fresh content india",
+      "latest viral videos Indian"
+    ],
+
     "Bollywood Hits": [
-      "bollywood hit songs {year}",
-      "new hindi songs {year}"
+      "bollywood hit songs",
+      "latest hindi songs",
+      "top bollywood music",
+      "trending bollywood songs"
     ],
+
     "News": [
       "india news today",
-      "breaking news {year}",
-      "latest news today"
+      "breaking news live",
+      "latest news hindi",
+      "world news today"
     ],
+
     "Sports": [
       "cricket highlights",
-      "sports highlights {year}",
-      "football highlights"
+      "football highlights",
+      "sports highlights",
+      "india cricket highlights"
     ],
+
     "Gaming": [
-      "gaming highlights {year}",
       "free fire gameplay",
-      "pubg gameplay {year}",
-      "gaming video {year}"
+      "bgmi gameplay",
+      "minecraft gameplay",
+      "gta 5 gameplay",
+      "gaming highlights"
     ],
-    "Arijit Singh": [
-      "arijit singh songs",
-      "arijit singh new song {year}"
-    ],
+
     "Trending": [
-      "top hindi songs {year}",
-      "trending songs {year}",
-      "top music {year}"
+      "trending songs india ",
+      "viral videos india",
+      "top music india",
+      "trending content india"
     ],
+
     "Punjabi Hits": [
-      "punjabi hit songs {year}",
-      "new punjabi songs {year}"
+      "punjabi hit songs",
+      "latest punjabi songs",
+      "punjabi trending music",
+      "top punjabi hits"
     ],
+
+    "Devotional": [
+      "hanuman chalisa",
+      "shiv bhajan",
+      "krishna bhajan",
+      "bhakti songs",
+      "aarti"
+    ],
+
+    "Education": [
+      "class 12 physics",
+      "jee mains preparation",
+      "neet biology",
+      "english grammar",
+      "ncert solutions"
+    ],
+
+    "Movies": [
+      "movie trailer hindi",
+      "south movie hindi dubbed",
+      "movie explained hindi",
+      "new bollywood movie",
+      "netflix movie"
+    ],
+
+    "Travel": [
+      "kashmir vlog",
+      "manali vlog",
+      "kerala travel vlog",
+      "india tourism",
+      "travel guide"
+    ],
+
+    "Technology": [
+      "tech review",
+      "android apps",
+      "iphone review",
+      "latest gadgets",
+      "technology news"
+    ],
+
     "Top Charts": [
-      "top hindi songs {year}",
-      "trending songs {year}",
-      "top music {year}"
+      "top hindi songs",
+      "top music charts",
+      "trending songs"
     ],
+
     "New Releases": [
-      "new hindi songs {year}",
-      "new bollywood songs {year}"
+      "new hindi songs",
+      "latest bollywood songs",
+      "new music releases"
     ],
+
     "Romantic": [
-      "romantic hindi songs {year}",
-      "hindi love songs"
+      "romantic hindi songs",
+      "hindi love songs",
+      "romantic bollywood songs"
     ],
+
     "Old Classics": [
       "old hindi songs evergreen",
-      "purane gaane 90s hits"
+      "90s hindi hits",
+      "golden old songs"
     ],
+
+    "Arijit Singh": [
+      "arijit singh songs",
+      "arijit singh latest song"
+    ],
+
     "Shreya Ghoshal": [
-      "Shreya Ghoshal songs",
-      "Shreya Ghoshal new song {year}"
+      "shreya ghoshal songs",
+      "shreya ghoshal latest song"
     ],
+
+    "Shakira": [
+      "shakira songs",
+      "shakira latest song"
+    ],
+
+    "Shilpi Raj": [
+      "shilpi raj songs",
+      "shilpi raj latest song"
+    ],
+
+    "Drake": [
+      "drake songs",
+      "drake latest song"
+    ],
+
     "AP Dhillon": [
-      "AP Dhillon songs",
-      "AP Dhillon new song {year}"
+      "ap dhillon songs",
+      "ap dhillon latest song"
     ],
+
     "Badshah": [
-      "Badshah songs",
-      "Badshah new song {year}"
+      "badshah songs",
+      "badshah latest song"
     ],
+
     "Diljit Dosanjh": [
-      "Diljit Dosanjh songs",
-      "Diljit Dosanjh new song {year}"
+      "diljit dosanjh songs",
+      "diljit dosanjh latest song"
     ],
+
     "Jubin Nautiyal": [
-      "Jubin Nautiyal songs",
-      "Jubin Nautiyal new song {year}"
+      "jubin nautiyal songs",
+      "jubin nautiyal latest song"
     ],
+
     "Darshan Raval": [
-      "Darshan Raval songs",
-      "Darshan Raval new song {year}"
+      "darshan raval songs",
+      "darshan raval latest song"
     ],
+
     "Armaan Malik": [
-      "Armaan Malik songs",
-      "Armaan Malik new song {year}"
+      "armaan malik songs",
+      "armaan malik latest song"
     ],
+
     "Sidhu Moosewala": [
-      "Sidhu Moosewala songs",
-      "Sidhu Moosewala new song {year}"
+      "sidhu moosewala songs",
+      "sidhu moosewala hits"
     ],
+
     "Kumar Sanu": [
-      "Kumar Sanu songs",
-      "Kumar Sanu new song {year}"
+      "kumar sanu songs",
+      "kumar sanu evergreen hits"
     ],
+
     "Alka Yagnik": [
-      "Alka Yagnik songs",
-      "Alka Yagnik new song {year}"
+      "alka yagnik songs",
+      "alka yagnik hits"
     ],
+
     "Udit Narayan": [
-      "Udit Narayan songs",
-      "Udit Narayan new song {year}"
+      "udit narayan songs",
+      "udit narayan hits"
     ]
   }
 }
