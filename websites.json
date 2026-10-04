@@ -3,10 +3,10 @@
   "categories": [
     {
       "emoji": "⭐",
-      "name": "My Sites",
+      "name": "Hot site",
       "sites": [
-        { "name": "Instagram (Rafiqat)", "url": "https://www.instagram.com/rafiqat.khatana" },
-        { "name": "Facebook Group", "url": "https://www.facebook.com/share/g/1Gi1L6VVbb/" }
+        { "name": "Dearmet", "url": "https://dating.h5scene.com/matchUp/?placefrom=favorite&match_channel=dearmet" },
+        { "name": "", "url": "" }
       ]
     }
   ]
