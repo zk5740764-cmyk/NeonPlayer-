@@ -1,14 +1,11 @@
 {
-  "_help": "Yahan naye websites add karo. Har category ke andar sites list mein {name, url} daalo. Category ka naam pehle se ho to sites usi mein judti hain, naya naam ho to nayi category ban jati hai. Duplicate url apne aap skip ho jata hai.",
+  "_help": "...",
   "categories": [
     {
       "emoji": "⭐",
       "name": "Hot site",
       "sites": [
-        {
-          "name": "Dearmet",
-          "url": "https://dating.h5scene.com/matchUp/?placefrom=favorite&match_channel=dearmet"
-        }
+        { "name": "Dearmet", "url": "https://dating.h5scene.com/matchUp/?placefrom=favorite&match_channel=dearmet" }
       ]
     }
   ]
