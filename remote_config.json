@@ -16,7 +16,7 @@
   "music_tab_enabled": true,
   "downloads_tab_enabled": true,
   "shorts_enabled": true,
-  "search_enabled": false,
+  "search_enabled": true,
   "comments_enabled": true,
   "debug_menu_enabled": true,
   "debug_pin": "8082",
