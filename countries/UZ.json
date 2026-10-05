@@ -1,0 +1,43 @@
+{
+  "_comment": "UZ: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Uzbek Hits",
+    "O'zbek Pop",
+    "Estrada",
+    "Shahzoda",
+    "Ulug'bek Rahmatullayev",
+    "Rayhon",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Uzbek Hits": ["o'zbek qo'shiqlari {year}", "yangi o'zbek qo'shiqlari", "uzbek hit songs"],
+    "O'zbek Pop": ["uzbek pop {year}", "yangi o'zbek pop"],
+    "Estrada": ["o'zbek estrada qo'shiqlari", "uzbek estrada"],
+    "News": ["yangiliklar bugun", "yangiliklar bugun live"],
+    "Sports": ["sport sharh", "sport sharh {year}"],
+    "Shahzoda": ["Shahzoda songs", "Shahzoda new song {year}"],
+    "Ulug'bek Rahmatullayev": ["Ulug'bek Rahmatullayev songs", "Ulug'bek Rahmatullayev new song {year}"],
+    "Rayhon": ["Rayhon songs", "Rayhon new song {year}"],
+    "Top Charts": ["o'zbek qo'shiqlari {year}", "uzbek hit songs"],
+    "New Releases": ["yangi o'zbek qo'shiqlari", "o'zbek qo'shiqlari {year}"],
+    "Trending": ["uzbek hit songs", "yangi o'zbek qo'shiqlari"]
+  },
+  "music_singers": [
+    "Shahzoda",
+    "Ulug'bek Rahmatullayev",
+    "Rayhon",
+    "Ozodbek Nazarbekov",
+    "Lola Yuldasheva",
+    "Jasur Umirov",
+    "Sevara Nazarkhan",
+    "Munisa Rizayeva",
+    "Yulduz Usmonova",
+    "Xamdam Sobirov",
+    "Konsta"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "O'zbek Pop", "Estrada"]
+}

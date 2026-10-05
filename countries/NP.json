@@ -1,0 +1,48 @@
+{
+  "_comment": "NP: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Nepali Hits",
+    "Nepali Pop",
+    "Lok Dohori",
+    "Narayan Gopal",
+    "Sugam Pokhrel",
+    "Swoopna Suman",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Nepali Hits": ["nepali songs {year}", "new nepali song", "nepali hit songs"],
+    "Nepali Pop": ["nepali pop songs", "new nepali pop"],
+    "Lok Dohori": ["lok dohori", "nepali dohori song"],
+    "News": ["आजका समाचार", "आजका समाचार live"],
+    "Sports": ["खेल हाइलाइट", "खेल हाइलाइट {year}"],
+    "Narayan Gopal": ["Narayan Gopal songs", "Narayan Gopal new song {year}"],
+    "Sugam Pokhrel": ["Sugam Pokhrel songs", "Sugam Pokhrel new song {year}"],
+    "Swoopna Suman": ["Swoopna Suman songs", "Swoopna Suman new song {year}"],
+    "Top Charts": ["nepali songs {year}", "nepali hit songs"],
+    "New Releases": ["new nepali song", "nepali songs {year}"],
+    "Trending": ["nepali hit songs", "new nepali song"]
+  },
+  "music_singers": [
+    "Narayan Gopal",
+    "Sugam Pokhrel",
+    "Swoopna Suman",
+    "Pramod Kharel",
+    "Anju Panta",
+    "Bipul Chettri",
+    "Nepathya",
+    "Melina Rai",
+    "Shiva Pariyar",
+    "Rajesh Payal Rai",
+    "Ani Choying Drolma",
+    "Vten",
+    "Yabesh Thapa",
+    "Trishna Gurung",
+    "Sajjan Raj Vaidya",
+    "Samir Shrestha"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Nepali Pop", "Lok Dohori"]
+}

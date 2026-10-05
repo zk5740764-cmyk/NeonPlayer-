@@ -1,0 +1,48 @@
+{
+  "_comment": "DZ: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Algerian Hits",
+    "راي",
+    "راب جزائري",
+    "شعبي جزائري",
+    "Soolking",
+    "Cheb Khaled",
+    "Cheb Mami",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Algerian Hits": ["اغاني جزائرية {year}", "جديد الاغاني الجزائرية", "rai algerien {year}"],
+    "راي": ["راي جزائري", "rai algerien"],
+    "راب جزائري": ["راب جزائري {year}", "rap algerien {year}"],
+    "شعبي جزائري": ["شعبي جزائري", "اغاني شعبي جزائري"],
+    "News": ["اخبار اليوم", "اخبار اليوم live"],
+    "Sports": ["رياضة ملخص", "رياضة ملخص {year}"],
+    "Soolking": ["Soolking songs", "Soolking new song {year}"],
+    "Cheb Khaled": ["Cheb Khaled songs", "Cheb Khaled new song {year}"],
+    "Cheb Mami": ["Cheb Mami songs", "Cheb Mami new song {year}"],
+    "Top Charts": ["اغاني جزائرية {year}", "rai algerien {year}"],
+    "New Releases": ["جديد الاغاني الجزائرية", "اغاني جزائرية {year}"],
+    "Trending": ["rai algerien {year}", "جديد الاغاني الجزائرية"]
+  },
+  "music_singers": [
+    "Soolking",
+    "Cheb Khaled",
+    "Cheb Mami",
+    "Faudel",
+    "Lotfi DK",
+    "Cheb Bilal",
+    "Reda Taliani",
+    "Mohamed Lamine",
+    "Imen Es",
+    "Houari Dauphin",
+    "Cheba Zahouania",
+    "Amel Bent",
+    "Dj Snake",
+    "Tayc"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "راي", "راب جزائري", "شعبي جزائري"]
+}

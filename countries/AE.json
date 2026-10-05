@@ -1,0 +1,46 @@
+{
+  "_comment": "AE: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Emirati Hits",
+    "خليجي",
+    "عربي بوب",
+    "شيلات",
+    "Hussain Al Jassmi",
+    "Ahlam",
+    "Balqees",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Emirati Hits": ["اغاني اماراتية {year}", "جديد الاغاني الاماراتية", "اغاني خليجية جديدة"],
+    "خليجي": ["اغاني خليجية جديدة", "اغاني خليجي"],
+    "عربي بوب": ["اغاني عربية {year}", "عربي بوب جديد"],
+    "شيلات": ["شيلات جديدة", "شيلات {year}"],
+    "News": ["اخبار اليوم", "اخبار اليوم live"],
+    "Sports": ["رياضة ملخص", "رياضة ملخص {year}"],
+    "Hussain Al Jassmi": ["Hussain Al Jassmi songs", "Hussain Al Jassmi new song {year}"],
+    "Ahlam": ["Ahlam songs", "Ahlam new song {year}"],
+    "Balqees": ["Balqees songs", "Balqees new song {year}"],
+    "Top Charts": ["اغاني اماراتية {year}", "اغاني خليجية جديدة"],
+    "New Releases": ["جديد الاغاني الاماراتية", "اغاني اماراتية {year}"],
+    "Trending": ["اغاني خليجية جديدة", "جديد الاغاني الاماراتية"]
+  },
+  "music_singers": [
+    "Hussain Al Jassmi",
+    "Ahlam",
+    "Balqees",
+    "Eida Al Menhali",
+    "Fayez Alsaeed",
+    "Mohammed Abdu",
+    "Elissa",
+    "Nancy Ajram",
+    "Fadl Shaker",
+    "Assala Nasri",
+    "Mohamed Ramadan",
+    "Hamdan Al Abri"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "خليجي", "عربي بوب", "شيلات"]
+}

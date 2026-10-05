@@ -1,0 +1,51 @@
+{
+  "_comment": "DO: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Dominican Hits",
+    "Bachata",
+    "Dembow",
+    "Merengue",
+    "Romeo Santos",
+    "Aventura",
+    "Juan Luis Guerra",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Dominican Hits": ["música dominicana {year}", "dembow {year}", "éxitos república dominicana"],
+    "Bachata": ["bachata {year}", "bachata éxitos"],
+    "Dembow": ["dembow {year}", "dembow dominicano"],
+    "Merengue": ["merengue éxitos", "merengue clásico"],
+    "News": ["noticias hoy", "noticias hoy live"],
+    "Sports": ["deportes resumen", "deportes resumen {year}"],
+    "Romeo Santos": ["Romeo Santos songs", "Romeo Santos new song {year}"],
+    "Aventura": ["Aventura songs", "Aventura new song {year}"],
+    "Juan Luis Guerra": ["Juan Luis Guerra songs", "Juan Luis Guerra new song {year}"],
+    "Top Charts": ["música dominicana {year}", "éxitos república dominicana"],
+    "New Releases": ["dembow {year}", "música dominicana {year}"],
+    "Trending": ["éxitos república dominicana", "dembow {year}"]
+  },
+  "music_singers": [
+    "Romeo Santos",
+    "Aventura",
+    "Juan Luis Guerra",
+    "El Alfa",
+    "Tokischa",
+    "Natti Natasha",
+    "Chimbala",
+    "Rochy RD",
+    "Yailin la Más Viral",
+    "Raulin Rodríguez",
+    "Eddy Herrera",
+    "Johnny Ventura",
+    "Wilfrido Vargas",
+    "Milly Quezada",
+    "Fernando Villalona",
+    "Prince Royce",
+    "Toño Rosario"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Bachata", "Dembow", "Merengue"]
+}

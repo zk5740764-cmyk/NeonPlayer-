@@ -1,0 +1,51 @@
+{
+  "_comment": "AU: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Australian Hits",
+    "Aussie Rock",
+    "Aussie Hip-Hop",
+    "Triple J",
+    "Kylie Minogue",
+    "The Kid LAROI",
+    "Tones and I",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Australian Hits": ["australia top songs {year}", "new australian songs {year}", "triple j hits"],
+    "Aussie Rock": ["australian rock songs", "aussie pub rock"],
+    "Aussie Hip-Hop": ["australian hip hop", "aussie rap songs"],
+    "Triple J": ["triple j like a version", "triple j hits"],
+    "News": ["Australian news today", "Australian news today live"],
+    "Sports": ["Australian sports highlights", "Australian sports highlights {year}"],
+    "Kylie Minogue": ["Kylie Minogue songs", "Kylie Minogue new song {year}"],
+    "The Kid LAROI": ["The Kid LAROI songs", "The Kid LAROI new song {year}"],
+    "Tones and I": ["Tones and I songs", "Tones and I new song {year}"],
+    "Top Charts": ["australia top songs {year}", "triple j hits"],
+    "New Releases": ["new australian songs {year}", "australia top songs {year}"],
+    "Trending": ["triple j hits", "new australian songs {year}"]
+  },
+  "music_singers": [
+    "Kylie Minogue",
+    "The Kid LAROI",
+    "Tones and I",
+    "Troye Sivan",
+    "Sia",
+    "Flume",
+    "Vance Joy",
+    "Tame Impala",
+    "G Flip",
+    "Budjerah",
+    "Royel Otis",
+    "Dean Lewis",
+    "Amy Shark",
+    "Genesis Owusu",
+    "Keith Urban",
+    "Peking Duk",
+    "Sheppard"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Aussie Rock", "Aussie Hip-Hop", "Triple J"]
+}

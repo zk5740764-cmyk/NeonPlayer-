@@ -1,0 +1,51 @@
+{
+  "_comment": "DK: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Danish Hits",
+    "Dansk Pop",
+    "Dansk Rap",
+    "Dansktop",
+    "MØ",
+    "Lukas Graham",
+    "Medina",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Danish Hits": ["danske hits {year}", "ny dansk musik {year}", "top danske sange"],
+    "Dansk Pop": ["dansk pop {year}", "dansk pop hits"],
+    "Dansk Rap": ["dansk rap {year}", "dansk hiphop"],
+    "Dansktop": ["dansktop hits", "danske klassikere"],
+    "News": ["nyheder i dag", "nyheder i dag live"],
+    "Sports": ["sport højdepunkter", "sport højdepunkter {year}"],
+    "MØ": ["MØ songs", "MØ new song {year}"],
+    "Lukas Graham": ["Lukas Graham songs", "Lukas Graham new song {year}"],
+    "Medina": ["Medina songs", "Medina new song {year}"],
+    "Top Charts": ["danske hits {year}", "top danske sange"],
+    "New Releases": ["ny dansk musik {year}", "danske hits {year}"],
+    "Trending": ["top danske sange", "ny dansk musik {year}"]
+  },
+  "music_singers": [
+    "MØ",
+    "Lukas Graham",
+    "Medina",
+    "Christopher",
+    "Aqua",
+    "Tobias Rahim",
+    "Gulddreng",
+    "Mads Langer",
+    "Specktors",
+    "Jada",
+    "Nik & Jay",
+    "Alberte",
+    "Raske Penge",
+    "Kesi",
+    "Hugorm",
+    "Branco",
+    "Saveus"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Dansk Pop", "Dansk Rap", "Dansktop"]
+}

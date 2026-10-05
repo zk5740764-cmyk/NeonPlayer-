@@ -1,0 +1,51 @@
+{
+  "_comment": "BE: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Belgian Hits",
+    "Vlaamse Hits",
+    "Rap Belge",
+    "Dance BE",
+    "Stromae",
+    "Angèle",
+    "Selah Sue",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Belgian Hits": ["belgische hits {year}", "musique belge {year}", "top belgique"],
+    "Vlaamse Hits": ["vlaamse hits", "vlaamse muziek nieuw"],
+    "Rap Belge": ["rap belge {year}", "belgische rap"],
+    "Dance BE": ["belgian dance hits", "tomorrowland hits"],
+    "News": ["nieuws vandaag", "nieuws vandaag live"],
+    "Sports": ["sport samenvatting", "sport samenvatting {year}"],
+    "Stromae": ["Stromae songs", "Stromae new song {year}"],
+    "Angèle": ["Angèle songs", "Angèle new song {year}"],
+    "Selah Sue": ["Selah Sue songs", "Selah Sue new song {year}"],
+    "Top Charts": ["belgische hits {year}", "top belgique"],
+    "New Releases": ["musique belge {year}", "belgische hits {year}"],
+    "Trending": ["top belgique", "musique belge {year}"]
+  },
+  "music_singers": [
+    "Stromae",
+    "Angèle",
+    "Selah Sue",
+    "Lost Frequencies",
+    "Hooverphonic",
+    "Tourist LeMC",
+    "Hamza",
+    "Lous and the Yakuza",
+    "Typh Barrow",
+    "Regi",
+    "Niels Destadsbader",
+    "K3",
+    "Metejoor",
+    "Tamino",
+    "Charlotte Adigéry",
+    "Gala",
+    "Dimitri Vegas & Like Mike"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Vlaamse Hits", "Rap Belge", "Dance BE"]
+}

@@ -1,0 +1,52 @@
+{
+  "_comment": "FI: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Finnish Hits",
+    "Suomipop",
+    "Suomirap",
+    "Iskelmä",
+    "Käärijä",
+    "Lordi",
+    "Alma",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Finnish Hits": ["suomalaiset hitit {year}", "uusi suomalainen musiikki {year}", "suomipop hitit"],
+    "Suomipop": ["suomipop hitit", "suomipop {year}"],
+    "Suomirap": ["suomirap {year}", "suomi rap uusi"],
+    "Iskelmä": ["iskelmä klassikot", "iskelmä hitit"],
+    "News": ["uutiset tänään", "uutiset tänään live"],
+    "Sports": ["urheilu kooste", "urheilu kooste {year}"],
+    "Käärijä": ["Käärijä songs", "Käärijä new song {year}"],
+    "Lordi": ["Lordi songs", "Lordi new song {year}"],
+    "Alma": ["Alma songs", "Alma new song {year}"],
+    "Top Charts": ["suomalaiset hitit {year}", "suomipop hitit"],
+    "New Releases": ["uusi suomalainen musiikki {year}", "suomalaiset hitit {year}"],
+    "Trending": ["suomipop hitit", "uusi suomalainen musiikki {year}"]
+  },
+  "music_singers": [
+    "Käärijä",
+    "Lordi",
+    "Alma",
+    "Haloo Helsinki!",
+    "Cheek",
+    "JVG",
+    "Nightwish",
+    "Sanni",
+    "Apulanta",
+    "Jenni Vartiainen",
+    "Robin Packalen",
+    "Antti Tuisku",
+    "Evelina",
+    "Pesso",
+    "Paperi T",
+    "Behm",
+    "Yona",
+    "Bomba"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Suomipop", "Suomirap", "Iskelmä"]
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "LB: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Lebanese Hits",
+    "اغاني لبنانية",
+    "دبكة",
+    "Fairuz",
+    "Nancy Ajram",
+    "Elissa",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Lebanese Hits": ["اغاني لبنانية {year}", "جديد الاغاني اللبنانية", "اغاني لبنانية رومانسية"],
+    "اغاني لبنانية": ["اغاني لبنانية جديدة", "لبناني {year}"],
+    "دبكة": ["دبكة لبنانية", "دبكات لبنانية"],
+    "News": ["اخبار اليوم", "اخبار اليوم live"],
+    "Sports": ["رياضة ملخص", "رياضة ملخص {year}"],
+    "Fairuz": ["Fairuz songs", "Fairuz new song {year}"],
+    "Nancy Ajram": ["Nancy Ajram songs", "Nancy Ajram new song {year}"],
+    "Elissa": ["Elissa songs", "Elissa new song {year}"],
+    "Top Charts": ["اغاني لبنانية {year}", "اغاني لبنانية رومانسية"],
+    "New Releases": ["جديد الاغاني اللبنانية", "اغاني لبنانية {year}"],
+    "Trending": ["اغاني لبنانية رومانسية", "جديد الاغاني اللبنانية"]
+  },
+  "music_singers": [
+    "Fairuz",
+    "Nancy Ajram",
+    "Elissa",
+    "Wael Kfoury",
+    "Haifa Wehbe",
+    "Majida El Roumi",
+    "Melhem Zein",
+    "Assi El Helani",
+    "Najwa Karam",
+    "Ragheb Alama",
+    "Mashrou' Leila",
+    "Fadel Shaker",
+    "Carole Samaha",
+    "Ziad Rahbani"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "اغاني لبنانية", "دبكة"]
+}

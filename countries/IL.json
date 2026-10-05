@@ -1,0 +1,49 @@
+{
+  "_comment": "IL: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Israeli Hits",
+    "מזרחית",
+    "פופ ישראלי",
+    "ראפ ישראלי",
+    "Omer Adam",
+    "Noa Kirel",
+    "Eden Ben Zaken",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Israeli Hits": ["שירים חדשים {year}", "להיטים ישראלים {year}", "שירים ישראלים"],
+    "מזרחית": ["מזרחית חדשות {year}", "שירים מזרחיים"],
+    "פופ ישראלי": ["פופ ישראלי {year}", "להיטי פופ ישראלי"],
+    "ראפ ישראלי": ["ראפ ישראלי {year}", "היפ הופ ישראלי"],
+    "News": ["חדשות היום", "חדשות היום live"],
+    "Sports": ["ספורט תקציר", "ספורט תקציר {year}"],
+    "Omer Adam": ["Omer Adam songs", "Omer Adam new song {year}"],
+    "Noa Kirel": ["Noa Kirel songs", "Noa Kirel new song {year}"],
+    "Eden Ben Zaken": ["Eden Ben Zaken songs", "Eden Ben Zaken new song {year}"],
+    "Top Charts": ["שירים חדשים {year}", "שירים ישראלים"],
+    "New Releases": ["להיטים ישראלים {year}", "שירים חדשים {year}"],
+    "Trending": ["שירים ישראלים", "להיטים ישראלים {year}"]
+  },
+  "music_singers": [
+    "Omer Adam",
+    "Noa Kirel",
+    "Eden Ben Zaken",
+    "Netta",
+    "Static & Ben El",
+    "Eden Hason",
+    "Ishay Ribo",
+    "Sarit Hadad",
+    "Idan Raichel",
+    "Tuna",
+    "Shlomo Artzi",
+    "Hanan Ben Ari",
+    "Noga Erez",
+    "Ravid Plotnik",
+    "Ofra Haza"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "מזרחית", "פופ ישראלי", "ראפ ישראלי"]
+}

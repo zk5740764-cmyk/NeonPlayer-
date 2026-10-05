@@ -1,0 +1,51 @@
+{
+  "_comment": "HU: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Hungarian Hits",
+    "Magyar Pop",
+    "Magyar Rap",
+    "Mulatós",
+    "Azahriah",
+    "Dzsúdló",
+    "Majka",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Hungarian Hits": ["magyar slágerek {year}", "új magyar zene {year}", "magyar dalok"],
+    "Magyar Pop": ["magyar pop {year}", "magyar popslágerek"],
+    "Magyar Rap": ["magyar rap {year}", "magyar hiphop"],
+    "Mulatós": ["mulatós zenék", "lakodalmas hitek"],
+    "News": ["hírek ma", "hírek ma live"],
+    "Sports": ["sport összefoglaló", "sport összefoglaló {year}"],
+    "Azahriah": ["Azahriah songs", "Azahriah new song {year}"],
+    "Dzsúdló": ["Dzsúdló songs", "Dzsúdló new song {year}"],
+    "Majka": ["Majka songs", "Majka new song {year}"],
+    "Top Charts": ["magyar slágerek {year}", "magyar dalok"],
+    "New Releases": ["új magyar zene {year}", "magyar slágerek {year}"],
+    "Trending": ["magyar dalok", "új magyar zene {year}"]
+  },
+  "music_singers": [
+    "Azahriah",
+    "Dzsúdló",
+    "Majka",
+    "Wellhello",
+    "Follow the Flow",
+    "Kozsó",
+    "Ákos",
+    "Rúzsa Magdi",
+    "Caramel",
+    "Halott Pénz",
+    "Hiperkarma",
+    "Parno Graszt",
+    "Beatrice",
+    "Irie Maffia",
+    "Curtis",
+    "Manuel",
+    "Lil Frakk"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Magyar Pop", "Magyar Rap", "Mulatós"]
+}

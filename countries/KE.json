@@ -1,0 +1,62 @@
+{
+  "_comment": "KE: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Kenyan Hits",
+    "Gengetone",
+    "Bongo Flava",
+    "Gospel Kenya",
+    "Sauti Sol",
+    "Nyashinski",
+    "Otile Brown",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Kenyan Hits": ["kenyan songs {year}", "nyimbo mpya {year}", "kenya hits"],
+    "Gengetone": ["gengetone {year}", "gengetone mix"],
+    "Bongo Flava": ["bongo flava {year}", "bongo flava mpya"],
+    "Gospel Kenya": ["kenyan gospel songs", "kenya gospel {year}"],
+    "Genge & Kapuka": ["kapuka songs", "genge music kenya"],
+    "News": ["habari leo", "habari leo live"],
+    "Sports": ["michezo", "michezo {year}"],
+    "Sauti Sol": ["Sauti Sol songs", "Sauti Sol new song {year}"],
+    "Nyashinski": ["Nyashinski songs", "Nyashinski new song {year}"],
+    "Otile Brown": ["Otile Brown songs", "Otile Brown new song {year}"],
+    "Top Charts": ["kenyan songs {year}", "kenya hits"],
+    "New Releases": ["nyimbo mpya {year}", "kenyan songs {year}"],
+    "Trending": ["kenya hits", "nyimbo mpya {year}"]
+  },
+  "music_singers": [
+    "Sauti Sol",
+    "Nyashinski",
+    "Otile Brown",
+    "Khaligraph Jones",
+    "Nviiri the Storyteller",
+    "Bien",
+    "Femi One",
+    "Wakadinali",
+    "Bahati",
+    "Mejja",
+    "Akothee",
+    "Nameless",
+    "Willy Paul",
+    "Fena Gitu",
+    "Fathermoh",
+    "Jovial",
+    "Diamond Platnumz",
+    "Harmonize",
+    "Zuchu"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Gengetone",
+    "Bongo Flava",
+    "Gospel Kenya",
+    "Genge & Kapuka"
+  ]
+}

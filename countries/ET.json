@@ -1,0 +1,46 @@
+{
+  "_comment": "ET: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Ethiopian Hits",
+    "Ethiopian Pop",
+    "Eskista",
+    "Oromo Songs",
+    "Teddy Afro",
+    "Aster Aweke",
+    "Mahmoud Ahmed",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Ethiopian Hits": ["ethiopian music {year}", "new ethiopian music", "አዲስ ሙዚቃ"],
+    "Ethiopian Pop": ["ethiopian music {year}", "አዲስ የኢትዮጵያ ሙዚቃ"],
+    "Eskista": ["eskista music", "ethiopian traditional music"],
+    "Oromo Songs": ["oromo music {year}", "afaan oromoo muziqaa"],
+    "News": ["ዜና ዛሬ", "ዜና ዛሬ live"],
+    "Sports": ["ስፖርት", "ስፖርት {year}"],
+    "Teddy Afro": ["Teddy Afro songs", "Teddy Afro new song {year}"],
+    "Aster Aweke": ["Aster Aweke songs", "Aster Aweke new song {year}"],
+    "Mahmoud Ahmed": ["Mahmoud Ahmed songs", "Mahmoud Ahmed new song {year}"],
+    "Top Charts": ["ethiopian music {year}", "አዲስ ሙዚቃ"],
+    "New Releases": ["new ethiopian music", "ethiopian music {year}"],
+    "Trending": ["አዲስ ሙዚቃ", "new ethiopian music"]
+  },
+  "music_singers": [
+    "Teddy Afro",
+    "Aster Aweke",
+    "Mahmoud Ahmed",
+    "Rophnan",
+    "Gigi",
+    "Tilahun Gessesse",
+    "Zeritu Kebede",
+    "Abby Lakew",
+    "Jacky Gosee",
+    "Mulatu Astatke",
+    "Henok Tamiru",
+    "Gossaye Tesfaye"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Ethiopian Pop", "Eskista", "Oromo Songs"]
+}

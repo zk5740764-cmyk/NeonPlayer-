@@ -1,0 +1,45 @@
+{
+  "_comment": "Global fallback for countries without their own file.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Top Hits",
+    "Pop",
+    "Hip-Hop",
+    "Latin",
+    "Gaming",
+    "News",
+    "Sports",
+    "Fashion"
+  ],
+  "category_queries": {
+    "Top Hits": ["top songs {year}", "billboard global hits {year}", "global top 50 songs"],
+    "Pop": ["new pop songs {year}", "pop hits"],
+    "Hip-Hop": ["new hip hop songs {year}", "rap hits"],
+    "Latin": ["latin hits {year}", "reggaeton hits"],
+    "Top Charts": ["top songs {year}", "global top 50 songs"],
+    "New Releases": ["new songs {year}", "new music friday"],
+    "Trending": ["trending songs this week", "viral songs {year}"]
+  },
+  "music_singers": [
+    "Taylor Swift",
+    "Bad Bunny",
+    "The Weeknd",
+    "Dua Lipa",
+    "Billie Eilish",
+    "Ed Sheeran",
+    "Sabrina Carpenter",
+    "Drake",
+    "Shakira",
+    "Burna Boy",
+    "Bruno Mars",
+    "Rihanna",
+    "Ariana Grande",
+    "Rosé",
+    "Karol G",
+    "Olivia Rodrigo",
+    "Travis Scott",
+    "Post Malone"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Pop", "Hip-Hop", "Latin"]
+}

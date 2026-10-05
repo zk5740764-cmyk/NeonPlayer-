@@ -1,0 +1,49 @@
+{
+  "_comment": "CL: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Chilean Hits",
+    "Trap Chileno",
+    "Pop Chileno",
+    "Mon Laferte",
+    "Cami",
+    "Paloma Mami",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Chilean Hits": ["música chilena {year}", "trap chileno {year}", "éxitos chile"],
+    "Trap Chileno": ["trap chileno {year}", "trap chile nuevo"],
+    "Pop Chileno": ["pop chileno", "música chilena pop"],
+    "News": ["noticias hoy", "noticias hoy live"],
+    "Sports": ["deportes resumen", "deportes resumen {year}"],
+    "Mon Laferte": ["Mon Laferte songs", "Mon Laferte new song {year}"],
+    "Cami": ["Cami songs", "Cami new song {year}"],
+    "Paloma Mami": ["Paloma Mami songs", "Paloma Mami new song {year}"],
+    "Top Charts": ["música chilena {year}", "éxitos chile"],
+    "New Releases": ["trap chileno {year}", "música chilena {year}"],
+    "Trending": ["éxitos chile", "trap chileno {year}"]
+  },
+  "music_singers": [
+    "Mon Laferte",
+    "Cami",
+    "Paloma Mami",
+    "Pablo Chill-E",
+    "Young Cister",
+    "Los Bunkers",
+    "Javiera Mena",
+    "Gepe",
+    "Ana Tijoux",
+    "Francisca Valenzuela",
+    "Denise Rosenthal",
+    "Cris MJ",
+    "Marcianeke",
+    "Los Prisioneros",
+    "Los Jaivas",
+    "Jordan 23",
+    "Princesa Alba"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Trap Chileno", "Pop Chileno"]
+}

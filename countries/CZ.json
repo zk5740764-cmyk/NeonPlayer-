@@ -1,0 +1,52 @@
+{
+  "_comment": "CZ: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Czech Hits",
+    "Český Rap",
+    "Český Pop",
+    "Folk",
+    "Ewa Farna",
+    "Kryštof",
+    "Slza",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Czech Hits": ["české hity {year}", "nová česká hudba {year}", "české písničky"],
+    "Český Rap": ["český rap {year}", "česká rapová scéna"],
+    "Český Pop": ["český pop {year}", "české pop hity"],
+    "Folk": ["česká country folk", "české folk písničky"],
+    "News": ["zprávy dnes", "zprávy dnes live"],
+    "Sports": ["sport sestřih", "sport sestřih {year}"],
+    "Ewa Farna": ["Ewa Farna songs", "Ewa Farna new song {year}"],
+    "Kryštof": ["Kryštof songs", "Kryštof new song {year}"],
+    "Slza": ["Slza songs", "Slza new song {year}"],
+    "Top Charts": ["české hity {year}", "české písničky"],
+    "New Releases": ["nová česká hudba {year}", "české hity {year}"],
+    "Trending": ["české písničky", "nová česká hudba {year}"]
+  },
+  "music_singers": [
+    "Ewa Farna",
+    "Kryštof",
+    "Slza",
+    "Viktor Sheen",
+    "Hugo Toxxx",
+    "Aneta Langerová",
+    "Mirai",
+    "Lenny",
+    "Charlie Straight",
+    "Anna K",
+    "Marek Ztracený",
+    "Ben Cristovao",
+    "Michal David",
+    "Sebastian",
+    "Jelen",
+    "Tomáš Klus",
+    "Barbora Poláková",
+    "Dan Bárta"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Český Rap", "Český Pop", "Folk"]
+}
