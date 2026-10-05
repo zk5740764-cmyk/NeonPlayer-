@@ -1,0 +1,42 @@
+{
+  "_comment": "AF: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Afghan Hits",
+    "Pashto Songs",
+    "Dari Songs",
+    "Ahmad Zahir",
+    "Farhad Darya",
+    "Aryana Sayeed",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Afghan Hits": ["afghan songs 2026", "new afghan song", "pashto and dari songs"],
+    "Pashto Songs": ["pashto songs", "new pashto song"],
+    "Dari Songs": ["dari songs", "afghan dari song"],
+    "News": ["اخبار امروز", "اخبار امروز live"],
+    "Sports": ["ورزش خلاصه", "ورزش خلاصه {year}"],
+    "Ahmad Zahir": ["Ahmad Zahir songs", "Ahmad Zahir new song {year}"],
+    "Farhad Darya": ["Farhad Darya songs", "Farhad Darya new song {year}"],
+    "Aryana Sayeed": ["Aryana Sayeed songs", "Aryana Sayeed new song {year}"],
+    "Top Charts": ["afghan songs 2026", "pashto and dari songs"],
+    "New Releases": ["new afghan song", "afghan songs 2026"],
+    "Trending": ["pashto and dari songs", "new afghan song"]
+  },
+  "music_singers": [
+    "Ahmad Zahir",
+    "Farhad Darya",
+    "Aryana Sayeed",
+    "Naghma",
+    "Mahwash",
+    "Qais Ulfat",
+    "Wahid Qasemi",
+    "Ahmad Sham",
+    "Elham Hussein",
+    "Sharif Ghazal"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Pashto Songs", "Dari Songs"]
+}

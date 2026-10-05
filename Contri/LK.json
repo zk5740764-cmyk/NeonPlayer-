@@ -1,0 +1,46 @@
+{
+  "_comment": "LK: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Sri Lankan Hits",
+    "Sinhala Pop",
+    "Tamil Songs LK",
+    "Yohani",
+    "Bathiya and Santhush",
+    "Iraj",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Sri Lankan Hits": ["sinhala songs 2026", "new sinhala songs", "sri lankan hit songs"],
+    "Sinhala Pop": ["sinhala pop songs", "new sinhala song"],
+    "Tamil Songs LK": ["sri lanka tamil songs", "eelam tamil songs"],
+    "News": ["අද පුවත්", "අද පුවත් live"],
+    "Sports": ["ක්‍රීඩා", "ක්‍රීඩා {year}"],
+    "Yohani": ["Yohani songs", "Yohani new song {year}"],
+    "Bathiya and Santhush": ["Bathiya and Santhush songs", "Bathiya and Santhush new song {year}"],
+    "Iraj": ["Iraj songs", "Iraj new song {year}"],
+    "Top Charts": ["sinhala songs 2026", "sri lankan hit songs"],
+    "New Releases": ["new sinhala songs", "sinhala songs 2026"],
+    "Trending": ["sri lankan hit songs", "new sinhala songs"]
+  },
+  "music_singers": [
+    "Yohani",
+    "Bathiya and Santhush",
+    "Iraj",
+    "Sanuka",
+    "Umaria Sinhawansa",
+    "Kasun Kalhara",
+    "Nanda Malini",
+    "Sunil Edirisinghe",
+    "Chamara Ranawaka",
+    "Dinesh Kanagaratnam",
+    "Wasthi",
+    "Jagath Wickramasinghe",
+    "Randhir",
+    "Dushyanth Weeraman"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Sinhala Pop", "Tamil Songs LK"]
+}

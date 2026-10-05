@@ -1,0 +1,41 @@
+{
+  "_comment": "KZ: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Kazakh Hits",
+    "Қазақ Поп",
+    "Қазақ Реп",
+    "Dimash Kudaibergen",
+    "Jah Khalib",
+    "Ninety One",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Kazakh Hits": ["қазақша әндер {year}", "жаңа қазақша әндер", "қазақ хит әндер"],
+    "Қазақ Поп": ["қазақ поп әндер", "жаңа қазақ хиттер"],
+    "Қазақ Реп": ["қазақ реп {year}", "қазақша рэп"],
+    "News": ["жаңалықтар бүгін", "жаңалықтар бүгін live"],
+    "Sports": ["спорт шолу", "спорт шолу {year}"],
+    "Dimash Kudaibergen": ["Dimash Kudaibergen songs", "Dimash Kudaibergen new song {year}"],
+    "Jah Khalib": ["Jah Khalib songs", "Jah Khalib new song {year}"],
+    "Ninety One": ["Ninety One songs", "Ninety One new song {year}"],
+    "Top Charts": ["қазақша әндер {year}", "қазақ хит әндер"],
+    "New Releases": ["жаңа қазақша әндер", "қазақша әндер {year}"],
+    "Trending": ["қазақ хит әндер", "жаңа қазақша әндер"]
+  },
+  "music_singers": [
+    "Dimash Kudaibergen",
+    "Jah Khalib",
+    "Ninety One",
+    "Scriptonite",
+    "Moldanazar",
+    "Zhanar Dugalova",
+    "Ayau",
+    "Batyrkhan Shukenov",
+    "Qairat Nurtas"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Қазақ Поп", "Қазақ Реп"]
+}

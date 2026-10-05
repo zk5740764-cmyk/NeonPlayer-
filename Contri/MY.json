@@ -1,0 +1,52 @@
+{
+  "_comment": "MY: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Malaysian Hits",
+    "Lagu Melayu",
+    "Rock Kapak",
+    "Hip-Hop Malaysia",
+    "Filem Melayu",
+    "Siti Nurhaliza",
+    "Yuna",
+    "Ernie Zakri",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Malaysian Hits": ["lagu melayu terbaru {year}", "lagu malaysia {year}", "top lagu malaysia"],
+    "Lagu Melayu": ["lagu melayu {year}", "lagu melayu terbaru"],
+    "Rock Kapak": ["lagu rock kapak", "rock kapak malaysia"],
+    "Hip-Hop Malaysia": ["hip hop malaysia {year}", "rap malaysia"],
+    "Filem Melayu": ["filem melayu penuh", "filem malaysia penuh"],
+    "News": ["berita hari ini", "berita hari ini live"],
+    "Sports": ["sukan sorotan", "sukan sorotan {year}"],
+    "Siti Nurhaliza": ["Siti Nurhaliza songs", "Siti Nurhaliza new song {year}"],
+    "Yuna": ["Yuna songs", "Yuna new song {year}"],
+    "Ernie Zakri": ["Ernie Zakri songs", "Ernie Zakri new song {year}"],
+    "Top Charts": ["lagu melayu terbaru {year}", "top lagu malaysia"],
+    "New Releases": ["lagu malaysia {year}", "lagu melayu terbaru {year}"],
+    "Trending": ["top lagu malaysia", "lagu malaysia {year}"]
+  },
+  "music_singers": [
+    "Siti Nurhaliza",
+    "Yuna",
+    "Ernie Zakri",
+    "Hael Husaini",
+    "Aina Abdul",
+    "Faizal Tahir",
+    "Naim Daniel",
+    "Aiman Tino",
+    "Ismail Izzani",
+    "Amy Search",
+    "Zee Avi",
+    "Ziana Zain",
+    "Anuar Zain",
+    "Hujan",
+    "Dayang Nurfaizah",
+    "Mawi"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Lagu Melayu", "Rock Kapak", "Hip-Hop Malaysia"]
+}

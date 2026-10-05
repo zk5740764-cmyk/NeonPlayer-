@@ -1,0 +1,52 @@
+{
+  "_comment": "NO: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Norwegian Hits",
+    "Norsk Pop",
+    "Norsk Rap",
+    "Folkemusikk",
+    "Kygo",
+    "Aurora",
+    "Alan Walker",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Norwegian Hits": ["norske hits {year}", "ny norsk musikk {year}", "topp norske låter"],
+    "Norsk Pop": ["norsk pop {year}", "norsk pop hits"],
+    "Norsk Rap": ["norsk rap {year}", "norsk hiphop"],
+    "Folkemusikk": ["norsk folkemusikk", "norske folkesanger"],
+    "News": ["nyheter i dag", "nyheter i dag live"],
+    "Sports": ["sport høydepunkter", "sport høydepunkter {year}"],
+    "Kygo": ["Kygo songs", "Kygo new song {year}"],
+    "Aurora": ["Aurora songs", "Aurora new song {year}"],
+    "Alan Walker": ["Alan Walker songs", "Alan Walker new song {year}"],
+    "Top Charts": ["norske hits {year}", "topp norske låter"],
+    "New Releases": ["ny norsk musikk {year}", "norske hits {year}"],
+    "Trending": ["topp norske låter", "ny norsk musikk {year}"]
+  },
+  "music_singers": [
+    "Kygo",
+    "Aurora",
+    "Alan Walker",
+    "Sigrid",
+    "Dagny",
+    "Astrid S",
+    "Marcus & Martinus",
+    "Karpe",
+    "Cezinando",
+    "Alessandra",
+    "Seeb",
+    "Gabrielle",
+    "Ina Wroldsen",
+    "Hkeem",
+    "Lars Vaular",
+    "Ylvis",
+    "Jakob Ogawa",
+    "Highasakite"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Norsk Pop", "Norsk Rap", "Folkemusikk"]
+}

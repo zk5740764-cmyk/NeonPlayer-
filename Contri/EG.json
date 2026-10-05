@@ -1,0 +1,52 @@
+{
+  "_comment": "EG: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Egyptian Hits",
+    "مهرجانات",
+    "راب مصري",
+    "اغاني شعبي",
+    "افلام مصرية",
+    "Amr Diab",
+    "Tamer Hosny",
+    "Mohamed Ramadan",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Egyptian Hits": ["اغاني مصرية {year}", "جديد الاغاني المصرية {year}", "اغاني عمرو دياب"],
+    "مهرجانات": ["مهرجانات {year}", "مهرجانات شعبية جديدة"],
+    "راب مصري": ["راب مصري {year}", "تراب مصري"],
+    "اغاني شعبي": ["اغاني شعبي مصري", "شعبي جديد"],
+    "افلام مصرية": ["فيلم مصري كامل", "افلام عربي كاملة"],
+    "News": ["اخبار اليوم", "اخبار اليوم live"],
+    "Sports": ["رياضة ملخص", "رياضة ملخص {year}"],
+    "Amr Diab": ["Amr Diab songs", "Amr Diab new song {year}"],
+    "Tamer Hosny": ["Tamer Hosny songs", "Tamer Hosny new song {year}"],
+    "Mohamed Ramadan": ["Mohamed Ramadan songs", "Mohamed Ramadan new song {year}"],
+    "Top Charts": ["اغاني مصرية {year}", "اغاني عمرو دياب"],
+    "New Releases": ["جديد الاغاني المصرية {year}", "اغاني مصرية {year}"],
+    "Trending": ["اغاني عمرو دياب", "جديد الاغاني المصرية {year}"]
+  },
+  "music_singers": [
+    "Amr Diab",
+    "Tamer Hosny",
+    "Mohamed Ramadan",
+    "Sherine Abdel Wahab",
+    "Wegz",
+    "Marwan Pablo",
+    "Mohamed Hamaki",
+    "Ahmed Saad",
+    "Angham",
+    "Ruby",
+    "Hamza Namira",
+    "Mohamed Mounir",
+    "Hassan Shakosh",
+    "Ahmed Mekky",
+    "Roby",
+    "Afroto"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "مهرجانات", "راب مصري", "اغاني شعبي"]
+}

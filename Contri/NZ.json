@@ -1,0 +1,47 @@
+{
+  "_comment": "NZ: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "New Zealand Hits",
+    "Kiwi Reggae",
+    "Māori Songs",
+    "Lorde",
+    "Benee",
+    "Six60",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "New Zealand Hits": ["new zealand top songs {year}", "new nz songs {year}", "nz hits"],
+    "Kiwi Reggae": ["nz reggae songs", "kiwi reggae"],
+    "Māori Songs": ["maori songs", "te reo maori waiata"],
+    "News": ["New Zealand news today", "New Zealand news today live"],
+    "Sports": ["New Zealand sports highlights", "New Zealand sports highlights {year}"],
+    "Lorde": ["Lorde songs", "Lorde new song {year}"],
+    "Benee": ["Benee songs", "Benee new song {year}"],
+    "Six60": ["Six60 songs", "Six60 new song {year}"],
+    "Top Charts": ["new zealand top songs {year}", "nz hits"],
+    "New Releases": ["new nz songs {year}", "new zealand top songs {year}"],
+    "Trending": ["nz hits", "new nz songs {year}"]
+  },
+  "music_singers": [
+    "Lorde",
+    "Benee",
+    "Six60",
+    "Stan Walker",
+    "Kimbra",
+    "Marlon Williams",
+    "Drax Project",
+    "Jawsh 685",
+    "Broods",
+    "L.A.B",
+    "Crowded House",
+    "Theia",
+    "Mitch James",
+    "Tami Neilson",
+    "Avantdale Bowling Club"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Kiwi Reggae", "Māori Songs"]
+}

@@ -1,0 +1,47 @@
+{
+  "_comment": "IE: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Irish Hits",
+    "Irish Folk",
+    "Irish Rock",
+    "Hozier",
+    "Niall Horan",
+    "Dermot Kennedy",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Irish Hits": ["irish top songs {year}", "new irish songs {year}", "irish hits"],
+    "Irish Folk": ["irish folk songs", "traditional irish music"],
+    "Irish Rock": ["irish rock songs", "irish indie songs"],
+    "News": ["Irish news today", "Irish news today live"],
+    "Sports": ["Irish sports highlights", "Irish sports highlights {year}"],
+    "Hozier": ["Hozier songs", "Hozier new song {year}"],
+    "Niall Horan": ["Niall Horan songs", "Niall Horan new song {year}"],
+    "Dermot Kennedy": ["Dermot Kennedy songs", "Dermot Kennedy new song {year}"],
+    "Top Charts": ["irish top songs {year}", "irish hits"],
+    "New Releases": ["new irish songs {year}", "irish top songs {year}"],
+    "Trending": ["irish hits", "new irish songs {year}"]
+  },
+  "music_singers": [
+    "Hozier",
+    "Niall Horan",
+    "Dermot Kennedy",
+    "CMAT",
+    "Fontaines D.C.",
+    "Kodaline",
+    "Gavin James",
+    "Picture This",
+    "Enya",
+    "The Corrs",
+    "Kneecap",
+    "Gemma Hayes",
+    "Lisa Hannigan",
+    "Villagers",
+    "Bell X1"
+  ],
+  "music_categories": ["Top Charts", "New Releases", "Trending", "Irish Folk", "Irish Rock"]
+}
