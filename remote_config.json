@@ -1,12 +1,11 @@
 {
   "min_supported_version": 0,
-  "force_update": true,
+  "force_update": false,
   "update_url": "",
-  "telegram_update_url": "https://t.me/StreamXAp",
+  "telegram_update_url": "",
   "maintenance_mode": false,
   "maintenance_message": "",
-  "banner_message": "https://youtu.be/cefk2-GmBPY?si=GivAamVIYcC3j26H",
-
+  "banner_message": "",
   "downloads_enabled": true,
   "subtitles_enabled": true,
   "background_playback_enabled": true,
@@ -14,27 +13,21 @@
   "cast_enabled": true,
   "disabled_qualities": [],
   "blocked_video_ids": [],
-
   "music_tab_enabled": true,
   "downloads_tab_enabled": true,
   "shorts_enabled": true,
-  "search_enabled": true,
+  "search_enabled": false,
   "comments_enabled": true,
   "debug_menu_enabled": true,
-
+  "debug_pin": "8082",
   "iframe_fallback_enabled": false,
-
   "home_feed_sync_enabled": true,
   "home_feed_sync_interval_hours": 2,
-
-  "new_upload_notifications_enabled": false,
+  "new_upload_notifications_enabled": true,
   "new_upload_check_interval_minutes": 60,
   "home_feed_notifications_enabled": true,
-
   "home_categories": [
     "Home",
-    "Shreya Ghoshal",
-    "Rhythms",
     "Recently uploaded",
     "Indian pop music",
     "Haryanvi",
@@ -46,16 +39,13 @@
     "Sports",
     "Fashion"
   ],
-
   "trending_playlists_enabled": true,
   "language_playlists_enabled": true,
   "recommended_for_you_enabled": true,
   "playlist_hero_cards_enabled": true,
   "hot_videos_gojri_every_n": 6,
-
   "thumbnail_preload_enabled": true,
   "thumbnail_preload_count": 20,
-
   "chunk_size_kb": 128,
   "buffer_min_ms": 30000,
   "buffer_max_ms": 60000,
