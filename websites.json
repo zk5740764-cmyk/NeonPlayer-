@@ -5,7 +5,14 @@
       "emoji": "⭐",
       "name": "Hot site",
       "sites": [
-        { "name": "Dearmet", "url": "https://dating.h5scene.com/matchUp/?placefrom=favorite&match_channel=dearmet" }
+        {
+          "name": "AnimeSalt",
+          "url": "https://animesalt.in/"
+        },
+        {
+          "name": "Dearmet",
+          "url": "https://dating.h5scene.com/matchUp/?placefrom=favorite&match_channel=dearmet"
+        }
       ]
     }
   ]
