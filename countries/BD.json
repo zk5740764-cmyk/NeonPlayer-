@@ -16,19 +16,74 @@
     "Sports"
   ],
   "category_queries": {
-    "Bangladeshi Hits": ["bangla gaan {year}", "new bangla song", "bangladeshi hit songs"],
-    "Bangla Band": ["bangla band song", "bangla band live"],
-    "Rabindra Sangeet": ["rabindra sangeet", "rabindrasangeet bangla"],
-    "Bangla Natok": ["bangla natok full", "new bangla natok"],
-    "News": ["আজকের খবর", "আজকের খবর live"],
-    "Sports": ["খেলা হাইলাইটস", "খেলা হাইলাইটস {year}"],
-    "Tahsan": ["Tahsan songs", "Tahsan new song {year}"],
-    "Habib Wahid": ["Habib Wahid songs", "Habib Wahid new song {year}"],
-    "Arfin Rumey": ["Arfin Rumey songs", "Arfin Rumey new song {year}"],
-    "Top Charts": ["bangla gaan {year}", "bangladeshi hit songs"],
-    "New Releases": ["new bangla song", "bangla gaan {year}"],
-    "Trending": ["bangladeshi hit songs", "new bangla song"]
-    "Anime movie":[Bangladeshi Movies HD Bengali Dubbed"]
+    "Bangladeshi Hits": [
+      "bangla gaan {year}",
+      "new bangla song",
+      "bangladeshi hit songs"
+    ],
+    "Bangla Band": [
+      "bangla band song",
+      "bangla band live"
+    ],
+    "Rabindra Sangeet": [
+      "rabindra sangeet",
+      "rabindrasangeet bangla"
+    ],
+    "Bangla Natok": [
+      "bangla natok full",
+      "new bangla natok"
+    ],
+    "News": [
+      "আজকের খবর",
+      "আজকের খবর live"
+    ],
+    "Sports": [
+      "খেলা হাইলাইটস",
+      "খেলা হাইলাইটস {year}"
+    ],
+    "Tahsan": [
+      "Tahsan songs",
+      "Tahsan new song {year}"
+    ],
+    "Habib Wahid": [
+      "Habib Wahid songs",
+      "Habib Wahid new song {year}"
+    ],
+    "Arfin Rumey": [
+      "Arfin Rumey songs",
+      "Arfin Rumey new song {year}"
+    ],
+    "Top Charts": [
+      "bangla gaan {year}",
+      "bangladeshi hit songs"
+    ],
+    "New Releases": [
+      "new bangla song",
+      "bangla gaan {year}"
+    ],
+    "Trending": [
+      "bangladeshi hit songs",
+      "new bangla song"
+    ],
+    "Anime movie": [
+      "anime movie hindi dubbed",
+      "new anime movie hindi dubbed",
+      "anime movie in hindi",
+      "hindi dubbed anime movies",
+      "anime movie hindi",
+      "anime movie english sub",
+      "anime movie full movie",
+      "latest anime movie",
+      "Demon Slayer movie hindi dubbed",
+      "Jujutsu Kaisen 0 hindi dubbed",
+      "Suzume hindi dubbed",
+      "Your Name hindi dubbed",
+      "One Piece Film Red hindi dubbed",
+      "Weathering With You hindi dubbed",
+      "anime movies 1080p hindi",
+      "anime movie {year}",
+      "new anime movie {year}"
+    ]
   },
   "music_singers": [
     "Tahsan",
@@ -50,5 +105,11 @@
     "Dolly Sayontoni",
     "Atif Ahmed Niloy"
   ],
-  "music_categories": ["Top Charts", "New Releases", "Trending", "Bangla Band", "Rabindra Sangeet"]
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Bangla Band",
+    "Rabindra Sangeet"
+  ]
 }
