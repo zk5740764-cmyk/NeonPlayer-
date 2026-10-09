@@ -20,10 +20,12 @@
     "Shreya Ghoshal",
     "Jubin Nautiyal",
     "Gaming",
+    "18+movie",
     "News",
     "Sports"
   ],
   "category_queries": {
+    "18+movie":["18+movie hindi new{year}", "new 18+ film {year}", "tranding 18+movie this week"],
     "Bollywood Hits": ["bollywood hit songs {year}", "new hindi songs {year}", "trending indian songs this week"],
     "Punjabi Hits": ["new punjabi songs {year}", "punjabi hit songs"],
     "Haryanvi Hits": ["new haryanvi songs {year}", "haryanvi dj songs"],
