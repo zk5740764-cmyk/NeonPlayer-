@@ -1,0 +1,71 @@
+{
+  "_help": "Channel add karne ke liye 'channels' list ma {name, url} daalo. Optional: group (chip ka naam), logo (image link), userAgent, referer, backups (extra links ki list), resolve (aisa link jiske text ma channel ka AAJ wala stream link ho), web (broadcaster ka apna official live page; ye app ke apne player screen ma khulta ha, url ki jagah yahi daalo). Is file ki copy GitHub pe live_channels.json naam se rakho (LiveChannels.kt ma URL badal sakte ho). Link badal jaye to bas GitHub wali file update karo, app khud naya link utha leti ha. Seedha .m3u playlist bhi rakh sakte ho.",
+  "channels": [
+    {
+      "name": "Al Jazeera English",
+      "group": "News",
+      "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+    },
+    {
+      "name": "DW English",
+      "group": "News",
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+    },
+    {
+      "name": "France 24 English",
+      "group": "News",
+      "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
+      "backups": [
+        "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8"
+      ]
+    },
+    {
+      "name": "TRT World",
+      "group": "News",
+      "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
+    },
+    {
+      "name": "ABC News Live",
+      "group": "News",
+      "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+    },
+    {
+      "name": "NHK World Japan",
+      "group": "World",
+      "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
+      "backups": [
+        "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"
+      ]
+    },
+    {
+      "name": "Red Bull TV",
+      "group": "Sports",
+      "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+    },
+    {
+      "name": "Aaj Tak",
+      "group": "Indian News",
+      "web": "https://www.aajtak.in/livetv"
+    },
+    {
+      "name": "ABP News",
+      "group": "Indian News",
+      "web": "https://news.abplive.com/live-tv"
+    },
+    {
+      "name": "NDTV 24x7",
+      "group": "Indian News",
+      "web": "https://www.ndtv.com/video/live/channel/ndtv24x7"
+    },
+    {
+      "name": "India TV",
+      "group": "Indian News",
+      "web": "https://www.indiatvnews.com/livetv"
+    },
+    {
+      "name": "Zee News",
+      "group": "Indian News",
+      "web": "https://zeenews.india.com/live-tv"
+    }
+  ]
+}
