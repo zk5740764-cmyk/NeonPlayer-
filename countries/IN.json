@@ -2,15 +2,17 @@
   "_comment": "IN: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
   "categories": [
     "Home",
-    "South Hindi Dubbed Movies",
-    "Hollywood Hindi Dubbed Movies",
+    "Karan Aujla",
+    "Satinder Sartaaj",
     "Recently uploaded",
+    "Romantic Music",
+    "Pakistani Dramas",
     "Bollywood Hits",
     "Punjabi Hits",
     "Haryanvi Hits",
     "Bhojpuri Hits",
     "Bollywood Movies",
-    "Punjabi Movies",
+    "Vocal Music",
     "Haryanvi Movies",
     "Bhojpuri Movies",
     "Kashmiri Movies",
@@ -25,7 +27,17 @@
     "Sports"
   ],
   "category_queries": {
-    "18+movie":["18+movie hindi new{year}", "new 18+ film {year}", "tranding 18+movie this week"],
+    "18+movie": ["18+movie hindi new{year}", "new 18+ film {year}", "tranding 18+movie this week"],
+    "Romantic Music": [
+      "romantic hindi songs {year} official video -shorts -clip",
+      "best romantic songs bollywood official video -shorts",
+      "love songs hindi jukebox -shorts"
+    ],
+    "Pakistani Dramas": [
+      "pakistani drama full episode {year} -shorts -clip -trailer",
+      "latest pakistani drama episode hd -shorts -teaser",
+      "pakistani drama full episode hum tv ary digital -shorts"
+    ],
     "Bollywood Hits": ["bollywood hit songs {year}", "new hindi songs {year}", "trending indian songs this week"],
     "Punjabi Hits": ["new punjabi songs {year}", "punjabi hit songs"],
     "Haryanvi Hits": ["new haryanvi songs {year}", "haryanvi dj songs"],
@@ -84,10 +96,10 @@
     "Top Charts",
     "New Releases",
     "Trending",
+    "Romantic Music",
     "Punjabi Hits",
     "Haryanvi Hits",
     "Bhojpuri Hits",
-    "Kashmiri Songs",
-    "Gojri Songs"
+    "Kashmiri Songs"
   ]
 }
