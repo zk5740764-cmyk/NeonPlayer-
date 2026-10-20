@@ -1,7 +1,7 @@
 {
   "_help": "Sirf banner_message ki value remote_config.json mein paste karo. Ek message mein ek hi video link rakho. Link ke bahar jo text hai wo caption ban jata hai. Banner har app launch par ek baar aata hai aur 5 minute baad khud hat jata hai.",
   "youtube": {
-    "banner_message": "Naya video dekho https://www.youtube.com/watch?v=VIDEO_ID_11_CHAR"
+    "banner_message": "https://youtube.com/watch?v=zjfTlsGyQnA&si=EnLQ1lM_YWSH7dJo"
   },
   "mx_player": {
     "banner_message": "Hey! I am watching Gen Z. Check it out now on MX Player by Prime Video!\nhttps://www.mxplayer.in/show/watch-gen-z/season-1/gen-z-ep-1-online-584ff3745eba1b08dd0c11db3e34ee96?utm_source=mx_android_share"
