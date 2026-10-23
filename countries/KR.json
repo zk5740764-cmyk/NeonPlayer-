@@ -1,0 +1,259 @@
+{
+  "_comment": "KR: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Korean Hits",
+    "K-Pop",
+    "K-Drama OST",
+    "K-Hip-Hop",
+    "한국 영화",
+    "BTS",
+    "BLACKPINK",
+    "NewJeans",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Korean Hits": [
+      "k-pop 신곡 {year}",
+      "케이팝 인기곡 {year}",
+      "한국 노래 인기"
+    ],
+    "K-Pop": [
+      "k-pop {year}",
+      "k-pop 신곡"
+    ],
+    "K-Drama OST": [
+      "드라마 ost 인기",
+      "kdrama ost best"
+    ],
+    "K-Hip-Hop": [
+      "한국 힙합 {year}",
+      "k-hiphop"
+    ],
+    "발라드": [
+      "발라드 명곡",
+      "신곡 발라드"
+    ],
+    "한국 영화": [
+      "한국 영화 풀버전",
+      "korean movie full"
+    ],
+    "News": [
+      "뉴스 오늘",
+      "뉴스 오늘 live"
+    ],
+    "Sports": [
+      "스포츠 하이라이트",
+      "스포츠 하이라이트 {year}"
+    ],
+    "BTS": [
+      "BTS songs",
+      "BTS new song {year}"
+    ],
+    "BLACKPINK": [
+      "BLACKPINK songs",
+      "BLACKPINK new song {year}"
+    ],
+    "NewJeans": [
+      "NewJeans songs",
+      "NewJeans new song {year}"
+    ],
+    "Top Charts": [
+      "k-pop 신곡 {year}",
+      "한국 노래 인기"
+    ],
+    "New Releases": [
+      "케이팝 인기곡 {year}",
+      "k-pop 신곡 {year}"
+    ],
+    "Trending": [
+      "한국 노래 인기",
+      "케이팝 인기곡 {year}"
+    ],
+    "Recently uploaded": [
+      "new videos South Korea {year}",
+      "latest South Korea videos today",
+      "South Korea trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "South Korea gameplay {year}",
+      "South Korea gaming videos"
+    ],
+    "Fashion": [
+      "South Korea fashion {year}",
+      "fashion trends {year}"
+    ],
+    "IU": [
+      "IU songs",
+      "IU new song {year}",
+      "IU hit songs",
+      "IU latest song"
+    ],
+    "Stray Kids": [
+      "Stray Kids songs",
+      "Stray Kids new song {year}",
+      "Stray Kids hit songs",
+      "Stray Kids latest song"
+    ],
+    "aespa": [
+      "aespa songs",
+      "aespa new song {year}",
+      "aespa hit songs",
+      "aespa latest song"
+    ],
+    "LE SSERAFIM": [
+      "LE SSERAFIM songs",
+      "LE SSERAFIM new song {year}",
+      "LE SSERAFIM hit songs",
+      "LE SSERAFIM latest song"
+    ],
+    "SEVENTEEN": [
+      "SEVENTEEN songs",
+      "SEVENTEEN new song {year}",
+      "SEVENTEEN hit songs",
+      "SEVENTEEN latest song"
+    ],
+    "TWICE": [
+      "TWICE songs",
+      "TWICE new song {year}",
+      "TWICE hit songs",
+      "TWICE latest song"
+    ],
+    "IVE": [
+      "IVE songs",
+      "IVE new song {year}",
+      "IVE hit songs",
+      "IVE latest song"
+    ],
+    "Jungkook": [
+      "Jungkook songs",
+      "Jungkook new song {year}",
+      "Jungkook hit songs",
+      "Jungkook latest song"
+    ],
+    "Jimin": [
+      "Jimin songs",
+      "Jimin new song {year}",
+      "Jimin hit songs",
+      "Jimin latest song"
+    ],
+    "Zico": [
+      "Zico songs",
+      "Zico new song {year}",
+      "Zico hit songs",
+      "Zico latest song"
+    ],
+    "Crush": [
+      "Crush songs",
+      "Crush new song {year}",
+      "Crush hit songs",
+      "Crush latest song"
+    ],
+    "Taeyeon": [
+      "Taeyeon songs",
+      "Taeyeon new song {year}",
+      "Taeyeon hit songs",
+      "Taeyeon latest song"
+    ],
+    "PSY": [
+      "PSY songs",
+      "PSY new song {year}",
+      "PSY hit songs",
+      "PSY latest song"
+    ],
+    "G-Dragon": [
+      "G-Dragon songs",
+      "G-Dragon new song {year}",
+      "G-Dragon hit songs",
+      "G-Dragon latest song"
+    ],
+    "AKMU": [
+      "AKMU songs",
+      "AKMU new song {year}",
+      "AKMU hit songs",
+      "AKMU latest song"
+    ],
+    "ILLIT": [
+      "ILLIT songs",
+      "ILLIT new song {year}",
+      "ILLIT hit songs",
+      "ILLIT latest song"
+    ],
+    "RIIZE": [
+      "RIIZE songs",
+      "RIIZE new song {year}",
+      "RIIZE hit songs",
+      "RIIZE latest song"
+    ],
+    "(G)I-DLE": [
+      "(G)I-DLE songs",
+      "(G)I-DLE new song {year}",
+      "(G)I-DLE hit songs",
+      "(G)I-DLE latest song"
+    ],
+    "ATEEZ": [
+      "ATEEZ songs",
+      "ATEEZ new song {year}",
+      "ATEEZ hit songs",
+      "ATEEZ latest song"
+    ],
+    "ENHYPEN": [
+      "ENHYPEN songs",
+      "ENHYPEN new song {year}",
+      "ENHYPEN hit songs",
+      "ENHYPEN latest song"
+    ],
+    "ZEROBASEONE": [
+      "ZEROBASEONE songs",
+      "ZEROBASEONE new song {year}",
+      "ZEROBASEONE hit songs",
+      "ZEROBASEONE latest song"
+    ],
+    "Jennie": [
+      "Jennie songs",
+      "Jennie new song {year}",
+      "Jennie hit songs",
+      "Jennie latest song"
+    ]
+  },
+  "music_singers": [
+    "BTS",
+    "BLACKPINK",
+    "NewJeans",
+    "IU",
+    "Stray Kids",
+    "aespa",
+    "LE SSERAFIM",
+    "SEVENTEEN",
+    "TWICE",
+    "IVE",
+    "Jungkook",
+    "Jimin",
+    "Zico",
+    "Crush",
+    "Taeyeon",
+    "PSY",
+    "G-Dragon",
+    "AKMU",
+    "ILLIT",
+    "RIIZE",
+    "(G)I-DLE",
+    "ATEEZ",
+    "ENHYPEN",
+    "ZEROBASEONE",
+    "Jennie"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "K-Pop",
+    "K-Drama OST",
+    "K-Hip-Hop",
+    "발라드"
+  ]
+}

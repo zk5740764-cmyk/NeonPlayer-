@@ -1,0 +1,131 @@
+{
+  "_comment": "KZ: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Kazakh Hits",
+    "Қазақ Поп",
+    "Қазақ Реп",
+    "Dimash Kudaibergen",
+    "Jah Khalib",
+    "Ninety One",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Kazakh Hits": [
+      "қазақша әндер {year}",
+      "жаңа қазақша әндер",
+      "қазақ хит әндер"
+    ],
+    "Қазақ Поп": [
+      "қазақ поп әндер",
+      "жаңа қазақ хиттер"
+    ],
+    "Қазақ Реп": [
+      "қазақ реп {year}",
+      "қазақша рэп"
+    ],
+    "News": [
+      "жаңалықтар бүгін",
+      "жаңалықтар бүгін live"
+    ],
+    "Sports": [
+      "спорт шолу",
+      "спорт шолу {year}"
+    ],
+    "Dimash Kudaibergen": [
+      "Dimash Kudaibergen songs",
+      "Dimash Kudaibergen new song {year}"
+    ],
+    "Jah Khalib": [
+      "Jah Khalib songs",
+      "Jah Khalib new song {year}"
+    ],
+    "Ninety One": [
+      "Ninety One songs",
+      "Ninety One new song {year}"
+    ],
+    "Top Charts": [
+      "қазақша әндер {year}",
+      "қазақ хит әндер"
+    ],
+    "New Releases": [
+      "жаңа қазақша әндер",
+      "қазақша әндер {year}"
+    ],
+    "Trending": [
+      "қазақ хит әндер",
+      "жаңа қазақша әндер"
+    ],
+    "Recently uploaded": [
+      "new videos Kazakhstan {year}",
+      "latest Kazakhstan videos today",
+      "Kazakhstan trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Kazakhstan gameplay {year}",
+      "Kazakhstan gaming videos"
+    ],
+    "Fashion": [
+      "Kazakhstan fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Scriptonite": [
+      "Scriptonite songs",
+      "Scriptonite new song {year}",
+      "Scriptonite hit songs",
+      "Scriptonite latest song"
+    ],
+    "Moldanazar": [
+      "Moldanazar songs",
+      "Moldanazar new song {year}",
+      "Moldanazar hit songs",
+      "Moldanazar latest song"
+    ],
+    "Zhanar Dugalova": [
+      "Zhanar Dugalova songs",
+      "Zhanar Dugalova new song {year}",
+      "Zhanar Dugalova hit songs",
+      "Zhanar Dugalova latest song"
+    ],
+    "Ayau": [
+      "Ayau songs",
+      "Ayau new song {year}",
+      "Ayau hit songs",
+      "Ayau latest song"
+    ],
+    "Batyrkhan Shukenov": [
+      "Batyrkhan Shukenov songs",
+      "Batyrkhan Shukenov new song {year}",
+      "Batyrkhan Shukenov hit songs",
+      "Batyrkhan Shukenov latest song"
+    ],
+    "Qairat Nurtas": [
+      "Qairat Nurtas songs",
+      "Qairat Nurtas new song {year}",
+      "Qairat Nurtas hit songs",
+      "Qairat Nurtas latest song"
+    ]
+  },
+  "music_singers": [
+    "Dimash Kudaibergen",
+    "Jah Khalib",
+    "Ninety One",
+    "Scriptonite",
+    "Moldanazar",
+    "Zhanar Dugalova",
+    "Ayau",
+    "Batyrkhan Shukenov",
+    "Qairat Nurtas"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Қазақ Поп",
+    "Қазақ Реп"
+  ]
+}

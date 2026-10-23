@@ -1,0 +1,224 @@
+{
+  "_comment": "JP: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Japanese Hits",
+    "J-Pop",
+    "アニメソング",
+    "ボカロ",
+    "日本映画",
+    "YOASOBI",
+    "Kenshi Yonezu",
+    "Ado",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Japanese Hits": [
+      "J-POP 新曲 {year}",
+      "邦楽 ヒット {year}",
+      "日本 人気曲"
+    ],
+    "J-Pop": [
+      "J-POP ヒット曲",
+      "J-POP {year}"
+    ],
+    "アニメソング": [
+      "アニメ主題歌 {year}",
+      "アニメソング 人気"
+    ],
+    "ボカロ": [
+      "ボカロ 人気曲",
+      "VOCALOID {year}"
+    ],
+    "City Pop": [
+      "シティポップ",
+      "city pop japan"
+    ],
+    "日本映画": [
+      "日本映画 フル",
+      "邦画 full"
+    ],
+    "News": [
+      "ニュース 今日",
+      "ニュース 今日 live"
+    ],
+    "Sports": [
+      "スポーツ ハイライト",
+      "スポーツ ハイライト {year}"
+    ],
+    "YOASOBI": [
+      "YOASOBI songs",
+      "YOASOBI new song {year}"
+    ],
+    "Kenshi Yonezu": [
+      "Kenshi Yonezu songs",
+      "Kenshi Yonezu new song {year}"
+    ],
+    "Ado": [
+      "Ado songs",
+      "Ado new song {year}"
+    ],
+    "Top Charts": [
+      "J-POP 新曲 {year}",
+      "日本 人気曲"
+    ],
+    "New Releases": [
+      "邦楽 ヒット {year}",
+      "J-POP 新曲 {year}"
+    ],
+    "Trending": [
+      "日本 人気曲",
+      "邦楽 ヒット {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Japan {year}",
+      "latest Japan videos today",
+      "Japan trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Japan gameplay {year}",
+      "Japan gaming videos"
+    ],
+    "Fashion": [
+      "Japan fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Official HIGE DANdism": [
+      "Official HIGE DANdism songs",
+      "Official HIGE DANdism new song {year}",
+      "Official HIGE DANdism hit songs",
+      "Official HIGE DANdism latest song"
+    ],
+    "Fujii Kaze": [
+      "Fujii Kaze songs",
+      "Fujii Kaze new song {year}",
+      "Fujii Kaze hit songs",
+      "Fujii Kaze latest song"
+    ],
+    "Eve": [
+      "Eve songs",
+      "Eve new song {year}",
+      "Eve hit songs",
+      "Eve latest song"
+    ],
+    "Vaundy": [
+      "Vaundy songs",
+      "Vaundy new song {year}",
+      "Vaundy hit songs",
+      "Vaundy latest song"
+    ],
+    "Mrs. GREEN APPLE": [
+      "Mrs. GREEN APPLE songs",
+      "Mrs. GREEN APPLE new song {year}",
+      "Mrs. GREEN APPLE hit songs",
+      "Mrs. GREEN APPLE latest song"
+    ],
+    "King Gnu": [
+      "King Gnu songs",
+      "King Gnu new song {year}",
+      "King Gnu hit songs",
+      "King Gnu latest song"
+    ],
+    "Aimer": [
+      "Aimer songs",
+      "Aimer new song {year}",
+      "Aimer hit songs",
+      "Aimer latest song"
+    ],
+    "LiSA": [
+      "LiSA songs",
+      "LiSA new song {year}",
+      "LiSA hit songs",
+      "LiSA latest song"
+    ],
+    "Hikaru Utada": [
+      "Hikaru Utada songs",
+      "Hikaru Utada new song {year}",
+      "Hikaru Utada hit songs",
+      "Hikaru Utada latest song"
+    ],
+    "Yorushika": [
+      "Yorushika songs",
+      "Yorushika new song {year}",
+      "Yorushika hit songs",
+      "Yorushika latest song"
+    ],
+    "ZUTOMAYO": [
+      "ZUTOMAYO songs",
+      "ZUTOMAYO new song {year}",
+      "ZUTOMAYO hit songs",
+      "ZUTOMAYO latest song"
+    ],
+    "Creepy Nuts": [
+      "Creepy Nuts songs",
+      "Creepy Nuts new song {year}",
+      "Creepy Nuts hit songs",
+      "Creepy Nuts latest song"
+    ],
+    "back number": [
+      "back number songs",
+      "back number new song {year}",
+      "back number hit songs",
+      "back number latest song"
+    ],
+    "Ayumi Hamasaki": [
+      "Ayumi Hamasaki songs",
+      "Ayumi Hamasaki new song {year}",
+      "Ayumi Hamasaki hit songs",
+      "Ayumi Hamasaki latest song"
+    ],
+    "Reol": [
+      "Reol songs",
+      "Reol new song {year}",
+      "Reol hit songs",
+      "Reol latest song"
+    ],
+    "Kana-Boon": [
+      "Kana-Boon songs",
+      "Kana-Boon new song {year}",
+      "Kana-Boon hit songs",
+      "Kana-Boon latest song"
+    ],
+    "Tatsuro Yamashita": [
+      "Tatsuro Yamashita songs",
+      "Tatsuro Yamashita new song {year}",
+      "Tatsuro Yamashita hit songs",
+      "Tatsuro Yamashita latest song"
+    ]
+  },
+  "music_singers": [
+    "YOASOBI",
+    "Kenshi Yonezu",
+    "Ado",
+    "Official HIGE DANdism",
+    "Fujii Kaze",
+    "Eve",
+    "Vaundy",
+    "Mrs. GREEN APPLE",
+    "King Gnu",
+    "Aimer",
+    "LiSA",
+    "Hikaru Utada",
+    "Yorushika",
+    "ZUTOMAYO",
+    "Creepy Nuts",
+    "back number",
+    "Ayumi Hamasaki",
+    "Reol",
+    "Kana-Boon",
+    "Tatsuro Yamashita"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "J-Pop",
+    "アニメソング",
+    "ボカロ",
+    "City Pop"
+  ]
+}

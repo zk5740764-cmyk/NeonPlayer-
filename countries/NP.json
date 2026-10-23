@@ -1,0 +1,180 @@
+{
+  "_comment": "NP: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Nepali Hits",
+    "Nepali Pop",
+    "Lok Dohori",
+    "Narayan Gopal",
+    "Sugam Pokhrel",
+    "Swoopna Suman",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Nepali Hits": [
+      "nepali songs {year}",
+      "new nepali song",
+      "nepali hit songs"
+    ],
+    "Nepali Pop": [
+      "nepali pop songs",
+      "new nepali pop"
+    ],
+    "Lok Dohori": [
+      "lok dohori",
+      "nepali dohori song"
+    ],
+    "News": [
+      "आजका समाचार",
+      "आजका समाचार live"
+    ],
+    "Sports": [
+      "खेल हाइलाइट",
+      "खेल हाइलाइट {year}"
+    ],
+    "Narayan Gopal": [
+      "Narayan Gopal songs",
+      "Narayan Gopal new song {year}"
+    ],
+    "Sugam Pokhrel": [
+      "Sugam Pokhrel songs",
+      "Sugam Pokhrel new song {year}"
+    ],
+    "Swoopna Suman": [
+      "Swoopna Suman songs",
+      "Swoopna Suman new song {year}"
+    ],
+    "Top Charts": [
+      "nepali songs {year}",
+      "nepali hit songs"
+    ],
+    "New Releases": [
+      "new nepali song",
+      "nepali songs {year}"
+    ],
+    "Trending": [
+      "nepali hit songs",
+      "new nepali song"
+    ],
+    "Recently uploaded": [
+      "new videos Nepal {year}",
+      "latest Nepal videos today",
+      "Nepal trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Nepal gameplay {year}",
+      "Nepal gaming videos"
+    ],
+    "Fashion": [
+      "Nepal fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Pramod Kharel": [
+      "Pramod Kharel songs",
+      "Pramod Kharel new song {year}",
+      "Pramod Kharel hit songs",
+      "Pramod Kharel latest song"
+    ],
+    "Anju Panta": [
+      "Anju Panta songs",
+      "Anju Panta new song {year}",
+      "Anju Panta hit songs",
+      "Anju Panta latest song"
+    ],
+    "Bipul Chettri": [
+      "Bipul Chettri songs",
+      "Bipul Chettri new song {year}",
+      "Bipul Chettri hit songs",
+      "Bipul Chettri latest song"
+    ],
+    "Nepathya": [
+      "Nepathya songs",
+      "Nepathya new song {year}",
+      "Nepathya hit songs",
+      "Nepathya latest song"
+    ],
+    "Melina Rai": [
+      "Melina Rai songs",
+      "Melina Rai new song {year}",
+      "Melina Rai hit songs",
+      "Melina Rai latest song"
+    ],
+    "Shiva Pariyar": [
+      "Shiva Pariyar songs",
+      "Shiva Pariyar new song {year}",
+      "Shiva Pariyar hit songs",
+      "Shiva Pariyar latest song"
+    ],
+    "Rajesh Payal Rai": [
+      "Rajesh Payal Rai songs",
+      "Rajesh Payal Rai new song {year}",
+      "Rajesh Payal Rai hit songs",
+      "Rajesh Payal Rai latest song"
+    ],
+    "Ani Choying Drolma": [
+      "Ani Choying Drolma songs",
+      "Ani Choying Drolma new song {year}",
+      "Ani Choying Drolma hit songs",
+      "Ani Choying Drolma latest song"
+    ],
+    "Vten": [
+      "Vten songs",
+      "Vten new song {year}",
+      "Vten hit songs",
+      "Vten latest song"
+    ],
+    "Yabesh Thapa": [
+      "Yabesh Thapa songs",
+      "Yabesh Thapa new song {year}",
+      "Yabesh Thapa hit songs",
+      "Yabesh Thapa latest song"
+    ],
+    "Trishna Gurung": [
+      "Trishna Gurung songs",
+      "Trishna Gurung new song {year}",
+      "Trishna Gurung hit songs",
+      "Trishna Gurung latest song"
+    ],
+    "Sajjan Raj Vaidya": [
+      "Sajjan Raj Vaidya songs",
+      "Sajjan Raj Vaidya new song {year}",
+      "Sajjan Raj Vaidya hit songs",
+      "Sajjan Raj Vaidya latest song"
+    ],
+    "Samir Shrestha": [
+      "Samir Shrestha songs",
+      "Samir Shrestha new song {year}",
+      "Samir Shrestha hit songs",
+      "Samir Shrestha latest song"
+    ]
+  },
+  "music_singers": [
+    "Narayan Gopal",
+    "Sugam Pokhrel",
+    "Swoopna Suman",
+    "Pramod Kharel",
+    "Anju Panta",
+    "Bipul Chettri",
+    "Nepathya",
+    "Melina Rai",
+    "Shiva Pariyar",
+    "Rajesh Payal Rai",
+    "Ani Choying Drolma",
+    "Vten",
+    "Yabesh Thapa",
+    "Trishna Gurung",
+    "Sajjan Raj Vaidya",
+    "Samir Shrestha"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Nepali Pop",
+    "Lok Dohori"
+  ]
+}

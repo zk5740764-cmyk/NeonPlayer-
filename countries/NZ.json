@@ -1,0 +1,173 @@
+{
+  "_comment": "NZ: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "New Zealand Hits",
+    "Kiwi Reggae",
+    "Māori Songs",
+    "Lorde",
+    "Benee",
+    "Six60",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "New Zealand Hits": [
+      "new zealand top songs {year}",
+      "new nz songs {year}",
+      "nz hits"
+    ],
+    "Kiwi Reggae": [
+      "nz reggae songs",
+      "kiwi reggae"
+    ],
+    "Māori Songs": [
+      "maori songs",
+      "te reo maori waiata"
+    ],
+    "News": [
+      "New Zealand news today",
+      "New Zealand news today live"
+    ],
+    "Sports": [
+      "New Zealand sports highlights",
+      "New Zealand sports highlights {year}"
+    ],
+    "Lorde": [
+      "Lorde songs",
+      "Lorde new song {year}"
+    ],
+    "Benee": [
+      "Benee songs",
+      "Benee new song {year}"
+    ],
+    "Six60": [
+      "Six60 songs",
+      "Six60 new song {year}"
+    ],
+    "Top Charts": [
+      "new zealand top songs {year}",
+      "nz hits"
+    ],
+    "New Releases": [
+      "new nz songs {year}",
+      "new zealand top songs {year}"
+    ],
+    "Trending": [
+      "nz hits",
+      "new nz songs {year}"
+    ],
+    "Recently uploaded": [
+      "new videos New Zealand {year}",
+      "latest New Zealand videos today",
+      "New Zealand trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "New Zealand gameplay {year}",
+      "New Zealand gaming videos"
+    ],
+    "Fashion": [
+      "New Zealand fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Stan Walker": [
+      "Stan Walker songs",
+      "Stan Walker new song {year}",
+      "Stan Walker hit songs",
+      "Stan Walker latest song"
+    ],
+    "Kimbra": [
+      "Kimbra songs",
+      "Kimbra new song {year}",
+      "Kimbra hit songs",
+      "Kimbra latest song"
+    ],
+    "Marlon Williams": [
+      "Marlon Williams songs",
+      "Marlon Williams new song {year}",
+      "Marlon Williams hit songs",
+      "Marlon Williams latest song"
+    ],
+    "Drax Project": [
+      "Drax Project songs",
+      "Drax Project new song {year}",
+      "Drax Project hit songs",
+      "Drax Project latest song"
+    ],
+    "Jawsh 685": [
+      "Jawsh 685 songs",
+      "Jawsh 685 new song {year}",
+      "Jawsh 685 hit songs",
+      "Jawsh 685 latest song"
+    ],
+    "Broods": [
+      "Broods songs",
+      "Broods new song {year}",
+      "Broods hit songs",
+      "Broods latest song"
+    ],
+    "L.A.B": [
+      "L.A.B songs",
+      "L.A.B new song {year}",
+      "L.A.B hit songs",
+      "L.A.B latest song"
+    ],
+    "Crowded House": [
+      "Crowded House songs",
+      "Crowded House new song {year}",
+      "Crowded House hit songs",
+      "Crowded House latest song"
+    ],
+    "Theia": [
+      "Theia songs",
+      "Theia new song {year}",
+      "Theia hit songs",
+      "Theia latest song"
+    ],
+    "Mitch James": [
+      "Mitch James songs",
+      "Mitch James new song {year}",
+      "Mitch James hit songs",
+      "Mitch James latest song"
+    ],
+    "Tami Neilson": [
+      "Tami Neilson songs",
+      "Tami Neilson new song {year}",
+      "Tami Neilson hit songs",
+      "Tami Neilson latest song"
+    ],
+    "Avantdale Bowling Club": [
+      "Avantdale Bowling Club songs",
+      "Avantdale Bowling Club new song {year}",
+      "Avantdale Bowling Club hit songs",
+      "Avantdale Bowling Club latest song"
+    ]
+  },
+  "music_singers": [
+    "Lorde",
+    "Benee",
+    "Six60",
+    "Stan Walker",
+    "Kimbra",
+    "Marlon Williams",
+    "Drax Project",
+    "Jawsh 685",
+    "Broods",
+    "L.A.B",
+    "Crowded House",
+    "Theia",
+    "Mitch James",
+    "Tami Neilson",
+    "Avantdale Bowling Club"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Kiwi Reggae",
+    "Māori Songs"
+  ]
+}

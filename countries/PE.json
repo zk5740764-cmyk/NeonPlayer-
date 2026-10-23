@@ -1,0 +1,186 @@
+{
+  "_comment": "PE: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Peruvian Hits",
+    "Cumbia Peruana",
+    "Huayno",
+    "Salsa Peruana",
+    "Daniela Darcourt",
+    "Marisol",
+    "Gian Marco",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Peruvian Hits": [
+      "música peruana {year}",
+      "cumbia peruana {year}",
+      "éxitos perú"
+    ],
+    "Cumbia Peruana": [
+      "cumbia peruana {year}",
+      "cumbia norteña éxitos"
+    ],
+    "Huayno": [
+      "huayno éxitos",
+      "huayno nuevo"
+    ],
+    "Salsa Peruana": [
+      "salsa peruana",
+      "salsa perú"
+    ],
+    "News": [
+      "noticias hoy",
+      "noticias hoy live"
+    ],
+    "Sports": [
+      "deportes resumen",
+      "deportes resumen {year}"
+    ],
+    "Daniela Darcourt": [
+      "Daniela Darcourt songs",
+      "Daniela Darcourt new song {year}"
+    ],
+    "Marisol": [
+      "Marisol songs",
+      "Marisol new song {year}"
+    ],
+    "Gian Marco": [
+      "Gian Marco songs",
+      "Gian Marco new song {year}"
+    ],
+    "Top Charts": [
+      "música peruana {year}",
+      "éxitos perú"
+    ],
+    "New Releases": [
+      "cumbia peruana {year}",
+      "música peruana {year}"
+    ],
+    "Trending": [
+      "éxitos perú",
+      "cumbia peruana {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Peru {year}",
+      "latest Peru videos today",
+      "Peru trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Peru gameplay {year}",
+      "Peru gaming videos"
+    ],
+    "Fashion": [
+      "Peru fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Grupo 5": [
+      "Grupo 5 songs",
+      "Grupo 5 new song {year}",
+      "Grupo 5 hit songs",
+      "Grupo 5 latest song"
+    ],
+    "Corazón Serrano": [
+      "Corazón Serrano songs",
+      "Corazón Serrano new song {year}",
+      "Corazón Serrano hit songs",
+      "Corazón Serrano latest song"
+    ],
+    "Armonía 10": [
+      "Armonía 10 songs",
+      "Armonía 10 new song {year}",
+      "Armonía 10 hit songs",
+      "Armonía 10 latest song"
+    ],
+    "Hermanos Yaipén": [
+      "Hermanos Yaipén songs",
+      "Hermanos Yaipén new song {year}",
+      "Hermanos Yaipén hit songs",
+      "Hermanos Yaipén latest song"
+    ],
+    "Christian Yaipén": [
+      "Christian Yaipén songs",
+      "Christian Yaipén new song {year}",
+      "Christian Yaipén hit songs",
+      "Christian Yaipén latest song"
+    ],
+    "Pedro Suárez-Vértiz": [
+      "Pedro Suárez-Vértiz songs",
+      "Pedro Suárez-Vértiz new song {year}",
+      "Pedro Suárez-Vértiz hit songs",
+      "Pedro Suárez-Vértiz latest song"
+    ],
+    "Eva Ayllón": [
+      "Eva Ayllón songs",
+      "Eva Ayllón new song {year}",
+      "Eva Ayllón hit songs",
+      "Eva Ayllón latest song"
+    ],
+    "Susana Baca": [
+      "Susana Baca songs",
+      "Susana Baca new song {year}",
+      "Susana Baca hit songs",
+      "Susana Baca latest song"
+    ],
+    "Los Mirlos": [
+      "Los Mirlos songs",
+      "Los Mirlos new song {year}",
+      "Los Mirlos hit songs",
+      "Los Mirlos latest song"
+    ],
+    "Tony Rosado": [
+      "Tony Rosado songs",
+      "Tony Rosado new song {year}",
+      "Tony Rosado hit songs",
+      "Tony Rosado latest song"
+    ],
+    "Daniela Mía": [
+      "Daniela Mía songs",
+      "Daniela Mía new song {year}",
+      "Daniela Mía hit songs",
+      "Daniela Mía latest song"
+    ],
+    "Agua Marina": [
+      "Agua Marina songs",
+      "Agua Marina new song {year}",
+      "Agua Marina hit songs",
+      "Agua Marina latest song"
+    ],
+    "Bryan Arámbulo": [
+      "Bryan Arámbulo songs",
+      "Bryan Arámbulo new song {year}",
+      "Bryan Arámbulo hit songs",
+      "Bryan Arámbulo latest song"
+    ]
+  },
+  "music_singers": [
+    "Daniela Darcourt",
+    "Marisol",
+    "Gian Marco",
+    "Grupo 5",
+    "Corazón Serrano",
+    "Armonía 10",
+    "Hermanos Yaipén",
+    "Christian Yaipén",
+    "Pedro Suárez-Vértiz",
+    "Eva Ayllón",
+    "Susana Baca",
+    "Los Mirlos",
+    "Tony Rosado",
+    "Daniela Mía",
+    "Agua Marina",
+    "Bryan Arámbulo"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Cumbia Peruana",
+    "Huayno",
+    "Salsa Peruana"
+  ]
+}

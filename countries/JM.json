@@ -1,0 +1,214 @@
+{
+  "_comment": "JM: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Jamaican Hits",
+    "Dancehall",
+    "Reggae",
+    "Reggae Fusion",
+    "Bob Marley",
+    "Shaggy",
+    "Sean Paul",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Jamaican Hits": [
+      "jamaican songs {year}",
+      "new dancehall {year}",
+      "reggae hits"
+    ],
+    "Dancehall": [
+      "new dancehall songs {year}",
+      "dancehall hits"
+    ],
+    "Reggae": [
+      "reggae hits",
+      "roots reggae"
+    ],
+    "Reggae Fusion": [
+      "reggae fusion",
+      "reggae pop"
+    ],
+    "News": [
+      "Jamaican news today",
+      "Jamaican news today live"
+    ],
+    "Sports": [
+      "Jamaican sports highlights",
+      "Jamaican sports highlights {year}"
+    ],
+    "Bob Marley": [
+      "Bob Marley songs",
+      "Bob Marley new song {year}"
+    ],
+    "Shaggy": [
+      "Shaggy songs",
+      "Shaggy new song {year}"
+    ],
+    "Sean Paul": [
+      "Sean Paul songs",
+      "Sean Paul new song {year}"
+    ],
+    "Top Charts": [
+      "jamaican songs {year}",
+      "reggae hits"
+    ],
+    "New Releases": [
+      "new dancehall {year}",
+      "jamaican songs {year}"
+    ],
+    "Trending": [
+      "reggae hits",
+      "new dancehall {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Jamaica {year}",
+      "latest Jamaica videos today",
+      "Jamaica trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Jamaica gameplay {year}",
+      "Jamaica gaming videos"
+    ],
+    "Fashion": [
+      "Jamaica fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Vybz Kartel": [
+      "Vybz Kartel songs",
+      "Vybz Kartel new song {year}",
+      "Vybz Kartel hit songs",
+      "Vybz Kartel latest song"
+    ],
+    "Popcaan": [
+      "Popcaan songs",
+      "Popcaan new song {year}",
+      "Popcaan hit songs",
+      "Popcaan latest song"
+    ],
+    "Koffee": [
+      "Koffee songs",
+      "Koffee new song {year}",
+      "Koffee hit songs",
+      "Koffee latest song"
+    ],
+    "Chronixx": [
+      "Chronixx songs",
+      "Chronixx new song {year}",
+      "Chronixx hit songs",
+      "Chronixx latest song"
+    ],
+    "Spice": [
+      "Spice songs",
+      "Spice new song {year}",
+      "Spice hit songs",
+      "Spice latest song"
+    ],
+    "Skillibeng": [
+      "Skillibeng songs",
+      "Skillibeng new song {year}",
+      "Skillibeng hit songs",
+      "Skillibeng latest song"
+    ],
+    "Shenseea": [
+      "Shenseea songs",
+      "Shenseea new song {year}",
+      "Shenseea hit songs",
+      "Shenseea latest song"
+    ],
+    "Protoje": [
+      "Protoje songs",
+      "Protoje new song {year}",
+      "Protoje hit songs",
+      "Protoje latest song"
+    ],
+    "Beenie Man": [
+      "Beenie Man songs",
+      "Beenie Man new song {year}",
+      "Beenie Man hit songs",
+      "Beenie Man latest song"
+    ],
+    "Buju Banton": [
+      "Buju Banton songs",
+      "Buju Banton new song {year}",
+      "Buju Banton hit songs",
+      "Buju Banton latest song"
+    ],
+    "Damian Marley": [
+      "Damian Marley songs",
+      "Damian Marley new song {year}",
+      "Damian Marley hit songs",
+      "Damian Marley latest song"
+    ],
+    "Jah Cure": [
+      "Jah Cure songs",
+      "Jah Cure new song {year}",
+      "Jah Cure hit songs",
+      "Jah Cure latest song"
+    ],
+    "Alkaline": [
+      "Alkaline songs",
+      "Alkaline new song {year}",
+      "Alkaline hit songs",
+      "Alkaline latest song"
+    ],
+    "Masicka": [
+      "Masicka songs",
+      "Masicka new song {year}",
+      "Masicka hit songs",
+      "Masicka latest song"
+    ],
+    "Mavado": [
+      "Mavado songs",
+      "Mavado new song {year}",
+      "Mavado hit songs",
+      "Mavado latest song"
+    ],
+    "Sizzla": [
+      "Sizzla songs",
+      "Sizzla new song {year}",
+      "Sizzla hit songs",
+      "Sizzla latest song"
+    ],
+    "Tarrus Riley": [
+      "Tarrus Riley songs",
+      "Tarrus Riley new song {year}",
+      "Tarrus Riley hit songs",
+      "Tarrus Riley latest song"
+    ]
+  },
+  "music_singers": [
+    "Bob Marley",
+    "Shaggy",
+    "Sean Paul",
+    "Vybz Kartel",
+    "Popcaan",
+    "Koffee",
+    "Chronixx",
+    "Spice",
+    "Skillibeng",
+    "Shenseea",
+    "Protoje",
+    "Beenie Man",
+    "Buju Banton",
+    "Damian Marley",
+    "Jah Cure",
+    "Alkaline",
+    "Masicka",
+    "Mavado",
+    "Sizzla",
+    "Tarrus Riley"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Dancehall",
+    "Reggae",
+    "Reggae Fusion"
+  ]
+}

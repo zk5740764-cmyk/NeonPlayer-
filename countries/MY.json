@@ -1,0 +1,191 @@
+{
+  "_comment": "MY: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Malaysian Hits",
+    "Lagu Melayu",
+    "Rock Kapak",
+    "Hip-Hop Malaysia",
+    "Filem Melayu",
+    "Siti Nurhaliza",
+    "Yuna",
+    "Ernie Zakri",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Malaysian Hits": [
+      "lagu melayu terbaru {year}",
+      "lagu malaysia {year}",
+      "top lagu malaysia"
+    ],
+    "Lagu Melayu": [
+      "lagu melayu {year}",
+      "lagu melayu terbaru"
+    ],
+    "Rock Kapak": [
+      "lagu rock kapak",
+      "rock kapak malaysia"
+    ],
+    "Hip-Hop Malaysia": [
+      "hip hop malaysia {year}",
+      "rap malaysia"
+    ],
+    "Filem Melayu": [
+      "filem melayu penuh",
+      "filem malaysia penuh"
+    ],
+    "News": [
+      "berita hari ini",
+      "berita hari ini live"
+    ],
+    "Sports": [
+      "sukan sorotan",
+      "sukan sorotan {year}"
+    ],
+    "Siti Nurhaliza": [
+      "Siti Nurhaliza songs",
+      "Siti Nurhaliza new song {year}"
+    ],
+    "Yuna": [
+      "Yuna songs",
+      "Yuna new song {year}"
+    ],
+    "Ernie Zakri": [
+      "Ernie Zakri songs",
+      "Ernie Zakri new song {year}"
+    ],
+    "Top Charts": [
+      "lagu melayu terbaru {year}",
+      "top lagu malaysia"
+    ],
+    "New Releases": [
+      "lagu malaysia {year}",
+      "lagu melayu terbaru {year}"
+    ],
+    "Trending": [
+      "top lagu malaysia",
+      "lagu malaysia {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Malaysia {year}",
+      "latest Malaysia videos today",
+      "Malaysia trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Malaysia gameplay {year}",
+      "Malaysia gaming videos"
+    ],
+    "Fashion": [
+      "Malaysia fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Hael Husaini": [
+      "Hael Husaini songs",
+      "Hael Husaini new song {year}",
+      "Hael Husaini hit songs",
+      "Hael Husaini latest song"
+    ],
+    "Aina Abdul": [
+      "Aina Abdul songs",
+      "Aina Abdul new song {year}",
+      "Aina Abdul hit songs",
+      "Aina Abdul latest song"
+    ],
+    "Faizal Tahir": [
+      "Faizal Tahir songs",
+      "Faizal Tahir new song {year}",
+      "Faizal Tahir hit songs",
+      "Faizal Tahir latest song"
+    ],
+    "Naim Daniel": [
+      "Naim Daniel songs",
+      "Naim Daniel new song {year}",
+      "Naim Daniel hit songs",
+      "Naim Daniel latest song"
+    ],
+    "Aiman Tino": [
+      "Aiman Tino songs",
+      "Aiman Tino new song {year}",
+      "Aiman Tino hit songs",
+      "Aiman Tino latest song"
+    ],
+    "Ismail Izzani": [
+      "Ismail Izzani songs",
+      "Ismail Izzani new song {year}",
+      "Ismail Izzani hit songs",
+      "Ismail Izzani latest song"
+    ],
+    "Amy Search": [
+      "Amy Search songs",
+      "Amy Search new song {year}",
+      "Amy Search hit songs",
+      "Amy Search latest song"
+    ],
+    "Zee Avi": [
+      "Zee Avi songs",
+      "Zee Avi new song {year}",
+      "Zee Avi hit songs",
+      "Zee Avi latest song"
+    ],
+    "Ziana Zain": [
+      "Ziana Zain songs",
+      "Ziana Zain new song {year}",
+      "Ziana Zain hit songs",
+      "Ziana Zain latest song"
+    ],
+    "Anuar Zain": [
+      "Anuar Zain songs",
+      "Anuar Zain new song {year}",
+      "Anuar Zain hit songs",
+      "Anuar Zain latest song"
+    ],
+    "Hujan": [
+      "Hujan songs",
+      "Hujan new song {year}",
+      "Hujan hit songs",
+      "Hujan latest song"
+    ],
+    "Dayang Nurfaizah": [
+      "Dayang Nurfaizah songs",
+      "Dayang Nurfaizah new song {year}",
+      "Dayang Nurfaizah hit songs",
+      "Dayang Nurfaizah latest song"
+    ],
+    "Mawi": [
+      "Mawi songs",
+      "Mawi new song {year}",
+      "Mawi hit songs",
+      "Mawi latest song"
+    ]
+  },
+  "music_singers": [
+    "Siti Nurhaliza",
+    "Yuna",
+    "Ernie Zakri",
+    "Hael Husaini",
+    "Aina Abdul",
+    "Faizal Tahir",
+    "Naim Daniel",
+    "Aiman Tino",
+    "Ismail Izzani",
+    "Amy Search",
+    "Zee Avi",
+    "Ziana Zain",
+    "Anuar Zain",
+    "Hujan",
+    "Dayang Nurfaizah",
+    "Mawi"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Lagu Melayu",
+    "Rock Kapak",
+    "Hip-Hop Malaysia"
+  ]
+}

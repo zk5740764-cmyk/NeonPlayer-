@@ -1,0 +1,138 @@
+{
+  "_comment": "IQ: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Iraqi Hits",
+    "اغاني عراقية",
+    "دبكات",
+    "Kadim Al Sahir",
+    "Majid Al Mohandis",
+    "Hussam Al Rassam",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Iraqi Hits": [
+      "اغاني عراقية {year}",
+      "جديد الاغاني العراقية",
+      "اغاني عراقي حزينة"
+    ],
+    "اغاني عراقية": [
+      "اغاني عراقية جديدة",
+      "اغاني عراقي {year}"
+    ],
+    "دبكات": [
+      "دبكات عراقية",
+      "دبكة جديدة"
+    ],
+    "News": [
+      "اخبار اليوم",
+      "اخبار اليوم live"
+    ],
+    "Sports": [
+      "رياضة ملخص",
+      "رياضة ملخص {year}"
+    ],
+    "Kadim Al Sahir": [
+      "Kadim Al Sahir songs",
+      "Kadim Al Sahir new song {year}"
+    ],
+    "Majid Al Mohandis": [
+      "Majid Al Mohandis songs",
+      "Majid Al Mohandis new song {year}"
+    ],
+    "Hussam Al Rassam": [
+      "Hussam Al Rassam songs",
+      "Hussam Al Rassam new song {year}"
+    ],
+    "Top Charts": [
+      "اغاني عراقية {year}",
+      "اغاني عراقي حزينة"
+    ],
+    "New Releases": [
+      "جديد الاغاني العراقية",
+      "اغاني عراقية {year}"
+    ],
+    "Trending": [
+      "اغاني عراقي حزينة",
+      "جديد الاغاني العراقية"
+    ],
+    "Recently uploaded": [
+      "new videos Iraq {year}",
+      "latest Iraq videos today",
+      "Iraq trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Iraq gameplay {year}",
+      "Iraq gaming videos"
+    ],
+    "Fashion": [
+      "Iraq fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Rahma Riyad": [
+      "Rahma Riyad songs",
+      "Rahma Riyad new song {year}",
+      "Rahma Riyad hit songs",
+      "Rahma Riyad latest song"
+    ],
+    "Saif Nabeel": [
+      "Saif Nabeel songs",
+      "Saif Nabeel new song {year}",
+      "Saif Nabeel hit songs",
+      "Saif Nabeel latest song"
+    ],
+    "Hatem Al Iraqi": [
+      "Hatem Al Iraqi songs",
+      "Hatem Al Iraqi new song {year}",
+      "Hatem Al Iraqi hit songs",
+      "Hatem Al Iraqi latest song"
+    ],
+    "Ahlam": [
+      "Ahlam songs",
+      "Ahlam new song {year}",
+      "Ahlam hit songs",
+      "Ahlam latest song"
+    ],
+    "Ali Saber": [
+      "Ali Saber songs",
+      "Ali Saber new song {year}",
+      "Ali Saber hit songs",
+      "Ali Saber latest song"
+    ],
+    "Karar Al Sagheer": [
+      "Karar Al Sagheer songs",
+      "Karar Al Sagheer new song {year}",
+      "Karar Al Sagheer hit songs",
+      "Karar Al Sagheer latest song"
+    ],
+    "Mohammed Abdulwahab": [
+      "Mohammed Abdulwahab songs",
+      "Mohammed Abdulwahab new song {year}",
+      "Mohammed Abdulwahab hit songs",
+      "Mohammed Abdulwahab latest song"
+    ]
+  },
+  "music_singers": [
+    "Kadim Al Sahir",
+    "Majid Al Mohandis",
+    "Hussam Al Rassam",
+    "Rahma Riyad",
+    "Saif Nabeel",
+    "Hatem Al Iraqi",
+    "Ahlam",
+    "Ali Saber",
+    "Karar Al Sagheer",
+    "Mohammed Abdulwahab"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "اغاني عراقية",
+    "دبكات"
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "_comment": "IN: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Recently uploaded",
+    "Haryanvi Movies",
+    "Bhojpuri Movies",
+    "Punjabi Movies",
+    "Kashmiri Movies",
+    "South Indian Movies",
+    "Bollywood Hits",
+    "Punjabi Hits",
+    "Haryanvi Hits",
+    "Bhojpuri Hits",
+    "Bollywood Movies",
+    "Arijit Singh",
+    "Shreya Ghoshal",
+    "Jubin Nautiyal",
+    "Gaming",
+    "News",
+    "Sports",
+    "Movies",
+    "TV Serials",
+    "Comedy",
+    "WhatsApp Status",
+    "Tech",
+    "Cooking",
+    "Cartoons",
+    "Devotional"
+  ],
+  "category_queries": {
+    "Bollywood Hits": [
+      "bollywood hit songs {year}",
+      "new hindi songs {year}",
+      "trending indian songs this week",
+      "latest bollywood songs"
+    ],
+    "Punjabi Hits": [
+      "new punjabi songs {year}",
+      "punjabi hit songs",
+      "latest punjabi song",
+      "punjabi top songs {year}"
+    ],
+    "Haryanvi Hits": [
+      "new haryanvi songs {year}",
+      "haryanvi dj songs",
+      "latest haryanvi song",
+      "haryanvi top songs {year}"
+    ],
+    "Bhojpuri Hits": [
+      "new bhojpuri songs {year}",
+      "bhojpuri hit songs",
+      "latest bhojpuri song",
+      "bhojpuri dj songs {year}"
+    ],
+    "Kashmiri Songs": [
+      "kashmiri songs",
+      "new kashmiri song {year}",
+      "kashmiri sufi songs",
+      "kashmiri rap song"
+    ],
+    "Gojri Songs": [
+      "gojri songs",
+      "new gojri song {year}",
+      "gojri hit songs"
+    ],
+    "Bollywood Movies": [
+      "bollywood full movie {year}",
+      "new hindi movie full",
+      "hindi action movie full hd",
+      "hindi romantic movie full"
+    ],
+    "News": [
+      "aaj ki taaza khabar",
+      "aaj ki taaza khabar live",
+      "india news live today"
+    ],
+    "Sports": [
+      "cricket highlights",
+      "cricket highlights {year}",
+      "ipl highlights {year}",
+      "football highlights"
+    ],
+    "Arijit Singh": [
+      "Arijit Singh songs",
+      "Arijit Singh new song {year}",
+      "Arijit Singh hit songs",
+      "Arijit Singh latest song"
+    ],
+    "Shreya Ghoshal": [
+      "Shreya Ghoshal songs",
+      "Shreya Ghoshal new song {year}",
+      "Shreya Ghoshal hit songs",
+      "Shreya Ghoshal latest song"
+    ],
+    "Jubin Nautiyal": [
+      "Jubin Nautiyal songs",
+      "Jubin Nautiyal new song {year}",
+      "Jubin Nautiyal hit songs",
+      "Jubin Nautiyal latest song"
+    ],
+    "Top Charts": [
+      "bollywood hit songs {year}",
+      "trending indian songs this week",
+      "top 50 hindi songs {year}"
+    ],
+    "New Releases": [
+      "new hindi songs {year}",
+      "bollywood new song this week",
+      "new punjabi songs {year}"
+    ],
+    "Trending": [
+      "trending indian songs this week",
+      "new hindi songs {year}",
+      "viral songs {year}"
+    ],
+    "Movies": [
+      "new full movie {year}",
+      "hindi full movie {year}",
+      "latest movie trailer {year}",
+      "superhit hindi movie full hd"
+    ],
+    "TV Serials": [
+      "latest tv serial episode {year}",
+      "hindi serial full episode",
+      "tv show full episode today"
+    ],
+    "Comedy": [
+      "funny comedy video {year}",
+      "stand up comedy hindi",
+      "best comedy scenes"
+    ],
+    "WhatsApp Status": [
+      "whatsapp status video {year}",
+      "new status video 30 sec",
+      "love status video"
+    ],
+    "Tech": [
+      "tech news {year}",
+      "latest smartphone review {year}",
+      "tech tips hindi"
+    ],
+    "Cooking": [
+      "easy recipe hindi {year}",
+      "street food recipe",
+      "cooking video today"
+    ],
+    "Cartoons": [
+      "cartoon for kids hindi",
+      "kids nursery rhymes {year}",
+      "popular cartoon episodes"
+    ],
+    "Devotional": [
+      "bhakti songs {year}",
+      "devotional songs new",
+      "aarti bhajan",
+      "krishna bhajan {year}"
+    ],
+    "Haryanvi Movies": [
+      "haryanvi full movie {year}",
+      "new haryanvi film full movie",
+      "haryanvi superhit movie",
+      "haryanvi comedy movie full"
+    ],
+    "Bhojpuri Movies": [
+      "bhojpuri full movie {year}",
+      "new bhojpuri film full movie",
+      "bhojpuri superhit movie",
+      "bhojpuri action movie full"
+    ],
+    "Punjabi Movies": [
+      "punjabi full movie {year}",
+      "new punjabi movie full",
+      "punjabi comedy movie full",
+      "punjabi superhit film"
+    ],
+    "Kashmiri Movies": [
+      "kashmiri full movie",
+      "kashmiri film full",
+      "new kashmiri movie {year}"
+    ],
+    "South Indian Movies": [
+      "south indian movie hindi dubbed {year}",
+      "new south movie hindi dubbed full",
+      "south action movie hindi dubbed",
+      "south romantic movie hindi dubbed"
+    ],
+    "Recently uploaded": [
+      "new video uploads {year}",
+      "latest video today",
+      "new hindi video"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "bgmi gameplay {year}",
+      "free fire gameplay",
+      "minecraft hindi gameplay"
+    ],
+    "Vishal Mishra": [
+      "Vishal Mishra songs",
+      "Vishal Mishra new song {year}",
+      "Vishal Mishra hit songs",
+      "Vishal Mishra latest song"
+    ],
+    "Darshan Raval": [
+      "Darshan Raval songs",
+      "Darshan Raval new song {year}",
+      "Darshan Raval hit songs",
+      "Darshan Raval latest song"
+    ],
+    "Sunidhi Chauhan": [
+      "Sunidhi Chauhan songs",
+      "Sunidhi Chauhan new song {year}",
+      "Sunidhi Chauhan hit songs",
+      "Sunidhi Chauhan latest song"
+    ],
+    "Neha Kakkar": [
+      "Neha Kakkar songs",
+      "Neha Kakkar new song {year}",
+      "Neha Kakkar hit songs",
+      "Neha Kakkar latest song"
+    ],
+    "B Praak": [
+      "B Praak songs",
+      "B Praak new song {year}",
+      "B Praak hit songs",
+      "B Praak latest song",
+      "B Praak punjabi song {year}"
+    ],
+    "Armaan Malik": [
+      "Armaan Malik songs",
+      "Armaan Malik new song {year}",
+      "Armaan Malik hit songs",
+      "Armaan Malik latest song"
+    ],
+    "Palak Muchhal": [
+      "Palak Muchhal songs",
+      "Palak Muchhal new song {year}",
+      "Palak Muchhal hit songs",
+      "Palak Muchhal latest song"
+    ],
+    "Sachet Tandon": [
+      "Sachet Tandon songs",
+      "Sachet Tandon new song {year}",
+      "Sachet Tandon hit songs",
+      "Sachet Tandon latest song"
+    ],
+    "Parampara Tandon": [
+      "Parampara Tandon songs",
+      "Parampara Tandon new song {year}",
+      "Parampara Tandon hit songs",
+      "Parampara Tandon latest song"
+    ],
+    "Stebin Ben": [
+      "Stebin Ben songs",
+      "Stebin Ben new song {year}",
+      "Stebin Ben hit songs",
+      "Stebin Ben latest song"
+    ],
+    "Payal Dev": [
+      "Payal Dev songs",
+      "Payal Dev new song {year}",
+      "Payal Dev hit songs",
+      "Payal Dev latest song"
+    ],
+    "Badshah": [
+      "Badshah songs",
+      "Badshah new song {year}",
+      "Badshah hit songs",
+      "Badshah latest song"
+    ],
+    "Yo Yo Honey Singh": [
+      "Yo Yo Honey Singh songs",
+      "Yo Yo Honey Singh new song {year}",
+      "Yo Yo Honey Singh hit songs",
+      "Yo Yo Honey Singh latest song"
+    ],
+    "Diljit Dosanjh": [
+      "Diljit Dosanjh songs",
+      "Diljit Dosanjh new song {year}",
+      "Diljit Dosanjh hit songs",
+      "Diljit Dosanjh latest song",
+      "Diljit Dosanjh punjabi song {year}"
+    ],
+    "AP Dhillon": [
+      "AP Dhillon songs",
+      "AP Dhillon new song {year}",
+      "AP Dhillon hit songs",
+      "AP Dhillon latest song",
+      "AP Dhillon punjabi song {year}"
+    ],
+    "Karan Aujla": [
+      "Karan Aujla songs",
+      "Karan Aujla new song {year}",
+      "Karan Aujla hit songs",
+      "Karan Aujla latest song",
+      "Karan Aujla punjabi song {year}"
+    ],
+    "Shubh": [
+      "Shubh songs",
+      "Shubh new song {year}",
+      "Shubh hit songs",
+      "Shubh latest song",
+      "Shubh punjabi song {year}"
+    ],
+    "Shilpi Raj": [
+      "Shilpi Raj songs",
+      "Shilpi Raj new song {year}",
+      "Shilpi Raj hit songs",
+      "Shilpi Raj latest song",
+      "Shilpi Raj bhojpuri song {year}"
+    ],
+    "Masoom Sharma": [
+      "Masoom Sharma songs",
+      "Masoom Sharma new song {year}",
+      "Masoom Sharma hit songs",
+      "Masoom Sharma latest song",
+      "Masoom Sharma haryanvi song {year}"
+    ],
+    "Renuka Panwar": [
+      "Renuka Panwar songs",
+      "Renuka Panwar new song {year}",
+      "Renuka Panwar hit songs",
+      "Renuka Panwar latest song",
+      "Renuka Panwar haryanvi song {year}"
+    ],
+    "Pranjal Dahiya": [
+      "Pranjal Dahiya songs",
+      "Pranjal Dahiya new song {year}",
+      "Pranjal Dahiya hit songs",
+      "Pranjal Dahiya latest song",
+      "Pranjal Dahiya haryanvi song {year}"
+    ],
+    "Ajay Hooda": [
+      "Ajay Hooda songs",
+      "Ajay Hooda new song {year}",
+      "Ajay Hooda hit songs",
+      "Ajay Hooda latest song",
+      "Ajay Hooda haryanvi song {year}"
+    ],
+    "Diler Kharkiya": [
+      "Diler Kharkiya songs",
+      "Diler Kharkiya new song {year}",
+      "Diler Kharkiya hit songs",
+      "Diler Kharkiya latest song",
+      "Diler Kharkiya haryanvi song {year}"
+    ],
+    "Pawan Singh": [
+      "Pawan Singh songs",
+      "Pawan Singh new song {year}",
+      "Pawan Singh hit songs",
+      "Pawan Singh latest song",
+      "Pawan Singh bhojpuri song {year}"
+    ],
+    "Khesari Lal Yadav": [
+      "Khesari Lal Yadav songs",
+      "Khesari Lal Yadav new song {year}",
+      "Khesari Lal Yadav hit songs",
+      "Khesari Lal Yadav latest song",
+      "Khesari Lal Yadav bhojpuri song {year}"
+    ],
+    "Fashion": [
+      "fashion trends {year}",
+      "fashion haul {year}"
+    ]
+  },
+  "music_singers": [
+    "Arijit Singh",
+    "Shreya Ghoshal",
+    "Jubin Nautiyal",
+    "Vishal Mishra",
+    "Darshan Raval",
+    "Sunidhi Chauhan",
+    "Neha Kakkar",
+    "B Praak",
+    "Armaan Malik",
+    "Palak Muchhal",
+    "Sachet Tandon",
+    "Parampara Tandon",
+    "Stebin Ben",
+    "Payal Dev",
+    "Badshah",
+    "Yo Yo Honey Singh",
+    "Diljit Dosanjh",
+    "AP Dhillon",
+    "Karan Aujla",
+    "Shubh",
+    "Shilpi Raj",
+    "Masoom Sharma",
+    "Renuka Panwar",
+    "Pranjal Dahiya",
+    "Ajay Hooda",
+    "Diler Kharkiya",
+    "Pawan Singh",
+    "Khesari Lal Yadav"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Punjabi Hits",
+    "Haryanvi Hits",
+    "Bhojpuri Hits",
+    "Kashmiri Songs",
+    "Gojri Songs"
+  ]
+}

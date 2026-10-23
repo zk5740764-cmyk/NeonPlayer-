@@ -1,0 +1,179 @@
+{
+  "_comment": "IL: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Israeli Hits",
+    "מזרחית",
+    "פופ ישראלי",
+    "ראפ ישראלי",
+    "Omer Adam",
+    "Noa Kirel",
+    "Eden Ben Zaken",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Israeli Hits": [
+      "שירים חדשים {year}",
+      "להיטים ישראלים {year}",
+      "שירים ישראלים"
+    ],
+    "מזרחית": [
+      "מזרחית חדשות {year}",
+      "שירים מזרחיים"
+    ],
+    "פופ ישראלי": [
+      "פופ ישראלי {year}",
+      "להיטי פופ ישראלי"
+    ],
+    "ראפ ישראלי": [
+      "ראפ ישראלי {year}",
+      "היפ הופ ישראלי"
+    ],
+    "News": [
+      "חדשות היום",
+      "חדשות היום live"
+    ],
+    "Sports": [
+      "ספורט תקציר",
+      "ספורט תקציר {year}"
+    ],
+    "Omer Adam": [
+      "Omer Adam songs",
+      "Omer Adam new song {year}"
+    ],
+    "Noa Kirel": [
+      "Noa Kirel songs",
+      "Noa Kirel new song {year}"
+    ],
+    "Eden Ben Zaken": [
+      "Eden Ben Zaken songs",
+      "Eden Ben Zaken new song {year}"
+    ],
+    "Top Charts": [
+      "שירים חדשים {year}",
+      "שירים ישראלים"
+    ],
+    "New Releases": [
+      "להיטים ישראלים {year}",
+      "שירים חדשים {year}"
+    ],
+    "Trending": [
+      "שירים ישראלים",
+      "להיטים ישראלים {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Israel {year}",
+      "latest Israel videos today",
+      "Israel trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Israel gameplay {year}",
+      "Israel gaming videos"
+    ],
+    "Fashion": [
+      "Israel fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Netta": [
+      "Netta songs",
+      "Netta new song {year}",
+      "Netta hit songs",
+      "Netta latest song"
+    ],
+    "Static & Ben El": [
+      "Static & Ben El songs",
+      "Static & Ben El new song {year}",
+      "Static & Ben El hit songs",
+      "Static & Ben El latest song"
+    ],
+    "Eden Hason": [
+      "Eden Hason songs",
+      "Eden Hason new song {year}",
+      "Eden Hason hit songs",
+      "Eden Hason latest song"
+    ],
+    "Ishay Ribo": [
+      "Ishay Ribo songs",
+      "Ishay Ribo new song {year}",
+      "Ishay Ribo hit songs",
+      "Ishay Ribo latest song"
+    ],
+    "Sarit Hadad": [
+      "Sarit Hadad songs",
+      "Sarit Hadad new song {year}",
+      "Sarit Hadad hit songs",
+      "Sarit Hadad latest song"
+    ],
+    "Idan Raichel": [
+      "Idan Raichel songs",
+      "Idan Raichel new song {year}",
+      "Idan Raichel hit songs",
+      "Idan Raichel latest song"
+    ],
+    "Tuna": [
+      "Tuna songs",
+      "Tuna new song {year}",
+      "Tuna hit songs",
+      "Tuna latest song"
+    ],
+    "Shlomo Artzi": [
+      "Shlomo Artzi songs",
+      "Shlomo Artzi new song {year}",
+      "Shlomo Artzi hit songs",
+      "Shlomo Artzi latest song"
+    ],
+    "Hanan Ben Ari": [
+      "Hanan Ben Ari songs",
+      "Hanan Ben Ari new song {year}",
+      "Hanan Ben Ari hit songs",
+      "Hanan Ben Ari latest song"
+    ],
+    "Noga Erez": [
+      "Noga Erez songs",
+      "Noga Erez new song {year}",
+      "Noga Erez hit songs",
+      "Noga Erez latest song"
+    ],
+    "Ravid Plotnik": [
+      "Ravid Plotnik songs",
+      "Ravid Plotnik new song {year}",
+      "Ravid Plotnik hit songs",
+      "Ravid Plotnik latest song"
+    ],
+    "Ofra Haza": [
+      "Ofra Haza songs",
+      "Ofra Haza new song {year}",
+      "Ofra Haza hit songs",
+      "Ofra Haza latest song"
+    ]
+  },
+  "music_singers": [
+    "Omer Adam",
+    "Noa Kirel",
+    "Eden Ben Zaken",
+    "Netta",
+    "Static & Ben El",
+    "Eden Hason",
+    "Ishay Ribo",
+    "Sarit Hadad",
+    "Idan Raichel",
+    "Tuna",
+    "Shlomo Artzi",
+    "Hanan Ben Ari",
+    "Noga Erez",
+    "Ravid Plotnik",
+    "Ofra Haza"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "מזרחית",
+    "פופ ישראלי",
+    "ראפ ישראלי"
+  ]
+}

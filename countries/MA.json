@@ -1,0 +1,179 @@
+{
+  "_comment": "MA: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Moroccan Hits",
+    "شعبي مغربي",
+    "راب مغربي",
+    "كناوة",
+    "Saad Lamjarred",
+    "Douzi",
+    "Hatim Ammor",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Moroccan Hits": [
+      "اغاني مغربية {year}",
+      "جديد الاغاني المغربية",
+      "اغاني مغربية شعبية"
+    ],
+    "شعبي مغربي": [
+      "شعبي مغربي جديد",
+      "اغاني شعبية مغربية"
+    ],
+    "راب مغربي": [
+      "راب مغربي {year}",
+      "rap maroc {year}"
+    ],
+    "كناوة": [
+      "كناوة موسيقى",
+      "gnawa music"
+    ],
+    "News": [
+      "اخبار اليوم",
+      "اخبار اليوم live"
+    ],
+    "Sports": [
+      "رياضة ملخص",
+      "رياضة ملخص {year}"
+    ],
+    "Saad Lamjarred": [
+      "Saad Lamjarred songs",
+      "Saad Lamjarred new song {year}"
+    ],
+    "Douzi": [
+      "Douzi songs",
+      "Douzi new song {year}"
+    ],
+    "Hatim Ammor": [
+      "Hatim Ammor songs",
+      "Hatim Ammor new song {year}"
+    ],
+    "Top Charts": [
+      "اغاني مغربية {year}",
+      "اغاني مغربية شعبية"
+    ],
+    "New Releases": [
+      "جديد الاغاني المغربية",
+      "اغاني مغربية {year}"
+    ],
+    "Trending": [
+      "اغاني مغربية شعبية",
+      "جديد الاغاني المغربية"
+    ],
+    "Recently uploaded": [
+      "new videos Morocco {year}",
+      "latest Morocco videos today",
+      "Morocco trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Morocco gameplay {year}",
+      "Morocco gaming videos"
+    ],
+    "Fashion": [
+      "Morocco fashion {year}",
+      "fashion trends {year}"
+    ],
+    "ElGrande Toto": [
+      "ElGrande Toto songs",
+      "ElGrande Toto new song {year}",
+      "ElGrande Toto hit songs",
+      "ElGrande Toto latest song"
+    ],
+    "Dizzy DROS": [
+      "Dizzy DROS songs",
+      "Dizzy DROS new song {year}",
+      "Dizzy DROS hit songs",
+      "Dizzy DROS latest song"
+    ],
+    "Asmaa Lamnawar": [
+      "Asmaa Lamnawar songs",
+      "Asmaa Lamnawar new song {year}",
+      "Asmaa Lamnawar hit songs",
+      "Asmaa Lamnawar latest song"
+    ],
+    "Zina Daoudia": [
+      "Zina Daoudia songs",
+      "Zina Daoudia new song {year}",
+      "Zina Daoudia hit songs",
+      "Zina Daoudia latest song"
+    ],
+    "Samara": [
+      "Samara songs",
+      "Samara new song {year}",
+      "Samara hit songs",
+      "Samara latest song"
+    ],
+    "Manal Benchlikha": [
+      "Manal Benchlikha songs",
+      "Manal Benchlikha new song {year}",
+      "Manal Benchlikha hit songs",
+      "Manal Benchlikha latest song"
+    ],
+    "Hamouda": [
+      "Hamouda songs",
+      "Hamouda new song {year}",
+      "Hamouda hit songs",
+      "Hamouda latest song"
+    ],
+    "Ahmed Chawki": [
+      "Ahmed Chawki songs",
+      "Ahmed Chawki new song {year}",
+      "Ahmed Chawki hit songs",
+      "Ahmed Chawki latest song"
+    ],
+    "Adil El Miloudi": [
+      "Adil El Miloudi songs",
+      "Adil El Miloudi new song {year}",
+      "Adil El Miloudi hit songs",
+      "Adil El Miloudi latest song"
+    ],
+    "Nouamane Belaiachi": [
+      "Nouamane Belaiachi songs",
+      "Nouamane Belaiachi new song {year}",
+      "Nouamane Belaiachi hit songs",
+      "Nouamane Belaiachi latest song"
+    ],
+    "Jalal El Hamdaoui": [
+      "Jalal El Hamdaoui songs",
+      "Jalal El Hamdaoui new song {year}",
+      "Jalal El Hamdaoui hit songs",
+      "Jalal El Hamdaoui latest song"
+    ],
+    "Mohamed Ramadan": [
+      "Mohamed Ramadan songs",
+      "Mohamed Ramadan new song {year}",
+      "Mohamed Ramadan hit songs",
+      "Mohamed Ramadan latest song"
+    ]
+  },
+  "music_singers": [
+    "Saad Lamjarred",
+    "Douzi",
+    "Hatim Ammor",
+    "ElGrande Toto",
+    "Dizzy DROS",
+    "Asmaa Lamnawar",
+    "Zina Daoudia",
+    "Samara",
+    "Manal Benchlikha",
+    "Hamouda",
+    "Ahmed Chawki",
+    "Adil El Miloudi",
+    "Nouamane Belaiachi",
+    "Jalal El Hamdaoui",
+    "Mohamed Ramadan"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "شعبي مغربي",
+    "راب مغربي",
+    "كناوة"
+  ]
+}

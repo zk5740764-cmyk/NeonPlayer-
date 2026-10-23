@@ -1,0 +1,200 @@
+{
+  "_comment": "NO: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Norwegian Hits",
+    "Norsk Pop",
+    "Norsk Rap",
+    "Folkemusikk",
+    "Kygo",
+    "Aurora",
+    "Alan Walker",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Norwegian Hits": [
+      "norske hits {year}",
+      "ny norsk musikk {year}",
+      "topp norske låter"
+    ],
+    "Norsk Pop": [
+      "norsk pop {year}",
+      "norsk pop hits"
+    ],
+    "Norsk Rap": [
+      "norsk rap {year}",
+      "norsk hiphop"
+    ],
+    "Folkemusikk": [
+      "norsk folkemusikk",
+      "norske folkesanger"
+    ],
+    "News": [
+      "nyheter i dag",
+      "nyheter i dag live"
+    ],
+    "Sports": [
+      "sport høydepunkter",
+      "sport høydepunkter {year}"
+    ],
+    "Kygo": [
+      "Kygo songs",
+      "Kygo new song {year}"
+    ],
+    "Aurora": [
+      "Aurora songs",
+      "Aurora new song {year}"
+    ],
+    "Alan Walker": [
+      "Alan Walker songs",
+      "Alan Walker new song {year}"
+    ],
+    "Top Charts": [
+      "norske hits {year}",
+      "topp norske låter"
+    ],
+    "New Releases": [
+      "ny norsk musikk {year}",
+      "norske hits {year}"
+    ],
+    "Trending": [
+      "topp norske låter",
+      "ny norsk musikk {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Norway {year}",
+      "latest Norway videos today",
+      "Norway trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Norway gameplay {year}",
+      "Norway gaming videos"
+    ],
+    "Fashion": [
+      "Norway fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Sigrid": [
+      "Sigrid songs",
+      "Sigrid new song {year}",
+      "Sigrid hit songs",
+      "Sigrid latest song"
+    ],
+    "Dagny": [
+      "Dagny songs",
+      "Dagny new song {year}",
+      "Dagny hit songs",
+      "Dagny latest song"
+    ],
+    "Astrid S": [
+      "Astrid S songs",
+      "Astrid S new song {year}",
+      "Astrid S hit songs",
+      "Astrid S latest song"
+    ],
+    "Marcus & Martinus": [
+      "Marcus & Martinus songs",
+      "Marcus & Martinus new song {year}",
+      "Marcus & Martinus hit songs",
+      "Marcus & Martinus latest song"
+    ],
+    "Karpe": [
+      "Karpe songs",
+      "Karpe new song {year}",
+      "Karpe hit songs",
+      "Karpe latest song"
+    ],
+    "Cezinando": [
+      "Cezinando songs",
+      "Cezinando new song {year}",
+      "Cezinando hit songs",
+      "Cezinando latest song"
+    ],
+    "Alessandra": [
+      "Alessandra songs",
+      "Alessandra new song {year}",
+      "Alessandra hit songs",
+      "Alessandra latest song"
+    ],
+    "Seeb": [
+      "Seeb songs",
+      "Seeb new song {year}",
+      "Seeb hit songs",
+      "Seeb latest song"
+    ],
+    "Gabrielle": [
+      "Gabrielle songs",
+      "Gabrielle new song {year}",
+      "Gabrielle hit songs",
+      "Gabrielle latest song"
+    ],
+    "Ina Wroldsen": [
+      "Ina Wroldsen songs",
+      "Ina Wroldsen new song {year}",
+      "Ina Wroldsen hit songs",
+      "Ina Wroldsen latest song"
+    ],
+    "Hkeem": [
+      "Hkeem songs",
+      "Hkeem new song {year}",
+      "Hkeem hit songs",
+      "Hkeem latest song"
+    ],
+    "Lars Vaular": [
+      "Lars Vaular songs",
+      "Lars Vaular new song {year}",
+      "Lars Vaular hit songs",
+      "Lars Vaular latest song"
+    ],
+    "Ylvis": [
+      "Ylvis songs",
+      "Ylvis new song {year}",
+      "Ylvis hit songs",
+      "Ylvis latest song"
+    ],
+    "Jakob Ogawa": [
+      "Jakob Ogawa songs",
+      "Jakob Ogawa new song {year}",
+      "Jakob Ogawa hit songs",
+      "Jakob Ogawa latest song"
+    ],
+    "Highasakite": [
+      "Highasakite songs",
+      "Highasakite new song {year}",
+      "Highasakite hit songs",
+      "Highasakite latest song"
+    ]
+  },
+  "music_singers": [
+    "Kygo",
+    "Aurora",
+    "Alan Walker",
+    "Sigrid",
+    "Dagny",
+    "Astrid S",
+    "Marcus & Martinus",
+    "Karpe",
+    "Cezinando",
+    "Alessandra",
+    "Seeb",
+    "Gabrielle",
+    "Ina Wroldsen",
+    "Hkeem",
+    "Lars Vaular",
+    "Ylvis",
+    "Jakob Ogawa",
+    "Highasakite"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Norsk Pop",
+    "Norsk Rap",
+    "Folkemusikk"
+  ]
+}

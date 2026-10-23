@@ -1,0 +1,219 @@
+{
+  "_comment": "MX: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Mexican Hits",
+    "Corridos",
+    "Regional Mexicano",
+    "Mariachi",
+    "Películas Mexicanas",
+    "Peso Pluma",
+    "Grupo Frontera",
+    "Fuerza Regida",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Mexican Hits": [
+      "música mexicana {year}",
+      "corridos tumbados {year}",
+      "regional mexicano éxitos"
+    ],
+    "Corridos": [
+      "corridos tumbados {year}",
+      "corridos nuevos"
+    ],
+    "Regional Mexicano": [
+      "regional mexicano {year}",
+      "banda mix éxitos"
+    ],
+    "Mariachi": [
+      "mariachi éxitos",
+      "mariachi clásicos"
+    ],
+    "Películas Mexicanas": [
+      "película mexicana completa",
+      "cine mexicano completo"
+    ],
+    "News": [
+      "noticias hoy",
+      "noticias hoy live"
+    ],
+    "Sports": [
+      "deportes resumen",
+      "deportes resumen {year}"
+    ],
+    "Peso Pluma": [
+      "Peso Pluma songs",
+      "Peso Pluma new song {year}"
+    ],
+    "Grupo Frontera": [
+      "Grupo Frontera songs",
+      "Grupo Frontera new song {year}"
+    ],
+    "Fuerza Regida": [
+      "Fuerza Regida songs",
+      "Fuerza Regida new song {year}"
+    ],
+    "Top Charts": [
+      "música mexicana {year}",
+      "regional mexicano éxitos"
+    ],
+    "New Releases": [
+      "corridos tumbados {year}",
+      "música mexicana {year}"
+    ],
+    "Trending": [
+      "regional mexicano éxitos",
+      "corridos tumbados {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Mexico {year}",
+      "latest Mexico videos today",
+      "Mexico trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Mexico gameplay {year}",
+      "Mexico gaming videos"
+    ],
+    "Fashion": [
+      "Mexico fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Natanael Cano": [
+      "Natanael Cano songs",
+      "Natanael Cano new song {year}",
+      "Natanael Cano hit songs",
+      "Natanael Cano latest song"
+    ],
+    "Eslabon Armado": [
+      "Eslabon Armado songs",
+      "Eslabon Armado new song {year}",
+      "Eslabon Armado hit songs",
+      "Eslabon Armado latest song"
+    ],
+    "Junior H": [
+      "Junior H songs",
+      "Junior H new song {year}",
+      "Junior H hit songs",
+      "Junior H latest song"
+    ],
+    "Christian Nodal": [
+      "Christian Nodal songs",
+      "Christian Nodal new song {year}",
+      "Christian Nodal hit songs",
+      "Christian Nodal latest song"
+    ],
+    "Carin León": [
+      "Carin León songs",
+      "Carin León new song {year}",
+      "Carin León hit songs",
+      "Carin León latest song"
+    ],
+    "Luis R Conriquez": [
+      "Luis R Conriquez songs",
+      "Luis R Conriquez new song {year}",
+      "Luis R Conriquez hit songs",
+      "Luis R Conriquez latest song"
+    ],
+    "Xavi": [
+      "Xavi songs",
+      "Xavi new song {year}",
+      "Xavi hit songs",
+      "Xavi latest song"
+    ],
+    "Ángela Aguilar": [
+      "Ángela Aguilar songs",
+      "Ángela Aguilar new song {year}",
+      "Ángela Aguilar hit songs",
+      "Ángela Aguilar latest song"
+    ],
+    "Gerardo Ortiz": [
+      "Gerardo Ortiz songs",
+      "Gerardo Ortiz new song {year}",
+      "Gerardo Ortiz hit songs",
+      "Gerardo Ortiz latest song"
+    ],
+    "Yahritza y Su Esencia": [
+      "Yahritza y Su Esencia songs",
+      "Yahritza y Su Esencia new song {year}",
+      "Yahritza y Su Esencia hit songs",
+      "Yahritza y Su Esencia latest song"
+    ],
+    "Banda MS": [
+      "Banda MS songs",
+      "Banda MS new song {year}",
+      "Banda MS hit songs",
+      "Banda MS latest song"
+    ],
+    "Los Ángeles Azules": [
+      "Los Ángeles Azules songs",
+      "Los Ángeles Azules new song {year}",
+      "Los Ángeles Azules hit songs",
+      "Los Ángeles Azules latest song"
+    ],
+    "Intocable": [
+      "Intocable songs",
+      "Intocable new song {year}",
+      "Intocable hit songs",
+      "Intocable latest song"
+    ],
+    "Ivan Cornejo": [
+      "Ivan Cornejo songs",
+      "Ivan Cornejo new song {year}",
+      "Ivan Cornejo hit songs",
+      "Ivan Cornejo latest song"
+    ],
+    "Tito Double P": [
+      "Tito Double P songs",
+      "Tito Double P new song {year}",
+      "Tito Double P hit songs",
+      "Tito Double P latest song"
+    ],
+    "Alejandro Fernández": [
+      "Alejandro Fernández songs",
+      "Alejandro Fernández new song {year}",
+      "Alejandro Fernández hit songs",
+      "Alejandro Fernández latest song"
+    ],
+    "Yuridia": [
+      "Yuridia songs",
+      "Yuridia new song {year}",
+      "Yuridia hit songs",
+      "Yuridia latest song"
+    ]
+  },
+  "music_singers": [
+    "Peso Pluma",
+    "Grupo Frontera",
+    "Fuerza Regida",
+    "Natanael Cano",
+    "Eslabon Armado",
+    "Junior H",
+    "Christian Nodal",
+    "Carin León",
+    "Luis R Conriquez",
+    "Xavi",
+    "Ángela Aguilar",
+    "Gerardo Ortiz",
+    "Yahritza y Su Esencia",
+    "Banda MS",
+    "Los Ángeles Azules",
+    "Intocable",
+    "Ivan Cornejo",
+    "Tito Double P",
+    "Alejandro Fernández",
+    "Yuridia"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Corridos",
+    "Regional Mexicano",
+    "Mariachi"
+  ]
+}

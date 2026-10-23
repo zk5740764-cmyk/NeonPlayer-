@@ -1,0 +1,212 @@
+{
+  "_comment": "KE: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Kenyan Hits",
+    "Gengetone",
+    "Bongo Flava",
+    "Gospel Kenya",
+    "Sauti Sol",
+    "Nyashinski",
+    "Otile Brown",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Kenyan Hits": [
+      "kenyan songs {year}",
+      "nyimbo mpya {year}",
+      "kenya hits"
+    ],
+    "Gengetone": [
+      "gengetone {year}",
+      "gengetone mix"
+    ],
+    "Bongo Flava": [
+      "bongo flava {year}",
+      "bongo flava mpya"
+    ],
+    "Gospel Kenya": [
+      "kenyan gospel songs",
+      "kenya gospel {year}"
+    ],
+    "Genge & Kapuka": [
+      "kapuka songs",
+      "genge music kenya"
+    ],
+    "News": [
+      "habari leo",
+      "habari leo live"
+    ],
+    "Sports": [
+      "michezo",
+      "michezo {year}"
+    ],
+    "Sauti Sol": [
+      "Sauti Sol songs",
+      "Sauti Sol new song {year}"
+    ],
+    "Nyashinski": [
+      "Nyashinski songs",
+      "Nyashinski new song {year}"
+    ],
+    "Otile Brown": [
+      "Otile Brown songs",
+      "Otile Brown new song {year}"
+    ],
+    "Top Charts": [
+      "kenyan songs {year}",
+      "kenya hits"
+    ],
+    "New Releases": [
+      "nyimbo mpya {year}",
+      "kenyan songs {year}"
+    ],
+    "Trending": [
+      "kenya hits",
+      "nyimbo mpya {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Kenya {year}",
+      "latest Kenya videos today",
+      "Kenya trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Kenya gameplay {year}",
+      "Kenya gaming videos"
+    ],
+    "Fashion": [
+      "Kenya fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Khaligraph Jones": [
+      "Khaligraph Jones songs",
+      "Khaligraph Jones new song {year}",
+      "Khaligraph Jones hit songs",
+      "Khaligraph Jones latest song"
+    ],
+    "Nviiri the Storyteller": [
+      "Nviiri the Storyteller songs",
+      "Nviiri the Storyteller new song {year}",
+      "Nviiri the Storyteller hit songs",
+      "Nviiri the Storyteller latest song"
+    ],
+    "Bien": [
+      "Bien songs",
+      "Bien new song {year}",
+      "Bien hit songs",
+      "Bien latest song"
+    ],
+    "Femi One": [
+      "Femi One songs",
+      "Femi One new song {year}",
+      "Femi One hit songs",
+      "Femi One latest song"
+    ],
+    "Wakadinali": [
+      "Wakadinali songs",
+      "Wakadinali new song {year}",
+      "Wakadinali hit songs",
+      "Wakadinali latest song"
+    ],
+    "Bahati": [
+      "Bahati songs",
+      "Bahati new song {year}",
+      "Bahati hit songs",
+      "Bahati latest song"
+    ],
+    "Mejja": [
+      "Mejja songs",
+      "Mejja new song {year}",
+      "Mejja hit songs",
+      "Mejja latest song"
+    ],
+    "Akothee": [
+      "Akothee songs",
+      "Akothee new song {year}",
+      "Akothee hit songs",
+      "Akothee latest song"
+    ],
+    "Nameless": [
+      "Nameless songs",
+      "Nameless new song {year}",
+      "Nameless hit songs",
+      "Nameless latest song"
+    ],
+    "Willy Paul": [
+      "Willy Paul songs",
+      "Willy Paul new song {year}",
+      "Willy Paul hit songs",
+      "Willy Paul latest song"
+    ],
+    "Fena Gitu": [
+      "Fena Gitu songs",
+      "Fena Gitu new song {year}",
+      "Fena Gitu hit songs",
+      "Fena Gitu latest song"
+    ],
+    "Fathermoh": [
+      "Fathermoh songs",
+      "Fathermoh new song {year}",
+      "Fathermoh hit songs",
+      "Fathermoh latest song"
+    ],
+    "Jovial": [
+      "Jovial songs",
+      "Jovial new song {year}",
+      "Jovial hit songs",
+      "Jovial latest song"
+    ],
+    "Diamond Platnumz": [
+      "Diamond Platnumz songs",
+      "Diamond Platnumz new song {year}",
+      "Diamond Platnumz hit songs",
+      "Diamond Platnumz latest song"
+    ],
+    "Harmonize": [
+      "Harmonize songs",
+      "Harmonize new song {year}",
+      "Harmonize hit songs",
+      "Harmonize latest song"
+    ],
+    "Zuchu": [
+      "Zuchu songs",
+      "Zuchu new song {year}",
+      "Zuchu hit songs",
+      "Zuchu latest song"
+    ]
+  },
+  "music_singers": [
+    "Sauti Sol",
+    "Nyashinski",
+    "Otile Brown",
+    "Khaligraph Jones",
+    "Nviiri the Storyteller",
+    "Bien",
+    "Femi One",
+    "Wakadinali",
+    "Bahati",
+    "Mejja",
+    "Akothee",
+    "Nameless",
+    "Willy Paul",
+    "Fena Gitu",
+    "Fathermoh",
+    "Jovial",
+    "Diamond Platnumz",
+    "Harmonize",
+    "Zuchu"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Gengetone",
+    "Bongo Flava",
+    "Gospel Kenya",
+    "Genge & Kapuka"
+  ]
+}

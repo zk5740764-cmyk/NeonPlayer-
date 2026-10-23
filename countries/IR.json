@@ -1,0 +1,186 @@
+{
+  "_comment": "IR: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Iranian Hits",
+    "پاپ",
+    "رپ فارسی",
+    "سنتی",
+    "Googoosh",
+    "Mohsen Yeganeh",
+    "Ebi",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Iranian Hits": [
+      "آهنگ جدید {year}",
+      "بهترین آهنگ های ایرانی",
+      "اهنگ شاد"
+    ],
+    "پاپ": [
+      "آهنگ پاپ جدید",
+      "پاپ ایرانی {year}"
+    ],
+    "رپ فارسی": [
+      "رپ فارسی {year}",
+      "رپ جدید ایرانی"
+    ],
+    "سنتی": [
+      "موسیقی سنتی ایرانی",
+      "آهنگ سنتی"
+    ],
+    "News": [
+      "اخبار امروز",
+      "اخبار امروز live"
+    ],
+    "Sports": [
+      "ورزش خلاصه",
+      "ورزش خلاصه {year}"
+    ],
+    "Googoosh": [
+      "Googoosh songs",
+      "Googoosh new song {year}"
+    ],
+    "Mohsen Yeganeh": [
+      "Mohsen Yeganeh songs",
+      "Mohsen Yeganeh new song {year}"
+    ],
+    "Ebi": [
+      "Ebi songs",
+      "Ebi new song {year}"
+    ],
+    "Top Charts": [
+      "آهنگ جدید {year}",
+      "اهنگ شاد"
+    ],
+    "New Releases": [
+      "بهترین آهنگ های ایرانی",
+      "آهنگ جدید {year}"
+    ],
+    "Trending": [
+      "اهنگ شاد",
+      "بهترین آهنگ های ایرانی"
+    ],
+    "Recently uploaded": [
+      "new videos Iran {year}",
+      "latest Iran videos today",
+      "Iran trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Iran gameplay {year}",
+      "Iran gaming videos"
+    ],
+    "Fashion": [
+      "Iran fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Shadmehr Aghili": [
+      "Shadmehr Aghili songs",
+      "Shadmehr Aghili new song {year}",
+      "Shadmehr Aghili hit songs",
+      "Shadmehr Aghili latest song"
+    ],
+    "Sirvan Khosravi": [
+      "Sirvan Khosravi songs",
+      "Sirvan Khosravi new song {year}",
+      "Sirvan Khosravi hit songs",
+      "Sirvan Khosravi latest song"
+    ],
+    "Hayedeh": [
+      "Hayedeh songs",
+      "Hayedeh new song {year}",
+      "Hayedeh hit songs",
+      "Hayedeh latest song"
+    ],
+    "Mohsen Chavoshi": [
+      "Mohsen Chavoshi songs",
+      "Mohsen Chavoshi new song {year}",
+      "Mohsen Chavoshi hit songs",
+      "Mohsen Chavoshi latest song"
+    ],
+    "Amir Tataloo": [
+      "Amir Tataloo songs",
+      "Amir Tataloo new song {year}",
+      "Amir Tataloo hit songs",
+      "Amir Tataloo latest song"
+    ],
+    "Homayoun Shajarian": [
+      "Homayoun Shajarian songs",
+      "Homayoun Shajarian new song {year}",
+      "Homayoun Shajarian hit songs",
+      "Homayoun Shajarian latest song"
+    ],
+    "Reza Sadeghi": [
+      "Reza Sadeghi songs",
+      "Reza Sadeghi new song {year}",
+      "Reza Sadeghi hit songs",
+      "Reza Sadeghi latest song"
+    ],
+    "Benyamin Bahadori": [
+      "Benyamin Bahadori songs",
+      "Benyamin Bahadori new song {year}",
+      "Benyamin Bahadori hit songs",
+      "Benyamin Bahadori latest song"
+    ],
+    "Hamed Homayoun": [
+      "Hamed Homayoun songs",
+      "Hamed Homayoun new song {year}",
+      "Hamed Homayoun hit songs",
+      "Hamed Homayoun latest song"
+    ],
+    "Sasy": [
+      "Sasy songs",
+      "Sasy new song {year}",
+      "Sasy hit songs",
+      "Sasy latest song"
+    ],
+    "Alireza Talischi": [
+      "Alireza Talischi songs",
+      "Alireza Talischi new song {year}",
+      "Alireza Talischi hit songs",
+      "Alireza Talischi latest song"
+    ],
+    "Ahmad Saeedi": [
+      "Ahmad Saeedi songs",
+      "Ahmad Saeedi new song {year}",
+      "Ahmad Saeedi hit songs",
+      "Ahmad Saeedi latest song"
+    ],
+    "Dariush": [
+      "Dariush songs",
+      "Dariush new song {year}",
+      "Dariush hit songs",
+      "Dariush latest song"
+    ]
+  },
+  "music_singers": [
+    "Googoosh",
+    "Mohsen Yeganeh",
+    "Ebi",
+    "Shadmehr Aghili",
+    "Sirvan Khosravi",
+    "Hayedeh",
+    "Mohsen Chavoshi",
+    "Amir Tataloo",
+    "Homayoun Shajarian",
+    "Reza Sadeghi",
+    "Benyamin Bahadori",
+    "Hamed Homayoun",
+    "Sasy",
+    "Alireza Talischi",
+    "Ahmad Saeedi",
+    "Dariush"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "پاپ",
+    "رپ فارسی",
+    "سنتی"
+  ]
+}

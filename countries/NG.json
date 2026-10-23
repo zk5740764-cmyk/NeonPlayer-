@@ -1,0 +1,224 @@
+{
+  "_comment": "NG: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Nigerian Hits",
+    "Afrobeats",
+    "Street Pop",
+    "Gospel Naija",
+    "Nollywood",
+    "Burna Boy",
+    "Wizkid",
+    "Davido",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Nigerian Hits": [
+      "naija songs {year}",
+      "new nigerian songs {year}",
+      "afrobeats hits"
+    ],
+    "Afrobeats": [
+      "afrobeats {year}",
+      "afrobeats hits"
+    ],
+    "Street Pop": [
+      "naija street pop",
+      "street pop {year}"
+    ],
+    "Gospel Naija": [
+      "nigerian gospel songs",
+      "naija gospel {year}"
+    ],
+    "Fuji & Highlife": [
+      "fuji music",
+      "highlife nigeria"
+    ],
+    "Nollywood": [
+      "nollywood full movie",
+      "nigerian movie {year}"
+    ],
+    "News": [
+      "Nigerian news today",
+      "Nigerian news today live"
+    ],
+    "Sports": [
+      "Nigerian sports highlights",
+      "Nigerian sports highlights {year}"
+    ],
+    "Burna Boy": [
+      "Burna Boy songs",
+      "Burna Boy new song {year}"
+    ],
+    "Wizkid": [
+      "Wizkid songs",
+      "Wizkid new song {year}"
+    ],
+    "Davido": [
+      "Davido songs",
+      "Davido new song {year}"
+    ],
+    "Top Charts": [
+      "naija songs {year}",
+      "afrobeats hits"
+    ],
+    "New Releases": [
+      "new nigerian songs {year}",
+      "naija songs {year}"
+    ],
+    "Trending": [
+      "afrobeats hits",
+      "new nigerian songs {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Nigeria {year}",
+      "latest Nigeria videos today",
+      "Nigeria trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Nigeria gameplay {year}",
+      "Nigeria gaming videos"
+    ],
+    "Fashion": [
+      "Nigeria fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Asake": [
+      "Asake songs",
+      "Asake new song {year}",
+      "Asake hit songs",
+      "Asake latest song"
+    ],
+    "Rema": [
+      "Rema songs",
+      "Rema new song {year}",
+      "Rema hit songs",
+      "Rema latest song"
+    ],
+    "Ayra Starr": [
+      "Ayra Starr songs",
+      "Ayra Starr new song {year}",
+      "Ayra Starr hit songs",
+      "Ayra Starr latest song"
+    ],
+    "Tems": [
+      "Tems songs",
+      "Tems new song {year}",
+      "Tems hit songs",
+      "Tems latest song"
+    ],
+    "Omah Lay": [
+      "Omah Lay songs",
+      "Omah Lay new song {year}",
+      "Omah Lay hit songs",
+      "Omah Lay latest song"
+    ],
+    "CKay": [
+      "CKay songs",
+      "CKay new song {year}",
+      "CKay hit songs",
+      "CKay latest song"
+    ],
+    "Fireboy DML": [
+      "Fireboy DML songs",
+      "Fireboy DML new song {year}",
+      "Fireboy DML hit songs",
+      "Fireboy DML latest song"
+    ],
+    "Olamide": [
+      "Olamide songs",
+      "Olamide new song {year}",
+      "Olamide hit songs",
+      "Olamide latest song"
+    ],
+    "Kizz Daniel": [
+      "Kizz Daniel songs",
+      "Kizz Daniel new song {year}",
+      "Kizz Daniel hit songs",
+      "Kizz Daniel latest song"
+    ],
+    "Ruger": [
+      "Ruger songs",
+      "Ruger new song {year}",
+      "Ruger hit songs",
+      "Ruger latest song"
+    ],
+    "Victony": [
+      "Victony songs",
+      "Victony new song {year}",
+      "Victony hit songs",
+      "Victony latest song"
+    ],
+    "Seyi Vibez": [
+      "Seyi Vibez songs",
+      "Seyi Vibez new song {year}",
+      "Seyi Vibez hit songs",
+      "Seyi Vibez latest song"
+    ],
+    "Shallipopi": [
+      "Shallipopi songs",
+      "Shallipopi new song {year}",
+      "Shallipopi hit songs",
+      "Shallipopi latest song"
+    ],
+    "Joeboy": [
+      "Joeboy songs",
+      "Joeboy new song {year}",
+      "Joeboy hit songs",
+      "Joeboy latest song"
+    ],
+    "Adekunle Gold": [
+      "Adekunle Gold songs",
+      "Adekunle Gold new song {year}",
+      "Adekunle Gold hit songs",
+      "Adekunle Gold latest song"
+    ],
+    "BNXN": [
+      "BNXN songs",
+      "BNXN new song {year}",
+      "BNXN hit songs",
+      "BNXN latest song"
+    ],
+    "Spyro": [
+      "Spyro songs",
+      "Spyro new song {year}",
+      "Spyro hit songs",
+      "Spyro latest song"
+    ]
+  },
+  "music_singers": [
+    "Burna Boy",
+    "Wizkid",
+    "Davido",
+    "Asake",
+    "Rema",
+    "Ayra Starr",
+    "Tems",
+    "Omah Lay",
+    "CKay",
+    "Fireboy DML",
+    "Olamide",
+    "Kizz Daniel",
+    "Ruger",
+    "Victony",
+    "Seyi Vibez",
+    "Shallipopi",
+    "Joeboy",
+    "Adekunle Gold",
+    "BNXN",
+    "Spyro"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Afrobeats",
+    "Street Pop",
+    "Gospel Naija",
+    "Fuji & Highlife"
+  ]
+}
