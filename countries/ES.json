@@ -1,0 +1,224 @@
+{
+  "_comment": "ES: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Spanish Hits",
+    "Pop Español",
+    "Flamenco Pop",
+    "Trap España",
+    "Películas Españolas",
+    "Rosalía",
+    "Aitana",
+    "Quevedo",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Spanish Hits": [
+      "música española {year}",
+      "éxitos españa {year}",
+      "top canciones españa"
+    ],
+    "Pop Español": [
+      "pop español {year}",
+      "pop español éxitos"
+    ],
+    "Flamenco Pop": [
+      "flamenco pop",
+      "flamenco nuevo"
+    ],
+    "Trap España": [
+      "trap español {year}",
+      "trap españa nuevo"
+    ],
+    "Rumba": [
+      "rumba catalana",
+      "rumba flamenca"
+    ],
+    "Películas Españolas": [
+      "película española completa",
+      "cine español completo"
+    ],
+    "News": [
+      "noticias hoy",
+      "noticias hoy live"
+    ],
+    "Sports": [
+      "deportes resumen",
+      "deportes resumen {year}"
+    ],
+    "Rosalía": [
+      "Rosalía songs",
+      "Rosalía new song {year}"
+    ],
+    "Aitana": [
+      "Aitana songs",
+      "Aitana new song {year}"
+    ],
+    "Quevedo": [
+      "Quevedo songs",
+      "Quevedo new song {year}"
+    ],
+    "Top Charts": [
+      "música española {year}",
+      "top canciones españa"
+    ],
+    "New Releases": [
+      "éxitos españa {year}",
+      "música española {year}"
+    ],
+    "Trending": [
+      "top canciones españa",
+      "éxitos españa {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Spain {year}",
+      "latest Spain videos today",
+      "Spain trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Spain gameplay {year}",
+      "Spain gaming videos"
+    ],
+    "Fashion": [
+      "Spain fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Bad Gyal": [
+      "Bad Gyal songs",
+      "Bad Gyal new song {year}",
+      "Bad Gyal hit songs",
+      "Bad Gyal latest song"
+    ],
+    "C. Tangana": [
+      "C. Tangana songs",
+      "C. Tangana new song {year}",
+      "C. Tangana hit songs",
+      "C. Tangana latest song"
+    ],
+    "Lola Índigo": [
+      "Lola Índigo songs",
+      "Lola Índigo new song {year}",
+      "Lola Índigo hit songs",
+      "Lola Índigo latest song"
+    ],
+    "Pablo Alborán": [
+      "Pablo Alborán songs",
+      "Pablo Alborán new song {year}",
+      "Pablo Alborán hit songs",
+      "Pablo Alborán latest song"
+    ],
+    "Melendi": [
+      "Melendi songs",
+      "Melendi new song {year}",
+      "Melendi hit songs",
+      "Melendi latest song"
+    ],
+    "Rels B": [
+      "Rels B songs",
+      "Rels B new song {year}",
+      "Rels B hit songs",
+      "Rels B latest song"
+    ],
+    "Morad": [
+      "Morad songs",
+      "Morad new song {year}",
+      "Morad hit songs",
+      "Morad latest song"
+    ],
+    "Dani Fernández": [
+      "Dani Fernández songs",
+      "Dani Fernández new song {year}",
+      "Dani Fernández hit songs",
+      "Dani Fernández latest song"
+    ],
+    "Ana Mena": [
+      "Ana Mena songs",
+      "Ana Mena new song {year}",
+      "Ana Mena hit songs",
+      "Ana Mena latest song"
+    ],
+    "Abraham Mateo": [
+      "Abraham Mateo songs",
+      "Abraham Mateo new song {year}",
+      "Abraham Mateo hit songs",
+      "Abraham Mateo latest song"
+    ],
+    "Nil Moliner": [
+      "Nil Moliner songs",
+      "Nil Moliner new song {year}",
+      "Nil Moliner hit songs",
+      "Nil Moliner latest song"
+    ],
+    "Estopa": [
+      "Estopa songs",
+      "Estopa new song {year}",
+      "Estopa hit songs",
+      "Estopa latest song"
+    ],
+    "Alejandro Sanz": [
+      "Alejandro Sanz songs",
+      "Alejandro Sanz new song {year}",
+      "Alejandro Sanz hit songs",
+      "Alejandro Sanz latest song"
+    ],
+    "Amaia": [
+      "Amaia songs",
+      "Amaia new song {year}",
+      "Amaia hit songs",
+      "Amaia latest song"
+    ],
+    "Mikel Izal": [
+      "Mikel Izal songs",
+      "Mikel Izal new song {year}",
+      "Mikel Izal hit songs",
+      "Mikel Izal latest song"
+    ],
+    "Miranda": [
+      "Miranda songs",
+      "Miranda new song {year}",
+      "Miranda hit songs",
+      "Miranda latest song"
+    ],
+    "Beret": [
+      "Beret songs",
+      "Beret new song {year}",
+      "Beret hit songs",
+      "Beret latest song"
+    ]
+  },
+  "music_singers": [
+    "Rosalía",
+    "Aitana",
+    "Quevedo",
+    "Bad Gyal",
+    "C. Tangana",
+    "Lola Índigo",
+    "Pablo Alborán",
+    "Melendi",
+    "Rels B",
+    "Morad",
+    "Dani Fernández",
+    "Ana Mena",
+    "Abraham Mateo",
+    "Nil Moliner",
+    "Estopa",
+    "Alejandro Sanz",
+    "Amaia",
+    "Mikel Izal",
+    "Miranda",
+    "Beret"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Pop Español",
+    "Flamenco Pop",
+    "Trap España",
+    "Rumba"
+  ]
+}

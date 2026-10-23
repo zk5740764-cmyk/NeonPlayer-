@@ -1,0 +1,200 @@
+{
+  "_comment": "CZ: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Czech Hits",
+    "Český Rap",
+    "Český Pop",
+    "Folk",
+    "Ewa Farna",
+    "Kryštof",
+    "Slza",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Czech Hits": [
+      "české hity {year}",
+      "nová česká hudba {year}",
+      "české písničky"
+    ],
+    "Český Rap": [
+      "český rap {year}",
+      "česká rapová scéna"
+    ],
+    "Český Pop": [
+      "český pop {year}",
+      "české pop hity"
+    ],
+    "Folk": [
+      "česká country folk",
+      "české folk písničky"
+    ],
+    "News": [
+      "zprávy dnes",
+      "zprávy dnes live"
+    ],
+    "Sports": [
+      "sport sestřih",
+      "sport sestřih {year}"
+    ],
+    "Ewa Farna": [
+      "Ewa Farna songs",
+      "Ewa Farna new song {year}"
+    ],
+    "Kryštof": [
+      "Kryštof songs",
+      "Kryštof new song {year}"
+    ],
+    "Slza": [
+      "Slza songs",
+      "Slza new song {year}"
+    ],
+    "Top Charts": [
+      "české hity {year}",
+      "české písničky"
+    ],
+    "New Releases": [
+      "nová česká hudba {year}",
+      "české hity {year}"
+    ],
+    "Trending": [
+      "české písničky",
+      "nová česká hudba {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Czechia {year}",
+      "latest Czechia videos today",
+      "Czechia trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Czechia gameplay {year}",
+      "Czechia gaming videos"
+    ],
+    "Fashion": [
+      "Czechia fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Viktor Sheen": [
+      "Viktor Sheen songs",
+      "Viktor Sheen new song {year}",
+      "Viktor Sheen hit songs",
+      "Viktor Sheen latest song"
+    ],
+    "Hugo Toxxx": [
+      "Hugo Toxxx songs",
+      "Hugo Toxxx new song {year}",
+      "Hugo Toxxx hit songs",
+      "Hugo Toxxx latest song"
+    ],
+    "Aneta Langerová": [
+      "Aneta Langerová songs",
+      "Aneta Langerová new song {year}",
+      "Aneta Langerová hit songs",
+      "Aneta Langerová latest song"
+    ],
+    "Mirai": [
+      "Mirai songs",
+      "Mirai new song {year}",
+      "Mirai hit songs",
+      "Mirai latest song"
+    ],
+    "Lenny": [
+      "Lenny songs",
+      "Lenny new song {year}",
+      "Lenny hit songs",
+      "Lenny latest song"
+    ],
+    "Charlie Straight": [
+      "Charlie Straight songs",
+      "Charlie Straight new song {year}",
+      "Charlie Straight hit songs",
+      "Charlie Straight latest song"
+    ],
+    "Anna K": [
+      "Anna K songs",
+      "Anna K new song {year}",
+      "Anna K hit songs",
+      "Anna K latest song"
+    ],
+    "Marek Ztracený": [
+      "Marek Ztracený songs",
+      "Marek Ztracený new song {year}",
+      "Marek Ztracený hit songs",
+      "Marek Ztracený latest song"
+    ],
+    "Ben Cristovao": [
+      "Ben Cristovao songs",
+      "Ben Cristovao new song {year}",
+      "Ben Cristovao hit songs",
+      "Ben Cristovao latest song"
+    ],
+    "Michal David": [
+      "Michal David songs",
+      "Michal David new song {year}",
+      "Michal David hit songs",
+      "Michal David latest song"
+    ],
+    "Sebastian": [
+      "Sebastian songs",
+      "Sebastian new song {year}",
+      "Sebastian hit songs",
+      "Sebastian latest song"
+    ],
+    "Jelen": [
+      "Jelen songs",
+      "Jelen new song {year}",
+      "Jelen hit songs",
+      "Jelen latest song"
+    ],
+    "Tomáš Klus": [
+      "Tomáš Klus songs",
+      "Tomáš Klus new song {year}",
+      "Tomáš Klus hit songs",
+      "Tomáš Klus latest song"
+    ],
+    "Barbora Poláková": [
+      "Barbora Poláková songs",
+      "Barbora Poláková new song {year}",
+      "Barbora Poláková hit songs",
+      "Barbora Poláková latest song"
+    ],
+    "Dan Bárta": [
+      "Dan Bárta songs",
+      "Dan Bárta new song {year}",
+      "Dan Bárta hit songs",
+      "Dan Bárta latest song"
+    ]
+  },
+  "music_singers": [
+    "Ewa Farna",
+    "Kryštof",
+    "Slza",
+    "Viktor Sheen",
+    "Hugo Toxxx",
+    "Aneta Langerová",
+    "Mirai",
+    "Lenny",
+    "Charlie Straight",
+    "Anna K",
+    "Marek Ztracený",
+    "Ben Cristovao",
+    "Michal David",
+    "Sebastian",
+    "Jelen",
+    "Tomáš Klus",
+    "Barbora Poláková",
+    "Dan Bárta"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Český Rap",
+    "Český Pop",
+    "Folk"
+  ]
+}

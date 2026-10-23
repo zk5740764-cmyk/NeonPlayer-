@@ -1,0 +1,219 @@
+{
+  "_comment": "AR: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Argentine Hits",
+    "Trap Argentino",
+    "Cumbia",
+    "Rock Nacional",
+    "Duki",
+    "Bizarrap",
+    "Tini",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Argentine Hits": [
+      "música argentina {year}",
+      "trap argentino {year}",
+      "éxitos argentina"
+    ],
+    "Trap Argentino": [
+      "trap argentino {year}",
+      "trap ar nuevo"
+    ],
+    "Cumbia": [
+      "cumbia argentina {year}",
+      "cumbia 420"
+    ],
+    "Rock Nacional": [
+      "rock nacional argentino",
+      "rock argentino clásicos"
+    ],
+    "Bizarrap Sessions": [
+      "bzrp music sessions",
+      "bizarrap sessions"
+    ],
+    "News": [
+      "noticias hoy",
+      "noticias hoy live"
+    ],
+    "Sports": [
+      "deportes resumen",
+      "deportes resumen {year}"
+    ],
+    "Duki": [
+      "Duki songs",
+      "Duki new song {year}"
+    ],
+    "Bizarrap": [
+      "Bizarrap songs",
+      "Bizarrap new song {year}"
+    ],
+    "Tini": [
+      "Tini songs",
+      "Tini new song {year}"
+    ],
+    "Top Charts": [
+      "música argentina {year}",
+      "éxitos argentina"
+    ],
+    "New Releases": [
+      "trap argentino {year}",
+      "música argentina {year}"
+    ],
+    "Trending": [
+      "éxitos argentina",
+      "trap argentino {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Argentina {year}",
+      "latest Argentina videos today",
+      "Argentina trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Argentina gameplay {year}",
+      "Argentina gaming videos"
+    ],
+    "Fashion": [
+      "Argentina fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Nicki Nicole": [
+      "Nicki Nicole songs",
+      "Nicki Nicole new song {year}",
+      "Nicki Nicole hit songs",
+      "Nicki Nicole latest song"
+    ],
+    "María Becerra": [
+      "María Becerra songs",
+      "María Becerra new song {year}",
+      "María Becerra hit songs",
+      "María Becerra latest song"
+    ],
+    "Emilia": [
+      "Emilia songs",
+      "Emilia new song {year}",
+      "Emilia hit songs",
+      "Emilia latest song"
+    ],
+    "Wos": [
+      "Wos songs",
+      "Wos new song {year}",
+      "Wos hit songs",
+      "Wos latest song"
+    ],
+    "Trueno": [
+      "Trueno songs",
+      "Trueno new song {year}",
+      "Trueno hit songs",
+      "Trueno latest song"
+    ],
+    "Callejero Fino": [
+      "Callejero Fino songs",
+      "Callejero Fino new song {year}",
+      "Callejero Fino hit songs",
+      "Callejero Fino latest song"
+    ],
+    "Lali": [
+      "Lali songs",
+      "Lali new song {year}",
+      "Lali hit songs",
+      "Lali latest song"
+    ],
+    "Luck Ra": [
+      "Luck Ra songs",
+      "Luck Ra new song {year}",
+      "Luck Ra hit songs",
+      "Luck Ra latest song"
+    ],
+    "Fito Páez": [
+      "Fito Páez songs",
+      "Fito Páez new song {year}",
+      "Fito Páez hit songs",
+      "Fito Páez latest song"
+    ],
+    "Paulo Londra": [
+      "Paulo Londra songs",
+      "Paulo Londra new song {year}",
+      "Paulo Londra hit songs",
+      "Paulo Londra latest song"
+    ],
+    "Cazzu": [
+      "Cazzu songs",
+      "Cazzu new song {year}",
+      "Cazzu hit songs",
+      "Cazzu latest song"
+    ],
+    "Ulises Bueno": [
+      "Ulises Bueno songs",
+      "Ulises Bueno new song {year}",
+      "Ulises Bueno hit songs",
+      "Ulises Bueno latest song"
+    ],
+    "Ca7riel & Paco Amoroso": [
+      "Ca7riel & Paco Amoroso songs",
+      "Ca7riel & Paco Amoroso new song {year}",
+      "Ca7riel & Paco Amoroso hit songs",
+      "Ca7riel & Paco Amoroso latest song"
+    ],
+    "Ysy A": [
+      "Ysy A songs",
+      "Ysy A new song {year}",
+      "Ysy A hit songs",
+      "Ysy A latest song"
+    ],
+    "Los Palmeras": [
+      "Los Palmeras songs",
+      "Los Palmeras new song {year}",
+      "Los Palmeras hit songs",
+      "Los Palmeras latest song"
+    ],
+    "Soledad": [
+      "Soledad songs",
+      "Soledad new song {year}",
+      "Soledad hit songs",
+      "Soledad latest song"
+    ],
+    "Milo J": [
+      "Milo J songs",
+      "Milo J new song {year}",
+      "Milo J hit songs",
+      "Milo J latest song"
+    ]
+  },
+  "music_singers": [
+    "Duki",
+    "Bizarrap",
+    "Tini",
+    "Nicki Nicole",
+    "María Becerra",
+    "Emilia",
+    "Wos",
+    "Trueno",
+    "Callejero Fino",
+    "Lali",
+    "Luck Ra",
+    "Fito Páez",
+    "Paulo Londra",
+    "Cazzu",
+    "Ulises Bueno",
+    "Ca7riel & Paco Amoroso",
+    "Ysy A",
+    "Los Palmeras",
+    "Soledad",
+    "Milo J"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Trap Argentino",
+    "Cumbia",
+    "Rock Nacional",
+    "Bizarrap Sessions"
+  ]
+}

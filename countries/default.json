@@ -1,0 +1,205 @@
+{
+  "_comment": "Global fallback for countries without their own file.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Top Hits",
+    "Pop",
+    "Hip-Hop",
+    "Latin",
+    "Gaming",
+    "News",
+    "Sports",
+    "Fashion"
+  ],
+  "category_queries": {
+    "Top Hits": [
+      "top songs {year}",
+      "billboard global hits {year}",
+      "global top 50 songs"
+    ],
+    "Pop": [
+      "new pop songs {year}",
+      "pop hits"
+    ],
+    "Hip-Hop": [
+      "new hip hop songs {year}",
+      "rap hits"
+    ],
+    "Latin": [
+      "latin hits {year}",
+      "reggaeton hits"
+    ],
+    "Top Charts": [
+      "top songs {year}",
+      "global top 50 songs"
+    ],
+    "New Releases": [
+      "new songs {year}",
+      "new music friday"
+    ],
+    "Trending": [
+      "trending songs this week",
+      "viral songs {year}"
+    ],
+    "Recently uploaded": [
+      "new video uploads {year}",
+      "latest video today",
+      "trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "gameplay {year}",
+      "popular games {year}"
+    ],
+    "News": [
+      "world news today",
+      "breaking news {year}",
+      "latest news"
+    ],
+    "Sports": [
+      "sports highlights",
+      "sports news {year}"
+    ],
+    "Fashion": [
+      "fashion trends {year}",
+      "fashion haul {year}"
+    ],
+    "Taylor Swift": [
+      "Taylor Swift songs",
+      "Taylor Swift new song {year}",
+      "Taylor Swift hit songs",
+      "Taylor Swift latest song"
+    ],
+    "Bad Bunny": [
+      "Bad Bunny songs",
+      "Bad Bunny new song {year}",
+      "Bad Bunny hit songs",
+      "Bad Bunny latest song"
+    ],
+    "The Weeknd": [
+      "The Weeknd songs",
+      "The Weeknd new song {year}",
+      "The Weeknd hit songs",
+      "The Weeknd latest song"
+    ],
+    "Dua Lipa": [
+      "Dua Lipa songs",
+      "Dua Lipa new song {year}",
+      "Dua Lipa hit songs",
+      "Dua Lipa latest song"
+    ],
+    "Billie Eilish": [
+      "Billie Eilish songs",
+      "Billie Eilish new song {year}",
+      "Billie Eilish hit songs",
+      "Billie Eilish latest song"
+    ],
+    "Ed Sheeran": [
+      "Ed Sheeran songs",
+      "Ed Sheeran new song {year}",
+      "Ed Sheeran hit songs",
+      "Ed Sheeran latest song"
+    ],
+    "Sabrina Carpenter": [
+      "Sabrina Carpenter songs",
+      "Sabrina Carpenter new song {year}",
+      "Sabrina Carpenter hit songs",
+      "Sabrina Carpenter latest song"
+    ],
+    "Drake": [
+      "Drake songs",
+      "Drake new song {year}",
+      "Drake hit songs",
+      "Drake latest song"
+    ],
+    "Shakira": [
+      "Shakira songs",
+      "Shakira new song {year}",
+      "Shakira hit songs",
+      "Shakira latest song"
+    ],
+    "Burna Boy": [
+      "Burna Boy songs",
+      "Burna Boy new song {year}",
+      "Burna Boy hit songs",
+      "Burna Boy latest song"
+    ],
+    "Bruno Mars": [
+      "Bruno Mars songs",
+      "Bruno Mars new song {year}",
+      "Bruno Mars hit songs",
+      "Bruno Mars latest song"
+    ],
+    "Rihanna": [
+      "Rihanna songs",
+      "Rihanna new song {year}",
+      "Rihanna hit songs",
+      "Rihanna latest song"
+    ],
+    "Ariana Grande": [
+      "Ariana Grande songs",
+      "Ariana Grande new song {year}",
+      "Ariana Grande hit songs",
+      "Ariana Grande latest song"
+    ],
+    "Rosé": [
+      "Rosé songs",
+      "Rosé new song {year}",
+      "Rosé hit songs",
+      "Rosé latest song"
+    ],
+    "Karol G": [
+      "Karol G songs",
+      "Karol G new song {year}",
+      "Karol G hit songs",
+      "Karol G latest song"
+    ],
+    "Olivia Rodrigo": [
+      "Olivia Rodrigo songs",
+      "Olivia Rodrigo new song {year}",
+      "Olivia Rodrigo hit songs",
+      "Olivia Rodrigo latest song"
+    ],
+    "Travis Scott": [
+      "Travis Scott songs",
+      "Travis Scott new song {year}",
+      "Travis Scott hit songs",
+      "Travis Scott latest song"
+    ],
+    "Post Malone": [
+      "Post Malone songs",
+      "Post Malone new song {year}",
+      "Post Malone hit songs",
+      "Post Malone latest song"
+    ]
+  },
+  "music_singers": [
+    "Taylor Swift",
+    "Bad Bunny",
+    "The Weeknd",
+    "Dua Lipa",
+    "Billie Eilish",
+    "Ed Sheeran",
+    "Sabrina Carpenter",
+    "Drake",
+    "Shakira",
+    "Burna Boy",
+    "Bruno Mars",
+    "Rihanna",
+    "Ariana Grande",
+    "Rosé",
+    "Karol G",
+    "Olivia Rodrigo",
+    "Travis Scott",
+    "Post Malone"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Pop",
+    "Hip-Hop",
+    "Latin"
+  ]
+}

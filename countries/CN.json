@@ -1,0 +1,205 @@
+{
+  "_comment": "CN: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Chinese Hits",
+    "华语流行",
+    "国风",
+    "华语说唱",
+    "华语电影",
+    "Jay Chou",
+    "Jacky Cheung",
+    "Faye Wong",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Chinese Hits": [
+      "华语流行歌曲 {year}",
+      "新歌 {year}",
+      "华语热门歌曲"
+    ],
+    "华语流行": [
+      "华语流行 {year}",
+      "华语金曲"
+    ],
+    "国风": [
+      "国风歌曲",
+      "古风歌曲 {year}"
+    ],
+    "华语说唱": [
+      "中文说唱 {year}",
+      "华语 rap"
+    ],
+    "华语电影": [
+      "华语电影 完整版",
+      "国产电影 完整版"
+    ],
+    "News": [
+      "新闻 今日",
+      "新闻 今日 live"
+    ],
+    "Sports": [
+      "体育 集锦",
+      "体育 集锦 {year}"
+    ],
+    "Jay Chou": [
+      "Jay Chou songs",
+      "Jay Chou new song {year}"
+    ],
+    "Jacky Cheung": [
+      "Jacky Cheung songs",
+      "Jacky Cheung new song {year}"
+    ],
+    "Faye Wong": [
+      "Faye Wong songs",
+      "Faye Wong new song {year}"
+    ],
+    "Top Charts": [
+      "华语流行歌曲 {year}",
+      "华语热门歌曲"
+    ],
+    "New Releases": [
+      "新歌 {year}",
+      "华语流行歌曲 {year}"
+    ],
+    "Trending": [
+      "华语热门歌曲",
+      "新歌 {year}"
+    ],
+    "Recently uploaded": [
+      "new videos China {year}",
+      "latest China videos today",
+      "China trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "China gameplay {year}",
+      "China gaming videos"
+    ],
+    "Fashion": [
+      "China fashion {year}",
+      "fashion trends {year}"
+    ],
+    "G.E.M.": [
+      "G.E.M. songs",
+      "G.E.M. new song {year}",
+      "G.E.M. hit songs",
+      "G.E.M. latest song"
+    ],
+    "Zhou Shen": [
+      "Zhou Shen songs",
+      "Zhou Shen new song {year}",
+      "Zhou Shen hit songs",
+      "Zhou Shen latest song"
+    ],
+    "Hua Chenyu": [
+      "Hua Chenyu songs",
+      "Hua Chenyu new song {year}",
+      "Hua Chenyu hit songs",
+      "Hua Chenyu latest song"
+    ],
+    "Mao Buyi": [
+      "Mao Buyi songs",
+      "Mao Buyi new song {year}",
+      "Mao Buyi hit songs",
+      "Mao Buyi latest song"
+    ],
+    "Li Ronghao": [
+      "Li Ronghao songs",
+      "Li Ronghao new song {year}",
+      "Li Ronghao hit songs",
+      "Li Ronghao latest song"
+    ],
+    "Joker Xue": [
+      "Joker Xue songs",
+      "Joker Xue new song {year}",
+      "Joker Xue hit songs",
+      "Joker Xue latest song"
+    ],
+    "Jackson Wang": [
+      "Jackson Wang songs",
+      "Jackson Wang new song {year}",
+      "Jackson Wang hit songs",
+      "Jackson Wang latest song"
+    ],
+    "Zhang Jie": [
+      "Zhang Jie songs",
+      "Zhang Jie new song {year}",
+      "Zhang Jie hit songs",
+      "Zhang Jie latest song"
+    ],
+    "Tan Weiwei": [
+      "Tan Weiwei songs",
+      "Tan Weiwei new song {year}",
+      "Tan Weiwei hit songs",
+      "Tan Weiwei latest song"
+    ],
+    "Cai Xukun": [
+      "Cai Xukun songs",
+      "Cai Xukun new song {year}",
+      "Cai Xukun hit songs",
+      "Cai Xukun latest song"
+    ],
+    "Wang Feng": [
+      "Wang Feng songs",
+      "Wang Feng new song {year}",
+      "Wang Feng hit songs",
+      "Wang Feng latest song"
+    ],
+    "Sa Dingding": [
+      "Sa Dingding songs",
+      "Sa Dingding new song {year}",
+      "Sa Dingding hit songs",
+      "Sa Dingding latest song"
+    ],
+    "Zhang Bichen": [
+      "Zhang Bichen songs",
+      "Zhang Bichen new song {year}",
+      "Zhang Bichen hit songs",
+      "Zhang Bichen latest song"
+    ],
+    "Hebe Tien": [
+      "Hebe Tien songs",
+      "Hebe Tien new song {year}",
+      "Hebe Tien hit songs",
+      "Hebe Tien latest song"
+    ],
+    "Xu Wei": [
+      "Xu Wei songs",
+      "Xu Wei new song {year}",
+      "Xu Wei hit songs",
+      "Xu Wei latest song"
+    ]
+  },
+  "music_singers": [
+    "Jay Chou",
+    "Jacky Cheung",
+    "Faye Wong",
+    "G.E.M.",
+    "Zhou Shen",
+    "Hua Chenyu",
+    "Mao Buyi",
+    "Li Ronghao",
+    "Joker Xue",
+    "Jackson Wang",
+    "Zhang Jie",
+    "Tan Weiwei",
+    "Cai Xukun",
+    "Wang Feng",
+    "Sa Dingding",
+    "Zhang Bichen",
+    "Hebe Tien",
+    "Xu Wei"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "华语流行",
+    "国风",
+    "华语说唱"
+  ]
+}

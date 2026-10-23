@@ -1,0 +1,186 @@
+{
+  "_comment": "CA: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Canadian Hits",
+    "Canadian Rap",
+    "Punjabi Canada",
+    "Québec",
+    "Justin Bieber",
+    "Drake",
+    "The Weeknd",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Canadian Hits": [
+      "canada top songs {year}",
+      "new canadian songs {year}",
+      "canadian hits"
+    ],
+    "Canadian Rap": [
+      "canadian rap songs",
+      "toronto rap songs"
+    ],
+    "Punjabi Canada": [
+      "new punjabi songs {year}",
+      "punjabi canada songs"
+    ],
+    "Québec": [
+      "chanson québécoise",
+      "musique québécoise {year}"
+    ],
+    "News": [
+      "Canadian news today",
+      "Canadian news today live"
+    ],
+    "Sports": [
+      "Canadian sports highlights",
+      "Canadian sports highlights {year}"
+    ],
+    "Justin Bieber": [
+      "Justin Bieber songs",
+      "Justin Bieber new song {year}"
+    ],
+    "Drake": [
+      "Drake songs",
+      "Drake new song {year}"
+    ],
+    "The Weeknd": [
+      "The Weeknd songs",
+      "The Weeknd new song {year}"
+    ],
+    "Top Charts": [
+      "canada top songs {year}",
+      "canadian hits"
+    ],
+    "New Releases": [
+      "new canadian songs {year}",
+      "canada top songs {year}"
+    ],
+    "Trending": [
+      "canadian hits",
+      "new canadian songs {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Canada {year}",
+      "latest Canada videos today",
+      "Canada trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Canada gameplay {year}",
+      "Canada gaming videos"
+    ],
+    "Fashion": [
+      "Canada fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Shawn Mendes": [
+      "Shawn Mendes songs",
+      "Shawn Mendes new song {year}",
+      "Shawn Mendes hit songs",
+      "Shawn Mendes latest song"
+    ],
+    "Tate McRae": [
+      "Tate McRae songs",
+      "Tate McRae new song {year}",
+      "Tate McRae hit songs",
+      "Tate McRae latest song"
+    ],
+    "Celine Dion": [
+      "Celine Dion songs",
+      "Celine Dion new song {year}",
+      "Celine Dion hit songs",
+      "Celine Dion latest song"
+    ],
+    "Carly Rae Jepsen": [
+      "Carly Rae Jepsen songs",
+      "Carly Rae Jepsen new song {year}",
+      "Carly Rae Jepsen hit songs",
+      "Carly Rae Jepsen latest song"
+    ],
+    "Josh Ross": [
+      "Josh Ross songs",
+      "Josh Ross new song {year}",
+      "Josh Ross hit songs",
+      "Josh Ross latest song"
+    ],
+    "Avril Lavigne": [
+      "Avril Lavigne songs",
+      "Avril Lavigne new song {year}",
+      "Avril Lavigne hit songs",
+      "Avril Lavigne latest song"
+    ],
+    "Daniel Caesar": [
+      "Daniel Caesar songs",
+      "Daniel Caesar new song {year}",
+      "Daniel Caesar hit songs",
+      "Daniel Caesar latest song"
+    ],
+    "Charlotte Cardin": [
+      "Charlotte Cardin songs",
+      "Charlotte Cardin new song {year}",
+      "Charlotte Cardin hit songs",
+      "Charlotte Cardin latest song"
+    ],
+    "Jessie Reyez": [
+      "Jessie Reyez songs",
+      "Jessie Reyez new song {year}",
+      "Jessie Reyez hit songs",
+      "Jessie Reyez latest song"
+    ],
+    "Karan Aujla": [
+      "Karan Aujla songs",
+      "Karan Aujla new song {year}",
+      "Karan Aujla hit songs",
+      "Karan Aujla latest song"
+    ],
+    "Bryan Adams": [
+      "Bryan Adams songs",
+      "Bryan Adams new song {year}",
+      "Bryan Adams hit songs",
+      "Bryan Adams latest song"
+    ],
+    "Marie-Mai": [
+      "Marie-Mai songs",
+      "Marie-Mai new song {year}",
+      "Marie-Mai hit songs",
+      "Marie-Mai latest song"
+    ],
+    "Alessia Cara": [
+      "Alessia Cara songs",
+      "Alessia Cara new song {year}",
+      "Alessia Cara hit songs",
+      "Alessia Cara latest song"
+    ]
+  },
+  "music_singers": [
+    "Justin Bieber",
+    "Drake",
+    "The Weeknd",
+    "Shawn Mendes",
+    "Tate McRae",
+    "Celine Dion",
+    "Carly Rae Jepsen",
+    "Josh Ross",
+    "Avril Lavigne",
+    "Daniel Caesar",
+    "Charlotte Cardin",
+    "Jessie Reyez",
+    "Karan Aujla",
+    "Bryan Adams",
+    "Marie-Mai",
+    "Alessia Cara"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Canadian Rap",
+    "Punjabi Canada",
+    "Québec"
+  ]
+}

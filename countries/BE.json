@@ -1,0 +1,193 @@
+{
+  "_comment": "BE: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Belgian Hits",
+    "Vlaamse Hits",
+    "Rap Belge",
+    "Dance BE",
+    "Stromae",
+    "Angèle",
+    "Selah Sue",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Belgian Hits": [
+      "belgische hits {year}",
+      "musique belge {year}",
+      "top belgique"
+    ],
+    "Vlaamse Hits": [
+      "vlaamse hits",
+      "vlaamse muziek nieuw"
+    ],
+    "Rap Belge": [
+      "rap belge {year}",
+      "belgische rap"
+    ],
+    "Dance BE": [
+      "belgian dance hits",
+      "tomorrowland hits"
+    ],
+    "News": [
+      "nieuws vandaag",
+      "nieuws vandaag live"
+    ],
+    "Sports": [
+      "sport samenvatting",
+      "sport samenvatting {year}"
+    ],
+    "Stromae": [
+      "Stromae songs",
+      "Stromae new song {year}"
+    ],
+    "Angèle": [
+      "Angèle songs",
+      "Angèle new song {year}"
+    ],
+    "Selah Sue": [
+      "Selah Sue songs",
+      "Selah Sue new song {year}"
+    ],
+    "Top Charts": [
+      "belgische hits {year}",
+      "top belgique"
+    ],
+    "New Releases": [
+      "musique belge {year}",
+      "belgische hits {year}"
+    ],
+    "Trending": [
+      "top belgique",
+      "musique belge {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Belgium {year}",
+      "latest Belgium videos today",
+      "Belgium trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Belgium gameplay {year}",
+      "Belgium gaming videos"
+    ],
+    "Fashion": [
+      "Belgium fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Lost Frequencies": [
+      "Lost Frequencies songs",
+      "Lost Frequencies new song {year}",
+      "Lost Frequencies hit songs",
+      "Lost Frequencies latest song"
+    ],
+    "Hooverphonic": [
+      "Hooverphonic songs",
+      "Hooverphonic new song {year}",
+      "Hooverphonic hit songs",
+      "Hooverphonic latest song"
+    ],
+    "Tourist LeMC": [
+      "Tourist LeMC songs",
+      "Tourist LeMC new song {year}",
+      "Tourist LeMC hit songs",
+      "Tourist LeMC latest song"
+    ],
+    "Hamza": [
+      "Hamza songs",
+      "Hamza new song {year}",
+      "Hamza hit songs",
+      "Hamza latest song"
+    ],
+    "Lous and the Yakuza": [
+      "Lous and the Yakuza songs",
+      "Lous and the Yakuza new song {year}",
+      "Lous and the Yakuza hit songs",
+      "Lous and the Yakuza latest song"
+    ],
+    "Typh Barrow": [
+      "Typh Barrow songs",
+      "Typh Barrow new song {year}",
+      "Typh Barrow hit songs",
+      "Typh Barrow latest song"
+    ],
+    "Regi": [
+      "Regi songs",
+      "Regi new song {year}",
+      "Regi hit songs",
+      "Regi latest song"
+    ],
+    "Niels Destadsbader": [
+      "Niels Destadsbader songs",
+      "Niels Destadsbader new song {year}",
+      "Niels Destadsbader hit songs",
+      "Niels Destadsbader latest song"
+    ],
+    "K3": [
+      "K3 songs",
+      "K3 new song {year}",
+      "K3 hit songs",
+      "K3 latest song"
+    ],
+    "Metejoor": [
+      "Metejoor songs",
+      "Metejoor new song {year}",
+      "Metejoor hit songs",
+      "Metejoor latest song"
+    ],
+    "Tamino": [
+      "Tamino songs",
+      "Tamino new song {year}",
+      "Tamino hit songs",
+      "Tamino latest song"
+    ],
+    "Charlotte Adigéry": [
+      "Charlotte Adigéry songs",
+      "Charlotte Adigéry new song {year}",
+      "Charlotte Adigéry hit songs",
+      "Charlotte Adigéry latest song"
+    ],
+    "Gala": [
+      "Gala songs",
+      "Gala new song {year}",
+      "Gala hit songs",
+      "Gala latest song"
+    ],
+    "Dimitri Vegas & Like Mike": [
+      "Dimitri Vegas & Like Mike songs",
+      "Dimitri Vegas & Like Mike new song {year}",
+      "Dimitri Vegas & Like Mike hit songs",
+      "Dimitri Vegas & Like Mike latest song"
+    ]
+  },
+  "music_singers": [
+    "Stromae",
+    "Angèle",
+    "Selah Sue",
+    "Lost Frequencies",
+    "Hooverphonic",
+    "Tourist LeMC",
+    "Hamza",
+    "Lous and the Yakuza",
+    "Typh Barrow",
+    "Regi",
+    "Niels Destadsbader",
+    "K3",
+    "Metejoor",
+    "Tamino",
+    "Charlotte Adigéry",
+    "Gala",
+    "Dimitri Vegas & Like Mike"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Vlaamse Hits",
+    "Rap Belge",
+    "Dance BE"
+  ]
+}

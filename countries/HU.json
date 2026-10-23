@@ -1,0 +1,193 @@
+{
+  "_comment": "HU: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Hungarian Hits",
+    "Magyar Pop",
+    "Magyar Rap",
+    "Mulatós",
+    "Azahriah",
+    "Dzsúdló",
+    "Majka",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Hungarian Hits": [
+      "magyar slágerek {year}",
+      "új magyar zene {year}",
+      "magyar dalok"
+    ],
+    "Magyar Pop": [
+      "magyar pop {year}",
+      "magyar popslágerek"
+    ],
+    "Magyar Rap": [
+      "magyar rap {year}",
+      "magyar hiphop"
+    ],
+    "Mulatós": [
+      "mulatós zenék",
+      "lakodalmas hitek"
+    ],
+    "News": [
+      "hírek ma",
+      "hírek ma live"
+    ],
+    "Sports": [
+      "sport összefoglaló",
+      "sport összefoglaló {year}"
+    ],
+    "Azahriah": [
+      "Azahriah songs",
+      "Azahriah new song {year}"
+    ],
+    "Dzsúdló": [
+      "Dzsúdló songs",
+      "Dzsúdló new song {year}"
+    ],
+    "Majka": [
+      "Majka songs",
+      "Majka new song {year}"
+    ],
+    "Top Charts": [
+      "magyar slágerek {year}",
+      "magyar dalok"
+    ],
+    "New Releases": [
+      "új magyar zene {year}",
+      "magyar slágerek {year}"
+    ],
+    "Trending": [
+      "magyar dalok",
+      "új magyar zene {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Hungary {year}",
+      "latest Hungary videos today",
+      "Hungary trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Hungary gameplay {year}",
+      "Hungary gaming videos"
+    ],
+    "Fashion": [
+      "Hungary fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Wellhello": [
+      "Wellhello songs",
+      "Wellhello new song {year}",
+      "Wellhello hit songs",
+      "Wellhello latest song"
+    ],
+    "Follow the Flow": [
+      "Follow the Flow songs",
+      "Follow the Flow new song {year}",
+      "Follow the Flow hit songs",
+      "Follow the Flow latest song"
+    ],
+    "Kozsó": [
+      "Kozsó songs",
+      "Kozsó new song {year}",
+      "Kozsó hit songs",
+      "Kozsó latest song"
+    ],
+    "Ákos": [
+      "Ákos songs",
+      "Ákos new song {year}",
+      "Ákos hit songs",
+      "Ákos latest song"
+    ],
+    "Rúzsa Magdi": [
+      "Rúzsa Magdi songs",
+      "Rúzsa Magdi new song {year}",
+      "Rúzsa Magdi hit songs",
+      "Rúzsa Magdi latest song"
+    ],
+    "Caramel": [
+      "Caramel songs",
+      "Caramel new song {year}",
+      "Caramel hit songs",
+      "Caramel latest song"
+    ],
+    "Halott Pénz": [
+      "Halott Pénz songs",
+      "Halott Pénz new song {year}",
+      "Halott Pénz hit songs",
+      "Halott Pénz latest song"
+    ],
+    "Hiperkarma": [
+      "Hiperkarma songs",
+      "Hiperkarma new song {year}",
+      "Hiperkarma hit songs",
+      "Hiperkarma latest song"
+    ],
+    "Parno Graszt": [
+      "Parno Graszt songs",
+      "Parno Graszt new song {year}",
+      "Parno Graszt hit songs",
+      "Parno Graszt latest song"
+    ],
+    "Beatrice": [
+      "Beatrice songs",
+      "Beatrice new song {year}",
+      "Beatrice hit songs",
+      "Beatrice latest song"
+    ],
+    "Irie Maffia": [
+      "Irie Maffia songs",
+      "Irie Maffia new song {year}",
+      "Irie Maffia hit songs",
+      "Irie Maffia latest song"
+    ],
+    "Curtis": [
+      "Curtis songs",
+      "Curtis new song {year}",
+      "Curtis hit songs",
+      "Curtis latest song"
+    ],
+    "Manuel": [
+      "Manuel songs",
+      "Manuel new song {year}",
+      "Manuel hit songs",
+      "Manuel latest song"
+    ],
+    "Lil Frakk": [
+      "Lil Frakk songs",
+      "Lil Frakk new song {year}",
+      "Lil Frakk hit songs",
+      "Lil Frakk latest song"
+    ]
+  },
+  "music_singers": [
+    "Azahriah",
+    "Dzsúdló",
+    "Majka",
+    "Wellhello",
+    "Follow the Flow",
+    "Kozsó",
+    "Ákos",
+    "Rúzsa Magdi",
+    "Caramel",
+    "Halott Pénz",
+    "Hiperkarma",
+    "Parno Graszt",
+    "Beatrice",
+    "Irie Maffia",
+    "Curtis",
+    "Manuel",
+    "Lil Frakk"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Magyar Pop",
+    "Magyar Rap",
+    "Mulatós"
+  ]
+}

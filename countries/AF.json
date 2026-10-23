@@ -1,0 +1,138 @@
+{
+  "_comment": "AF: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Afghan Hits",
+    "Pashto Songs",
+    "Dari Songs",
+    "Ahmad Zahir",
+    "Farhad Darya",
+    "Aryana Sayeed",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Afghan Hits": [
+      "afghan songs 2026",
+      "new afghan song",
+      "pashto and dari songs"
+    ],
+    "Pashto Songs": [
+      "pashto songs",
+      "new pashto song"
+    ],
+    "Dari Songs": [
+      "dari songs",
+      "afghan dari song"
+    ],
+    "News": [
+      "اخبار امروز",
+      "اخبار امروز live"
+    ],
+    "Sports": [
+      "ورزش خلاصه",
+      "ورزش خلاصه {year}"
+    ],
+    "Ahmad Zahir": [
+      "Ahmad Zahir songs",
+      "Ahmad Zahir new song {year}"
+    ],
+    "Farhad Darya": [
+      "Farhad Darya songs",
+      "Farhad Darya new song {year}"
+    ],
+    "Aryana Sayeed": [
+      "Aryana Sayeed songs",
+      "Aryana Sayeed new song {year}"
+    ],
+    "Top Charts": [
+      "afghan songs 2026",
+      "pashto and dari songs"
+    ],
+    "New Releases": [
+      "new afghan song",
+      "afghan songs 2026"
+    ],
+    "Trending": [
+      "pashto and dari songs",
+      "new afghan song"
+    ],
+    "Recently uploaded": [
+      "new videos Afghanistan {year}",
+      "latest Afghanistan videos today",
+      "Afghanistan trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Afghanistan gameplay {year}",
+      "Afghanistan gaming videos"
+    ],
+    "Fashion": [
+      "Afghanistan fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Naghma": [
+      "Naghma songs",
+      "Naghma new song {year}",
+      "Naghma hit songs",
+      "Naghma latest song"
+    ],
+    "Mahwash": [
+      "Mahwash songs",
+      "Mahwash new song {year}",
+      "Mahwash hit songs",
+      "Mahwash latest song"
+    ],
+    "Qais Ulfat": [
+      "Qais Ulfat songs",
+      "Qais Ulfat new song {year}",
+      "Qais Ulfat hit songs",
+      "Qais Ulfat latest song"
+    ],
+    "Wahid Qasemi": [
+      "Wahid Qasemi songs",
+      "Wahid Qasemi new song {year}",
+      "Wahid Qasemi hit songs",
+      "Wahid Qasemi latest song"
+    ],
+    "Ahmad Sham": [
+      "Ahmad Sham songs",
+      "Ahmad Sham new song {year}",
+      "Ahmad Sham hit songs",
+      "Ahmad Sham latest song"
+    ],
+    "Elham Hussein": [
+      "Elham Hussein songs",
+      "Elham Hussein new song {year}",
+      "Elham Hussein hit songs",
+      "Elham Hussein latest song"
+    ],
+    "Sharif Ghazal": [
+      "Sharif Ghazal songs",
+      "Sharif Ghazal new song {year}",
+      "Sharif Ghazal hit songs",
+      "Sharif Ghazal latest song"
+    ]
+  },
+  "music_singers": [
+    "Ahmad Zahir",
+    "Farhad Darya",
+    "Aryana Sayeed",
+    "Naghma",
+    "Mahwash",
+    "Qais Ulfat",
+    "Wahid Qasemi",
+    "Ahmad Sham",
+    "Elham Hussein",
+    "Sharif Ghazal"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Pashto Songs",
+    "Dari Songs"
+  ]
+}

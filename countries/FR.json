@@ -1,0 +1,219 @@
+{
+  "_comment": "FR: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "French Hits",
+    "Rap FR",
+    "Chanson",
+    "Afro Pop FR",
+    "Films Français",
+    "Aya Nakamura",
+    "Jul",
+    "Stromae",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "French Hits": [
+      "chansons françaises {year}",
+      "top musique française {year}",
+      "tubes france"
+    ],
+    "Rap FR": [
+      "rap français {year}",
+      "rap fr nouveautés"
+    ],
+    "Chanson": [
+      "chanson française classiques",
+      "nouvelle chanson française"
+    ],
+    "Afro Pop FR": [
+      "afro pop france {year}",
+      "afrobeat france"
+    ],
+    "Films Français": [
+      "film français complet",
+      "cinéma français complet"
+    ],
+    "News": [
+      "actualités aujourd'hui",
+      "actualités aujourd'hui live"
+    ],
+    "Sports": [
+      "sport résumé",
+      "sport résumé {year}"
+    ],
+    "Aya Nakamura": [
+      "Aya Nakamura songs",
+      "Aya Nakamura new song {year}"
+    ],
+    "Jul": [
+      "Jul songs",
+      "Jul new song {year}"
+    ],
+    "Stromae": [
+      "Stromae songs",
+      "Stromae new song {year}"
+    ],
+    "Top Charts": [
+      "chansons françaises {year}",
+      "tubes france"
+    ],
+    "New Releases": [
+      "top musique française {year}",
+      "chansons françaises {year}"
+    ],
+    "Trending": [
+      "tubes france",
+      "top musique française {year}"
+    ],
+    "Recently uploaded": [
+      "new videos France {year}",
+      "latest France videos today",
+      "France trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "France gameplay {year}",
+      "France gaming videos"
+    ],
+    "Fashion": [
+      "France fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Soprano": [
+      "Soprano songs",
+      "Soprano new song {year}",
+      "Soprano hit songs",
+      "Soprano latest song"
+    ],
+    "Gims": [
+      "Gims songs",
+      "Gims new song {year}",
+      "Gims hit songs",
+      "Gims latest song"
+    ],
+    "Indila": [
+      "Indila songs",
+      "Indila new song {year}",
+      "Indila hit songs",
+      "Indila latest song"
+    ],
+    "Angèle": [
+      "Angèle songs",
+      "Angèle new song {year}",
+      "Angèle hit songs",
+      "Angèle latest song"
+    ],
+    "Ninho": [
+      "Ninho songs",
+      "Ninho new song {year}",
+      "Ninho hit songs",
+      "Ninho latest song"
+    ],
+    "Damso": [
+      "Damso songs",
+      "Damso new song {year}",
+      "Damso hit songs",
+      "Damso latest song"
+    ],
+    "Zaho": [
+      "Zaho songs",
+      "Zaho new song {year}",
+      "Zaho hit songs",
+      "Zaho latest song"
+    ],
+    "Julien Doré": [
+      "Julien Doré songs",
+      "Julien Doré new song {year}",
+      "Julien Doré hit songs",
+      "Julien Doré latest song"
+    ],
+    "Slimane": [
+      "Slimane songs",
+      "Slimane new song {year}",
+      "Slimane hit songs",
+      "Slimane latest song"
+    ],
+    "PNL": [
+      "PNL songs",
+      "PNL new song {year}",
+      "PNL hit songs",
+      "PNL latest song"
+    ],
+    "Tayc": [
+      "Tayc songs",
+      "Tayc new song {year}",
+      "Tayc hit songs",
+      "Tayc latest song"
+    ],
+    "Gazo": [
+      "Gazo songs",
+      "Gazo new song {year}",
+      "Gazo hit songs",
+      "Gazo latest song"
+    ],
+    "SCH": [
+      "SCH songs",
+      "SCH new song {year}",
+      "SCH hit songs",
+      "SCH latest song"
+    ],
+    "Clara Luciani": [
+      "Clara Luciani songs",
+      "Clara Luciani new song {year}",
+      "Clara Luciani hit songs",
+      "Clara Luciani latest song"
+    ],
+    "Vitaa": [
+      "Vitaa songs",
+      "Vitaa new song {year}",
+      "Vitaa hit songs",
+      "Vitaa latest song"
+    ],
+    "Dadju": [
+      "Dadju songs",
+      "Dadju new song {year}",
+      "Dadju hit songs",
+      "Dadju latest song"
+    ],
+    "Hoshi": [
+      "Hoshi songs",
+      "Hoshi new song {year}",
+      "Hoshi hit songs",
+      "Hoshi latest song"
+    ]
+  },
+  "music_singers": [
+    "Aya Nakamura",
+    "Jul",
+    "Stromae",
+    "Soprano",
+    "Gims",
+    "Indila",
+    "Angèle",
+    "Ninho",
+    "Damso",
+    "Zaho",
+    "Julien Doré",
+    "Slimane",
+    "PNL",
+    "Tayc",
+    "Gazo",
+    "SCH",
+    "Clara Luciani",
+    "Vitaa",
+    "Dadju",
+    "Hoshi"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Rap FR",
+    "Chanson",
+    "Afro Pop FR"
+  ]
+}

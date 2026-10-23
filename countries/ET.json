@@ -1,0 +1,158 @@
+{
+  "_comment": "ET: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Ethiopian Hits",
+    "Ethiopian Pop",
+    "Eskista",
+    "Oromo Songs",
+    "Teddy Afro",
+    "Aster Aweke",
+    "Mahmoud Ahmed",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Ethiopian Hits": [
+      "ethiopian music {year}",
+      "new ethiopian music",
+      "አዲስ ሙዚቃ"
+    ],
+    "Ethiopian Pop": [
+      "ethiopian music {year}",
+      "አዲስ የኢትዮጵያ ሙዚቃ"
+    ],
+    "Eskista": [
+      "eskista music",
+      "ethiopian traditional music"
+    ],
+    "Oromo Songs": [
+      "oromo music {year}",
+      "afaan oromoo muziqaa"
+    ],
+    "News": [
+      "ዜና ዛሬ",
+      "ዜና ዛሬ live"
+    ],
+    "Sports": [
+      "ስፖርት",
+      "ስፖርት {year}"
+    ],
+    "Teddy Afro": [
+      "Teddy Afro songs",
+      "Teddy Afro new song {year}"
+    ],
+    "Aster Aweke": [
+      "Aster Aweke songs",
+      "Aster Aweke new song {year}"
+    ],
+    "Mahmoud Ahmed": [
+      "Mahmoud Ahmed songs",
+      "Mahmoud Ahmed new song {year}"
+    ],
+    "Top Charts": [
+      "ethiopian music {year}",
+      "አዲስ ሙዚቃ"
+    ],
+    "New Releases": [
+      "new ethiopian music",
+      "ethiopian music {year}"
+    ],
+    "Trending": [
+      "አዲስ ሙዚቃ",
+      "new ethiopian music"
+    ],
+    "Recently uploaded": [
+      "new videos Ethiopia {year}",
+      "latest Ethiopia videos today",
+      "Ethiopia trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Ethiopia gameplay {year}",
+      "Ethiopia gaming videos"
+    ],
+    "Fashion": [
+      "Ethiopia fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Rophnan": [
+      "Rophnan songs",
+      "Rophnan new song {year}",
+      "Rophnan hit songs",
+      "Rophnan latest song"
+    ],
+    "Gigi": [
+      "Gigi songs",
+      "Gigi new song {year}",
+      "Gigi hit songs",
+      "Gigi latest song"
+    ],
+    "Tilahun Gessesse": [
+      "Tilahun Gessesse songs",
+      "Tilahun Gessesse new song {year}",
+      "Tilahun Gessesse hit songs",
+      "Tilahun Gessesse latest song"
+    ],
+    "Zeritu Kebede": [
+      "Zeritu Kebede songs",
+      "Zeritu Kebede new song {year}",
+      "Zeritu Kebede hit songs",
+      "Zeritu Kebede latest song"
+    ],
+    "Abby Lakew": [
+      "Abby Lakew songs",
+      "Abby Lakew new song {year}",
+      "Abby Lakew hit songs",
+      "Abby Lakew latest song"
+    ],
+    "Jacky Gosee": [
+      "Jacky Gosee songs",
+      "Jacky Gosee new song {year}",
+      "Jacky Gosee hit songs",
+      "Jacky Gosee latest song"
+    ],
+    "Mulatu Astatke": [
+      "Mulatu Astatke songs",
+      "Mulatu Astatke new song {year}",
+      "Mulatu Astatke hit songs",
+      "Mulatu Astatke latest song"
+    ],
+    "Henok Tamiru": [
+      "Henok Tamiru songs",
+      "Henok Tamiru new song {year}",
+      "Henok Tamiru hit songs",
+      "Henok Tamiru latest song"
+    ],
+    "Gossaye Tesfaye": [
+      "Gossaye Tesfaye songs",
+      "Gossaye Tesfaye new song {year}",
+      "Gossaye Tesfaye hit songs",
+      "Gossaye Tesfaye latest song"
+    ]
+  },
+  "music_singers": [
+    "Teddy Afro",
+    "Aster Aweke",
+    "Mahmoud Ahmed",
+    "Rophnan",
+    "Gigi",
+    "Tilahun Gessesse",
+    "Zeritu Kebede",
+    "Abby Lakew",
+    "Jacky Gosee",
+    "Mulatu Astatke",
+    "Henok Tamiru",
+    "Gossaye Tesfaye"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Ethiopian Pop",
+    "Eskista",
+    "Oromo Songs"
+  ]
+}

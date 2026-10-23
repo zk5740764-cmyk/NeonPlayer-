@@ -1,0 +1,187 @@
+{
+  "_comment": "CL: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Chilean Hits",
+    "Trap Chileno",
+    "Pop Chileno",
+    "Mon Laferte",
+    "Cami",
+    "Paloma Mami",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Chilean Hits": [
+      "música chilena {year}",
+      "trap chileno {year}",
+      "éxitos chile"
+    ],
+    "Trap Chileno": [
+      "trap chileno {year}",
+      "trap chile nuevo"
+    ],
+    "Pop Chileno": [
+      "pop chileno",
+      "música chilena pop"
+    ],
+    "News": [
+      "noticias hoy",
+      "noticias hoy live"
+    ],
+    "Sports": [
+      "deportes resumen",
+      "deportes resumen {year}"
+    ],
+    "Mon Laferte": [
+      "Mon Laferte songs",
+      "Mon Laferte new song {year}"
+    ],
+    "Cami": [
+      "Cami songs",
+      "Cami new song {year}"
+    ],
+    "Paloma Mami": [
+      "Paloma Mami songs",
+      "Paloma Mami new song {year}"
+    ],
+    "Top Charts": [
+      "música chilena {year}",
+      "éxitos chile"
+    ],
+    "New Releases": [
+      "trap chileno {year}",
+      "música chilena {year}"
+    ],
+    "Trending": [
+      "éxitos chile",
+      "trap chileno {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Chile {year}",
+      "latest Chile videos today",
+      "Chile trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Chile gameplay {year}",
+      "Chile gaming videos"
+    ],
+    "Fashion": [
+      "Chile fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Pablo Chill-E": [
+      "Pablo Chill-E songs",
+      "Pablo Chill-E new song {year}",
+      "Pablo Chill-E hit songs",
+      "Pablo Chill-E latest song"
+    ],
+    "Young Cister": [
+      "Young Cister songs",
+      "Young Cister new song {year}",
+      "Young Cister hit songs",
+      "Young Cister latest song"
+    ],
+    "Los Bunkers": [
+      "Los Bunkers songs",
+      "Los Bunkers new song {year}",
+      "Los Bunkers hit songs",
+      "Los Bunkers latest song"
+    ],
+    "Javiera Mena": [
+      "Javiera Mena songs",
+      "Javiera Mena new song {year}",
+      "Javiera Mena hit songs",
+      "Javiera Mena latest song"
+    ],
+    "Gepe": [
+      "Gepe songs",
+      "Gepe new song {year}",
+      "Gepe hit songs",
+      "Gepe latest song"
+    ],
+    "Ana Tijoux": [
+      "Ana Tijoux songs",
+      "Ana Tijoux new song {year}",
+      "Ana Tijoux hit songs",
+      "Ana Tijoux latest song"
+    ],
+    "Francisca Valenzuela": [
+      "Francisca Valenzuela songs",
+      "Francisca Valenzuela new song {year}",
+      "Francisca Valenzuela hit songs",
+      "Francisca Valenzuela latest song"
+    ],
+    "Denise Rosenthal": [
+      "Denise Rosenthal songs",
+      "Denise Rosenthal new song {year}",
+      "Denise Rosenthal hit songs",
+      "Denise Rosenthal latest song"
+    ],
+    "Cris MJ": [
+      "Cris MJ songs",
+      "Cris MJ new song {year}",
+      "Cris MJ hit songs",
+      "Cris MJ latest song"
+    ],
+    "Marcianeke": [
+      "Marcianeke songs",
+      "Marcianeke new song {year}",
+      "Marcianeke hit songs",
+      "Marcianeke latest song"
+    ],
+    "Los Prisioneros": [
+      "Los Prisioneros songs",
+      "Los Prisioneros new song {year}",
+      "Los Prisioneros hit songs",
+      "Los Prisioneros latest song"
+    ],
+    "Los Jaivas": [
+      "Los Jaivas songs",
+      "Los Jaivas new song {year}",
+      "Los Jaivas hit songs",
+      "Los Jaivas latest song"
+    ],
+    "Jordan 23": [
+      "Jordan 23 songs",
+      "Jordan 23 new song {year}",
+      "Jordan 23 hit songs",
+      "Jordan 23 latest song"
+    ],
+    "Princesa Alba": [
+      "Princesa Alba songs",
+      "Princesa Alba new song {year}",
+      "Princesa Alba hit songs",
+      "Princesa Alba latest song"
+    ]
+  },
+  "music_singers": [
+    "Mon Laferte",
+    "Cami",
+    "Paloma Mami",
+    "Pablo Chill-E",
+    "Young Cister",
+    "Los Bunkers",
+    "Javiera Mena",
+    "Gepe",
+    "Ana Tijoux",
+    "Francisca Valenzuela",
+    "Denise Rosenthal",
+    "Cris MJ",
+    "Marcianeke",
+    "Los Prisioneros",
+    "Los Jaivas",
+    "Jordan 23",
+    "Princesa Alba"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Trap Chileno",
+    "Pop Chileno"
+  ]
+}

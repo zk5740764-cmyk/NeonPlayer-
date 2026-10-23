@@ -1,0 +1,220 @@
+{
+  "_comment": "GB: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "British Hits",
+    "UK Rap & Grime",
+    "Indie & Rock",
+    "Dance",
+    "British Dramas",
+    "Ed Sheeran",
+    "Dua Lipa",
+    "Harry Styles",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "British Hits": [
+      "uk top songs {year}",
+      "new uk songs {year}",
+      "uk charts hits"
+    ],
+    "UK Rap & Grime": [
+      "uk rap songs",
+      "uk grime songs",
+      "uk drill songs"
+    ],
+    "Indie & Rock": [
+      "uk indie songs",
+      "british rock songs"
+    ],
+    "Dance": [
+      "uk dance hits",
+      "uk house music"
+    ],
+    "British Dramas": [
+      "british drama full episode",
+      "bbc drama"
+    ],
+    "News": [
+      "British news today",
+      "British news today live"
+    ],
+    "Sports": [
+      "British sports highlights",
+      "British sports highlights {year}"
+    ],
+    "Ed Sheeran": [
+      "Ed Sheeran songs",
+      "Ed Sheeran new song {year}"
+    ],
+    "Dua Lipa": [
+      "Dua Lipa songs",
+      "Dua Lipa new song {year}"
+    ],
+    "Harry Styles": [
+      "Harry Styles songs",
+      "Harry Styles new song {year}"
+    ],
+    "Top Charts": [
+      "uk top songs {year}",
+      "uk charts hits"
+    ],
+    "New Releases": [
+      "new uk songs {year}",
+      "uk top songs {year}"
+    ],
+    "Trending": [
+      "uk charts hits",
+      "new uk songs {year}"
+    ],
+    "Recently uploaded": [
+      "new videos United Kingdom {year}",
+      "latest United Kingdom videos today",
+      "United Kingdom trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "United Kingdom gameplay {year}",
+      "United Kingdom gaming videos"
+    ],
+    "Fashion": [
+      "United Kingdom fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Adele": [
+      "Adele songs",
+      "Adele new song {year}",
+      "Adele hit songs",
+      "Adele latest song"
+    ],
+    "Raye": [
+      "Raye songs",
+      "Raye new song {year}",
+      "Raye hit songs",
+      "Raye latest song"
+    ],
+    "Central Cee": [
+      "Central Cee songs",
+      "Central Cee new song {year}",
+      "Central Cee hit songs",
+      "Central Cee latest song"
+    ],
+    "Sam Fender": [
+      "Sam Fender songs",
+      "Sam Fender new song {year}",
+      "Sam Fender hit songs",
+      "Sam Fender latest song"
+    ],
+    "Stormzy": [
+      "Stormzy songs",
+      "Stormzy new song {year}",
+      "Stormzy hit songs",
+      "Stormzy latest song"
+    ],
+    "Lewis Capaldi": [
+      "Lewis Capaldi songs",
+      "Lewis Capaldi new song {year}",
+      "Lewis Capaldi hit songs",
+      "Lewis Capaldi latest song"
+    ],
+    "Jorja Smith": [
+      "Jorja Smith songs",
+      "Jorja Smith new song {year}",
+      "Jorja Smith hit songs",
+      "Jorja Smith latest song"
+    ],
+    "Cat Burns": [
+      "Cat Burns songs",
+      "Cat Burns new song {year}",
+      "Cat Burns hit songs",
+      "Cat Burns latest song"
+    ],
+    "Calvin Harris": [
+      "Calvin Harris songs",
+      "Calvin Harris new song {year}",
+      "Calvin Harris hit songs",
+      "Calvin Harris latest song"
+    ],
+    "Olly Murs": [
+      "Olly Murs songs",
+      "Olly Murs new song {year}",
+      "Olly Murs hit songs",
+      "Olly Murs latest song"
+    ],
+    "Little Mix": [
+      "Little Mix songs",
+      "Little Mix new song {year}",
+      "Little Mix hit songs",
+      "Little Mix latest song"
+    ],
+    "Sam Ryder": [
+      "Sam Ryder songs",
+      "Sam Ryder new song {year}",
+      "Sam Ryder hit songs",
+      "Sam Ryder latest song"
+    ],
+    "Tom Grennan": [
+      "Tom Grennan songs",
+      "Tom Grennan new song {year}",
+      "Tom Grennan hit songs",
+      "Tom Grennan latest song"
+    ],
+    "Becky Hill": [
+      "Becky Hill songs",
+      "Becky Hill new song {year}",
+      "Becky Hill hit songs",
+      "Becky Hill latest song"
+    ],
+    "Rag'n'Bone Man": [
+      "Rag'n'Bone Man songs",
+      "Rag'n'Bone Man new song {year}",
+      "Rag'n'Bone Man hit songs",
+      "Rag'n'Bone Man latest song"
+    ],
+    "Anne-Marie": [
+      "Anne-Marie songs",
+      "Anne-Marie new song {year}",
+      "Anne-Marie hit songs",
+      "Anne-Marie latest song"
+    ],
+    "Dave": [
+      "Dave songs",
+      "Dave new song {year}",
+      "Dave hit songs",
+      "Dave latest song"
+    ]
+  },
+  "music_singers": [
+    "Ed Sheeran",
+    "Dua Lipa",
+    "Harry Styles",
+    "Adele",
+    "Raye",
+    "Central Cee",
+    "Sam Fender",
+    "Stormzy",
+    "Lewis Capaldi",
+    "Jorja Smith",
+    "Cat Burns",
+    "Calvin Harris",
+    "Olly Murs",
+    "Little Mix",
+    "Sam Ryder",
+    "Tom Grennan",
+    "Becky Hill",
+    "Rag'n'Bone Man",
+    "Anne-Marie",
+    "Dave"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "UK Rap & Grime",
+    "Indie & Rock",
+    "Dance"
+  ]
+}

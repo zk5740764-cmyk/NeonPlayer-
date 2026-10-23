@@ -1,0 +1,212 @@
+{
+  "_comment": "DE: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "German Hits",
+    "Deutschrap",
+    "Schlager",
+    "Deutschpop",
+    "Deutsche Filme",
+    "Apache 207",
+    "Shirin David",
+    "Mark Forster",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "German Hits": [
+      "deutsche hits {year}",
+      "neue deutsche songs {year}",
+      "deutschrap hits"
+    ],
+    "Deutschrap": [
+      "deutschrap {year}",
+      "deutschrap neu"
+    ],
+    "Schlager": [
+      "schlager hits",
+      "schlager {year}"
+    ],
+    "Deutschpop": [
+      "deutschpop hits",
+      "deutschpop neu"
+    ],
+    "Deutsche Filme": [
+      "deutscher film komplett",
+      "film deutsch ganzer film"
+    ],
+    "News": [
+      "Nachrichten heute",
+      "Nachrichten heute live"
+    ],
+    "Sports": [
+      "Sport Highlights",
+      "Sport Highlights {year}"
+    ],
+    "Apache 207": [
+      "Apache 207 songs",
+      "Apache 207 new song {year}"
+    ],
+    "Shirin David": [
+      "Shirin David songs",
+      "Shirin David new song {year}"
+    ],
+    "Mark Forster": [
+      "Mark Forster songs",
+      "Mark Forster new song {year}"
+    ],
+    "Top Charts": [
+      "deutsche hits {year}",
+      "deutschrap hits"
+    ],
+    "New Releases": [
+      "neue deutsche songs {year}",
+      "deutsche hits {year}"
+    ],
+    "Trending": [
+      "deutschrap hits",
+      "neue deutsche songs {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Germany {year}",
+      "latest Germany videos today",
+      "Germany trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Germany gameplay {year}",
+      "Germany gaming videos"
+    ],
+    "Fashion": [
+      "Germany fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Helene Fischer": [
+      "Helene Fischer songs",
+      "Helene Fischer new song {year}",
+      "Helene Fischer hit songs",
+      "Helene Fischer latest song"
+    ],
+    "Capital Bra": [
+      "Capital Bra songs",
+      "Capital Bra new song {year}",
+      "Capital Bra hit songs",
+      "Capital Bra latest song"
+    ],
+    "Luciano": [
+      "Luciano songs",
+      "Luciano new song {year}",
+      "Luciano hit songs",
+      "Luciano latest song"
+    ],
+    "Nina Chuba": [
+      "Nina Chuba songs",
+      "Nina Chuba new song {year}",
+      "Nina Chuba hit songs",
+      "Nina Chuba latest song"
+    ],
+    "badmómzjay": [
+      "badmómzjay songs",
+      "badmómzjay new song {year}",
+      "badmómzjay hit songs",
+      "badmómzjay latest song"
+    ],
+    "Ski Aggu": [
+      "Ski Aggu songs",
+      "Ski Aggu new song {year}",
+      "Ski Aggu hit songs",
+      "Ski Aggu latest song"
+    ],
+    "Kontra K": [
+      "Kontra K songs",
+      "Kontra K new song {year}",
+      "Kontra K hit songs",
+      "Kontra K latest song"
+    ],
+    "Peter Maffay": [
+      "Peter Maffay songs",
+      "Peter Maffay new song {year}",
+      "Peter Maffay hit songs",
+      "Peter Maffay latest song"
+    ],
+    "Sarah Connor": [
+      "Sarah Connor songs",
+      "Sarah Connor new song {year}",
+      "Sarah Connor hit songs",
+      "Sarah Connor latest song"
+    ],
+    "Tokio Hotel": [
+      "Tokio Hotel songs",
+      "Tokio Hotel new song {year}",
+      "Tokio Hotel hit songs",
+      "Tokio Hotel latest song"
+    ],
+    "Namika": [
+      "Namika songs",
+      "Namika new song {year}",
+      "Namika hit songs",
+      "Namika latest song"
+    ],
+    "Cro": [
+      "Cro songs",
+      "Cro new song {year}",
+      "Cro hit songs",
+      "Cro latest song"
+    ],
+    "Rammstein": [
+      "Rammstein songs",
+      "Rammstein new song {year}",
+      "Rammstein hit songs",
+      "Rammstein latest song"
+    ],
+    "Ayliva": [
+      "Ayliva songs",
+      "Ayliva new song {year}",
+      "Ayliva hit songs",
+      "Ayliva latest song"
+    ],
+    "Lea": [
+      "Lea songs",
+      "Lea new song {year}",
+      "Lea hit songs",
+      "Lea latest song"
+    ],
+    "Rin": [
+      "Rin songs",
+      "Rin new song {year}",
+      "Rin hit songs",
+      "Rin latest song"
+    ]
+  },
+  "music_singers": [
+    "Apache 207",
+    "Shirin David",
+    "Mark Forster",
+    "Helene Fischer",
+    "Capital Bra",
+    "Luciano",
+    "Nina Chuba",
+    "badmómzjay",
+    "Ski Aggu",
+    "Kontra K",
+    "Peter Maffay",
+    "Sarah Connor",
+    "Tokio Hotel",
+    "Namika",
+    "Cro",
+    "Rammstein",
+    "Ayliva",
+    "Lea",
+    "Rin"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Deutschrap",
+    "Schlager",
+    "Deutschpop"
+  ]
+}

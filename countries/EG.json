@@ -1,0 +1,191 @@
+{
+  "_comment": "EG: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Egyptian Hits",
+    "مهرجانات",
+    "راب مصري",
+    "اغاني شعبي",
+    "افلام مصرية",
+    "Amr Diab",
+    "Tamer Hosny",
+    "Mohamed Ramadan",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Egyptian Hits": [
+      "اغاني مصرية {year}",
+      "جديد الاغاني المصرية {year}",
+      "اغاني عمرو دياب"
+    ],
+    "مهرجانات": [
+      "مهرجانات {year}",
+      "مهرجانات شعبية جديدة"
+    ],
+    "راب مصري": [
+      "راب مصري {year}",
+      "تراب مصري"
+    ],
+    "اغاني شعبي": [
+      "اغاني شعبي مصري",
+      "شعبي جديد"
+    ],
+    "افلام مصرية": [
+      "فيلم مصري كامل",
+      "افلام عربي كاملة"
+    ],
+    "News": [
+      "اخبار اليوم",
+      "اخبار اليوم live"
+    ],
+    "Sports": [
+      "رياضة ملخص",
+      "رياضة ملخص {year}"
+    ],
+    "Amr Diab": [
+      "Amr Diab songs",
+      "Amr Diab new song {year}"
+    ],
+    "Tamer Hosny": [
+      "Tamer Hosny songs",
+      "Tamer Hosny new song {year}"
+    ],
+    "Mohamed Ramadan": [
+      "Mohamed Ramadan songs",
+      "Mohamed Ramadan new song {year}"
+    ],
+    "Top Charts": [
+      "اغاني مصرية {year}",
+      "اغاني عمرو دياب"
+    ],
+    "New Releases": [
+      "جديد الاغاني المصرية {year}",
+      "اغاني مصرية {year}"
+    ],
+    "Trending": [
+      "اغاني عمرو دياب",
+      "جديد الاغاني المصرية {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Egypt {year}",
+      "latest Egypt videos today",
+      "Egypt trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Egypt gameplay {year}",
+      "Egypt gaming videos"
+    ],
+    "Fashion": [
+      "Egypt fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Sherine Abdel Wahab": [
+      "Sherine Abdel Wahab songs",
+      "Sherine Abdel Wahab new song {year}",
+      "Sherine Abdel Wahab hit songs",
+      "Sherine Abdel Wahab latest song"
+    ],
+    "Wegz": [
+      "Wegz songs",
+      "Wegz new song {year}",
+      "Wegz hit songs",
+      "Wegz latest song"
+    ],
+    "Marwan Pablo": [
+      "Marwan Pablo songs",
+      "Marwan Pablo new song {year}",
+      "Marwan Pablo hit songs",
+      "Marwan Pablo latest song"
+    ],
+    "Mohamed Hamaki": [
+      "Mohamed Hamaki songs",
+      "Mohamed Hamaki new song {year}",
+      "Mohamed Hamaki hit songs",
+      "Mohamed Hamaki latest song"
+    ],
+    "Ahmed Saad": [
+      "Ahmed Saad songs",
+      "Ahmed Saad new song {year}",
+      "Ahmed Saad hit songs",
+      "Ahmed Saad latest song"
+    ],
+    "Angham": [
+      "Angham songs",
+      "Angham new song {year}",
+      "Angham hit songs",
+      "Angham latest song"
+    ],
+    "Ruby": [
+      "Ruby songs",
+      "Ruby new song {year}",
+      "Ruby hit songs",
+      "Ruby latest song"
+    ],
+    "Hamza Namira": [
+      "Hamza Namira songs",
+      "Hamza Namira new song {year}",
+      "Hamza Namira hit songs",
+      "Hamza Namira latest song"
+    ],
+    "Mohamed Mounir": [
+      "Mohamed Mounir songs",
+      "Mohamed Mounir new song {year}",
+      "Mohamed Mounir hit songs",
+      "Mohamed Mounir latest song"
+    ],
+    "Hassan Shakosh": [
+      "Hassan Shakosh songs",
+      "Hassan Shakosh new song {year}",
+      "Hassan Shakosh hit songs",
+      "Hassan Shakosh latest song"
+    ],
+    "Ahmed Mekky": [
+      "Ahmed Mekky songs",
+      "Ahmed Mekky new song {year}",
+      "Ahmed Mekky hit songs",
+      "Ahmed Mekky latest song"
+    ],
+    "Roby": [
+      "Roby songs",
+      "Roby new song {year}",
+      "Roby hit songs",
+      "Roby latest song"
+    ],
+    "Afroto": [
+      "Afroto songs",
+      "Afroto new song {year}",
+      "Afroto hit songs",
+      "Afroto latest song"
+    ]
+  },
+  "music_singers": [
+    "Amr Diab",
+    "Tamer Hosny",
+    "Mohamed Ramadan",
+    "Sherine Abdel Wahab",
+    "Wegz",
+    "Marwan Pablo",
+    "Mohamed Hamaki",
+    "Ahmed Saad",
+    "Angham",
+    "Ruby",
+    "Hamza Namira",
+    "Mohamed Mounir",
+    "Hassan Shakosh",
+    "Ahmed Mekky",
+    "Roby",
+    "Afroto"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "مهرجانات",
+    "راب مصري",
+    "اغاني شعبي"
+  ]
+}

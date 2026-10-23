@@ -1,0 +1,172 @@
+{
+  "_comment": "DZ: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Algerian Hits",
+    "راي",
+    "راب جزائري",
+    "شعبي جزائري",
+    "Soolking",
+    "Cheb Khaled",
+    "Cheb Mami",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Algerian Hits": [
+      "اغاني جزائرية {year}",
+      "جديد الاغاني الجزائرية",
+      "rai algerien {year}"
+    ],
+    "راي": [
+      "راي جزائري",
+      "rai algerien"
+    ],
+    "راب جزائري": [
+      "راب جزائري {year}",
+      "rap algerien {year}"
+    ],
+    "شعبي جزائري": [
+      "شعبي جزائري",
+      "اغاني شعبي جزائري"
+    ],
+    "News": [
+      "اخبار اليوم",
+      "اخبار اليوم live"
+    ],
+    "Sports": [
+      "رياضة ملخص",
+      "رياضة ملخص {year}"
+    ],
+    "Soolking": [
+      "Soolking songs",
+      "Soolking new song {year}"
+    ],
+    "Cheb Khaled": [
+      "Cheb Khaled songs",
+      "Cheb Khaled new song {year}"
+    ],
+    "Cheb Mami": [
+      "Cheb Mami songs",
+      "Cheb Mami new song {year}"
+    ],
+    "Top Charts": [
+      "اغاني جزائرية {year}",
+      "rai algerien {year}"
+    ],
+    "New Releases": [
+      "جديد الاغاني الجزائرية",
+      "اغاني جزائرية {year}"
+    ],
+    "Trending": [
+      "rai algerien {year}",
+      "جديد الاغاني الجزائرية"
+    ],
+    "Recently uploaded": [
+      "new videos Algeria {year}",
+      "latest Algeria videos today",
+      "Algeria trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Algeria gameplay {year}",
+      "Algeria gaming videos"
+    ],
+    "Fashion": [
+      "Algeria fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Faudel": [
+      "Faudel songs",
+      "Faudel new song {year}",
+      "Faudel hit songs",
+      "Faudel latest song"
+    ],
+    "Lotfi DK": [
+      "Lotfi DK songs",
+      "Lotfi DK new song {year}",
+      "Lotfi DK hit songs",
+      "Lotfi DK latest song"
+    ],
+    "Cheb Bilal": [
+      "Cheb Bilal songs",
+      "Cheb Bilal new song {year}",
+      "Cheb Bilal hit songs",
+      "Cheb Bilal latest song"
+    ],
+    "Reda Taliani": [
+      "Reda Taliani songs",
+      "Reda Taliani new song {year}",
+      "Reda Taliani hit songs",
+      "Reda Taliani latest song"
+    ],
+    "Mohamed Lamine": [
+      "Mohamed Lamine songs",
+      "Mohamed Lamine new song {year}",
+      "Mohamed Lamine hit songs",
+      "Mohamed Lamine latest song"
+    ],
+    "Imen Es": [
+      "Imen Es songs",
+      "Imen Es new song {year}",
+      "Imen Es hit songs",
+      "Imen Es latest song"
+    ],
+    "Houari Dauphin": [
+      "Houari Dauphin songs",
+      "Houari Dauphin new song {year}",
+      "Houari Dauphin hit songs",
+      "Houari Dauphin latest song"
+    ],
+    "Cheba Zahouania": [
+      "Cheba Zahouania songs",
+      "Cheba Zahouania new song {year}",
+      "Cheba Zahouania hit songs",
+      "Cheba Zahouania latest song"
+    ],
+    "Amel Bent": [
+      "Amel Bent songs",
+      "Amel Bent new song {year}",
+      "Amel Bent hit songs",
+      "Amel Bent latest song"
+    ],
+    "Dj Snake": [
+      "Dj Snake songs",
+      "Dj Snake new song {year}",
+      "Dj Snake hit songs",
+      "Dj Snake latest song"
+    ],
+    "Tayc": [
+      "Tayc songs",
+      "Tayc new song {year}",
+      "Tayc hit songs",
+      "Tayc latest song"
+    ]
+  },
+  "music_singers": [
+    "Soolking",
+    "Cheb Khaled",
+    "Cheb Mami",
+    "Faudel",
+    "Lotfi DK",
+    "Cheb Bilal",
+    "Reda Taliani",
+    "Mohamed Lamine",
+    "Imen Es",
+    "Houari Dauphin",
+    "Cheba Zahouania",
+    "Amel Bent",
+    "Dj Snake",
+    "Tayc"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "راي",
+    "راب جزائري",
+    "شعبي جزائري"
+  ]
+}

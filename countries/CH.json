@@ -1,0 +1,180 @@
+{
+  "_comment": "CH: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Swiss Hits",
+    "Mundart",
+    "Romandie",
+    "Nemo",
+    "Stress",
+    "Bastian Baker",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Swiss Hits": [
+      "schweizer hits {year}",
+      "neue schweizer songs {year}",
+      "swiss charts hits"
+    ],
+    "Mundart": [
+      "mundart songs",
+      "schweizer mundart pop"
+    ],
+    "Romandie": [
+      "chanson romande",
+      "musique suisse romande"
+    ],
+    "News": [
+      "Nachrichten heute",
+      "Nachrichten heute live"
+    ],
+    "Sports": [
+      "Sport Highlights",
+      "Sport Highlights {year}"
+    ],
+    "Nemo": [
+      "Nemo songs",
+      "Nemo new song {year}"
+    ],
+    "Stress": [
+      "Stress songs",
+      "Stress new song {year}"
+    ],
+    "Bastian Baker": [
+      "Bastian Baker songs",
+      "Bastian Baker new song {year}"
+    ],
+    "Top Charts": [
+      "schweizer hits {year}",
+      "swiss charts hits"
+    ],
+    "New Releases": [
+      "neue schweizer songs {year}",
+      "schweizer hits {year}"
+    ],
+    "Trending": [
+      "swiss charts hits",
+      "neue schweizer songs {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Switzerland {year}",
+      "latest Switzerland videos today",
+      "Switzerland trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Switzerland gameplay {year}",
+      "Switzerland gaming videos"
+    ],
+    "Fashion": [
+      "Switzerland fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Luca Hänni": [
+      "Luca Hänni songs",
+      "Luca Hänni new song {year}",
+      "Luca Hänni hit songs",
+      "Luca Hänni latest song"
+    ],
+    "Lo & Leduc": [
+      "Lo & Leduc songs",
+      "Lo & Leduc new song {year}",
+      "Lo & Leduc hit songs",
+      "Lo & Leduc latest song"
+    ],
+    "Loco Escrito": [
+      "Loco Escrito songs",
+      "Loco Escrito new song {year}",
+      "Loco Escrito hit songs",
+      "Loco Escrito latest song"
+    ],
+    "Sophie Hunger": [
+      "Sophie Hunger songs",
+      "Sophie Hunger new song {year}",
+      "Sophie Hunger hit songs",
+      "Sophie Hunger latest song"
+    ],
+    "Gotthard": [
+      "Gotthard songs",
+      "Gotthard new song {year}",
+      "Gotthard hit songs",
+      "Gotthard latest song"
+    ],
+    "Baschi": [
+      "Baschi songs",
+      "Baschi new song {year}",
+      "Baschi hit songs",
+      "Baschi latest song"
+    ],
+    "Seven": [
+      "Seven songs",
+      "Seven new song {year}",
+      "Seven hit songs",
+      "Seven latest song"
+    ],
+    "Zoë Më": [
+      "Zoë Më songs",
+      "Zoë Më new song {year}",
+      "Zoë Më hit songs",
+      "Zoë Më latest song"
+    ],
+    "Patent Ochsner": [
+      "Patent Ochsner songs",
+      "Patent Ochsner new song {year}",
+      "Patent Ochsner hit songs",
+      "Patent Ochsner latest song"
+    ],
+    "Kunz": [
+      "Kunz songs",
+      "Kunz new song {year}",
+      "Kunz hit songs",
+      "Kunz latest song"
+    ],
+    "Mani Matter": [
+      "Mani Matter songs",
+      "Mani Matter new song {year}",
+      "Mani Matter hit songs",
+      "Mani Matter latest song"
+    ],
+    "Bligg": [
+      "Bligg songs",
+      "Bligg new song {year}",
+      "Bligg hit songs",
+      "Bligg latest song"
+    ],
+    "Sandra Studer": [
+      "Sandra Studer songs",
+      "Sandra Studer new song {year}",
+      "Sandra Studer hit songs",
+      "Sandra Studer latest song"
+    ]
+  },
+  "music_singers": [
+    "Nemo",
+    "Stress",
+    "Bastian Baker",
+    "Luca Hänni",
+    "Lo & Leduc",
+    "Loco Escrito",
+    "Sophie Hunger",
+    "Gotthard",
+    "Baschi",
+    "Seven",
+    "Zoë Më",
+    "Patent Ochsner",
+    "Kunz",
+    "Mani Matter",
+    "Bligg",
+    "Sandra Studer"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Mundart",
+    "Romandie"
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "_comment": "DO: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Dominican Hits",
+    "Bachata",
+    "Dembow",
+    "Merengue",
+    "Romeo Santos",
+    "Aventura",
+    "Juan Luis Guerra",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Dominican Hits": [
+      "música dominicana {year}",
+      "dembow {year}",
+      "éxitos república dominicana"
+    ],
+    "Bachata": [
+      "bachata {year}",
+      "bachata éxitos"
+    ],
+    "Dembow": [
+      "dembow {year}",
+      "dembow dominicano"
+    ],
+    "Merengue": [
+      "merengue éxitos",
+      "merengue clásico"
+    ],
+    "News": [
+      "noticias hoy",
+      "noticias hoy live"
+    ],
+    "Sports": [
+      "deportes resumen",
+      "deportes resumen {year}"
+    ],
+    "Romeo Santos": [
+      "Romeo Santos songs",
+      "Romeo Santos new song {year}"
+    ],
+    "Aventura": [
+      "Aventura songs",
+      "Aventura new song {year}"
+    ],
+    "Juan Luis Guerra": [
+      "Juan Luis Guerra songs",
+      "Juan Luis Guerra new song {year}"
+    ],
+    "Top Charts": [
+      "música dominicana {year}",
+      "éxitos república dominicana"
+    ],
+    "New Releases": [
+      "dembow {year}",
+      "música dominicana {year}"
+    ],
+    "Trending": [
+      "éxitos república dominicana",
+      "dembow {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Dominican Republic {year}",
+      "latest Dominican Republic videos today",
+      "Dominican Republic trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Dominican Republic gameplay {year}",
+      "Dominican Republic gaming videos"
+    ],
+    "Fashion": [
+      "Dominican Republic fashion {year}",
+      "fashion trends {year}"
+    ],
+    "El Alfa": [
+      "El Alfa songs",
+      "El Alfa new song {year}",
+      "El Alfa hit songs",
+      "El Alfa latest song"
+    ],
+    "Tokischa": [
+      "Tokischa songs",
+      "Tokischa new song {year}",
+      "Tokischa hit songs",
+      "Tokischa latest song"
+    ],
+    "Natti Natasha": [
+      "Natti Natasha songs",
+      "Natti Natasha new song {year}",
+      "Natti Natasha hit songs",
+      "Natti Natasha latest song"
+    ],
+    "Chimbala": [
+      "Chimbala songs",
+      "Chimbala new song {year}",
+      "Chimbala hit songs",
+      "Chimbala latest song"
+    ],
+    "Rochy RD": [
+      "Rochy RD songs",
+      "Rochy RD new song {year}",
+      "Rochy RD hit songs",
+      "Rochy RD latest song"
+    ],
+    "Yailin la Más Viral": [
+      "Yailin la Más Viral songs",
+      "Yailin la Más Viral new song {year}",
+      "Yailin la Más Viral hit songs",
+      "Yailin la Más Viral latest song"
+    ],
+    "Raulin Rodríguez": [
+      "Raulin Rodríguez songs",
+      "Raulin Rodríguez new song {year}",
+      "Raulin Rodríguez hit songs",
+      "Raulin Rodríguez latest song"
+    ],
+    "Eddy Herrera": [
+      "Eddy Herrera songs",
+      "Eddy Herrera new song {year}",
+      "Eddy Herrera hit songs",
+      "Eddy Herrera latest song"
+    ],
+    "Johnny Ventura": [
+      "Johnny Ventura songs",
+      "Johnny Ventura new song {year}",
+      "Johnny Ventura hit songs",
+      "Johnny Ventura latest song"
+    ],
+    "Wilfrido Vargas": [
+      "Wilfrido Vargas songs",
+      "Wilfrido Vargas new song {year}",
+      "Wilfrido Vargas hit songs",
+      "Wilfrido Vargas latest song"
+    ],
+    "Milly Quezada": [
+      "Milly Quezada songs",
+      "Milly Quezada new song {year}",
+      "Milly Quezada hit songs",
+      "Milly Quezada latest song"
+    ],
+    "Fernando Villalona": [
+      "Fernando Villalona songs",
+      "Fernando Villalona new song {year}",
+      "Fernando Villalona hit songs",
+      "Fernando Villalona latest song"
+    ],
+    "Prince Royce": [
+      "Prince Royce songs",
+      "Prince Royce new song {year}",
+      "Prince Royce hit songs",
+      "Prince Royce latest song"
+    ],
+    "Toño Rosario": [
+      "Toño Rosario songs",
+      "Toño Rosario new song {year}",
+      "Toño Rosario hit songs",
+      "Toño Rosario latest song"
+    ]
+  },
+  "music_singers": [
+    "Romeo Santos",
+    "Aventura",
+    "Juan Luis Guerra",
+    "El Alfa",
+    "Tokischa",
+    "Natti Natasha",
+    "Chimbala",
+    "Rochy RD",
+    "Yailin la Más Viral",
+    "Raulin Rodríguez",
+    "Eddy Herrera",
+    "Johnny Ventura",
+    "Wilfrido Vargas",
+    "Milly Quezada",
+    "Fernando Villalona",
+    "Prince Royce",
+    "Toño Rosario"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Bachata",
+    "Dembow",
+    "Merengue"
+  ]
+}

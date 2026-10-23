@@ -1,0 +1,224 @@
+{
+  "_comment": "ID: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Indonesian Hits",
+    "Dangdut",
+    "Pop Indonesia",
+    "Indie Indonesia",
+    "Film Indonesia",
+    "Tulus",
+    "Raisa",
+    "Isyana Sarasvati",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Indonesian Hits": [
+      "lagu indonesia terbaru {year}",
+      "lagu pop indonesia {year}",
+      "top lagu indonesia"
+    ],
+    "Dangdut": [
+      "dangdut terbaru {year}",
+      "dangdut koplo terbaru"
+    ],
+    "Pop Indonesia": [
+      "lagu pop indonesia {year}",
+      "pop indonesia hits"
+    ],
+    "Indie Indonesia": [
+      "indie indonesia terbaru",
+      "lagu indie indonesia"
+    ],
+    "Lagu Galau": [
+      "lagu galau terbaru",
+      "lagu sedih indonesia"
+    ],
+    "Film Indonesia": [
+      "film indonesia full movie",
+      "film indonesia terbaru"
+    ],
+    "News": [
+      "berita hari ini",
+      "berita hari ini live"
+    ],
+    "Sports": [
+      "olahraga highlight",
+      "olahraga highlight {year}"
+    ],
+    "Tulus": [
+      "Tulus songs",
+      "Tulus new song {year}"
+    ],
+    "Raisa": [
+      "Raisa songs",
+      "Raisa new song {year}"
+    ],
+    "Isyana Sarasvati": [
+      "Isyana Sarasvati songs",
+      "Isyana Sarasvati new song {year}"
+    ],
+    "Top Charts": [
+      "lagu indonesia terbaru {year}",
+      "top lagu indonesia"
+    ],
+    "New Releases": [
+      "lagu pop indonesia {year}",
+      "lagu indonesia terbaru {year}"
+    ],
+    "Trending": [
+      "top lagu indonesia",
+      "lagu pop indonesia {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Indonesia {year}",
+      "latest Indonesia videos today",
+      "Indonesia trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Indonesia gameplay {year}",
+      "Indonesia gaming videos"
+    ],
+    "Fashion": [
+      "Indonesia fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Rizky Febian": [
+      "Rizky Febian songs",
+      "Rizky Febian new song {year}",
+      "Rizky Febian hit songs",
+      "Rizky Febian latest song"
+    ],
+    "Afgan": [
+      "Afgan songs",
+      "Afgan new song {year}",
+      "Afgan hit songs",
+      "Afgan latest song"
+    ],
+    "Lyodra": [
+      "Lyodra songs",
+      "Lyodra new song {year}",
+      "Lyodra hit songs",
+      "Lyodra latest song"
+    ],
+    "Tiara Andini": [
+      "Tiara Andini songs",
+      "Tiara Andini new song {year}",
+      "Tiara Andini hit songs",
+      "Tiara Andini latest song"
+    ],
+    "Ziva Magnolya": [
+      "Ziva Magnolya songs",
+      "Ziva Magnolya new song {year}",
+      "Ziva Magnolya hit songs",
+      "Ziva Magnolya latest song"
+    ],
+    "Juicy Luicy": [
+      "Juicy Luicy songs",
+      "Juicy Luicy new song {year}",
+      "Juicy Luicy hit songs",
+      "Juicy Luicy latest song"
+    ],
+    "Hindia": [
+      "Hindia songs",
+      "Hindia new song {year}",
+      "Hindia hit songs",
+      "Hindia latest song"
+    ],
+    "Denny Caknan": [
+      "Denny Caknan songs",
+      "Denny Caknan new song {year}",
+      "Denny Caknan hit songs",
+      "Denny Caknan latest song"
+    ],
+    "Guyon Waton": [
+      "Guyon Waton songs",
+      "Guyon Waton new song {year}",
+      "Guyon Waton hit songs",
+      "Guyon Waton latest song"
+    ],
+    "Happy Asmara": [
+      "Happy Asmara songs",
+      "Happy Asmara new song {year}",
+      "Happy Asmara hit songs",
+      "Happy Asmara latest song"
+    ],
+    "Nadin Amizah": [
+      "Nadin Amizah songs",
+      "Nadin Amizah new song {year}",
+      "Nadin Amizah hit songs",
+      "Nadin Amizah latest song"
+    ],
+    "Mahalini": [
+      "Mahalini songs",
+      "Mahalini new song {year}",
+      "Mahalini hit songs",
+      "Mahalini latest song"
+    ],
+    "Sheila on 7": [
+      "Sheila on 7 songs",
+      "Sheila on 7 new song {year}",
+      "Sheila on 7 hit songs",
+      "Sheila on 7 latest song"
+    ],
+    "Dewa 19": [
+      "Dewa 19 songs",
+      "Dewa 19 new song {year}",
+      "Dewa 19 hit songs",
+      "Dewa 19 latest song"
+    ],
+    "NOAH": [
+      "NOAH songs",
+      "NOAH new song {year}",
+      "NOAH hit songs",
+      "NOAH latest song"
+    ],
+    "Fiersa Besari": [
+      "Fiersa Besari songs",
+      "Fiersa Besari new song {year}",
+      "Fiersa Besari hit songs",
+      "Fiersa Besari latest song"
+    ],
+    "Pamungkas": [
+      "Pamungkas songs",
+      "Pamungkas new song {year}",
+      "Pamungkas hit songs",
+      "Pamungkas latest song"
+    ]
+  },
+  "music_singers": [
+    "Tulus",
+    "Raisa",
+    "Isyana Sarasvati",
+    "Rizky Febian",
+    "Afgan",
+    "Lyodra",
+    "Tiara Andini",
+    "Ziva Magnolya",
+    "Juicy Luicy",
+    "Hindia",
+    "Denny Caknan",
+    "Guyon Waton",
+    "Happy Asmara",
+    "Nadin Amizah",
+    "Mahalini",
+    "Sheila on 7",
+    "Dewa 19",
+    "NOAH",
+    "Fiersa Besari",
+    "Pamungkas"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Dangdut",
+    "Pop Indonesia",
+    "Indie Indonesia",
+    "Lagu Galau"
+  ]
+}

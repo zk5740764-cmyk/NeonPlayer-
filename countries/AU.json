@@ -1,0 +1,193 @@
+{
+  "_comment": "AU: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Australian Hits",
+    "Aussie Rock",
+    "Aussie Hip-Hop",
+    "Triple J",
+    "Kylie Minogue",
+    "The Kid LAROI",
+    "Tones and I",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Australian Hits": [
+      "australia top songs {year}",
+      "new australian songs {year}",
+      "triple j hits"
+    ],
+    "Aussie Rock": [
+      "australian rock songs",
+      "aussie pub rock"
+    ],
+    "Aussie Hip-Hop": [
+      "australian hip hop",
+      "aussie rap songs"
+    ],
+    "Triple J": [
+      "triple j like a version",
+      "triple j hits"
+    ],
+    "News": [
+      "Australian news today",
+      "Australian news today live"
+    ],
+    "Sports": [
+      "Australian sports highlights",
+      "Australian sports highlights {year}"
+    ],
+    "Kylie Minogue": [
+      "Kylie Minogue songs",
+      "Kylie Minogue new song {year}"
+    ],
+    "The Kid LAROI": [
+      "The Kid LAROI songs",
+      "The Kid LAROI new song {year}"
+    ],
+    "Tones and I": [
+      "Tones and I songs",
+      "Tones and I new song {year}"
+    ],
+    "Top Charts": [
+      "australia top songs {year}",
+      "triple j hits"
+    ],
+    "New Releases": [
+      "new australian songs {year}",
+      "australia top songs {year}"
+    ],
+    "Trending": [
+      "triple j hits",
+      "new australian songs {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Australia {year}",
+      "latest Australia videos today",
+      "Australia trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Australia gameplay {year}",
+      "Australia gaming videos"
+    ],
+    "Fashion": [
+      "Australia fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Troye Sivan": [
+      "Troye Sivan songs",
+      "Troye Sivan new song {year}",
+      "Troye Sivan hit songs",
+      "Troye Sivan latest song"
+    ],
+    "Sia": [
+      "Sia songs",
+      "Sia new song {year}",
+      "Sia hit songs",
+      "Sia latest song"
+    ],
+    "Flume": [
+      "Flume songs",
+      "Flume new song {year}",
+      "Flume hit songs",
+      "Flume latest song"
+    ],
+    "Vance Joy": [
+      "Vance Joy songs",
+      "Vance Joy new song {year}",
+      "Vance Joy hit songs",
+      "Vance Joy latest song"
+    ],
+    "Tame Impala": [
+      "Tame Impala songs",
+      "Tame Impala new song {year}",
+      "Tame Impala hit songs",
+      "Tame Impala latest song"
+    ],
+    "G Flip": [
+      "G Flip songs",
+      "G Flip new song {year}",
+      "G Flip hit songs",
+      "G Flip latest song"
+    ],
+    "Budjerah": [
+      "Budjerah songs",
+      "Budjerah new song {year}",
+      "Budjerah hit songs",
+      "Budjerah latest song"
+    ],
+    "Royel Otis": [
+      "Royel Otis songs",
+      "Royel Otis new song {year}",
+      "Royel Otis hit songs",
+      "Royel Otis latest song"
+    ],
+    "Dean Lewis": [
+      "Dean Lewis songs",
+      "Dean Lewis new song {year}",
+      "Dean Lewis hit songs",
+      "Dean Lewis latest song"
+    ],
+    "Amy Shark": [
+      "Amy Shark songs",
+      "Amy Shark new song {year}",
+      "Amy Shark hit songs",
+      "Amy Shark latest song"
+    ],
+    "Genesis Owusu": [
+      "Genesis Owusu songs",
+      "Genesis Owusu new song {year}",
+      "Genesis Owusu hit songs",
+      "Genesis Owusu latest song"
+    ],
+    "Keith Urban": [
+      "Keith Urban songs",
+      "Keith Urban new song {year}",
+      "Keith Urban hit songs",
+      "Keith Urban latest song"
+    ],
+    "Peking Duk": [
+      "Peking Duk songs",
+      "Peking Duk new song {year}",
+      "Peking Duk hit songs",
+      "Peking Duk latest song"
+    ],
+    "Sheppard": [
+      "Sheppard songs",
+      "Sheppard new song {year}",
+      "Sheppard hit songs",
+      "Sheppard latest song"
+    ]
+  },
+  "music_singers": [
+    "Kylie Minogue",
+    "The Kid LAROI",
+    "Tones and I",
+    "Troye Sivan",
+    "Sia",
+    "Flume",
+    "Vance Joy",
+    "Tame Impala",
+    "G Flip",
+    "Budjerah",
+    "Royel Otis",
+    "Dean Lewis",
+    "Amy Shark",
+    "Genesis Owusu",
+    "Keith Urban",
+    "Peking Duk",
+    "Sheppard"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Aussie Rock",
+    "Aussie Hip-Hop",
+    "Triple J"
+  ]
+}

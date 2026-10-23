@@ -1,0 +1,199 @@
+{
+  "_comment": "BD: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Bangladeshi Hits",
+    "Bangla Band",
+    "Rabindra Sangeet",
+    "Bangla Natok",
+    "Tahsan",
+    "Habib Wahid",
+    "Arfin Rumey",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Bangladeshi Hits": [
+      "bangla gaan {year}",
+      "new bangla song",
+      "bangladeshi hit songs"
+    ],
+    "Bangla Band": [
+      "bangla band song",
+      "bangla band live"
+    ],
+    "Rabindra Sangeet": [
+      "rabindra sangeet",
+      "rabindrasangeet bangla"
+    ],
+    "Bangla Natok": [
+      "bangla natok full",
+      "new bangla natok"
+    ],
+    "News": [
+      "আজকের খবর",
+      "আজকের খবর live"
+    ],
+    "Sports": [
+      "খেলা হাইলাইটস",
+      "খেলা হাইলাইটস {year}"
+    ],
+    "Tahsan": [
+      "Tahsan songs",
+      "Tahsan new song {year}"
+    ],
+    "Habib Wahid": [
+      "Habib Wahid songs",
+      "Habib Wahid new song {year}"
+    ],
+    "Arfin Rumey": [
+      "Arfin Rumey songs",
+      "Arfin Rumey new song {year}"
+    ],
+    "Top Charts": [
+      "bangla gaan {year}",
+      "bangladeshi hit songs"
+    ],
+    "New Releases": [
+      "new bangla song",
+      "bangla gaan {year}"
+    ],
+    "Trending": [
+      "bangladeshi hit songs",
+      "new bangla song"
+    ],
+    "Recently uploaded": [
+      "new videos Bangladesh {year}",
+      "latest Bangladesh videos today",
+      "Bangladesh trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Bangladesh gameplay {year}",
+      "Bangladesh gaming videos"
+    ],
+    "Fashion": [
+      "Bangladesh fashion {year}",
+      "fashion trends {year}"
+    ],
+    "James": [
+      "James songs",
+      "James new song {year}",
+      "James hit songs",
+      "James latest song"
+    ],
+    "Minar Rahman": [
+      "Minar Rahman songs",
+      "Minar Rahman new song {year}",
+      "Minar Rahman hit songs",
+      "Minar Rahman latest song"
+    ],
+    "Imran Mahmudul": [
+      "Imran Mahmudul songs",
+      "Imran Mahmudul new song {year}",
+      "Imran Mahmudul hit songs",
+      "Imran Mahmudul latest song"
+    ],
+    "Konal": [
+      "Konal songs",
+      "Konal new song {year}",
+      "Konal hit songs",
+      "Konal latest song"
+    ],
+    "Shironamhin": [
+      "Shironamhin songs",
+      "Shironamhin new song {year}",
+      "Shironamhin hit songs",
+      "Shironamhin latest song"
+    ],
+    "Pritom Hasan": [
+      "Pritom Hasan songs",
+      "Pritom Hasan new song {year}",
+      "Pritom Hasan hit songs",
+      "Pritom Hasan latest song"
+    ],
+    "Tasrif Khan": [
+      "Tasrif Khan songs",
+      "Tasrif Khan new song {year}",
+      "Tasrif Khan hit songs",
+      "Tasrif Khan latest song"
+    ],
+    "Ayub Bachchu": [
+      "Ayub Bachchu songs",
+      "Ayub Bachchu new song {year}",
+      "Ayub Bachchu hit songs",
+      "Ayub Bachchu latest song"
+    ],
+    "Jisan Khan Shuvo": [
+      "Jisan Khan Shuvo songs",
+      "Jisan Khan Shuvo new song {year}",
+      "Jisan Khan Shuvo hit songs",
+      "Jisan Khan Shuvo latest song"
+    ],
+    "Mahtim Shakib": [
+      "Mahtim Shakib songs",
+      "Mahtim Shakib new song {year}",
+      "Mahtim Shakib hit songs",
+      "Mahtim Shakib latest song"
+    ],
+    "Kazi Shuvo": [
+      "Kazi Shuvo songs",
+      "Kazi Shuvo new song {year}",
+      "Kazi Shuvo hit songs",
+      "Kazi Shuvo latest song"
+    ],
+    "Hridoy Khan": [
+      "Hridoy Khan songs",
+      "Hridoy Khan new song {year}",
+      "Hridoy Khan hit songs",
+      "Hridoy Khan latest song"
+    ],
+    "Nancy": [
+      "Nancy songs",
+      "Nancy new song {year}",
+      "Nancy hit songs",
+      "Nancy latest song"
+    ],
+    "Dolly Sayontoni": [
+      "Dolly Sayontoni songs",
+      "Dolly Sayontoni new song {year}",
+      "Dolly Sayontoni hit songs",
+      "Dolly Sayontoni latest song"
+    ],
+    "Atif Ahmed Niloy": [
+      "Atif Ahmed Niloy songs",
+      "Atif Ahmed Niloy new song {year}",
+      "Atif Ahmed Niloy hit songs",
+      "Atif Ahmed Niloy latest song"
+    ]
+  },
+  "music_singers": [
+    "Tahsan",
+    "Habib Wahid",
+    "Arfin Rumey",
+    "James",
+    "Minar Rahman",
+    "Imran Mahmudul",
+    "Konal",
+    "Shironamhin",
+    "Pritom Hasan",
+    "Tasrif Khan",
+    "Ayub Bachchu",
+    "Jisan Khan Shuvo",
+    "Mahtim Shakib",
+    "Kazi Shuvo",
+    "Hridoy Khan",
+    "Nancy",
+    "Dolly Sayontoni",
+    "Atif Ahmed Niloy"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Bangla Band",
+    "Rabindra Sangeet"
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "_comment": "BR: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Brazilian Hits",
+    "Sertanejo",
+    "Funk",
+    "Pagode",
+    "Filmes Brasileiros",
+    "Anitta",
+    "Luísa Sonza",
+    "Marília Mendonça",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Brazilian Hits": [
+      "músicas brasileiras {year}",
+      "lançamentos musicais {year}",
+      "top músicas brasil"
+    ],
+    "Sertanejo": [
+      "sertanejo {year}",
+      "sertanejo mais tocadas"
+    ],
+    "Funk": [
+      "funk {year}",
+      "funk mais tocadas"
+    ],
+    "Pagode": [
+      "pagode mais tocadas",
+      "pagode {year}"
+    ],
+    "Piseiro": [
+      "piseiro {year}",
+      "forró piseiro"
+    ],
+    "Filmes Brasileiros": [
+      "filme brasileiro completo",
+      "filme nacional completo"
+    ],
+    "News": [
+      "notícias hoje",
+      "notícias hoje live"
+    ],
+    "Sports": [
+      "esportes melhores momentos",
+      "esportes melhores momentos {year}"
+    ],
+    "Anitta": [
+      "Anitta songs",
+      "Anitta new song {year}"
+    ],
+    "Luísa Sonza": [
+      "Luísa Sonza songs",
+      "Luísa Sonza new song {year}"
+    ],
+    "Marília Mendonça": [
+      "Marília Mendonça songs",
+      "Marília Mendonça new song {year}"
+    ],
+    "Top Charts": [
+      "músicas brasileiras {year}",
+      "top músicas brasil"
+    ],
+    "New Releases": [
+      "lançamentos musicais {year}",
+      "músicas brasileiras {year}"
+    ],
+    "Trending": [
+      "top músicas brasil",
+      "lançamentos musicais {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Brazil {year}",
+      "latest Brazil videos today",
+      "Brazil trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Brazil gameplay {year}",
+      "Brazil gaming videos"
+    ],
+    "Fashion": [
+      "Brazil fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Gusttavo Lima": [
+      "Gusttavo Lima songs",
+      "Gusttavo Lima new song {year}",
+      "Gusttavo Lima hit songs",
+      "Gusttavo Lima latest song"
+    ],
+    "Jorge & Mateus": [
+      "Jorge & Mateus songs",
+      "Jorge & Mateus new song {year}",
+      "Jorge & Mateus hit songs",
+      "Jorge & Mateus latest song"
+    ],
+    "Henrique & Juliano": [
+      "Henrique & Juliano songs",
+      "Henrique & Juliano new song {year}",
+      "Henrique & Juliano hit songs",
+      "Henrique & Juliano latest song"
+    ],
+    "Ana Castela": [
+      "Ana Castela songs",
+      "Ana Castela new song {year}",
+      "Ana Castela hit songs",
+      "Ana Castela latest song"
+    ],
+    "Zé Neto & Cristiano": [
+      "Zé Neto & Cristiano songs",
+      "Zé Neto & Cristiano new song {year}",
+      "Zé Neto & Cristiano hit songs",
+      "Zé Neto & Cristiano latest song"
+    ],
+    "Matuê": [
+      "Matuê songs",
+      "Matuê new song {year}",
+      "Matuê hit songs",
+      "Matuê latest song"
+    ],
+    "Veigh": [
+      "Veigh songs",
+      "Veigh new song {year}",
+      "Veigh hit songs",
+      "Veigh latest song"
+    ],
+    "Ludmilla": [
+      "Ludmilla songs",
+      "Ludmilla new song {year}",
+      "Ludmilla hit songs",
+      "Ludmilla latest song"
+    ],
+    "Pabllo Vittar": [
+      "Pabllo Vittar songs",
+      "Pabllo Vittar new song {year}",
+      "Pabllo Vittar hit songs",
+      "Pabllo Vittar latest song"
+    ],
+    "Lauana Prado": [
+      "Lauana Prado songs",
+      "Lauana Prado new song {year}",
+      "Lauana Prado hit songs",
+      "Lauana Prado latest song"
+    ],
+    "Maiara & Maraisa": [
+      "Maiara & Maraisa songs",
+      "Maiara & Maraisa new song {year}",
+      "Maiara & Maraisa hit songs",
+      "Maiara & Maraisa latest song"
+    ],
+    "Natanzinho Lima": [
+      "Natanzinho Lima songs",
+      "Natanzinho Lima new song {year}",
+      "Natanzinho Lima hit songs",
+      "Natanzinho Lima latest song"
+    ],
+    "Vitor Kley": [
+      "Vitor Kley songs",
+      "Vitor Kley new song {year}",
+      "Vitor Kley hit songs",
+      "Vitor Kley latest song"
+    ],
+    "Luan Santana": [
+      "Luan Santana songs",
+      "Luan Santana new song {year}",
+      "Luan Santana hit songs",
+      "Luan Santana latest song"
+    ],
+    "Léo Santana": [
+      "Léo Santana songs",
+      "Léo Santana new song {year}",
+      "Léo Santana hit songs",
+      "Léo Santana latest song"
+    ],
+    "Xand Avião": [
+      "Xand Avião songs",
+      "Xand Avião new song {year}",
+      "Xand Avião hit songs",
+      "Xand Avião latest song"
+    ],
+    "Mari Fernandez": [
+      "Mari Fernandez songs",
+      "Mari Fernandez new song {year}",
+      "Mari Fernandez hit songs",
+      "Mari Fernandez latest song"
+    ]
+  },
+  "music_singers": [
+    "Anitta",
+    "Luísa Sonza",
+    "Marília Mendonça",
+    "Gusttavo Lima",
+    "Jorge & Mateus",
+    "Henrique & Juliano",
+    "Ana Castela",
+    "Zé Neto & Cristiano",
+    "Matuê",
+    "Veigh",
+    "Ludmilla",
+    "Pabllo Vittar",
+    "Lauana Prado",
+    "Maiara & Maraisa",
+    "Natanzinho Lima",
+    "Vitor Kley",
+    "Luan Santana",
+    "Léo Santana",
+    "Xand Avião",
+    "Mari Fernandez"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Sertanejo",
+    "Funk",
+    "Pagode",
+    "Piseiro"
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "_comment": "AT: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Austrian Hits",
+    "Austropop",
+    "Volksmusik",
+    "Wolfgang Ambros",
+    "Falco",
+    "Andreas Gabalier",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Austrian Hits": [
+      "österreich hits {year}",
+      "neue österreichische songs {year}",
+      "austropop hits"
+    ],
+    "Austropop": [
+      "austropop klassiker",
+      "austropop neu"
+    ],
+    "Volksmusik": [
+      "volksmusik österreich",
+      "volksmusik hits"
+    ],
+    "News": [
+      "Nachrichten heute",
+      "Nachrichten heute live"
+    ],
+    "Sports": [
+      "Sport Highlights",
+      "Sport Highlights {year}"
+    ],
+    "Wolfgang Ambros": [
+      "Wolfgang Ambros songs",
+      "Wolfgang Ambros new song {year}"
+    ],
+    "Falco": [
+      "Falco songs",
+      "Falco new song {year}"
+    ],
+    "Andreas Gabalier": [
+      "Andreas Gabalier songs",
+      "Andreas Gabalier new song {year}"
+    ],
+    "Top Charts": [
+      "österreich hits {year}",
+      "austropop hits"
+    ],
+    "New Releases": [
+      "neue österreichische songs {year}",
+      "österreich hits {year}"
+    ],
+    "Trending": [
+      "austropop hits",
+      "neue österreichische songs {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Austria {year}",
+      "latest Austria videos today",
+      "Austria trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Austria gameplay {year}",
+      "Austria gaming videos"
+    ],
+    "Fashion": [
+      "Austria fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Christina Stürmer": [
+      "Christina Stürmer songs",
+      "Christina Stürmer new song {year}",
+      "Christina Stürmer hit songs",
+      "Christina Stürmer latest song"
+    ],
+    "Wanda": [
+      "Wanda songs",
+      "Wanda new song {year}",
+      "Wanda hit songs",
+      "Wanda latest song"
+    ],
+    "Parov Stelar": [
+      "Parov Stelar songs",
+      "Parov Stelar new song {year}",
+      "Parov Stelar hit songs",
+      "Parov Stelar latest song"
+    ],
+    "Bilderbuch": [
+      "Bilderbuch songs",
+      "Bilderbuch new song {year}",
+      "Bilderbuch hit songs",
+      "Bilderbuch latest song"
+    ],
+    "Mavi Phoenix": [
+      "Mavi Phoenix songs",
+      "Mavi Phoenix new song {year}",
+      "Mavi Phoenix hit songs",
+      "Mavi Phoenix latest song"
+    ],
+    "Pizzera & Jaus": [
+      "Pizzera & Jaus songs",
+      "Pizzera & Jaus new song {year}",
+      "Pizzera & Jaus hit songs",
+      "Pizzera & Jaus latest song"
+    ],
+    "Seiler und Speer": [
+      "Seiler und Speer songs",
+      "Seiler und Speer new song {year}",
+      "Seiler und Speer hit songs",
+      "Seiler und Speer latest song"
+    ],
+    "Voodoo Jürgens": [
+      "Voodoo Jürgens songs",
+      "Voodoo Jürgens new song {year}",
+      "Voodoo Jürgens hit songs",
+      "Voodoo Jürgens latest song"
+    ],
+    "Raf Camora": [
+      "Raf Camora songs",
+      "Raf Camora new song {year}",
+      "Raf Camora hit songs",
+      "Raf Camora latest song"
+    ],
+    "Ankathie Koi": [
+      "Ankathie Koi songs",
+      "Ankathie Koi new song {year}",
+      "Ankathie Koi hit songs",
+      "Ankathie Koi latest song"
+    ],
+    "Conchita": [
+      "Conchita songs",
+      "Conchita new song {year}",
+      "Conchita hit songs",
+      "Conchita latest song"
+    ],
+    "Julian Le Play": [
+      "Julian Le Play songs",
+      "Julian Le Play new song {year}",
+      "Julian Le Play hit songs",
+      "Julian Le Play latest song"
+    ],
+    "Josh.": [
+      "Josh. songs",
+      "Josh. new song {year}",
+      "Josh. hit songs",
+      "Josh. latest song"
+    ]
+  },
+  "music_singers": [
+    "Wolfgang Ambros",
+    "Falco",
+    "Andreas Gabalier",
+    "Christina Stürmer",
+    "Wanda",
+    "Parov Stelar",
+    "Bilderbuch",
+    "Mavi Phoenix",
+    "Pizzera & Jaus",
+    "Seiler und Speer",
+    "Voodoo Jürgens",
+    "Raf Camora",
+    "Ankathie Koi",
+    "Conchita",
+    "Julian Le Play",
+    "Josh."
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Austropop",
+    "Volksmusik"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "_comment": "GR: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Greek Hits",
+    "Λαϊκά",
+    "Ελληνικό Trap",
+    "Έντεχνο",
+    "Sakis Rouvas",
+    "Despina Vandi",
+    "Elena Paparizou",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Greek Hits": [
+      "ελληνικά τραγούδια {year}",
+      "νέα ελληνικά τραγούδια {year}",
+      "greek hits"
+    ],
+    "Λαϊκά": [
+      "λαϊκά τραγούδια",
+      "λαϊκά hits"
+    ],
+    "Ελληνικό Trap": [
+      "greek trap {year}",
+      "ελληνικό ραπ"
+    ],
+    "Έντεχνο": [
+      "έντεχνο τραγούδια",
+      "έντεχνα hits"
+    ],
+    "News": [
+      "ειδήσεις σήμερα",
+      "ειδήσεις σήμερα live"
+    ],
+    "Sports": [
+      "αθλητικά highlights",
+      "αθλητικά highlights {year}"
+    ],
+    "Sakis Rouvas": [
+      "Sakis Rouvas songs",
+      "Sakis Rouvas new song {year}"
+    ],
+    "Despina Vandi": [
+      "Despina Vandi songs",
+      "Despina Vandi new song {year}"
+    ],
+    "Elena Paparizou": [
+      "Elena Paparizou songs",
+      "Elena Paparizou new song {year}"
+    ],
+    "Top Charts": [
+      "ελληνικά τραγούδια {year}",
+      "greek hits"
+    ],
+    "New Releases": [
+      "νέα ελληνικά τραγούδια {year}",
+      "ελληνικά τραγούδια {year}"
+    ],
+    "Trending": [
+      "greek hits",
+      "νέα ελληνικά τραγούδια {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Greece {year}",
+      "latest Greece videos today",
+      "Greece trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Greece gameplay {year}",
+      "Greece gaming videos"
+    ],
+    "Fashion": [
+      "Greece fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Anna Vissi": [
+      "Anna Vissi songs",
+      "Anna Vissi new song {year}",
+      "Anna Vissi hit songs",
+      "Anna Vissi latest song"
+    ],
+    "Giorgos Mazonakis": [
+      "Giorgos Mazonakis songs",
+      "Giorgos Mazonakis new song {year}",
+      "Giorgos Mazonakis hit songs",
+      "Giorgos Mazonakis latest song"
+    ],
+    "Antonis Remos": [
+      "Antonis Remos songs",
+      "Antonis Remos new song {year}",
+      "Antonis Remos hit songs",
+      "Antonis Remos latest song"
+    ],
+    "Notis Sfakianakis": [
+      "Notis Sfakianakis songs",
+      "Notis Sfakianakis new song {year}",
+      "Notis Sfakianakis hit songs",
+      "Notis Sfakianakis latest song"
+    ],
+    "Konstantinos Argiros": [
+      "Konstantinos Argiros songs",
+      "Konstantinos Argiros new song {year}",
+      "Konstantinos Argiros hit songs",
+      "Konstantinos Argiros latest song"
+    ],
+    "Katy Garbi": [
+      "Katy Garbi songs",
+      "Katy Garbi new song {year}",
+      "Katy Garbi hit songs",
+      "Katy Garbi latest song"
+    ],
+    "Michalis Hatzigiannis": [
+      "Michalis Hatzigiannis songs",
+      "Michalis Hatzigiannis new song {year}",
+      "Michalis Hatzigiannis hit songs",
+      "Michalis Hatzigiannis latest song"
+    ],
+    "Marina Satti": [
+      "Marina Satti songs",
+      "Marina Satti new song {year}",
+      "Marina Satti hit songs",
+      "Marina Satti latest song"
+    ],
+    "Stefania": [
+      "Stefania songs",
+      "Stefania new song {year}",
+      "Stefania hit songs",
+      "Stefania latest song"
+    ],
+    "Nikos Vertis": [
+      "Nikos Vertis songs",
+      "Nikos Vertis new song {year}",
+      "Nikos Vertis hit songs",
+      "Nikos Vertis latest song"
+    ],
+    "Peggy Zina": [
+      "Peggy Zina songs",
+      "Peggy Zina new song {year}",
+      "Peggy Zina hit songs",
+      "Peggy Zina latest song"
+    ],
+    "Panos Kiamos": [
+      "Panos Kiamos songs",
+      "Panos Kiamos new song {year}",
+      "Panos Kiamos hit songs",
+      "Panos Kiamos latest song"
+    ],
+    "Thanos Petrelis": [
+      "Thanos Petrelis songs",
+      "Thanos Petrelis new song {year}",
+      "Thanos Petrelis hit songs",
+      "Thanos Petrelis latest song"
+    ],
+    "Light": [
+      "Light songs",
+      "Light new song {year}",
+      "Light hit songs",
+      "Light latest song"
+    ],
+    "Snik": [
+      "Snik songs",
+      "Snik new song {year}",
+      "Snik hit songs",
+      "Snik latest song"
+    ],
+    "Eleni Foureira": [
+      "Eleni Foureira songs",
+      "Eleni Foureira new song {year}",
+      "Eleni Foureira hit songs",
+      "Eleni Foureira latest song"
+    ],
+    "Mad Clip": [
+      "Mad Clip songs",
+      "Mad Clip new song {year}",
+      "Mad Clip hit songs",
+      "Mad Clip latest song"
+    ]
+  },
+  "music_singers": [
+    "Sakis Rouvas",
+    "Despina Vandi",
+    "Elena Paparizou",
+    "Anna Vissi",
+    "Giorgos Mazonakis",
+    "Antonis Remos",
+    "Notis Sfakianakis",
+    "Konstantinos Argiros",
+    "Katy Garbi",
+    "Michalis Hatzigiannis",
+    "Marina Satti",
+    "Stefania",
+    "Nikos Vertis",
+    "Peggy Zina",
+    "Panos Kiamos",
+    "Thanos Petrelis",
+    "Light",
+    "Snik",
+    "Eleni Foureira",
+    "Mad Clip"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Λαϊκά",
+    "Ελληνικό Trap",
+    "Έντεχνο"
+  ]
+}

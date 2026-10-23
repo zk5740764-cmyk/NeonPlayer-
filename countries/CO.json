@@ -1,0 +1,214 @@
+{
+  "_comment": "CO: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Colombian Hits",
+    "Reggaeton",
+    "Vallenato",
+    "Pop Latino",
+    "J Balvin",
+    "Karol G",
+    "Feid",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Colombian Hits": [
+      "música colombiana {year}",
+      "reggaeton colombia {year}",
+      "éxitos colombia"
+    ],
+    "Reggaeton": [
+      "reggaeton {year}",
+      "reggaeton nuevo"
+    ],
+    "Vallenato": [
+      "vallenato éxitos",
+      "vallenato nuevo"
+    ],
+    "Pop Latino": [
+      "pop latino {year}",
+      "pop en español éxitos"
+    ],
+    "News": [
+      "noticias hoy",
+      "noticias hoy live"
+    ],
+    "Sports": [
+      "deportes resumen",
+      "deportes resumen {year}"
+    ],
+    "J Balvin": [
+      "J Balvin songs",
+      "J Balvin new song {year}"
+    ],
+    "Karol G": [
+      "Karol G songs",
+      "Karol G new song {year}"
+    ],
+    "Feid": [
+      "Feid songs",
+      "Feid new song {year}"
+    ],
+    "Top Charts": [
+      "música colombiana {year}",
+      "éxitos colombia"
+    ],
+    "New Releases": [
+      "reggaeton colombia {year}",
+      "música colombiana {year}"
+    ],
+    "Trending": [
+      "éxitos colombia",
+      "reggaeton colombia {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Colombia {year}",
+      "latest Colombia videos today",
+      "Colombia trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Colombia gameplay {year}",
+      "Colombia gaming videos"
+    ],
+    "Fashion": [
+      "Colombia fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Maluma": [
+      "Maluma songs",
+      "Maluma new song {year}",
+      "Maluma hit songs",
+      "Maluma latest song"
+    ],
+    "Shakira": [
+      "Shakira songs",
+      "Shakira new song {year}",
+      "Shakira hit songs",
+      "Shakira latest song"
+    ],
+    "Camilo": [
+      "Camilo songs",
+      "Camilo new song {year}",
+      "Camilo hit songs",
+      "Camilo latest song"
+    ],
+    "Sebastián Yatra": [
+      "Sebastián Yatra songs",
+      "Sebastián Yatra new song {year}",
+      "Sebastián Yatra hit songs",
+      "Sebastián Yatra latest song"
+    ],
+    "Ryan Castro": [
+      "Ryan Castro songs",
+      "Ryan Castro new song {year}",
+      "Ryan Castro hit songs",
+      "Ryan Castro latest song"
+    ],
+    "Blessd": [
+      "Blessd songs",
+      "Blessd new song {year}",
+      "Blessd hit songs",
+      "Blessd latest song"
+    ],
+    "Manuel Turizo": [
+      "Manuel Turizo songs",
+      "Manuel Turizo new song {year}",
+      "Manuel Turizo hit songs",
+      "Manuel Turizo latest song"
+    ],
+    "Carlos Vives": [
+      "Carlos Vives songs",
+      "Carlos Vives new song {year}",
+      "Carlos Vives hit songs",
+      "Carlos Vives latest song"
+    ],
+    "Kali Uchis": [
+      "Kali Uchis songs",
+      "Kali Uchis new song {year}",
+      "Kali Uchis hit songs",
+      "Kali Uchis latest song"
+    ],
+    "Greeicy": [
+      "Greeicy songs",
+      "Greeicy new song {year}",
+      "Greeicy hit songs",
+      "Greeicy latest song"
+    ],
+    "Piso 21": [
+      "Piso 21 songs",
+      "Piso 21 new song {year}",
+      "Piso 21 hit songs",
+      "Piso 21 latest song"
+    ],
+    "Juanes": [
+      "Juanes songs",
+      "Juanes new song {year}",
+      "Juanes hit songs",
+      "Juanes latest song"
+    ],
+    "Mike Bahía": [
+      "Mike Bahía songs",
+      "Mike Bahía new song {year}",
+      "Mike Bahía hit songs",
+      "Mike Bahía latest song"
+    ],
+    "Mora": [
+      "Mora songs",
+      "Mora new song {year}",
+      "Mora hit songs",
+      "Mora latest song"
+    ],
+    "Danny Ocean": [
+      "Danny Ocean songs",
+      "Danny Ocean new song {year}",
+      "Danny Ocean hit songs",
+      "Danny Ocean latest song"
+    ],
+    "Nath": [
+      "Nath songs",
+      "Nath new song {year}",
+      "Nath hit songs",
+      "Nath latest song"
+    ],
+    "Silvestre Dangond": [
+      "Silvestre Dangond songs",
+      "Silvestre Dangond new song {year}",
+      "Silvestre Dangond hit songs",
+      "Silvestre Dangond latest song"
+    ]
+  },
+  "music_singers": [
+    "J Balvin",
+    "Karol G",
+    "Feid",
+    "Maluma",
+    "Shakira",
+    "Camilo",
+    "Sebastián Yatra",
+    "Ryan Castro",
+    "Blessd",
+    "Manuel Turizo",
+    "Carlos Vives",
+    "Kali Uchis",
+    "Greeicy",
+    "Piso 21",
+    "Juanes",
+    "Mike Bahía",
+    "Mora",
+    "Danny Ocean",
+    "Nath",
+    "Silvestre Dangond"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Reggaeton",
+    "Vallenato",
+    "Pop Latino"
+  ]
+}

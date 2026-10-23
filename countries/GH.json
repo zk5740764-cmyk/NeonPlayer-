@@ -1,0 +1,224 @@
+{
+  "_comment": "GH: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Ghanaian Hits",
+    "Highlife",
+    "Azonto & Afrobeats",
+    "Gospel Ghana",
+    "Kumawood",
+    "Sarkodie",
+    "Shatta Wale",
+    "Stonebwoy",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Ghanaian Hits": [
+      "ghana songs {year}",
+      "new ghana music {year}",
+      "ghana hits"
+    ],
+    "Highlife": [
+      "ghana highlife",
+      "highlife {year}"
+    ],
+    "Azonto & Afrobeats": [
+      "ghana afrobeats {year}",
+      "azonto songs"
+    ],
+    "Gospel Ghana": [
+      "ghana gospel songs",
+      "ghana gospel {year}"
+    ],
+    "Drill Ghana": [
+      "ghana drill",
+      "asakaa drill"
+    ],
+    "Kumawood": [
+      "kumawood movie",
+      "ghana movie full"
+    ],
+    "News": [
+      "Ghanaian news today",
+      "Ghanaian news today live"
+    ],
+    "Sports": [
+      "Ghanaian sports highlights",
+      "Ghanaian sports highlights {year}"
+    ],
+    "Sarkodie": [
+      "Sarkodie songs",
+      "Sarkodie new song {year}"
+    ],
+    "Shatta Wale": [
+      "Shatta Wale songs",
+      "Shatta Wale new song {year}"
+    ],
+    "Stonebwoy": [
+      "Stonebwoy songs",
+      "Stonebwoy new song {year}"
+    ],
+    "Top Charts": [
+      "ghana songs {year}",
+      "ghana hits"
+    ],
+    "New Releases": [
+      "new ghana music {year}",
+      "ghana songs {year}"
+    ],
+    "Trending": [
+      "ghana hits",
+      "new ghana music {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Ghana {year}",
+      "latest Ghana videos today",
+      "Ghana trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Ghana gameplay {year}",
+      "Ghana gaming videos"
+    ],
+    "Fashion": [
+      "Ghana fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Black Sherif": [
+      "Black Sherif songs",
+      "Black Sherif new song {year}",
+      "Black Sherif hit songs",
+      "Black Sherif latest song"
+    ],
+    "King Promise": [
+      "King Promise songs",
+      "King Promise new song {year}",
+      "King Promise hit songs",
+      "King Promise latest song"
+    ],
+    "Kuami Eugene": [
+      "Kuami Eugene songs",
+      "Kuami Eugene new song {year}",
+      "Kuami Eugene hit songs",
+      "Kuami Eugene latest song"
+    ],
+    "Medikal": [
+      "Medikal songs",
+      "Medikal new song {year}",
+      "Medikal hit songs",
+      "Medikal latest song"
+    ],
+    "Gyakie": [
+      "Gyakie songs",
+      "Gyakie new song {year}",
+      "Gyakie hit songs",
+      "Gyakie latest song"
+    ],
+    "KiDi": [
+      "KiDi songs",
+      "KiDi new song {year}",
+      "KiDi hit songs",
+      "KiDi latest song"
+    ],
+    "Camidoh": [
+      "Camidoh songs",
+      "Camidoh new song {year}",
+      "Camidoh hit songs",
+      "Camidoh latest song"
+    ],
+    "Fameye": [
+      "Fameye songs",
+      "Fameye new song {year}",
+      "Fameye hit songs",
+      "Fameye latest song"
+    ],
+    "Joey B": [
+      "Joey B songs",
+      "Joey B new song {year}",
+      "Joey B hit songs",
+      "Joey B latest song"
+    ],
+    "Efya": [
+      "Efya songs",
+      "Efya new song {year}",
+      "Efya hit songs",
+      "Efya latest song"
+    ],
+    "Wendy Shay": [
+      "Wendy Shay songs",
+      "Wendy Shay new song {year}",
+      "Wendy Shay hit songs",
+      "Wendy Shay latest song"
+    ],
+    "Lasmid": [
+      "Lasmid songs",
+      "Lasmid new song {year}",
+      "Lasmid hit songs",
+      "Lasmid latest song"
+    ],
+    "Kwesi Arthur": [
+      "Kwesi Arthur songs",
+      "Kwesi Arthur new song {year}",
+      "Kwesi Arthur hit songs",
+      "Kwesi Arthur latest song"
+    ],
+    "Amerado": [
+      "Amerado songs",
+      "Amerado new song {year}",
+      "Amerado hit songs",
+      "Amerado latest song"
+    ],
+    "Yaw Tog": [
+      "Yaw Tog songs",
+      "Yaw Tog new song {year}",
+      "Yaw Tog hit songs",
+      "Yaw Tog latest song"
+    ],
+    "Moliy": [
+      "Moliy songs",
+      "Moliy new song {year}",
+      "Moliy hit songs",
+      "Moliy latest song"
+    ],
+    "Diana Hamilton": [
+      "Diana Hamilton songs",
+      "Diana Hamilton new song {year}",
+      "Diana Hamilton hit songs",
+      "Diana Hamilton latest song"
+    ]
+  },
+  "music_singers": [
+    "Sarkodie",
+    "Shatta Wale",
+    "Stonebwoy",
+    "Black Sherif",
+    "King Promise",
+    "Kuami Eugene",
+    "Medikal",
+    "Gyakie",
+    "KiDi",
+    "Camidoh",
+    "Fameye",
+    "Joey B",
+    "Efya",
+    "Wendy Shay",
+    "Lasmid",
+    "Kwesi Arthur",
+    "Amerado",
+    "Yaw Tog",
+    "Moliy",
+    "Diana Hamilton"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Highlife",
+    "Azonto & Afrobeats",
+    "Gospel Ghana",
+    "Drill Ghana"
+  ]
+}
