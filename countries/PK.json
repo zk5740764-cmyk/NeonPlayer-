@@ -1,0 +1,288 @@
+{
+  "_comment": "PK: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Trending",
+    "Recently uploaded",
+    "Pakistani Hits",
+    "Coke Studio",
+    "Naat & Hamd",
+    "Punjabi Hits",
+    "Pakistani Dramas",
+    "Atif Aslam",
+    "Rahat Fateh Ali Khan",
+    "Asim Azhar",
+    "Gaming",
+    "News",
+    "Sports",
+    "Movies",
+    "TV Serials",
+    "Comedy",
+    "WhatsApp Status",
+    "Tech",
+    "Cooking",
+    "Cartoons",
+    "Devotional"
+  ],
+  "category_queries": {
+    "Pakistani Hits": [
+      "pakistani songs {year}",
+      "new urdu songs {year}",
+      "coke studio pakistan"
+    ],
+    "Coke Studio": [
+      "coke studio pakistan",
+      "coke studio season"
+    ],
+    "Naat & Hamd": [
+      "naat sharif",
+      "new naat",
+      "hamd"
+    ],
+    "Punjabi Hits": [
+      "new punjabi songs {year}",
+      "punjabi hit songs"
+    ],
+    "Pashto Songs": [
+      "pashto songs",
+      "new pashto song"
+    ],
+    "Pakistani Dramas": [
+      "pakistani drama full episode",
+      "new pakistani drama"
+    ],
+    "News": [
+      "aaj ki khabrein",
+      "aaj ki khabrein live"
+    ],
+    "Sports": [
+      "cricket highlights",
+      "cricket highlights {year}"
+    ],
+    "Atif Aslam": [
+      "Atif Aslam songs",
+      "Atif Aslam new song {year}"
+    ],
+    "Rahat Fateh Ali Khan": [
+      "Rahat Fateh Ali Khan songs",
+      "Rahat Fateh Ali Khan new song {year}"
+    ],
+    "Asim Azhar": [
+      "Asim Azhar songs",
+      "Asim Azhar new song {year}"
+    ],
+    "Top Charts": [
+      "pakistani songs {year}",
+      "coke studio pakistan"
+    ],
+    "New Releases": [
+      "new urdu songs {year}",
+      "pakistani songs {year}"
+    ],
+    "Trending": [
+      "coke studio pakistan",
+      "new urdu songs {year}"
+    ],
+    "Movies": [
+      "new pakistani movie {year}",
+      "full movie {year}",
+      "latest movie trailer {year}"
+    ],
+    "TV Serials": [
+      "pakistani drama latest episode {year}",
+      "hum tv drama full episode",
+      "geo drama new episode"
+    ],
+    "Comedy": [
+      "funny comedy video {year}",
+      "stand up comedy hindi",
+      "best comedy scenes"
+    ],
+    "WhatsApp Status": [
+      "whatsapp status video {year}",
+      "new status video 30 sec",
+      "love status video"
+    ],
+    "Tech": [
+      "tech news {year}",
+      "latest smartphone review {year}",
+      "tech tips hindi"
+    ],
+    "Cooking": [
+      "easy recipe hindi {year}",
+      "street food recipe",
+      "cooking video today"
+    ],
+    "Cartoons": [
+      "cartoon for kids hindi",
+      "kids nursery rhymes {year}",
+      "popular cartoon episodes"
+    ],
+    "Devotional": [
+      "naat sharif new {year}",
+      "islamic bayan new",
+      "quran recitation"
+    ],
+    "Recently uploaded": [
+      "new videos Pakistan {year}",
+      "latest Pakistan videos today",
+      "Pakistan trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Pakistan gameplay {year}",
+      "Pakistan gaming videos"
+    ],
+    "Fashion": [
+      "Pakistan fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Ali Zafar": [
+      "Ali Zafar songs",
+      "Ali Zafar new song {year}",
+      "Ali Zafar hit songs",
+      "Ali Zafar latest song"
+    ],
+    "Abida Parveen": [
+      "Abida Parveen songs",
+      "Abida Parveen new song {year}",
+      "Abida Parveen hit songs",
+      "Abida Parveen latest song"
+    ],
+    "Nusrat Fateh Ali Khan": [
+      "Nusrat Fateh Ali Khan songs",
+      "Nusrat Fateh Ali Khan new song {year}",
+      "Nusrat Fateh Ali Khan hit songs",
+      "Nusrat Fateh Ali Khan latest song"
+    ],
+    "Hadiqa Kiani": [
+      "Hadiqa Kiani songs",
+      "Hadiqa Kiani new song {year}",
+      "Hadiqa Kiani hit songs",
+      "Hadiqa Kiani latest song"
+    ],
+    "Ali Sethi": [
+      "Ali Sethi songs",
+      "Ali Sethi new song {year}",
+      "Ali Sethi hit songs",
+      "Ali Sethi latest song"
+    ],
+    "Shae Gill": [
+      "Shae Gill songs",
+      "Shae Gill new song {year}",
+      "Shae Gill hit songs",
+      "Shae Gill latest song"
+    ],
+    "Hasan Raheem": [
+      "Hasan Raheem songs",
+      "Hasan Raheem new song {year}",
+      "Hasan Raheem hit songs",
+      "Hasan Raheem latest song"
+    ],
+    "Talha Anjum": [
+      "Talha Anjum songs",
+      "Talha Anjum new song {year}",
+      "Talha Anjum hit songs",
+      "Talha Anjum latest song"
+    ],
+    "Talwiinder": [
+      "Talwiinder songs",
+      "Talwiinder new song {year}",
+      "Talwiinder hit songs",
+      "Talwiinder latest song"
+    ],
+    "Farhan Saeed": [
+      "Farhan Saeed songs",
+      "Farhan Saeed new song {year}",
+      "Farhan Saeed hit songs",
+      "Farhan Saeed latest song"
+    ],
+    "Momina Mustehsan": [
+      "Momina Mustehsan songs",
+      "Momina Mustehsan new song {year}",
+      "Momina Mustehsan hit songs",
+      "Momina Mustehsan latest song"
+    ],
+    "Umair Jaswal": [
+      "Umair Jaswal songs",
+      "Umair Jaswal new song {year}",
+      "Umair Jaswal hit songs",
+      "Umair Jaswal latest song"
+    ],
+    "Quratulain Balouch": [
+      "Quratulain Balouch songs",
+      "Quratulain Balouch new song {year}",
+      "Quratulain Balouch hit songs",
+      "Quratulain Balouch latest song"
+    ],
+    "Young Stunners": [
+      "Young Stunners songs",
+      "Young Stunners new song {year}",
+      "Young Stunners hit songs",
+      "Young Stunners latest song"
+    ],
+    "Sajjad Ali": [
+      "Sajjad Ali songs",
+      "Sajjad Ali new song {year}",
+      "Sajjad Ali hit songs",
+      "Sajjad Ali latest song"
+    ],
+    "Junaid Jamshed": [
+      "Junaid Jamshed songs",
+      "Junaid Jamshed new song {year}",
+      "Junaid Jamshed hit songs",
+      "Junaid Jamshed latest song"
+    ],
+    "Owais Raza Qadri": [
+      "Owais Raza Qadri songs",
+      "Owais Raza Qadri new song {year}",
+      "Owais Raza Qadri hit songs",
+      "Owais Raza Qadri latest song"
+    ],
+    "Sahir Ali Bagga": [
+      "Sahir Ali Bagga songs",
+      "Sahir Ali Bagga new song {year}",
+      "Sahir Ali Bagga hit songs",
+      "Sahir Ali Bagga latest song"
+    ],
+    "Sanwal Esakhelvi": [
+      "Sanwal Esakhelvi songs",
+      "Sanwal Esakhelvi new song {year}",
+      "Sanwal Esakhelvi hit songs",
+      "Sanwal Esakhelvi latest song"
+    ]
+  },
+  "music_singers": [
+    "Atif Aslam",
+    "Rahat Fateh Ali Khan",
+    "Asim Azhar",
+    "Ali Zafar",
+    "Abida Parveen",
+    "Nusrat Fateh Ali Khan",
+    "Hadiqa Kiani",
+    "Ali Sethi",
+    "Shae Gill",
+    "Hasan Raheem",
+    "Talha Anjum",
+    "Talwiinder",
+    "Farhan Saeed",
+    "Momina Mustehsan",
+    "Umair Jaswal",
+    "Quratulain Balouch",
+    "Young Stunners",
+    "Sajjad Ali",
+    "Junaid Jamshed",
+    "Owais Raza Qadri",
+    "Sahir Ali Bagga",
+    "Sanwal Esakhelvi"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Coke Studio",
+    "Naat & Hamd",
+    "Punjabi Hits",
+    "Pashto Songs"
+  ]
+}

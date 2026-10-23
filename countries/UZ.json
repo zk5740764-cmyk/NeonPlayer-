@@ -1,0 +1,145 @@
+{
+  "_comment": "UZ: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Uzbek Hits",
+    "O'zbek Pop",
+    "Estrada",
+    "Shahzoda",
+    "Ulug'bek Rahmatullayev",
+    "Rayhon",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Uzbek Hits": [
+      "o'zbek qo'shiqlari {year}",
+      "yangi o'zbek qo'shiqlari",
+      "uzbek hit songs"
+    ],
+    "O'zbek Pop": [
+      "uzbek pop {year}",
+      "yangi o'zbek pop"
+    ],
+    "Estrada": [
+      "o'zbek estrada qo'shiqlari",
+      "uzbek estrada"
+    ],
+    "News": [
+      "yangiliklar bugun",
+      "yangiliklar bugun live"
+    ],
+    "Sports": [
+      "sport sharh",
+      "sport sharh {year}"
+    ],
+    "Shahzoda": [
+      "Shahzoda songs",
+      "Shahzoda new song {year}"
+    ],
+    "Ulug'bek Rahmatullayev": [
+      "Ulug'bek Rahmatullayev songs",
+      "Ulug'bek Rahmatullayev new song {year}"
+    ],
+    "Rayhon": [
+      "Rayhon songs",
+      "Rayhon new song {year}"
+    ],
+    "Top Charts": [
+      "o'zbek qo'shiqlari {year}",
+      "uzbek hit songs"
+    ],
+    "New Releases": [
+      "yangi o'zbek qo'shiqlari",
+      "o'zbek qo'shiqlari {year}"
+    ],
+    "Trending": [
+      "uzbek hit songs",
+      "yangi o'zbek qo'shiqlari"
+    ],
+    "Recently uploaded": [
+      "new videos Uzbekistan {year}",
+      "latest Uzbekistan videos today",
+      "Uzbekistan trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Uzbekistan gameplay {year}",
+      "Uzbekistan gaming videos"
+    ],
+    "Fashion": [
+      "Uzbekistan fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Ozodbek Nazarbekov": [
+      "Ozodbek Nazarbekov songs",
+      "Ozodbek Nazarbekov new song {year}",
+      "Ozodbek Nazarbekov hit songs",
+      "Ozodbek Nazarbekov latest song"
+    ],
+    "Lola Yuldasheva": [
+      "Lola Yuldasheva songs",
+      "Lola Yuldasheva new song {year}",
+      "Lola Yuldasheva hit songs",
+      "Lola Yuldasheva latest song"
+    ],
+    "Jasur Umirov": [
+      "Jasur Umirov songs",
+      "Jasur Umirov new song {year}",
+      "Jasur Umirov hit songs",
+      "Jasur Umirov latest song"
+    ],
+    "Sevara Nazarkhan": [
+      "Sevara Nazarkhan songs",
+      "Sevara Nazarkhan new song {year}",
+      "Sevara Nazarkhan hit songs",
+      "Sevara Nazarkhan latest song"
+    ],
+    "Munisa Rizayeva": [
+      "Munisa Rizayeva songs",
+      "Munisa Rizayeva new song {year}",
+      "Munisa Rizayeva hit songs",
+      "Munisa Rizayeva latest song"
+    ],
+    "Yulduz Usmonova": [
+      "Yulduz Usmonova songs",
+      "Yulduz Usmonova new song {year}",
+      "Yulduz Usmonova hit songs",
+      "Yulduz Usmonova latest song"
+    ],
+    "Xamdam Sobirov": [
+      "Xamdam Sobirov songs",
+      "Xamdam Sobirov new song {year}",
+      "Xamdam Sobirov hit songs",
+      "Xamdam Sobirov latest song"
+    ],
+    "Konsta": [
+      "Konsta songs",
+      "Konsta new song {year}",
+      "Konsta hit songs",
+      "Konsta latest song"
+    ]
+  },
+  "music_singers": [
+    "Shahzoda",
+    "Ulug'bek Rahmatullayev",
+    "Rayhon",
+    "Ozodbek Nazarbekov",
+    "Lola Yuldasheva",
+    "Jasur Umirov",
+    "Sevara Nazarkhan",
+    "Munisa Rizayeva",
+    "Yulduz Usmonova",
+    "Xamdam Sobirov",
+    "Konsta"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "O'zbek Pop",
+    "Estrada"
+  ]
+}

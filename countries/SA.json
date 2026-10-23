@@ -1,0 +1,179 @@
+{
+  "_comment": "SA: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Saudi Hits",
+    "خليجي",
+    "شيلات",
+    "عربي بوب",
+    "Mohammed Abdu",
+    "Rashed Al Majed",
+    "Abdulmajeed Abdullah",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Saudi Hits": [
+      "اغاني سعودية {year}",
+      "جديد الاغاني السعودية {year}",
+      "اغاني خليجية"
+    ],
+    "خليجي": [
+      "اغاني خليجية جديدة",
+      "اغاني خليجي"
+    ],
+    "شيلات": [
+      "شيلات جديدة",
+      "شيلات {year}"
+    ],
+    "عربي بوب": [
+      "اغاني عربية {year}",
+      "عربي بوب جديد"
+    ],
+    "News": [
+      "اخبار اليوم",
+      "اخبار اليوم live"
+    ],
+    "Sports": [
+      "رياضة ملخص",
+      "رياضة ملخص {year}"
+    ],
+    "Mohammed Abdu": [
+      "Mohammed Abdu songs",
+      "Mohammed Abdu new song {year}"
+    ],
+    "Rashed Al Majed": [
+      "Rashed Al Majed songs",
+      "Rashed Al Majed new song {year}"
+    ],
+    "Abdulmajeed Abdullah": [
+      "Abdulmajeed Abdullah songs",
+      "Abdulmajeed Abdullah new song {year}"
+    ],
+    "Top Charts": [
+      "اغاني سعودية {year}",
+      "اغاني خليجية"
+    ],
+    "New Releases": [
+      "جديد الاغاني السعودية {year}",
+      "اغاني سعودية {year}"
+    ],
+    "Trending": [
+      "اغاني خليجية",
+      "جديد الاغاني السعودية {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Saudi Arabia {year}",
+      "latest Saudi Arabia videos today",
+      "Saudi Arabia trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Saudi Arabia gameplay {year}",
+      "Saudi Arabia gaming videos"
+    ],
+    "Fashion": [
+      "Saudi Arabia fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Rabeh Saqer": [
+      "Rabeh Saqer songs",
+      "Rabeh Saqer new song {year}",
+      "Rabeh Saqer hit songs",
+      "Rabeh Saqer latest song"
+    ],
+    "Majid Al Mohandis": [
+      "Majid Al Mohandis songs",
+      "Majid Al Mohandis new song {year}",
+      "Majid Al Mohandis hit songs",
+      "Majid Al Mohandis latest song"
+    ],
+    "Ahlam": [
+      "Ahlam songs",
+      "Ahlam new song {year}",
+      "Ahlam hit songs",
+      "Ahlam latest song"
+    ],
+    "Assala Nasri": [
+      "Assala Nasri songs",
+      "Assala Nasri new song {year}",
+      "Assala Nasri hit songs",
+      "Assala Nasri latest song"
+    ],
+    "Nancy Ajram": [
+      "Nancy Ajram songs",
+      "Nancy Ajram new song {year}",
+      "Nancy Ajram hit songs",
+      "Nancy Ajram latest song"
+    ],
+    "Amr Diab": [
+      "Amr Diab songs",
+      "Amr Diab new song {year}",
+      "Amr Diab hit songs",
+      "Amr Diab latest song"
+    ],
+    "Tamer Hosny": [
+      "Tamer Hosny songs",
+      "Tamer Hosny new song {year}",
+      "Tamer Hosny hit songs",
+      "Tamer Hosny latest song"
+    ],
+    "Mohammed Alshehri": [
+      "Mohammed Alshehri songs",
+      "Mohammed Alshehri new song {year}",
+      "Mohammed Alshehri hit songs",
+      "Mohammed Alshehri latest song"
+    ],
+    "Fayez Alsaeed": [
+      "Fayez Alsaeed songs",
+      "Fayez Alsaeed new song {year}",
+      "Fayez Alsaeed hit songs",
+      "Fayez Alsaeed latest song"
+    ],
+    "Aseel Abu Bakr": [
+      "Aseel Abu Bakr songs",
+      "Aseel Abu Bakr new song {year}",
+      "Aseel Abu Bakr hit songs",
+      "Aseel Abu Bakr latest song"
+    ],
+    "Dalia Mubarak": [
+      "Dalia Mubarak songs",
+      "Dalia Mubarak new song {year}",
+      "Dalia Mubarak hit songs",
+      "Dalia Mubarak latest song"
+    ],
+    "Faisal Al Essaimi": [
+      "Faisal Al Essaimi songs",
+      "Faisal Al Essaimi new song {year}",
+      "Faisal Al Essaimi hit songs",
+      "Faisal Al Essaimi latest song"
+    ]
+  },
+  "music_singers": [
+    "Mohammed Abdu",
+    "Rashed Al Majed",
+    "Abdulmajeed Abdullah",
+    "Rabeh Saqer",
+    "Majid Al Mohandis",
+    "Ahlam",
+    "Assala Nasri",
+    "Nancy Ajram",
+    "Amr Diab",
+    "Tamer Hosny",
+    "Mohammed Alshehri",
+    "Fayez Alsaeed",
+    "Aseel Abu Bakr",
+    "Dalia Mubarak",
+    "Faisal Al Essaimi"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "خليجي",
+    "شيلات",
+    "عربي بوب"
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "_comment": "SE: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Swedish Hits",
+    "Svensk Pop",
+    "Svensk Hiphop",
+    "Melodifestivalen",
+    "ABBA",
+    "Zara Larsson",
+    "Tove Lo",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Swedish Hits": [
+      "svenska hits {year}",
+      "ny svensk musik {year}",
+      "svensktopp"
+    ],
+    "Svensk Pop": [
+      "svensk pop {year}",
+      "svensk pop hits"
+    ],
+    "Svensk Hiphop": [
+      "svensk hiphop {year}",
+      "svensk rap"
+    ],
+    "Melodifestivalen": [
+      "melodifestivalen låtar",
+      "melodifestivalen {year}"
+    ],
+    "News": [
+      "nyheter idag",
+      "nyheter idag live"
+    ],
+    "Sports": [
+      "sport höjdpunkter",
+      "sport höjdpunkter {year}"
+    ],
+    "ABBA": [
+      "ABBA songs",
+      "ABBA new song {year}"
+    ],
+    "Zara Larsson": [
+      "Zara Larsson songs",
+      "Zara Larsson new song {year}"
+    ],
+    "Tove Lo": [
+      "Tove Lo songs",
+      "Tove Lo new song {year}"
+    ],
+    "Top Charts": [
+      "svenska hits {year}",
+      "svensktopp"
+    ],
+    "New Releases": [
+      "ny svensk musik {year}",
+      "svenska hits {year}"
+    ],
+    "Trending": [
+      "svensktopp",
+      "ny svensk musik {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Sweden {year}",
+      "latest Sweden videos today",
+      "Sweden trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Sweden gameplay {year}",
+      "Sweden gaming videos"
+    ],
+    "Fashion": [
+      "Sweden fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Avicii": [
+      "Avicii songs",
+      "Avicii new song {year}",
+      "Avicii hit songs",
+      "Avicii latest song"
+    ],
+    "Loreen": [
+      "Loreen songs",
+      "Loreen new song {year}",
+      "Loreen hit songs",
+      "Loreen latest song"
+    ],
+    "Robyn": [
+      "Robyn songs",
+      "Robyn new song {year}",
+      "Robyn hit songs",
+      "Robyn latest song"
+    ],
+    "Veronica Maggio": [
+      "Veronica Maggio songs",
+      "Veronica Maggio new song {year}",
+      "Veronica Maggio hit songs",
+      "Veronica Maggio latest song"
+    ],
+    "Håkan Hellström": [
+      "Håkan Hellström songs",
+      "Håkan Hellström new song {year}",
+      "Håkan Hellström hit songs",
+      "Håkan Hellström latest song"
+    ],
+    "Seinabo Sey": [
+      "Seinabo Sey songs",
+      "Seinabo Sey new song {year}",
+      "Seinabo Sey hit songs",
+      "Seinabo Sey latest song"
+    ],
+    "Cherrie": [
+      "Cherrie songs",
+      "Cherrie new song {year}",
+      "Cherrie hit songs",
+      "Cherrie latest song"
+    ],
+    "Benjamin Ingrosso": [
+      "Benjamin Ingrosso songs",
+      "Benjamin Ingrosso new song {year}",
+      "Benjamin Ingrosso hit songs",
+      "Benjamin Ingrosso latest song"
+    ],
+    "Måns Zelmerlöw": [
+      "Måns Zelmerlöw songs",
+      "Måns Zelmerlöw new song {year}",
+      "Måns Zelmerlöw hit songs",
+      "Måns Zelmerlöw latest song"
+    ],
+    "Molly Sandén": [
+      "Molly Sandén songs",
+      "Molly Sandén new song {year}",
+      "Molly Sandén hit songs",
+      "Molly Sandén latest song"
+    ],
+    "Silvana Imam": [
+      "Silvana Imam songs",
+      "Silvana Imam new song {year}",
+      "Silvana Imam hit songs",
+      "Silvana Imam latest song"
+    ],
+    "Victor Leksell": [
+      "Victor Leksell songs",
+      "Victor Leksell new song {year}",
+      "Victor Leksell hit songs",
+      "Victor Leksell latest song"
+    ],
+    "Ebbot Lundberg": [
+      "Ebbot Lundberg songs",
+      "Ebbot Lundberg new song {year}",
+      "Ebbot Lundberg hit songs",
+      "Ebbot Lundberg latest song"
+    ],
+    "Lykke Li": [
+      "Lykke Li songs",
+      "Lykke Li new song {year}",
+      "Lykke Li hit songs",
+      "Lykke Li latest song"
+    ],
+    "Medina": [
+      "Medina songs",
+      "Medina new song {year}",
+      "Medina hit songs",
+      "Medina latest song"
+    ]
+  },
+  "music_singers": [
+    "ABBA",
+    "Zara Larsson",
+    "Tove Lo",
+    "Avicii",
+    "Loreen",
+    "Robyn",
+    "Veronica Maggio",
+    "Håkan Hellström",
+    "Seinabo Sey",
+    "Cherrie",
+    "Benjamin Ingrosso",
+    "Måns Zelmerlöw",
+    "Molly Sandén",
+    "Silvana Imam",
+    "Victor Leksell",
+    "Ebbot Lundberg",
+    "Lykke Li",
+    "Medina"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Svensk Pop",
+    "Svensk Hiphop",
+    "Melodifestivalen"
+  ]
+}

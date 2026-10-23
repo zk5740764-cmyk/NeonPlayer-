@@ -1,0 +1,214 @@
+{
+  "_comment": "RU: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Russian Hits",
+    "Русский Поп",
+    "Русский Рэп",
+    "Шансон",
+    "Zivert",
+    "Egor Kreed",
+    "Monetochka",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Russian Hits": [
+      "русские хиты {year}",
+      "новые русские песни {year}",
+      "русская музыка"
+    ],
+    "Русский Поп": [
+      "русский поп {year}",
+      "новинки русского попа"
+    ],
+    "Русский Рэп": [
+      "русский рэп {year}",
+      "русский хип хоп"
+    ],
+    "Шансон": [
+      "шансон хиты",
+      "русский шансон"
+    ],
+    "News": [
+      "новости сегодня",
+      "новости сегодня live"
+    ],
+    "Sports": [
+      "спорт обзор",
+      "спорт обзор {year}"
+    ],
+    "Zivert": [
+      "Zivert songs",
+      "Zivert new song {year}"
+    ],
+    "Egor Kreed": [
+      "Egor Kreed songs",
+      "Egor Kreed new song {year}"
+    ],
+    "Monetochka": [
+      "Monetochka songs",
+      "Monetochka new song {year}"
+    ],
+    "Top Charts": [
+      "русские хиты {year}",
+      "русская музыка"
+    ],
+    "New Releases": [
+      "новые русские песни {year}",
+      "русские хиты {year}"
+    ],
+    "Trending": [
+      "русская музыка",
+      "новые русские песни {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Russia {year}",
+      "latest Russia videos today",
+      "Russia trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Russia gameplay {year}",
+      "Russia gaming videos"
+    ],
+    "Fashion": [
+      "Russia fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Zemfira": [
+      "Zemfira songs",
+      "Zemfira new song {year}",
+      "Zemfira hit songs",
+      "Zemfira latest song"
+    ],
+    "Polina Gagarina": [
+      "Polina Gagarina songs",
+      "Polina Gagarina new song {year}",
+      "Polina Gagarina hit songs",
+      "Polina Gagarina latest song"
+    ],
+    "Dima Bilan": [
+      "Dima Bilan songs",
+      "Dima Bilan new song {year}",
+      "Dima Bilan hit songs",
+      "Dima Bilan latest song"
+    ],
+    "Basta": [
+      "Basta songs",
+      "Basta new song {year}",
+      "Basta hit songs",
+      "Basta latest song"
+    ],
+    "Max Korzh": [
+      "Max Korzh songs",
+      "Max Korzh new song {year}",
+      "Max Korzh hit songs",
+      "Max Korzh latest song"
+    ],
+    "Artik & Asti": [
+      "Artik & Asti songs",
+      "Artik & Asti new song {year}",
+      "Artik & Asti hit songs",
+      "Artik & Asti latest song"
+    ],
+    "Maksim": [
+      "Maksim songs",
+      "Maksim new song {year}",
+      "Maksim hit songs",
+      "Maksim latest song"
+    ],
+    "Elka": [
+      "Elka songs",
+      "Elka new song {year}",
+      "Elka hit songs",
+      "Elka latest song"
+    ],
+    "LSP": [
+      "LSP songs",
+      "LSP new song {year}",
+      "LSP hit songs",
+      "LSP latest song"
+    ],
+    "Jony": [
+      "Jony songs",
+      "Jony new song {year}",
+      "Jony hit songs",
+      "Jony latest song"
+    ],
+    "Klava Koka": [
+      "Klava Koka songs",
+      "Klava Koka new song {year}",
+      "Klava Koka hit songs",
+      "Klava Koka latest song"
+    ],
+    "Miyagi & Andy Panda": [
+      "Miyagi & Andy Panda songs",
+      "Miyagi & Andy Panda new song {year}",
+      "Miyagi & Andy Panda hit songs",
+      "Miyagi & Andy Panda latest song"
+    ],
+    "Leningrad": [
+      "Leningrad songs",
+      "Leningrad new song {year}",
+      "Leningrad hit songs",
+      "Leningrad latest song"
+    ],
+    "Loboda": [
+      "Loboda songs",
+      "Loboda new song {year}",
+      "Loboda hit songs",
+      "Loboda latest song"
+    ],
+    "Oxxxymiron": [
+      "Oxxxymiron songs",
+      "Oxxxymiron new song {year}",
+      "Oxxxymiron hit songs",
+      "Oxxxymiron latest song"
+    ],
+    "Kino": [
+      "Kino songs",
+      "Kino new song {year}",
+      "Kino hit songs",
+      "Kino latest song"
+    ],
+    "Little Big": [
+      "Little Big songs",
+      "Little Big new song {year}",
+      "Little Big hit songs",
+      "Little Big latest song"
+    ]
+  },
+  "music_singers": [
+    "Zivert",
+    "Egor Kreed",
+    "Monetochka",
+    "Zemfira",
+    "Polina Gagarina",
+    "Dima Bilan",
+    "Basta",
+    "Max Korzh",
+    "Artik & Asti",
+    "Maksim",
+    "Elka",
+    "LSP",
+    "Jony",
+    "Klava Koka",
+    "Miyagi & Andy Panda",
+    "Leningrad",
+    "Loboda",
+    "Oxxxymiron",
+    "Kino",
+    "Little Big"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Русский Поп",
+    "Русский Рэп",
+    "Шансон"
+  ]
+}

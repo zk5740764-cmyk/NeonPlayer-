@@ -1,0 +1,224 @@
+{
+  "_comment": "PH: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Filipino Hits",
+    "OPM",
+    "P-Pop",
+    "Hugot Songs",
+    "Pelikulang Pilipino",
+    "SB19",
+    "BINI",
+    "Moira Dela Torre",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Filipino Hits": [
+      "opm songs {year}",
+      "bagong kanta {year}",
+      "top pinoy songs"
+    ],
+    "OPM": [
+      "opm hits {year}",
+      "opm bagong kanta"
+    ],
+    "P-Pop": [
+      "p-pop {year}",
+      "p-pop hits"
+    ],
+    "Hugot Songs": [
+      "hugot songs",
+      "opm hugot"
+    ],
+    "Bisaya Songs": [
+      "bisaya songs",
+      "bisaya new song"
+    ],
+    "Pelikulang Pilipino": [
+      "pelikulang pilipino full movie",
+      "pinoy movie full"
+    ],
+    "News": [
+      "balita ngayon",
+      "balita ngayon live"
+    ],
+    "Sports": [
+      "sports highlights",
+      "sports highlights {year}"
+    ],
+    "SB19": [
+      "SB19 songs",
+      "SB19 new song {year}"
+    ],
+    "BINI": [
+      "BINI songs",
+      "BINI new song {year}"
+    ],
+    "Moira Dela Torre": [
+      "Moira Dela Torre songs",
+      "Moira Dela Torre new song {year}"
+    ],
+    "Top Charts": [
+      "opm songs {year}",
+      "top pinoy songs"
+    ],
+    "New Releases": [
+      "bagong kanta {year}",
+      "opm songs {year}"
+    ],
+    "Trending": [
+      "top pinoy songs",
+      "bagong kanta {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Philippines {year}",
+      "latest Philippines videos today",
+      "Philippines trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Philippines gameplay {year}",
+      "Philippines gaming videos"
+    ],
+    "Fashion": [
+      "Philippines fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Zack Tabudlo": [
+      "Zack Tabudlo songs",
+      "Zack Tabudlo new song {year}",
+      "Zack Tabudlo hit songs",
+      "Zack Tabudlo latest song"
+    ],
+    "Arthur Nery": [
+      "Arthur Nery songs",
+      "Arthur Nery new song {year}",
+      "Arthur Nery hit songs",
+      "Arthur Nery latest song"
+    ],
+    "Ben&Ben": [
+      "Ben&Ben songs",
+      "Ben&Ben new song {year}",
+      "Ben&Ben hit songs",
+      "Ben&Ben latest song"
+    ],
+    "Sarah Geronimo": [
+      "Sarah Geronimo songs",
+      "Sarah Geronimo new song {year}",
+      "Sarah Geronimo hit songs",
+      "Sarah Geronimo latest song"
+    ],
+    "Regine Velasquez": [
+      "Regine Velasquez songs",
+      "Regine Velasquez new song {year}",
+      "Regine Velasquez hit songs",
+      "Regine Velasquez latest song"
+    ],
+    "Gloc-9": [
+      "Gloc-9 songs",
+      "Gloc-9 new song {year}",
+      "Gloc-9 hit songs",
+      "Gloc-9 latest song"
+    ],
+    "December Avenue": [
+      "December Avenue songs",
+      "December Avenue new song {year}",
+      "December Avenue hit songs",
+      "December Avenue latest song"
+    ],
+    "Juan Karlos": [
+      "Juan Karlos songs",
+      "Juan Karlos new song {year}",
+      "Juan Karlos hit songs",
+      "Juan Karlos latest song"
+    ],
+    "Adie": [
+      "Adie songs",
+      "Adie new song {year}",
+      "Adie hit songs",
+      "Adie latest song"
+    ],
+    "Nadine Lustre": [
+      "Nadine Lustre songs",
+      "Nadine Lustre new song {year}",
+      "Nadine Lustre hit songs",
+      "Nadine Lustre latest song"
+    ],
+    "Cup of Joe": [
+      "Cup of Joe songs",
+      "Cup of Joe new song {year}",
+      "Cup of Joe hit songs",
+      "Cup of Joe latest song"
+    ],
+    "Dionela": [
+      "Dionela songs",
+      "Dionela new song {year}",
+      "Dionela hit songs",
+      "Dionela latest song"
+    ],
+    "TJ Monterde": [
+      "TJ Monterde songs",
+      "TJ Monterde new song {year}",
+      "TJ Monterde hit songs",
+      "TJ Monterde latest song"
+    ],
+    "ALAMAT": [
+      "ALAMAT songs",
+      "ALAMAT new song {year}",
+      "ALAMAT hit songs",
+      "ALAMAT latest song"
+    ],
+    "Maymay Entrata": [
+      "Maymay Entrata songs",
+      "Maymay Entrata new song {year}",
+      "Maymay Entrata hit songs",
+      "Maymay Entrata latest song"
+    ],
+    "Moonstar88": [
+      "Moonstar88 songs",
+      "Moonstar88 new song {year}",
+      "Moonstar88 hit songs",
+      "Moonstar88 latest song"
+    ],
+    "Maki": [
+      "Maki songs",
+      "Maki new song {year}",
+      "Maki hit songs",
+      "Maki latest song"
+    ]
+  },
+  "music_singers": [
+    "SB19",
+    "BINI",
+    "Moira Dela Torre",
+    "Zack Tabudlo",
+    "Arthur Nery",
+    "Ben&Ben",
+    "Sarah Geronimo",
+    "Regine Velasquez",
+    "Gloc-9",
+    "December Avenue",
+    "Juan Karlos",
+    "Adie",
+    "Nadine Lustre",
+    "Cup of Joe",
+    "Dionela",
+    "TJ Monterde",
+    "ALAMAT",
+    "Maymay Entrata",
+    "Moonstar88",
+    "Maki"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "OPM",
+    "P-Pop",
+    "Hugot Songs",
+    "Bisaya Songs"
+  ]
+}

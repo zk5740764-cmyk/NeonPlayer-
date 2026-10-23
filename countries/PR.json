@@ -1,0 +1,200 @@
+{
+  "_comment": "PR: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Puerto Rican Hits",
+    "Reggaeton",
+    "Trap Latino",
+    "Salsa",
+    "Bad Bunny",
+    "Daddy Yankee",
+    "Ozuna",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Puerto Rican Hits": [
+      "reggaeton puerto rico {year}",
+      "trap latino {year}",
+      "éxitos puerto rico"
+    ],
+    "Reggaeton": [
+      "reggaeton {year}",
+      "reggaeton clásicos"
+    ],
+    "Trap Latino": [
+      "trap latino {year}",
+      "trap pr nuevo"
+    ],
+    "Salsa": [
+      "salsa éxitos",
+      "salsa clásicos"
+    ],
+    "News": [
+      "noticias hoy",
+      "noticias hoy live"
+    ],
+    "Sports": [
+      "deportes resumen",
+      "deportes resumen {year}"
+    ],
+    "Bad Bunny": [
+      "Bad Bunny songs",
+      "Bad Bunny new song {year}"
+    ],
+    "Daddy Yankee": [
+      "Daddy Yankee songs",
+      "Daddy Yankee new song {year}"
+    ],
+    "Ozuna": [
+      "Ozuna songs",
+      "Ozuna new song {year}"
+    ],
+    "Top Charts": [
+      "reggaeton puerto rico {year}",
+      "éxitos puerto rico"
+    ],
+    "New Releases": [
+      "trap latino {year}",
+      "reggaeton puerto rico {year}"
+    ],
+    "Trending": [
+      "éxitos puerto rico",
+      "trap latino {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Puerto Rico {year}",
+      "latest Puerto Rico videos today",
+      "Puerto Rico trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Puerto Rico gameplay {year}",
+      "Puerto Rico gaming videos"
+    ],
+    "Fashion": [
+      "Puerto Rico fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Rauw Alejandro": [
+      "Rauw Alejandro songs",
+      "Rauw Alejandro new song {year}",
+      "Rauw Alejandro hit songs",
+      "Rauw Alejandro latest song"
+    ],
+    "Myke Towers": [
+      "Myke Towers songs",
+      "Myke Towers new song {year}",
+      "Myke Towers hit songs",
+      "Myke Towers latest song"
+    ],
+    "Anuel AA": [
+      "Anuel AA songs",
+      "Anuel AA new song {year}",
+      "Anuel AA hit songs",
+      "Anuel AA latest song"
+    ],
+    "Jhay Cortez": [
+      "Jhay Cortez songs",
+      "Jhay Cortez new song {year}",
+      "Jhay Cortez hit songs",
+      "Jhay Cortez latest song"
+    ],
+    "Farruko": [
+      "Farruko songs",
+      "Farruko new song {year}",
+      "Farruko hit songs",
+      "Farruko latest song"
+    ],
+    "Don Omar": [
+      "Don Omar songs",
+      "Don Omar new song {year}",
+      "Don Omar hit songs",
+      "Don Omar latest song"
+    ],
+    "Wisin & Yandel": [
+      "Wisin & Yandel songs",
+      "Wisin & Yandel new song {year}",
+      "Wisin & Yandel hit songs",
+      "Wisin & Yandel latest song"
+    ],
+    "Luis Fonsi": [
+      "Luis Fonsi songs",
+      "Luis Fonsi new song {year}",
+      "Luis Fonsi hit songs",
+      "Luis Fonsi latest song"
+    ],
+    "Ricky Martin": [
+      "Ricky Martin songs",
+      "Ricky Martin new song {year}",
+      "Ricky Martin hit songs",
+      "Ricky Martin latest song"
+    ],
+    "Residente": [
+      "Residente songs",
+      "Residente new song {year}",
+      "Residente hit songs",
+      "Residente latest song"
+    ],
+    "Arcángel": [
+      "Arcángel songs",
+      "Arcángel new song {year}",
+      "Arcángel hit songs",
+      "Arcángel latest song"
+    ],
+    "Eladio Carrión": [
+      "Eladio Carrión songs",
+      "Eladio Carrión new song {year}",
+      "Eladio Carrión hit songs",
+      "Eladio Carrión latest song"
+    ],
+    "Chencho Corleone": [
+      "Chencho Corleone songs",
+      "Chencho Corleone new song {year}",
+      "Chencho Corleone hit songs",
+      "Chencho Corleone latest song"
+    ],
+    "Nengo Flow": [
+      "Nengo Flow songs",
+      "Nengo Flow new song {year}",
+      "Nengo Flow hit songs",
+      "Nengo Flow latest song"
+    ],
+    "Nicky Jam": [
+      "Nicky Jam songs",
+      "Nicky Jam new song {year}",
+      "Nicky Jam hit songs",
+      "Nicky Jam latest song"
+    ]
+  },
+  "music_singers": [
+    "Bad Bunny",
+    "Daddy Yankee",
+    "Ozuna",
+    "Rauw Alejandro",
+    "Myke Towers",
+    "Anuel AA",
+    "Jhay Cortez",
+    "Farruko",
+    "Don Omar",
+    "Wisin & Yandel",
+    "Luis Fonsi",
+    "Ricky Martin",
+    "Residente",
+    "Arcángel",
+    "Eladio Carrión",
+    "Chencho Corleone",
+    "Nengo Flow",
+    "Nicky Jam"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Reggaeton",
+    "Trap Latino",
+    "Salsa"
+  ]
+}

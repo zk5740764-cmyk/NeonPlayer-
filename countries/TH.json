@@ -1,0 +1,217 @@
+{
+  "_comment": "TH: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Thai Hits",
+    "เพลงลูกทุ่ง",
+    "T-Pop",
+    "เพลงอินดี้",
+    "หนังไทย",
+    "Lisa",
+    "Bambam",
+    "Tilly Birds",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Thai Hits": [
+      "เพลงไทยใหม่ {year}",
+      "เพลงฮิต {year}",
+      "เพลงไทยยอดนิยม"
+    ],
+    "เพลงลูกทุ่ง": [
+      "เพลงลูกทุ่งใหม่ {year}",
+      "ลูกทุ่ง ฮิต"
+    ],
+    "T-Pop": [
+      "t-pop {year}",
+      "ไทยป๊อป"
+    ],
+    "เพลงอินดี้": [
+      "เพลงอินดี้ไทย",
+      "indie ไทย"
+    ],
+    "หมอลำ": [
+      "หมอลำซิ่ง",
+      "เพลงอีสาน"
+    ],
+    "หนังไทย": [
+      "หนังไทย เต็มเรื่อง",
+      "หนังไทย ใหม่"
+    ],
+    "News": [
+      "ข่าววันนี้",
+      "ข่าววันนี้ live"
+    ],
+    "Sports": [
+      "กีฬา ไฮไลท์",
+      "กีฬา ไฮไลท์ {year}"
+    ],
+    "Lisa": [
+      "Lisa songs",
+      "Lisa new song {year}"
+    ],
+    "Bambam": [
+      "Bambam songs",
+      "Bambam new song {year}"
+    ],
+    "Tilly Birds": [
+      "Tilly Birds songs",
+      "Tilly Birds new song {year}"
+    ],
+    "Top Charts": [
+      "เพลงไทยใหม่ {year}",
+      "เพลงไทยยอดนิยม"
+    ],
+    "New Releases": [
+      "เพลงฮิต {year}",
+      "เพลงไทยใหม่ {year}"
+    ],
+    "Trending": [
+      "เพลงไทยยอดนิยม",
+      "เพลงฮิต {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Thailand {year}",
+      "latest Thailand videos today",
+      "Thailand trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Thailand gameplay {year}",
+      "Thailand gaming videos"
+    ],
+    "Fashion": [
+      "Thailand fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Silly Fools": [
+      "Silly Fools songs",
+      "Silly Fools new song {year}",
+      "Silly Fools hit songs",
+      "Silly Fools latest song"
+    ],
+    "Palmy": [
+      "Palmy songs",
+      "Palmy new song {year}",
+      "Palmy hit songs",
+      "Palmy latest song"
+    ],
+    "Violette Wautier": [
+      "Violette Wautier songs",
+      "Violette Wautier new song {year}",
+      "Violette Wautier hit songs",
+      "Violette Wautier latest song"
+    ],
+    "Slot Machine": [
+      "Slot Machine songs",
+      "Slot Machine new song {year}",
+      "Slot Machine hit songs",
+      "Slot Machine latest song"
+    ],
+    "Three Man Down": [
+      "Three Man Down songs",
+      "Three Man Down new song {year}",
+      "Three Man Down hit songs",
+      "Three Man Down latest song"
+    ],
+    "Bodyslam": [
+      "Bodyslam songs",
+      "Bodyslam new song {year}",
+      "Bodyslam hit songs",
+      "Bodyslam latest song"
+    ],
+    "Billkin": [
+      "Billkin songs",
+      "Billkin new song {year}",
+      "Billkin hit songs",
+      "Billkin latest song"
+    ],
+    "PP Krit": [
+      "PP Krit songs",
+      "PP Krit new song {year}",
+      "PP Krit hit songs",
+      "PP Krit latest song"
+    ],
+    "Jeff Satur": [
+      "Jeff Satur songs",
+      "Jeff Satur new song {year}",
+      "Jeff Satur hit songs",
+      "Jeff Satur latest song"
+    ],
+    "Mile Phakphum": [
+      "Mile Phakphum songs",
+      "Mile Phakphum new song {year}",
+      "Mile Phakphum hit songs",
+      "Mile Phakphum latest song"
+    ],
+    "Tul Pakorn": [
+      "Tul Pakorn songs",
+      "Tul Pakorn new song {year}",
+      "Tul Pakorn hit songs",
+      "Tul Pakorn latest song"
+    ],
+    "Nont Tanont": [
+      "Nont Tanont songs",
+      "Nont Tanont new song {year}",
+      "Nont Tanont hit songs",
+      "Nont Tanont latest song"
+    ],
+    "Clash": [
+      "Clash songs",
+      "Clash new song {year}",
+      "Clash hit songs",
+      "Clash latest song"
+    ],
+    "Ink Waruntorn": [
+      "Ink Waruntorn songs",
+      "Ink Waruntorn new song {year}",
+      "Ink Waruntorn hit songs",
+      "Ink Waruntorn latest song"
+    ],
+    "Pop Pongkool": [
+      "Pop Pongkool songs",
+      "Pop Pongkool new song {year}",
+      "Pop Pongkool hit songs",
+      "Pop Pongkool latest song"
+    ],
+    "Proxie": [
+      "Proxie songs",
+      "Proxie new song {year}",
+      "Proxie hit songs",
+      "Proxie latest song"
+    ]
+  },
+  "music_singers": [
+    "Lisa",
+    "Bambam",
+    "Tilly Birds",
+    "Silly Fools",
+    "Palmy",
+    "Violette Wautier",
+    "Slot Machine",
+    "Three Man Down",
+    "Bodyslam",
+    "Billkin",
+    "PP Krit",
+    "Jeff Satur",
+    "Mile Phakphum",
+    "Tul Pakorn",
+    "Nont Tanont",
+    "Clash",
+    "Ink Waruntorn",
+    "Pop Pongkool",
+    "Proxie"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "เพลงลูกทุ่ง",
+    "T-Pop",
+    "เพลงอินดี้",
+    "หมอลำ"
+  ]
+}

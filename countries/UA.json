@@ -1,0 +1,214 @@
+{
+  "_comment": "UA: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Ukrainian Hits",
+    "Українська Естрада",
+    "Укр Реп",
+    "Фолк",
+    "Jerry Heil",
+    "Okean Elzy",
+    "Kalush Orchestra",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Ukrainian Hits": [
+      "українські хіти {year}",
+      "нові українські пісні {year}",
+      "українська музика"
+    ],
+    "Українська Естрада": [
+      "українська естрада",
+      "нові українські хіти"
+    ],
+    "Укр Реп": [
+      "український реп {year}",
+      "укр хіп хоп"
+    ],
+    "Фолк": [
+      "українські народні пісні",
+      "українське фолк"
+    ],
+    "News": [
+      "новини сьогодні",
+      "новини сьогодні live"
+    ],
+    "Sports": [
+      "спорт огляд",
+      "спорт огляд {year}"
+    ],
+    "Jerry Heil": [
+      "Jerry Heil songs",
+      "Jerry Heil new song {year}"
+    ],
+    "Okean Elzy": [
+      "Okean Elzy songs",
+      "Okean Elzy new song {year}"
+    ],
+    "Kalush Orchestra": [
+      "Kalush Orchestra songs",
+      "Kalush Orchestra new song {year}"
+    ],
+    "Top Charts": [
+      "українські хіти {year}",
+      "українська музика"
+    ],
+    "New Releases": [
+      "нові українські пісні {year}",
+      "українські хіти {year}"
+    ],
+    "Trending": [
+      "українська музика",
+      "нові українські пісні {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Ukraine {year}",
+      "latest Ukraine videos today",
+      "Ukraine trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Ukraine gameplay {year}",
+      "Ukraine gaming videos"
+    ],
+    "Fashion": [
+      "Ukraine fashion {year}",
+      "fashion trends {year}"
+    ],
+    "MONATIK": [
+      "MONATIK songs",
+      "MONATIK new song {year}",
+      "MONATIK hit songs",
+      "MONATIK latest song"
+    ],
+    "Tina Karol": [
+      "Tina Karol songs",
+      "Tina Karol new song {year}",
+      "Tina Karol hit songs",
+      "Tina Karol latest song"
+    ],
+    "Nadiya Dorofeeva": [
+      "Nadiya Dorofeeva songs",
+      "Nadiya Dorofeeva new song {year}",
+      "Nadiya Dorofeeva hit songs",
+      "Nadiya Dorofeeva latest song"
+    ],
+    "Alyona Alyona": [
+      "Alyona Alyona songs",
+      "Alyona Alyona new song {year}",
+      "Alyona Alyona hit songs",
+      "Alyona Alyona latest song"
+    ],
+    "Max Barskih": [
+      "Max Barskih songs",
+      "Max Barskih new song {year}",
+      "Max Barskih hit songs",
+      "Max Barskih latest song"
+    ],
+    "KAZKA": [
+      "KAZKA songs",
+      "KAZKA new song {year}",
+      "KAZKA hit songs",
+      "KAZKA latest song"
+    ],
+    "Go_A": [
+      "Go_A songs",
+      "Go_A new song {year}",
+      "Go_A hit songs",
+      "Go_A latest song"
+    ],
+    "Onuka": [
+      "Onuka songs",
+      "Onuka new song {year}",
+      "Onuka hit songs",
+      "Onuka latest song"
+    ],
+    "The Hardkiss": [
+      "The Hardkiss songs",
+      "The Hardkiss new song {year}",
+      "The Hardkiss hit songs",
+      "The Hardkiss latest song"
+    ],
+    "Skofka": [
+      "Skofka songs",
+      "Skofka new song {year}",
+      "Skofka hit songs",
+      "Skofka latest song"
+    ],
+    "Svyatoslav Vakarchuk": [
+      "Svyatoslav Vakarchuk songs",
+      "Svyatoslav Vakarchuk new song {year}",
+      "Svyatoslav Vakarchuk hit songs",
+      "Svyatoslav Vakarchuk latest song"
+    ],
+    "Verka Serduchka": [
+      "Verka Serduchka songs",
+      "Verka Serduchka new song {year}",
+      "Verka Serduchka hit songs",
+      "Verka Serduchka latest song"
+    ],
+    "Artem Pivovarov": [
+      "Artem Pivovarov songs",
+      "Artem Pivovarov new song {year}",
+      "Artem Pivovarov hit songs",
+      "Artem Pivovarov latest song"
+    ],
+    "Khayat": [
+      "Khayat songs",
+      "Khayat new song {year}",
+      "Khayat hit songs",
+      "Khayat latest song"
+    ],
+    "Melovin": [
+      "Melovin songs",
+      "Melovin new song {year}",
+      "Melovin hit songs",
+      "Melovin latest song"
+    ],
+    "Iryna Bilyk": [
+      "Iryna Bilyk songs",
+      "Iryna Bilyk new song {year}",
+      "Iryna Bilyk hit songs",
+      "Iryna Bilyk latest song"
+    ],
+    "Potap": [
+      "Potap songs",
+      "Potap new song {year}",
+      "Potap hit songs",
+      "Potap latest song"
+    ]
+  },
+  "music_singers": [
+    "Jerry Heil",
+    "Okean Elzy",
+    "Kalush Orchestra",
+    "MONATIK",
+    "Tina Karol",
+    "Nadiya Dorofeeva",
+    "Alyona Alyona",
+    "Max Barskih",
+    "KAZKA",
+    "Go_A",
+    "Onuka",
+    "The Hardkiss",
+    "Skofka",
+    "Svyatoslav Vakarchuk",
+    "Verka Serduchka",
+    "Artem Pivovarov",
+    "Khayat",
+    "Melovin",
+    "Iryna Bilyk",
+    "Potap"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Українська Естрада",
+    "Укр Реп",
+    "Фолк"
+  ]
+}

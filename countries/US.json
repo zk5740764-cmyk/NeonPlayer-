@@ -1,0 +1,219 @@
+{
+  "_comment": "US: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "American Hits",
+    "Hip-Hop",
+    "Country",
+    "Pop",
+    "Taylor Swift",
+    "Sabrina Carpenter",
+    "Olivia Rodrigo",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "American Hits": [
+      "us top songs {year}",
+      "new songs {year}",
+      "billboard hot 100 hits"
+    ],
+    "Hip-Hop": [
+      "new hip hop songs {year}",
+      "rap hits {year}"
+    ],
+    "Country": [
+      "new country songs {year}",
+      "country hits"
+    ],
+    "Pop": [
+      "new pop songs {year}",
+      "pop hits"
+    ],
+    "R&B": [
+      "new r&b songs {year}",
+      "r&b hits"
+    ],
+    "News": [
+      "American news today",
+      "American news today live"
+    ],
+    "Sports": [
+      "American sports highlights",
+      "American sports highlights {year}"
+    ],
+    "Taylor Swift": [
+      "Taylor Swift songs",
+      "Taylor Swift new song {year}"
+    ],
+    "Sabrina Carpenter": [
+      "Sabrina Carpenter songs",
+      "Sabrina Carpenter new song {year}"
+    ],
+    "Olivia Rodrigo": [
+      "Olivia Rodrigo songs",
+      "Olivia Rodrigo new song {year}"
+    ],
+    "Top Charts": [
+      "us top songs {year}",
+      "billboard hot 100 hits"
+    ],
+    "New Releases": [
+      "new songs {year}",
+      "us top songs {year}"
+    ],
+    "Trending": [
+      "billboard hot 100 hits",
+      "new songs {year}"
+    ],
+    "Recently uploaded": [
+      "new videos United States {year}",
+      "latest United States videos today",
+      "United States trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "United States gameplay {year}",
+      "United States gaming videos"
+    ],
+    "Fashion": [
+      "United States fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Billie Eilish": [
+      "Billie Eilish songs",
+      "Billie Eilish new song {year}",
+      "Billie Eilish hit songs",
+      "Billie Eilish latest song"
+    ],
+    "The Weeknd": [
+      "The Weeknd songs",
+      "The Weeknd new song {year}",
+      "The Weeknd hit songs",
+      "The Weeknd latest song"
+    ],
+    "Morgan Wallen": [
+      "Morgan Wallen songs",
+      "Morgan Wallen new song {year}",
+      "Morgan Wallen hit songs",
+      "Morgan Wallen latest song"
+    ],
+    "Zach Bryan": [
+      "Zach Bryan songs",
+      "Zach Bryan new song {year}",
+      "Zach Bryan hit songs",
+      "Zach Bryan latest song"
+    ],
+    "Chappell Roan": [
+      "Chappell Roan songs",
+      "Chappell Roan new song {year}",
+      "Chappell Roan hit songs",
+      "Chappell Roan latest song"
+    ],
+    "Doja Cat": [
+      "Doja Cat songs",
+      "Doja Cat new song {year}",
+      "Doja Cat hit songs",
+      "Doja Cat latest song"
+    ],
+    "SZA": [
+      "SZA songs",
+      "SZA new song {year}",
+      "SZA hit songs",
+      "SZA latest song"
+    ],
+    "Kendrick Lamar": [
+      "Kendrick Lamar songs",
+      "Kendrick Lamar new song {year}",
+      "Kendrick Lamar hit songs",
+      "Kendrick Lamar latest song"
+    ],
+    "Post Malone": [
+      "Post Malone songs",
+      "Post Malone new song {year}",
+      "Post Malone hit songs",
+      "Post Malone latest song"
+    ],
+    "Ariana Grande": [
+      "Ariana Grande songs",
+      "Ariana Grande new song {year}",
+      "Ariana Grande hit songs",
+      "Ariana Grande latest song"
+    ],
+    "Tyler The Creator": [
+      "Tyler The Creator songs",
+      "Tyler The Creator new song {year}",
+      "Tyler The Creator hit songs",
+      "Tyler The Creator latest song"
+    ],
+    "Benson Boone": [
+      "Benson Boone songs",
+      "Benson Boone new song {year}",
+      "Benson Boone hit songs",
+      "Benson Boone latest song"
+    ],
+    "Teddy Swims": [
+      "Teddy Swims songs",
+      "Teddy Swims new song {year}",
+      "Teddy Swims hit songs",
+      "Teddy Swims latest song"
+    ],
+    "Gracie Abrams": [
+      "Gracie Abrams songs",
+      "Gracie Abrams new song {year}",
+      "Gracie Abrams hit songs",
+      "Gracie Abrams latest song"
+    ],
+    "Noah Kahan": [
+      "Noah Kahan songs",
+      "Noah Kahan new song {year}",
+      "Noah Kahan hit songs",
+      "Noah Kahan latest song"
+    ],
+    "Luke Combs": [
+      "Luke Combs songs",
+      "Luke Combs new song {year}",
+      "Luke Combs hit songs",
+      "Luke Combs latest song"
+    ],
+    "Lana Del Rey": [
+      "Lana Del Rey songs",
+      "Lana Del Rey new song {year}",
+      "Lana Del Rey hit songs",
+      "Lana Del Rey latest song"
+    ]
+  },
+  "music_singers": [
+    "Taylor Swift",
+    "Sabrina Carpenter",
+    "Olivia Rodrigo",
+    "Billie Eilish",
+    "The Weeknd",
+    "Morgan Wallen",
+    "Zach Bryan",
+    "Chappell Roan",
+    "Doja Cat",
+    "SZA",
+    "Kendrick Lamar",
+    "Post Malone",
+    "Ariana Grande",
+    "Tyler The Creator",
+    "Benson Boone",
+    "Teddy Swims",
+    "Gracie Abrams",
+    "Noah Kahan",
+    "Luke Combs",
+    "Lana Del Rey"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Hip-Hop",
+    "Country",
+    "Pop",
+    "R&B"
+  ]
+}

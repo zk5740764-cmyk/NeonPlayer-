@@ -1,0 +1,219 @@
+{
+  "_comment": "ZA: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "South African Hits",
+    "Amapiano",
+    "Gqom",
+    "SA Hip-Hop",
+    "Tyla",
+    "Black Coffee",
+    "Master KG",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "South African Hits": [
+      "south african songs {year}",
+      "new amapiano {year}",
+      "sa hits"
+    ],
+    "Amapiano": [
+      "amapiano {year}",
+      "amapiano mix"
+    ],
+    "Gqom": [
+      "gqom songs",
+      "gqom mix {year}"
+    ],
+    "SA Hip-Hop": [
+      "south african hip hop {year}",
+      "sa rap songs"
+    ],
+    "Afrikaans": [
+      "afrikaanse musiek",
+      "afrikaans songs {year}"
+    ],
+    "News": [
+      "South African news today",
+      "South African news today live"
+    ],
+    "Sports": [
+      "South African sports highlights",
+      "South African sports highlights {year}"
+    ],
+    "Tyla": [
+      "Tyla songs",
+      "Tyla new song {year}"
+    ],
+    "Black Coffee": [
+      "Black Coffee songs",
+      "Black Coffee new song {year}"
+    ],
+    "Master KG": [
+      "Master KG songs",
+      "Master KG new song {year}"
+    ],
+    "Top Charts": [
+      "south african songs {year}",
+      "sa hits"
+    ],
+    "New Releases": [
+      "new amapiano {year}",
+      "south african songs {year}"
+    ],
+    "Trending": [
+      "sa hits",
+      "new amapiano {year}"
+    ],
+    "Recently uploaded": [
+      "new videos South Africa {year}",
+      "latest South Africa videos today",
+      "South Africa trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "South Africa gameplay {year}",
+      "South Africa gaming videos"
+    ],
+    "Fashion": [
+      "South Africa fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Kabza De Small": [
+      "Kabza De Small songs",
+      "Kabza De Small new song {year}",
+      "Kabza De Small hit songs",
+      "Kabza De Small latest song"
+    ],
+    "DJ Maphorisa": [
+      "DJ Maphorisa songs",
+      "DJ Maphorisa new song {year}",
+      "DJ Maphorisa hit songs",
+      "DJ Maphorisa latest song"
+    ],
+    "Nasty C": [
+      "Nasty C songs",
+      "Nasty C new song {year}",
+      "Nasty C hit songs",
+      "Nasty C latest song"
+    ],
+    "Cassper Nyovest": [
+      "Cassper Nyovest songs",
+      "Cassper Nyovest new song {year}",
+      "Cassper Nyovest hit songs",
+      "Cassper Nyovest latest song"
+    ],
+    "Musa Keys": [
+      "Musa Keys songs",
+      "Musa Keys new song {year}",
+      "Musa Keys hit songs",
+      "Musa Keys latest song"
+    ],
+    "Focalistic": [
+      "Focalistic songs",
+      "Focalistic new song {year}",
+      "Focalistic hit songs",
+      "Focalistic latest song"
+    ],
+    "Uncle Waffles": [
+      "Uncle Waffles songs",
+      "Uncle Waffles new song {year}",
+      "Uncle Waffles hit songs",
+      "Uncle Waffles latest song"
+    ],
+    "Makhadzi": [
+      "Makhadzi songs",
+      "Makhadzi new song {year}",
+      "Makhadzi hit songs",
+      "Makhadzi latest song"
+    ],
+    "Ami Faku": [
+      "Ami Faku songs",
+      "Ami Faku new song {year}",
+      "Ami Faku hit songs",
+      "Ami Faku latest song"
+    ],
+    "Ladysmith Black Mambazo": [
+      "Ladysmith Black Mambazo songs",
+      "Ladysmith Black Mambazo new song {year}",
+      "Ladysmith Black Mambazo hit songs",
+      "Ladysmith Black Mambazo latest song"
+    ],
+    "TitoM": [
+      "TitoM songs",
+      "TitoM new song {year}",
+      "TitoM hit songs",
+      "TitoM latest song"
+    ],
+    "Zakes Bantwini": [
+      "Zakes Bantwini songs",
+      "Zakes Bantwini new song {year}",
+      "Zakes Bantwini hit songs",
+      "Zakes Bantwini latest song"
+    ],
+    "DBN Gogo": [
+      "DBN Gogo songs",
+      "DBN Gogo new song {year}",
+      "DBN Gogo hit songs",
+      "DBN Gogo latest song"
+    ],
+    "Sjava": [
+      "Sjava songs",
+      "Sjava new song {year}",
+      "Sjava hit songs",
+      "Sjava latest song"
+    ],
+    "Lady Zamar": [
+      "Lady Zamar songs",
+      "Lady Zamar new song {year}",
+      "Lady Zamar hit songs",
+      "Lady Zamar latest song"
+    ],
+    "Sho Madjozi": [
+      "Sho Madjozi songs",
+      "Sho Madjozi new song {year}",
+      "Sho Madjozi hit songs",
+      "Sho Madjozi latest song"
+    ],
+    "Shekhinah": [
+      "Shekhinah songs",
+      "Shekhinah new song {year}",
+      "Shekhinah hit songs",
+      "Shekhinah latest song"
+    ]
+  },
+  "music_singers": [
+    "Tyla",
+    "Black Coffee",
+    "Master KG",
+    "Kabza De Small",
+    "DJ Maphorisa",
+    "Nasty C",
+    "Cassper Nyovest",
+    "Musa Keys",
+    "Focalistic",
+    "Uncle Waffles",
+    "Makhadzi",
+    "Ami Faku",
+    "Ladysmith Black Mambazo",
+    "TitoM",
+    "Zakes Bantwini",
+    "DBN Gogo",
+    "Sjava",
+    "Lady Zamar",
+    "Sho Madjozi",
+    "Shekhinah"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Amapiano",
+    "Gqom",
+    "SA Hip-Hop",
+    "Afrikaans"
+  ]
+}

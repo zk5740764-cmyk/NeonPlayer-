@@ -1,0 +1,224 @@
+{
+  "_comment": "VN: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Vietnamese Hits",
+    "V-Pop",
+    "Rap Việt",
+    "Nhạc Trữ Tình",
+    "Phim Việt",
+    "Sơn Tùng M-TP",
+    "Đen Vâu",
+    "Hoàng Thùy Linh",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Vietnamese Hits": [
+      "nhạc việt {year}",
+      "nhạc trẻ mới nhất {year}",
+      "top nhạc việt"
+    ],
+    "V-Pop": [
+      "v-pop {year}",
+      "nhạc trẻ hay nhất"
+    ],
+    "Rap Việt": [
+      "rap việt {year}",
+      "rap việt hay nhất"
+    ],
+    "Nhạc Trữ Tình": [
+      "nhạc trữ tình",
+      "bolero hay nhất"
+    ],
+    "Nhạc Indie": [
+      "nhạc indie việt",
+      "indie việt hay"
+    ],
+    "Phim Việt": [
+      "phim việt nam full",
+      "phim chiếu rạp việt"
+    ],
+    "News": [
+      "tin tức hôm nay",
+      "tin tức hôm nay live"
+    ],
+    "Sports": [
+      "thể thao highlights",
+      "thể thao highlights {year}"
+    ],
+    "Sơn Tùng M-TP": [
+      "Sơn Tùng M-TP songs",
+      "Sơn Tùng M-TP new song {year}"
+    ],
+    "Đen Vâu": [
+      "Đen Vâu songs",
+      "Đen Vâu new song {year}"
+    ],
+    "Hoàng Thùy Linh": [
+      "Hoàng Thùy Linh songs",
+      "Hoàng Thùy Linh new song {year}"
+    ],
+    "Top Charts": [
+      "nhạc việt {year}",
+      "top nhạc việt"
+    ],
+    "New Releases": [
+      "nhạc trẻ mới nhất {year}",
+      "nhạc việt {year}"
+    ],
+    "Trending": [
+      "top nhạc việt",
+      "nhạc trẻ mới nhất {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Vietnam {year}",
+      "latest Vietnam videos today",
+      "Vietnam trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Vietnam gameplay {year}",
+      "Vietnam gaming videos"
+    ],
+    "Fashion": [
+      "Vietnam fashion {year}",
+      "fashion trends {year}"
+    ],
+    "MONO": [
+      "MONO songs",
+      "MONO new song {year}",
+      "MONO hit songs",
+      "MONO latest song"
+    ],
+    "Hòa Minzy": [
+      "Hòa Minzy songs",
+      "Hòa Minzy new song {year}",
+      "Hòa Minzy hit songs",
+      "Hòa Minzy latest song"
+    ],
+    "Vũ.": [
+      "Vũ. songs",
+      "Vũ. new song {year}",
+      "Vũ. hit songs",
+      "Vũ. latest song"
+    ],
+    "Mỹ Tâm": [
+      "Mỹ Tâm songs",
+      "Mỹ Tâm new song {year}",
+      "Mỹ Tâm hit songs",
+      "Mỹ Tâm latest song"
+    ],
+    "Jack": [
+      "Jack songs",
+      "Jack new song {year}",
+      "Jack hit songs",
+      "Jack latest song"
+    ],
+    "AMEE": [
+      "AMEE songs",
+      "AMEE new song {year}",
+      "AMEE hit songs",
+      "AMEE latest song"
+    ],
+    "Bích Phương": [
+      "Bích Phương songs",
+      "Bích Phương new song {year}",
+      "Bích Phương hit songs",
+      "Bích Phương latest song"
+    ],
+    "Orange": [
+      "Orange songs",
+      "Orange new song {year}",
+      "Orange hit songs",
+      "Orange latest song"
+    ],
+    "Noo Phước Thịnh": [
+      "Noo Phước Thịnh songs",
+      "Noo Phước Thịnh new song {year}",
+      "Noo Phước Thịnh hit songs",
+      "Noo Phước Thịnh latest song"
+    ],
+    "HIEUTHUHAI": [
+      "HIEUTHUHAI songs",
+      "HIEUTHUHAI new song {year}",
+      "HIEUTHUHAI hit songs",
+      "HIEUTHUHAI latest song"
+    ],
+    "Tăng Duy Tân": [
+      "Tăng Duy Tân songs",
+      "Tăng Duy Tân new song {year}",
+      "Tăng Duy Tân hit songs",
+      "Tăng Duy Tân latest song"
+    ],
+    "Erik": [
+      "Erik songs",
+      "Erik new song {year}",
+      "Erik hit songs",
+      "Erik latest song"
+    ],
+    "Hà Anh Tuấn": [
+      "Hà Anh Tuấn songs",
+      "Hà Anh Tuấn new song {year}",
+      "Hà Anh Tuấn hit songs",
+      "Hà Anh Tuấn latest song"
+    ],
+    "Binz": [
+      "Binz songs",
+      "Binz new song {year}",
+      "Binz hit songs",
+      "Binz latest song"
+    ],
+    "Dương Domic": [
+      "Dương Domic songs",
+      "Dương Domic new song {year}",
+      "Dương Domic hit songs",
+      "Dương Domic latest song"
+    ],
+    "tlinh": [
+      "tlinh songs",
+      "tlinh new song {year}",
+      "tlinh hit songs",
+      "tlinh latest song"
+    ],
+    "MCK": [
+      "MCK songs",
+      "MCK new song {year}",
+      "MCK hit songs",
+      "MCK latest song"
+    ]
+  },
+  "music_singers": [
+    "Sơn Tùng M-TP",
+    "Đen Vâu",
+    "Hoàng Thùy Linh",
+    "MONO",
+    "Hòa Minzy",
+    "Vũ.",
+    "Mỹ Tâm",
+    "Jack",
+    "AMEE",
+    "Bích Phương",
+    "Orange",
+    "Noo Phước Thịnh",
+    "HIEUTHUHAI",
+    "Tăng Duy Tân",
+    "Erik",
+    "Hà Anh Tuấn",
+    "Binz",
+    "Dương Domic",
+    "tlinh",
+    "MCK"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "V-Pop",
+    "Rap Việt",
+    "Nhạc Trữ Tình",
+    "Nhạc Indie"
+  ]
+}

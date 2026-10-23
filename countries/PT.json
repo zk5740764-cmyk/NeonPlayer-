@@ -1,0 +1,219 @@
+{
+  "_comment": "PT: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
+  "categories": [
+    "Home",
+    "Recently uploaded",
+    "Portuguese Hits",
+    "Fado",
+    "Pimba",
+    "Hip-Hop Tuga",
+    "Filmes Portugueses",
+    "Ana Moura",
+    "Dino d'Santiago",
+    "Mariza",
+    "Gaming",
+    "News",
+    "Sports"
+  ],
+  "category_queries": {
+    "Portuguese Hits": [
+      "música portuguesa {year}",
+      "novas músicas portuguesas {year}",
+      "top portugal"
+    ],
+    "Fado": [
+      "fado clássico",
+      "fado novo"
+    ],
+    "Pimba": [
+      "música pimba",
+      "pimba sucessos"
+    ],
+    "Hip-Hop Tuga": [
+      "rap tuga {year}",
+      "hip hop português"
+    ],
+    "Filmes Portugueses": [
+      "filme português completo",
+      "cinema português completo"
+    ],
+    "News": [
+      "notícias hoje",
+      "notícias hoje live"
+    ],
+    "Sports": [
+      "esportes melhores momentos",
+      "esportes melhores momentos {year}"
+    ],
+    "Ana Moura": [
+      "Ana Moura songs",
+      "Ana Moura new song {year}"
+    ],
+    "Dino d'Santiago": [
+      "Dino d'Santiago songs",
+      "Dino d'Santiago new song {year}"
+    ],
+    "Mariza": [
+      "Mariza songs",
+      "Mariza new song {year}"
+    ],
+    "Top Charts": [
+      "música portuguesa {year}",
+      "top portugal"
+    ],
+    "New Releases": [
+      "novas músicas portuguesas {year}",
+      "música portuguesa {year}"
+    ],
+    "Trending": [
+      "top portugal",
+      "novas músicas portuguesas {year}"
+    ],
+    "Recently uploaded": [
+      "new videos Portugal {year}",
+      "latest Portugal videos today",
+      "Portugal trending videos today"
+    ],
+    "Gaming": [
+      "gaming highlights {year}",
+      "Portugal gameplay {year}",
+      "Portugal gaming videos"
+    ],
+    "Fashion": [
+      "Portugal fashion {year}",
+      "fashion trends {year}"
+    ],
+    "Slow J": [
+      "Slow J songs",
+      "Slow J new song {year}",
+      "Slow J hit songs",
+      "Slow J latest song"
+    ],
+    "Bispo": [
+      "Bispo songs",
+      "Bispo new song {year}",
+      "Bispo hit songs",
+      "Bispo latest song"
+    ],
+    "Nenny": [
+      "Nenny songs",
+      "Nenny new song {year}",
+      "Nenny hit songs",
+      "Nenny latest song"
+    ],
+    "Diogo Piçarra": [
+      "Diogo Piçarra songs",
+      "Diogo Piçarra new song {year}",
+      "Diogo Piçarra hit songs",
+      "Diogo Piçarra latest song"
+    ],
+    "David Carreira": [
+      "David Carreira songs",
+      "David Carreira new song {year}",
+      "David Carreira hit songs",
+      "David Carreira latest song"
+    ],
+    "Carolina Deslandes": [
+      "Carolina Deslandes songs",
+      "Carolina Deslandes new song {year}",
+      "Carolina Deslandes hit songs",
+      "Carolina Deslandes latest song"
+    ],
+    "Tony Carreira": [
+      "Tony Carreira songs",
+      "Tony Carreira new song {year}",
+      "Tony Carreira hit songs",
+      "Tony Carreira latest song"
+    ],
+    "Quim Barreiros": [
+      "Quim Barreiros songs",
+      "Quim Barreiros new song {year}",
+      "Quim Barreiros hit songs",
+      "Quim Barreiros latest song"
+    ],
+    "Calema": [
+      "Calema songs",
+      "Calema new song {year}",
+      "Calema hit songs",
+      "Calema latest song"
+    ],
+    "Wet Bed Gang": [
+      "Wet Bed Gang songs",
+      "Wet Bed Gang new song {year}",
+      "Wet Bed Gang hit songs",
+      "Wet Bed Gang latest song"
+    ],
+    "Xutos & Pontapés": [
+      "Xutos & Pontapés songs",
+      "Xutos & Pontapés new song {year}",
+      "Xutos & Pontapés hit songs",
+      "Xutos & Pontapés latest song"
+    ],
+    "Plutónio": [
+      "Plutónio songs",
+      "Plutónio new song {year}",
+      "Plutónio hit songs",
+      "Plutónio latest song"
+    ],
+    "Dillaz": [
+      "Dillaz songs",
+      "Dillaz new song {year}",
+      "Dillaz hit songs",
+      "Dillaz latest song"
+    ],
+    "Sam The Kid": [
+      "Sam The Kid songs",
+      "Sam The Kid new song {year}",
+      "Sam The Kid hit songs",
+      "Sam The Kid latest song"
+    ],
+    "Mickael Carreira": [
+      "Mickael Carreira songs",
+      "Mickael Carreira new song {year}",
+      "Mickael Carreira hit songs",
+      "Mickael Carreira latest song"
+    ],
+    "Agir": [
+      "Agir songs",
+      "Agir new song {year}",
+      "Agir hit songs",
+      "Agir latest song"
+    ],
+    "Fernando Daniel": [
+      "Fernando Daniel songs",
+      "Fernando Daniel new song {year}",
+      "Fernando Daniel hit songs",
+      "Fernando Daniel latest song"
+    ]
+  },
+  "music_singers": [
+    "Ana Moura",
+    "Dino d'Santiago",
+    "Mariza",
+    "Slow J",
+    "Bispo",
+    "Nenny",
+    "Diogo Piçarra",
+    "David Carreira",
+    "Carolina Deslandes",
+    "Tony Carreira",
+    "Quim Barreiros",
+    "Calema",
+    "Wet Bed Gang",
+    "Xutos & Pontapés",
+    "Plutónio",
+    "Dillaz",
+    "Sam The Kid",
+    "Mickael Carreira",
+    "Agir",
+    "Fernando Daniel"
+  ],
+  "music_categories": [
+    "Top Charts",
+    "New Releases",
+    "Trending",
+    "Fado",
+    "Pimba",
+    "Hip-Hop Tuga"
+  ]
+}
