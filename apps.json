@@ -8,6 +8,14 @@
       "apk": "https://github.com/darkroot-pub/DarkStore/releases/download/DarkRoot-App-Store/DarkStore_7.0.4.apk",
       "icon": "",
       "banner": "res:darkstore_banner"
+    },
+    {
+      "name": "Android IDE",
+      "description": "Android par code likhne aur apps banane ke liye IDE.",
+      "version": "1.0",
+      "apk": "PASTE_DIRECT_APK_LINK_HERE",
+      "icon": "",
+      "banner": ""
     }
   ]
 }
