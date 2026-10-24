@@ -1,0 +1,13 @@
+{
+  "_help": "Naya app add karne ke liye 'apps' list mein ek block jodo: { \"name\": \"App Name\", \"description\": \"chhota description\", \"version\": \"1.0\", \"apk\": \"https://...direct.apk\", \"icon\": \"https://...png (optional)\", \"banner\": \"https://...jpg (optional, badi photo)\" }. 'apk' direct download link hona chahiye. icon/banner khali chhod sakte ho. Is file ko GitHub repo (main branch) mein apps.json naam se rakho - app khud utha leti hai, rebuild nahi chahiye.",
+  "apps": [
+    {
+      "name": "Dark Store",
+      "description": "Your Apps. Your Choice. No Limits. Best apps, games and tools - all in one place.",
+      "version": "7.0.4",
+      "apk": "https://github.com/darkroot-pub/DarkStore/releases/download/DarkRoot-App-Store/DarkStore_7.0.4.apk",
+      "icon": "",
+      "banner": "res:darkstore_banner"
+    }
+  ]
+}
