@@ -2,6 +2,7 @@
   "_comment": "IN: categories = Home chips | category_queries = searches | music_singers = Music tab artists | music_categories = Music tab chips.",
   "categories": [
     "Home",
+    "Chelo Hop",
     "Trending",
     "Recently uploaded",
     "Haryanvi Movies",
@@ -99,6 +100,13 @@
       "Jubin Nautiyal new song {year}",
       "Jubin Nautiyal hit songs",
       "Jubin Nautiyal latest song"
+    ],
+    "Chelo Hop": [
+      "Chelo Hop songs",
+      "Chelo Hop new song {year}",
+      "Chelo Hop hit songs",
+      "Chelo Hop latest song",
+      "Chelo Hop x AstrallBass"
     ],
     "Top Charts": [
       "bollywood hit songs {year}",
