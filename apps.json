@@ -1,22 +1,15 @@
-
 {
-  "_help": "Naya app add karne ke liye 'apps' list mein ek block jodo. Is file ko GitHub repo ki main branch mein apps.json naam se rakho. App bina rebuild ke update ho jayegi.",
+  "_help": "Har app ke liye 3 cheez likho: name (naam), apk (direct apk link), banner (photo ka link). Naya app add karne ke liye neeche wala ek block copy karke apps ki list mein comma laga kar paste karo. description, version, icon optional hain. Is file ko GitHub repo (main branch) mein apps.json naam se rakho - rebuild nahi chahiye.",
   "apps": [
     {
       "name": "Dark Store",
-      "description": "Your Apps. Your Choice. No Limits. Best apps, games and tools - all in one place.",
-      "version": "7.0.4",
       "apk": "https://github.com/darkroot-pub/DarkStore/releases/download/DarkRoot-App-Store/DarkStore_7.0.4.apk",
-      "icon": "",
       "banner": "res:darkstore_banner"
     },
     {
       "name": "NeonPlayer",
-      "description": "NeonPlayer - Your music and video player.",
-      "version": "1.0",
-      "apk": "https://github.com/darkroot-pub/DarkStore/releases/download/DarkRoot-App-Store/DarkStore_7.0.4.apk",
-      "icon": "",
-      "banner": ""
+      "apk": "https://github.com/streamxap-create/Streamx/releases/download/V1.4/NeonPlayer_1.4.apk",
+      "banner": "https://drive.google.com/uc?export=view&id=11kC7bSNxxJk4IL-wg8LdPXnMw4Dgfvqa"
     }
   ]
 }
