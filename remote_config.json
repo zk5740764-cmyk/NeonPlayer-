@@ -22,7 +22,7 @@
   "debug_pin": "8082",
   "iframe_fallback_enabled": false,
   "home_feed_sync_enabled": true,
-  "home_feed_sync_interval_hours": 2,
+  "home_feed_sync_interval_hours": 3,
   "new_upload_notifications_enabled": true,
   "new_upload_check_interval_minutes": 60,
   "home_feed_notifications_enabled": true,
