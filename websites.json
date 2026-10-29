@@ -1,23 +1,1237 @@
 {
-  "_help": "...",
+  "_help": "WEBSITES: yahan se app ki Websites screen bharti hai (GitHub se load hoti hai, app dobara build nahi karni). Nayi site: categories[].sites mein {\"name\":\"X\",\"url\":\"https://x.com\"} add karo. Nayi category: naya block {emoji, name, sites} add karo. Site hatani ho to us ki line delete karo. 'Hot site' naam wali category Settings ke Hot Sites card mein bhi aati hai.",
   "categories": [
     {
       "emoji": "⭐",
       "name": "Hot site",
       "sites": [
         {
-          "name": "AnimeSalt",
-          "url": "https://animesalt.in/"
-        },
-        {
           "name": "Dearmet",
           "url": "https://dating.h5scene.com/matchUp/?placefrom=favorite&match_channel=dearmet"
         },
         {
-          "name": "Movi Box",
-          "url": "https://movebox.run/"
+          "name": "YouTube",
+          "url": "https://m.youtube.com"
+        },
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com"
+        },
+        {
+          "name": "Facebook",
+          "url": "https://m.facebook.com"
+        },
+        {
+          "name": "Google",
+          "url": "https://www.google.com"
+        },
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in"
+        }
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "name": "Video & Streaming",
+      "sites": [
+        {
+          "name": "YouTube",
+          "url": "https://m.youtube.com"
+        },
+        {
+          "name": "Dailymotion",
+          "url": "https://www.dailymotion.com"
+        },
+        {
+          "name": "Vimeo",
+          "url": "https://vimeo.com"
+        },
+        {
+          "name": "Twitch",
+          "url": "https://www.twitch.tv"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com"
+        },
+        {
+          "name": "Prime Video",
+          "url": "https://www.primevideo.com"
+        },
+        {
+          "name": "JioHotstar",
+          "url": "https://www.hotstar.com"
+        },
+        {
+          "name": "ZEE5",
+          "url": "https://www.zee5.com"
+        },
+        {
+          "name": "SonyLIV",
+          "url": "https://www.sonyliv.com"
+        },
+        {
+          "name": "MX Player",
+          "url": "https://www.mxplayer.in"
+        }
+      ]
+    },
+    {
+      "emoji": "🎵",
+      "name": "Music",
+      "sites": [
+        {
+          "name": "Spotify",
+          "url": "https://open.spotify.com"
+        },
+        {
+          "name": "YouTube Music",
+          "url": "https://music.youtube.com"
+        },
+        {
+          "name": "JioSaavn",
+          "url": "https://www.jiosaavn.com"
+        },
+        {
+          "name": "Gaana",
+          "url": "https://gaana.com"
+        },
+        {
+          "name": "Wynk",
+          "url": "https://wynk.in"
+        },
+        {
+          "name": "SoundCloud",
+          "url": "https://soundcloud.com"
+        },
+        {
+          "name": "Apple Music",
+          "url": "https://music.apple.com"
+        },
+        {
+          "name": "Audiomack",
+          "url": "https://audiomack.com"
+        },
+        {
+          "name": "Bandcamp",
+          "url": "https://bandcamp.com"
+        },
+        {
+          "name": "Hungama",
+          "url": "https://www.hungama.com"
+        }
+      ]
+    },
+    {
+      "emoji": "💬",
+      "name": "Social Media",
+      "sites": [
+        {
+          "name": "Facebook",
+          "url": "https://m.facebook.com"
+        },
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com"
+        },
+        {
+          "name": "X (Twitter)",
+          "url": "https://x.com"
+        },
+        {
+          "name": "Reddit",
+          "url": "https://www.reddit.com"
+        },
+        {
+          "name": "Pinterest",
+          "url": "https://www.pinterest.com"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com"
+        },
+        {
+          "name": "Snapchat",
+          "url": "https://www.snapchat.com"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://web.telegram.org"
+        },
+        {
+          "name": "Tumblr",
+          "url": "https://www.tumblr.com"
+        },
+        {
+          "name": "Quora",
+          "url": "https://www.quora.com"
+        },
+        {
+          "name": "Threads",
+          "url": "https://www.threads.com"
+        },
+        {
+          "name": "TikTok",
+          "url": "https://www.tiktok.com"
+        },
+        {
+          "name": "WhatsApp Web",
+          "url": "https://web.whatsapp.com"
+        },
+        {
+          "name": "Discord",
+          "url": "https://discord.com/app"
+        },
+        {
+          "name": "Bluesky",
+          "url": "https://bsky.app"
+        },
+        {
+          "name": "Mastodon",
+          "url": "https://mastodon.social"
+        },
+        {
+          "name": "Likee",
+          "url": "https://likee.video"
+        },
+        {
+          "name": "Kwai",
+          "url": "https://www.kwai.com"
+        }
+      ]
+    },
+    {
+      "emoji": "📰",
+      "name": "News",
+      "sites": [
+        {
+          "name": "Google News",
+          "url": "https://news.google.com"
+        },
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com"
+        },
+        {
+          "name": "CNN",
+          "url": "https://edition.cnn.com"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com"
+        },
+        {
+          "name": "NDTV",
+          "url": "https://www.ndtv.com"
+        },
+        {
+          "name": "Aaj Tak",
+          "url": "https://www.aajtak.in"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com"
+        },
+        {
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://www.dawn.com"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv"
+        }
+      ]
+    },
+    {
+      "emoji": "🍿",
+      "name": "Movies & TV",
+      "sites": [
+        {
+          "name": "IMDb",
+          "url": "https://www.imdb.com"
+        },
+        {
+          "name": "Rotten Tomatoes",
+          "url": "https://www.rottentomatoes.com"
+        },
+        {
+          "name": "BookMyShow",
+          "url": "https://in.bookmyshow.com"
+        },
+        {
+          "name": "JustWatch",
+          "url": "https://www.justwatch.com"
+        },
+        {
+          "name": "Letterboxd",
+          "url": "https://letterboxd.com"
+        },
+        {
+          "name": "TMDB",
+          "url": "https://www.themoviedb.org"
+        },
+        {
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com"
+        }
+      ]
+    },
+    {
+      "emoji": "🏏",
+      "name": "Sports",
+      "sites": [
+        {
+          "name": "Cricbuzz",
+          "url": "https://www.cricbuzz.com"
+        },
+        {
+          "name": "ESPNcricinfo",
+          "url": "https://www.espncricinfo.com"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com"
+        },
+        {
+          "name": "Sofascore",
+          "url": "https://www.sofascore.com"
+        },
+        {
+          "name": "FotMob",
+          "url": "https://www.fotmob.com"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.com/sport"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com"
+        },
+        {
+          "name": "FIFA",
+          "url": "https://www.fifa.com"
+        },
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com"
+        },
+        {
+          "name": "NBA",
+          "url": "https://www.nba.com"
+        }
+      ]
+    },
+    {
+      "emoji": "🛍️",
+      "name": "Shopping",
+      "sites": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "name": "Myntra",
+          "url": "https://www.myntra.com"
+        },
+        {
+          "name": "Meesho",
+          "url": "https://www.meesho.com"
+        },
+        {
+          "name": "AJIO",
+          "url": "https://www.ajio.com"
+        },
+        {
+          "name": "Nykaa",
+          "url": "https://www.nykaa.com"
+        },
+        {
+          "name": "Snapdeal",
+          "url": "https://www.snapdeal.com"
+        },
+        {
+          "name": "AliExpress",
+          "url": "https://www.aliexpress.com"
+        },
+        {
+          "name": "eBay",
+          "url": "https://www.ebay.com"
+        },
+        {
+          "name": "Daraz",
+          "url": "https://www.daraz.pk"
+        },
+        {
+          "name": "OLX",
+          "url": "https://www.olx.in"
+        },
+        {
+          "name": "OLX Pakistan",
+          "url": "https://www.olx.com.pk"
+        },
+        {
+          "name": "Temu",
+          "url": "https://www.temu.com"
+        },
+        {
+          "name": "SHEIN",
+          "url": "https://www.shein.com"
+        },
+        {
+          "name": "Alibaba",
+          "url": "https://www.alibaba.com"
+        },
+        {
+          "name": "PriceOye",
+          "url": "https://priceoye.pk"
+        },
+        {
+          "name": "Foodpanda",
+          "url": "https://www.foodpanda.pk"
+        },
+        {
+          "name": "Zomato",
+          "url": "https://www.zomato.com"
+        },
+        {
+          "name": "Swiggy",
+          "url": "https://www.swiggy.com"
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "name": "Education",
+      "sites": [
+        {
+          "name": "Wikipedia",
+          "url": "https://www.wikipedia.org"
+        },
+        {
+          "name": "Khan Academy",
+          "url": "https://www.khanacademy.org"
+        },
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org"
+        },
+        {
+          "name": "Udemy",
+          "url": "https://www.udemy.com"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org"
+        },
+        {
+          "name": "Duolingo",
+          "url": "https://www.duolingo.com"
+        },
+        {
+          "name": "W3Schools",
+          "url": "https://www.w3schools.com"
+        },
+        {
+          "name": "GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org"
+        },
+        {
+          "name": "Unacademy",
+          "url": "https://unacademy.com"
+        },
+        {
+          "name": "Google Scholar",
+          "url": "https://scholar.google.com"
+        },
+        {
+          "name": "PhysicsWallah",
+          "url": "https://www.pw.live"
+        },
+        {
+          "name": "BYJU'S",
+          "url": "https://byjus.com"
+        },
+        {
+          "name": "NPTEL",
+          "url": "https://nptel.ac.in"
+        },
+        {
+          "name": "Virtual University (VU)",
+          "url": "https://www.vu.edu.pk"
+        },
+        {
+          "name": "TED",
+          "url": "https://www.ted.com"
+        },
+        {
+          "name": "Brilliant",
+          "url": "https://brilliant.org"
+        },
+        {
+          "name": "Codecademy",
+          "url": "https://www.codecademy.com"
+        },
+        {
+          "name": "Open Library",
+          "url": "https://openlibrary.org"
+        }
+      ]
+    },
+    {
+      "emoji": "🎮",
+      "name": "Games",
+      "sites": [
+        {
+          "name": "Poki",
+          "url": "https://poki.com"
+        },
+        {
+          "name": "CrazyGames",
+          "url": "https://www.crazygames.com"
+        },
+        {
+          "name": "Miniclip",
+          "url": "https://www.miniclip.com"
+        },
+        {
+          "name": "Y8",
+          "url": "https://www.y8.com"
+        },
+        {
+          "name": "Roblox",
+          "url": "https://www.roblox.com"
+        },
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com"
+        },
+        {
+          "name": "Epic Games",
+          "url": "https://store.epicgames.com"
+        },
+        {
+          "name": "Chess.com",
+          "url": "https://www.chess.com"
+        },
+        {
+          "name": "Lichess",
+          "url": "https://lichess.org"
+        },
+        {
+          "name": "itch.io",
+          "url": "https://itch.io"
+        }
+      ]
+    },
+    {
+      "emoji": "🤖",
+      "name": "AI Chat",
+      "sites": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com"
+        },
+        {
+          "name": "Perplexity",
+          "url": "https://www.perplexity.ai"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com"
+        },
+        {
+          "name": "DeepSeek",
+          "url": "https://chat.deepseek.com"
+        },
+        {
+          "name": "Grok",
+          "url": "https://grok.com"
+        },
+        {
+          "name": "Meta AI",
+          "url": "https://www.meta.ai"
+        },
+        {
+          "name": "Mistral Le Chat",
+          "url": "https://chat.mistral.ai"
+        },
+        {
+          "name": "Qwen",
+          "url": "https://chat.qwen.ai"
+        },
+        {
+          "name": "Kimi",
+          "url": "https://www.kimi.com"
+        },
+        {
+          "name": "Poe",
+          "url": "https://poe.com"
+        },
+        {
+          "name": "Character.AI",
+          "url": "https://character.ai"
+        },
+        {
+          "name": "You.com",
+          "url": "https://you.com"
+        },
+        {
+          "name": "HuggingChat",
+          "url": "https://huggingface.co/chat"
+        },
+        {
+          "name": "NotebookLM",
+          "url": "https://notebooklm.google.com"
+        },
+        {
+          "name": "Pi",
+          "url": "https://pi.ai"
+        },
+        {
+          "name": "Z.ai (GLM)",
+          "url": "https://chat.z.ai"
+        }
+      ]
+    },
+    {
+      "emoji": "🛠️",
+      "name": "AI App Builders",
+      "sites": [
+        {
+          "name": "Google AI Studio",
+          "url": "https://aistudio.google.com"
+        },
+        {
+          "name": "Lovable",
+          "url": "https://lovable.dev"
+        },
+        {
+          "name": "Bolt.new",
+          "url": "https://bolt.new"
+        },
+        {
+          "name": "v0 by Vercel",
+          "url": "https://v0.dev"
+        },
+        {
+          "name": "Replit",
+          "url": "https://replit.com"
+        },
+        {
+          "name": "Firebase Studio",
+          "url": "https://studio.firebase.google.com"
+        },
+        {
+          "name": "Cursor",
+          "url": "https://cursor.com"
+        },
+        {
+          "name": "Windsurf",
+          "url": "https://windsurf.com"
+        },
+        {
+          "name": "Base44",
+          "url": "https://base44.com"
+        },
+        {
+          "name": "Create.xyz",
+          "url": "https://www.create.xyz"
+        },
+        {
+          "name": "Emergent",
+          "url": "https://emergent.sh"
+        },
+        {
+          "name": "Rork (mobile apps)",
+          "url": "https://rork.com"
+        },
+        {
+          "name": "FlutterFlow",
+          "url": "https://flutterflow.io"
+        },
+        {
+          "name": "Appy Pie",
+          "url": "https://www.appypie.com"
+        },
+        {
+          "name": "Thunkable",
+          "url": "https://thunkable.com"
+        },
+        {
+          "name": "Kodular",
+          "url": "https://www.kodular.io"
+        },
+        {
+          "name": "MIT App Inventor",
+          "url": "https://appinventor.mit.edu"
+        },
+        {
+          "name": "Glide",
+          "url": "https://www.glideapps.com"
+        },
+        {
+          "name": "Softr",
+          "url": "https://www.softr.io"
+        },
+        {
+          "name": "Bubble",
+          "url": "https://bubble.io"
+        },
+        {
+          "name": "Framer",
+          "url": "https://www.framer.com"
+        },
+        {
+          "name": "Wix Studio",
+          "url": "https://www.wix.com"
+        },
+        {
+          "name": "Hostinger Horizons",
+          "url": "https://www.hostinger.com/horizons"
+        },
+        {
+          "name": "CodeSandbox",
+          "url": "https://codesandbox.io"
+        },
+        {
+          "name": "StackBlitz",
+          "url": "https://stackblitz.com"
+        },
+        {
+          "name": "Glitch",
+          "url": "https://glitch.com"
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "name": "AI Image, Video & Audio",
+      "sites": [
+        {
+          "name": "Midjourney",
+          "url": "https://www.midjourney.com"
+        },
+        {
+          "name": "Leonardo AI",
+          "url": "https://leonardo.ai"
+        },
+        {
+          "name": "Ideogram",
+          "url": "https://ideogram.ai"
+        },
+        {
+          "name": "Adobe Firefly",
+          "url": "https://firefly.adobe.com"
+        },
+        {
+          "name": "Bing Image Creator",
+          "url": "https://www.bing.com/images/create"
+        },
+        {
+          "name": "Flux (Black Forest Labs)",
+          "url": "https://playground.bfl.ai"
+        },
+        {
+          "name": "Runway",
+          "url": "https://runwayml.com"
+        },
+        {
+          "name": "Pika",
+          "url": "https://pika.art"
+        },
+        {
+          "name": "Luma Dream Machine",
+          "url": "https://lumalabs.ai/dream-machine"
+        },
+        {
+          "name": "Kling AI",
+          "url": "https://klingai.com"
+        },
+        {
+          "name": "Hailuo AI",
+          "url": "https://hailuoai.video"
+        },
+        {
+          "name": "Google Flow / Veo",
+          "url": "https://labs.google/fx/tools/flow"
+        },
+        {
+          "name": "HeyGen",
+          "url": "https://www.heygen.com"
+        },
+        {
+          "name": "Suno (AI music)",
+          "url": "https://suno.com"
+        },
+        {
+          "name": "Udio",
+          "url": "https://www.udio.com"
+        },
+        {
+          "name": "ElevenLabs (AI voice)",
+          "url": "https://elevenlabs.io"
+        },
+        {
+          "name": "Remove.bg",
+          "url": "https://www.remove.bg"
+        },
+        {
+          "name": "Upscale.media",
+          "url": "https://www.upscale.media"
+        },
+        {
+          "name": "CapCut Online",
+          "url": "https://www.capcut.com"
+        },
+        {
+          "name": "Clipchamp",
+          "url": "https://clipchamp.com"
+        }
+      ]
+    },
+    {
+      "emoji": "✍️",
+      "name": "AI Writing & Study",
+      "sites": [
+        {
+          "name": "Grammarly",
+          "url": "https://www.grammarly.com"
+        },
+        {
+          "name": "QuillBot",
+          "url": "https://quillbot.com"
+        },
+        {
+          "name": "Notion AI",
+          "url": "https://www.notion.com"
+        },
+        {
+          "name": "Gamma (AI slides)",
+          "url": "https://gamma.app"
+        },
+        {
+          "name": "Beautiful.ai",
+          "url": "https://www.beautiful.ai"
+        },
+        {
+          "name": "Photomath",
+          "url": "https://photomath.com"
+        },
+        {
+          "name": "Wolfram Alpha",
+          "url": "https://www.wolframalpha.com"
+        },
+        {
+          "name": "Otter (AI notes)",
+          "url": "https://otter.ai"
+        },
+        {
+          "name": "Humata / ChatPDF",
+          "url": "https://www.chatpdf.com"
+        },
+        {
+          "name": "Elicit (research)",
+          "url": "https://elicit.com"
+        },
+        {
+          "name": "Consensus",
+          "url": "https://consensus.app"
+        },
+        {
+          "name": "Phind (code search)",
+          "url": "https://www.phind.com"
+        }
+      ]
+    },
+    {
+      "emoji": "🧭",
+      "name": "AI Directories",
+      "sites": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co"
+        },
+        {
+          "name": "There's An AI For That",
+          "url": "https://theresanaiforthat.com"
+        },
+        {
+          "name": "Futurepedia",
+          "url": "https://www.futurepedia.io"
+        },
+        {
+          "name": "OpenRouter",
+          "url": "https://openrouter.ai"
+        },
+        {
+          "name": "LMArena",
+          "url": "https://lmarena.ai"
+        },
+        {
+          "name": "Kaggle",
+          "url": "https://www.kaggle.com"
+        },
+        {
+          "name": "Papers with Code",
+          "url": "https://paperswithcode.com"
+        },
+        {
+          "name": "Ollama Library",
+          "url": "https://ollama.com/library"
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "name": "Tech & Coding",
+      "sites": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com"
+        },
+        {
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com"
+        },
+        {
+          "name": "Medium",
+          "url": "https://medium.com"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://news.ycombinator.com"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com"
+        },
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com"
+        },
+        {
+          "name": "XDA",
+          "url": "https://www.xda-developers.com"
+        },
+        {
+          "name": "F-Droid",
+          "url": "https://f-droid.org"
+        },
+        {
+          "name": "Product Hunt",
+          "url": "https://www.producthunt.com"
+        },
+        {
+          "name": "Android Developers",
+          "url": "https://developer.android.com"
+        },
+        {
+          "name": "Kotlin Docs",
+          "url": "https://kotlinlang.org/docs"
+        },
+        {
+          "name": "Maven Central",
+          "url": "https://central.sonatype.com"
+        },
+        {
+          "name": "JitPack",
+          "url": "https://jitpack.io"
+        },
+        {
+          "name": "CodePen",
+          "url": "https://codepen.io"
+        },
+        {
+          "name": "JSFiddle",
+          "url": "https://jsfiddle.net"
+        },
+        {
+          "name": "Dev.to",
+          "url": "https://dev.to"
+        },
+        {
+          "name": "freeCodeCamp",
+          "url": "https://www.freecodecamp.org"
+        },
+        {
+          "name": "APKMirror",
+          "url": "https://www.apkmirror.com"
+        },
+        {
+          "name": "APKPure",
+          "url": "https://apkpure.com"
+        },
+        {
+          "name": "Uptodown",
+          "url": "https://www.uptodown.com"
+        },
+        {
+          "name": "Vercel",
+          "url": "https://vercel.com"
+        },
+        {
+          "name": "Netlify",
+          "url": "https://www.netlify.com"
+        },
+        {
+          "name": "Firebase Console",
+          "url": "https://console.firebase.google.com"
+        },
+        {
+          "name": "Cloudflare",
+          "url": "https://dash.cloudflare.com"
+        }
+      ]
+    },
+    {
+      "emoji": "🔎",
+      "name": "Search & Tools",
+      "sites": [
+        {
+          "name": "Google",
+          "url": "https://www.google.com"
+        },
+        {
+          "name": "Bing",
+          "url": "https://www.bing.com"
+        },
+        {
+          "name": "DuckDuckGo",
+          "url": "https://duckduckgo.com"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://www.yahoo.com"
+        },
+        {
+          "name": "Google Translate",
+          "url": "https://translate.google.com"
+        },
+        {
+          "name": "Google Maps",
+          "url": "https://maps.google.com"
+        },
+        {
+          "name": "Gmail",
+          "url": "https://mail.google.com"
+        },
+        {
+          "name": "Google Drive",
+          "url": "https://drive.google.com"
+        },
+        {
+          "name": "Canva",
+          "url": "https://www.canva.com"
+        },
+        {
+          "name": "iLovePDF",
+          "url": "https://www.ilovepdf.com"
+        },
+        {
+          "name": "Speedtest",
+          "url": "https://www.speedtest.net"
+        },
+        {
+          "name": "WeTransfer",
+          "url": "https://wetransfer.com"
+        },
+        {
+          "name": "Google Photos",
+          "url": "https://photos.google.com"
+        },
+        {
+          "name": "Google Docs",
+          "url": "https://docs.google.com"
+        },
+        {
+          "name": "Google Sheets",
+          "url": "https://sheets.google.com"
+        },
+        {
+          "name": "Google Calendar",
+          "url": "https://calendar.google.com"
+        },
+        {
+          "name": "Outlook",
+          "url": "https://outlook.live.com"
+        },
+        {
+          "name": "Dropbox",
+          "url": "https://www.dropbox.com"
+        },
+        {
+          "name": "MEGA",
+          "url": "https://mega.nz"
+        },
+        {
+          "name": "Pastebin",
+          "url": "https://pastebin.com"
+        },
+        {
+          "name": "TinyPNG",
+          "url": "https://tinypng.com"
+        },
+        {
+          "name": "Smallpdf",
+          "url": "https://smallpdf.com"
+        },
+        {
+          "name": "Time.is",
+          "url": "https://time.is"
+        },
+        {
+          "name": "Wayback Machine",
+          "url": "https://web.archive.org"
+        }
+      ]
+    },
+    {
+      "emoji": "✈️",
+      "name": "Travel",
+      "sites": [
+        {
+          "name": "Booking.com",
+          "url": "https://www.booking.com"
+        },
+        {
+          "name": "MakeMyTrip",
+          "url": "https://www.makemytrip.com"
+        },
+        {
+          "name": "IRCTC",
+          "url": "https://www.irctc.co.in"
+        },
+        {
+          "name": "Airbnb",
+          "url": "https://www.airbnb.com"
+        },
+        {
+          "name": "Skyscanner",
+          "url": "https://www.skyscanner.com"
+        },
+        {
+          "name": "Google Flights",
+          "url": "https://www.google.com/travel/flights"
+        },
+        {
+          "name": "TripAdvisor",
+          "url": "https://www.tripadvisor.com"
+        },
+        {
+          "name": "Agoda",
+          "url": "https://www.agoda.com"
+        },
+        {
+          "name": "Yatra",
+          "url": "https://www.yatra.com"
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "name": "Finance",
+      "sites": [
+        {
+          "name": "Google Finance",
+          "url": "https://www.google.com/finance"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://www.tradingview.com"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com"
+        },
+        {
+          "name": "Moneycontrol",
+          "url": "https://www.moneycontrol.com"
+        },
+        {
+          "name": "CoinMarketCap",
+          "url": "https://coinmarketcap.com"
+        },
+        {
+          "name": "Groww",
+          "url": "https://groww.in"
+        },
+        {
+          "name": "Zerodha",
+          "url": "https://zerodha.com"
+        },
+        {
+          "name": "Paytm",
+          "url": "https://paytm.com"
+        },
+        {
+          "name": "PhonePe",
+          "url": "https://www.phonepe.com"
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "name": "Jobs",
+      "sites": [
+        {
+          "name": "Naukri",
+          "url": "https://www.naukri.com"
+        },
+        {
+          "name": "Indeed",
+          "url": "https://www.indeed.com"
+        },
+        {
+          "name": "LinkedIn Jobs",
+          "url": "https://www.linkedin.com/jobs"
+        },
+        {
+          "name": "Glassdoor",
+          "url": "https://www.glassdoor.com"
+        },
+        {
+          "name": "Internshala",
+          "url": "https://internshala.com"
+        },
+        {
+          "name": "Rozee.pk",
+          "url": "https://www.rozee.pk"
         }
       ]
     }
   ]
-}
+        }
