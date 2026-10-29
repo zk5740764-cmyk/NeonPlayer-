@@ -1,10 +1,9 @@
 {
-  "_help": "MOVIE TAB: har category ke liye 2 cheez likho: name (category ka naam, chip par dikhega) aur playlist (YouTube playlist ka link). Naya category add karne ke liye neeche wala ek block copy karke list mein comma laga kar paste karo. Category ka playlist khali (\"\") ho to wo category app mein nahi dikhti. Playlist ko 'Unlisted' rakho (Private nahi). Playlist ka poora link ya sirf uska ID (PL...) dono chalte hain. Is file ko GitHub repo (main branch) mein movies.json naam se rakho - app dobara build nahi karni.",
+  "_help": "MOVIE TAB: har category ke liye name (chip par dikhega) aur playlist (YouTube playlist ka link ya ID) likho. Playlist khali ho to category app mein nahi dikhti. Playlist 'Unlisted' rakho (Private nahi). File GitHub repo ki main branch mein movies.json naam se rakho.",
   "categories": [
-    { "name": "Movies", "playlist": "https://youtube.com/playlist?list=PLY-VI_hHNUS0&si=oiIndy4zAhr3HwIR" },
+    { "name": "Movies", "playlist": "PLY-VI_hHNUS0" },
     { "name": "Action", "playlist": "" },
     { "name": "Comedy", "playlist": "" },
     { "name": "Punjabi", "playlist": "" }
   ]
 }
-
