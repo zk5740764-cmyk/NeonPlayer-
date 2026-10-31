@@ -10,6 +10,11 @@
       "name": "NeonPlayer",
       "apk": "https://github.com/streamxap-create/Streamx/releases/download/V1.4/NeonPlayer_1.4.apk",
       "banner": "https://drive.google.com/uc?export=view&id=11kC7bSNxxJk4IL-wg8LdPXnMw4Dgfvqa"
+    },
+    {
+      "name": "Velora",
+      "apk": "https://github.com/zk5740764-cmyk/Streamx-/releases/download/1.0.1/Velora_1.0.1.apk",
+      "banner": "https://drive.google.com/uc?export=view&id=1IPVOALXMjGcNpMSsuJPkcxd8yFxSWVRL"
     }
   ]
 }
