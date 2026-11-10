@@ -14,7 +14,7 @@
   "disabled_qualities": [],
   "blocked_video_ids": [],
   "music_tab_enabled": true,
-  "downloads_tab_enabled": flase,
+  "downloads_tab_enabled": false,
   "shorts_enabled": true,
   "search_enabled": true,
   "comments_enabled": true,
