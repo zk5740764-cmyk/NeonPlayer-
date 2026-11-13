@@ -68,5 +68,6 @@
   "share_gate_button_text": "",
   "share_gate_share_text": "",
   "share_gate_fallback_away_sec": 4,
-  "share_gate_long_away_sec": 20
+  "share_gate_long_away_sec": 20,
+  "update_blocks_downloads": true
 }
