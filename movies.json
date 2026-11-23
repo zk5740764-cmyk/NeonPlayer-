@@ -2,8 +2,9 @@
   "_help": "MOVIE TAB: har category ke liye name (chip par dikhega) aur playlist (YouTube playlist ka link ya ID) likho. Playlist khali ho to category app mein nahi dikhti. Playlist 'Unlisted' rakho (Private nahi). File GitHub repo ki main branch mein movies.json naam se rakho.",
   "categories": [
     { "name": "Dar-e-Nijaat", "playlist": "https://youtube.com/playlist?list=PLD6qGfPtuPxw&si=B0RMcBD0Ro3yRY__" },
-    { "name": "Mitti De Baway", "playlist": "https://www.youtube.com/results?search_query=Mitti+De+Baway+Official+Episodes" },
-    { "name": "Hurmat", "playlist": "https://www.youtube.com/results?search_query=Hurmat+HUM+TV+Official" },
-    { "name": "Mohabaat", "playlist": "https://www.youtube.com/results?search_query=Mohabbat+Geo+Official+Episodes" }
+    { "name": "Mohabbat", "playlist": "https://youtube.com/playlist?list=PLFmcJMWBb1qA&si=44Q383AIcKBNBw0Y" },
+    { "name": "Nishtra", "playlist": "https://youtube.com/playlist?list=PLVguwVGLl-Rc&si=cGpKVNE5PQqBC0JP" },
+    { "name": "Uswah", "playlist": "https://youtube.com/playlist?list=PLc2x5ZdnYUbE&si=izD1ZnggOdy_g02a" },
+    { "name": "Bano", "playlist": "https://youtube.com/playlist?list=PLMDwhS02Kg5w&si=b65ftNp-JGLyHdXa" }
   ]
 }
